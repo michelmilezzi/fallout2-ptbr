@@ -1,0 +1,79 @@
+{100}{}{Você vê um homem idoso com rugas profundas ao longo de seu rosto.}
+{101}{}{Você vê John MacRae.}
+{102}{}{Ei agora, eu não te vi antes. Eu sou MacRae - Eu corro esse lugar.
+ O que posso fazer para você?}
+{103}{}{Estou procurando o Vault.}
+{104}{}{Você está olhando para sair daqui ainda?}
+{105}{}{O que você tem aqui?}
+{106}{}{Alguma coisa acontecendo aqui?}
+{107}{}{Ug Nog}
+{108}{}{Nada hoje, obrigado.}
+{109}{}{Cofre? Apenas o Vault que conheço é aquele dentro da cidade. Big Friggin '
+ buraco ... você não pode perder, confie em mim.}
+{110}{}{O que você tem que beber aqui?}
+{111}{}{Alguma coisa acontecendo aqui?}
+{112}{}{Obrigado pelas instruções. Adeus.}
+{113}{}{Preenchimento padrão. Cerveja por US $ 20, tiro de uísque por US $ 30. Nada
+ especial. Você quer algo?}
+{114}{}{Você sabe sobre o Vault?}
+{115}{}{Vou tomar uma cerveja.}
+{116}{}{Vou tirar uma chance.}
+{117}{}{O que está acontecendo aqui?}
+{118}{}{Nada hoje, obrigado. Goodbye.}
+{119}{}{Por aqui? O mesmo de antes. Sem novidades. Me aborrece as lágrimas na maioria das vezes.
+ Por que, procurando por algo?}
+{120}{}{O que você tem que beber aqui?}
+{121}{}{Você sabe alguma coisa sobre o Vault?}
+{122}{}{Não pode ser tão ruim assim.}
+{123}{}{Nada. Tchau.}
+{124}{}{Ah ... bate na cabeça um pouco com muita frequência, vejo. Desculpe, eu não falo
+ imbecil.}
+{125}{}{Aqui está. Beber. É sobre a única diversão que você verá neste
+ lugar apaixonado.}
+{126}{}{Não pode ser tão ruim assim.}
+{127}{}{Obrigado pela bebida. Acho que irei.}
+{128}{}{Veja. Perguntei se você queria uma bebida e depois lhe disse o que custaria.
+ A maioria das pessoas entende o processo. Se você não obteve o dinheiro, não deveria ter
+ perguntei.}
+{129}{}{Desculpa. Achei que tinha o dinheiro. Não é possível ver seu dinheiro no
+ tela de diálogo cria alguns problemas, sabe?}
+{130}{}{Tanto faz. Estou fora daqui.}
+{131}{}{É pior. Os Cidadãos não bebem muito, então estou preso aqui dando comerciantes
+ bebidas. O próximo bastardo barato que tenta regatear uma bebida vai encontrar
+ minha bota em sua bunda.}
+{132}{}{Você parece muito alimentado com o lugar.}
+{133}{}{Desculpe ouvir isso. O que você sabe sobre o Vault?}
+{134}{}{Todos cometemos erros ... mais do que outros. Então o que você quer?}
+{135}{}{O que está acontecendo aqui?}
+{136}{}{Nada hoje, obrigado. Goodbye.}
+{137}{}{Sim, gostaria de poder sair daqui.}
+{138}{}{Por que você não sai?}
+{139}{}{Ir para os resíduos sozinho? Estou entediado, mas não sou estúpido.}
+{140}{}{Eu estou indo de novo assim. Por que você não vem?}
+{141}{}{Bem, boa sorte para você.}
+{142}{}{Naw ... você parece ter pessoas suficientes seguindo você.}
+{143}{}{Tudo certo. Bem, boa sorte.}
+{144}{}{Você sabe, isso não soa como uma má idéia. Conte comigo.}
+{145}{}{Sim o que?}
+{146}{}{Preciso de você para sair do meu caminho.}
+{147}{}{Como você está?}
+{148}{}{Cure você mesmo.}
+{149}{}{Preciso que você espere até eu voltar.}
+{150}{}{Você! Ooyag!}
+{151}{}{É por enquanto.}
+{152}{}{Tudo bem, tudo está bem. Vamos indo.}
+{153}{}{Tudo bem, tudo está remendado.}
+{154}{}{Isso foi muito bom, mas eu poderia usar um par de stims mais.}
+{155}{}{Usei o que pude, mas ainda estou bastante enganado. Tem algum problema com você?}
+{156}{}{Use Primeiros socorros em si mesmo.}
+{157}{}{Deixa pra lá.}
+{158}{}{ESTÁ BEM.}
+{159}{}{OK, espero aqui.}
+{160}{}{Deixa pra lá.}
+{161}{}{ESTÁ BEM.}
+{162}{}{Vamos indo.}
+{163}{}{ESTÁ BEM.}
+{164}{}{Olha, você tem pessoas suficientes seguindo suas caudas de casaco agora.}
+{165}{}{Sim, você vai com isso.}
+{166}{}{Naw ... acho que vou passar.}
+{167}{}{Eu acho que vou ficar por aqui um pouco mais.}

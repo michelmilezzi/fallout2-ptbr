@@ -1,0 +1,14 @@
+#
+#   Messages from skilldex.c
+#
+{100}{}{SKILLDEX}
+{101}{}{CANCELAR}
+{102}{}{ESGUEIRAR-SE}
+{103}{}{LOCKPICK}
+{104}{}{ROUBAR}
+{105}{}{TRAPS}
+{106}{}{PRIMEIROS SOCORROS}
+{107}{}{MÉDICO}
+{108}{}{CIÊNCIA}
+{109}{}{REPARAR}
+

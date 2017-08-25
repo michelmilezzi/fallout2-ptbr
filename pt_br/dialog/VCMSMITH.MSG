@@ -1,0 +1,80 @@
+{100}{}{Você vê um fazendeiro de aparência irregular.}
+{101}{}{Você vê Smith.}
+{102}{}{Não pense ter visto você antes, estranho. O nome é Smith. Socorro
+ você com alguma coisa?}
+{103}{}{Havia algo mais que você queria?}
+{104}{}{Você pode me falar sobre Vault City?}
+{105}{}{O que você faz por aqui?}
+{106}{}{Estou procurando o Vault.}
+{107}{}{Eu gostaria de ajudá-lo com esse arado.}
+{108}{}{Sua esposa diz que as coisas foram difíceis.}
+{109}{}{Não, apenas de passagem. Adeus.}
+{110}{}{Um ... Waga Nu-kik?}
+{111}{}{Bem, o que você vê aqui não é realmente o Vault City ... você realmente está de pé
+ no pátio da cidade.}
+{112}{}{Por que você não está na cidade?}
+{113}{}{O que você faz aqui?}
+{114}{}{Posso pedir-lhe outra coisa?}
+{115}{}{Obrigado. Adeus.}
+{116}{}{Minha família e eu trabalhamos uma fazenda aqui no pátio. Nós passamos. Não sei
+ por quanto tempo, no entanto.}
+{117}{}{Qual é o problema?}
+{118}{}{Por que você não está na cidade?}
+{119}{}{Posso pedir-lhe outra coisa?}
+{120}{}{Sim, os tempos são difíceis. Adeus.}
+{121}{}{Isso mesmo, grande cara. Tenho que ir.}
+{122}{}{Você está falando sobre o Vault dentro da cidade? Eu só vi isso uma vez ... é
+ Dentro dos portões, ao longo do precipício, penso. Eles apenas deixam os Cidadãos dentro dele,
+ Apesar.}
+{123}{}{Posso pedir-lhe outra coisa?}
+{124}{}{Obrigado pelas instruções. Adeus.}
+{125}{}{Eu e a família não somos o tipo de pessoas que deixaram lá. Então nós
+ Viva aqui sob sua proteção.}
+{126}{}{Por que você não tem permissão para viver na cidade?}
+{127}{}{Protecção? Que tipo de proteção?}
+{128}{}{Posso pedir-lhe outra coisa?}
+{129}{}{Entendo. Bem, obrigado pelo seu tempo. Adeus.}
+{130}{}{Bem, é difícil sem arado. Eu e a mulher tentamos, mas a agricultura vai
+ lento.}
+{131}{}{Posso ajudar?}
+{132}{}{Posso pedir-lhe outra coisa?}
+{133}{}{Oh, bem, sinto muito por ouvir isso. Adeus.}
+{134}{}{Certo.}
+{135}{}{Bem, nós somos do deserto ... como você. Então, tudo o que podemos conseguir é
+ proteção contra o Vault City.}
+{136}{}{Que tipo de proteção?}
+{137}{}{Posso pedir-lhe outra coisa?}
+{138}{}{Obrigado. Adeus.}
+{139}{}{Eles nos mantêm seguros do lado de fora, mas isso me custa e a esposa
+ um pouco. E sem um arado ... bem, encontrar dificuldades é difícil.}
+{140}{}{Posso ajudar com o arado?}
+{141}{}{Posso pedir-lhe outra coisa?}
+{142}{}{Oh, bem, sinto muito por ouvir isso. Adeus.}
+{143}{}{Eu e a esposa não conversamos com seu tipo.}
+{144}{}{Mary, fique longe desse cara.}
+{145}{}{Você ajudaria pessoas como nós? Não podemos oferecer muito, mas com certeza
+ Aprecie isso.}
+{146}{}{Uau! Se você não pode pagar, não posso ajudá-lo.}
+{147}{}{Sem problemas. Eu gostaria de ajudar.}
+{148}{}{Posso pedir-lhe outra coisa?}
+{149}{}{Eu vou ter que pensar sobre isso. Adeus.}
+{150}{}{Bem, temos cerca de cento e cinquenta salvos, se isso ajudar. Mas
+ não poderemos efetuar nosso próximo pagamento se não tivermos o arado na próxima semana.}
+{151}{}{Vou pegar o dinheiro.}
+{152}{}{Não se preocupe com o dinheiro. Eu sempre o ajudarei.}
+{153}{}{Não importa ... Eu não posso ajudá-lo. Adeus.}
+{154}{}{Bem, obrigado gentilmente, estranho.}
+{155}{}{Você sabe onde posso encontrar um arado?}
+{156}{}{Há um perto da loja de armas e munições. Harry poderia estar vendendo.}
+{157}{}{Tudo bem, irei procurá-lo.}
+{158}{}{Você encontrou um arado?}
+{159}{}{Desculpe, ainda não.}
+{160}{}{Eu não acho que vou conseguir um para você.}
+{161}{}{Bem, podemos afastar um pouco mais. Mas não muito além disso.}
+{162}{}{Meu Pa me disse para cuidar de pessoas como você ... saia daqui. Continue!}
+{163}{}{Obrigado gentilmente. Aqui está uma pequena coisa que meu pai me deu antes que ele
+ deixou este mundo. Com os guardas que nos protegem, não precisamos disso ... mas você pode ser
+ capaz de fazer algum uso disso.}
+{164}{}{Muito obrigado. Tenho certeza de que isso será útil. Cuidar.}
+{165}{}{Obrigado pela ajuda, estranho. Muito apreciado.}
+{166}{}{Você encontrou um arado para o Sr. Smith e sua família.}

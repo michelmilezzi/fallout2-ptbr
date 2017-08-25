@@ -1,0 +1,74 @@
+{100}{}{Você vê uma velha velhinha que viu tempos melhores.}
+{101}{}{Você vê a Viúva Rooney.}
+{102}{}{Você vê uma mulher velha com verrugas e um lábio superior muito peludo.}
+{103}{}{Saia de perto de mim.}
+{104}{}{Você não me causou danos suficientes para uma vida?}
+{105}{}{Por que você não me mata dessa vez?}
+{106}{}{Faça seus chutes expulsando mulheres velhas, não é?}
+{107}{}{Venha olhar os resultados da sua obra?}
+{108}{}{Obrigado por me ajudar a manter minha casa. Eu certamente não poderia ter feito isso sem você. Agora, por que não
+ Você deixa a Widow Rooney dar um grande grande beijo.}
+{109}{}{Você está de volta para outro beijo da Widow Rooney? Eu simplesmente não consigo ter o suficiente de
+ Agradecendo você.}
+{110}{}{Bem, se você deve. Eu estava curioso sobre isso, bem, você está lá fora.}
+{111}{}{Uh, tudo bem. Fiquei feliz em ajudar. Adeus.}
+{112}{}{O poço? Bem, bem ... heh, heh. Nada demais para contar sobre isso de verdade. Tem sido seco para um bom
+ Muito tempo agora. Eu poderia jurar que eu ouvi os ruídos provenientes disso tarde da noite, mas minha audiência não é
+ O que costumava ser.}
+{113}{}{Ruídos? Que tipo de ruídos?}
+{114}{}{Bem, obrigado pela informação. Adeus.}
+{115}{}{Provavelmente estou apenas ouvindo as coisas de qualquer maneira, mas parece tipo de arranhão ou escavação
+ som. Provavelmente, apenas cães ou algo assim.}
+{116}{}{Hmm, talvez assim. Bem, obrigado. Adeus.}
+{117}{}{Olá, jovem, cara. O que a velha Widow Rooney pode fazer?}
+{118}{}{Olá, jovem. O que a velha viúva Rooney pode fazer por você?}
+{119}{}{Você é minha mamãe?}
+{120}{}{Bem, tenho algumas más notícias para você, Widow Rooney.}
+{121}{}{Eu estava apenas olhando e me perguntei quem morava aqui. Prazer em conhecê-lo, Widow Rooney.}
+{123}{}{Oh, nada, na verdade. Eu estava apenas olhando ao redor. Adeus.}
+{124}{}{Eu não sou sua mãe do lado de fora. Eu já tenho um brahmin para cuidar e eu tenho certeza que o fogo do inferno
+ Não precisa de outro. Tire agora, saia.}
+{125}{}{Tchau tchau. Mamãe.}
+{126}{}{Entendo. Então, você está fazendo o trabalho sujo de Ascorti agora. O que você vai fazer? Me mata?
+ Me chute no frio?}
+{127}{}{Espero que facilite o que serve para uma consciência.}
+{128}{}{Ascorti? Quem é aquele?}
+{129}{}{O ar exterior será bom para você. Mova-o, vovó, se você sabe o que é bom para você.}
+{130}{}{Não consigo suportar a idéia de alguém chutar uma velha como você. Quanto você deve em
+ Renda?}
+{131}{}{Prazer em conhece-lo também. Muitas vezes eu tenho telefonistas educados. Principalmente eles apenas entram em ameaça
+ Frágil velha senhora.}
+{132}{}{As pessoas estão ameaçando você? Por quê?}
+{133}{}{Bem, algumas pessoas conseguem seus chutes de maneiras misteriosas, eu acho. Bastante conversando com você.}
+{134}{}{Bem, eu devo a Ascorti seis meses na renda. US $ 120 para este albergue de pulga. Eu simplesmente não tenho isso.
+ Alguns dos meus brahmin adoeceram e morreram, e não pude pagar. Se eu não conseguir o dinheiro em breve, ele é
+ Vou fazer o xerife me expulsar.}
+{135}{}{Bem, na verdade ... eu deveria estar fazendo o trabalho do xerife para ele. Eu sou o suposto
+ Para expulsá-lo agora.}
+{136}{}{Destrua uma velha crença inofensiva como você? Isso não é legal. Quem faria isso?}
+{137}{}{Eu odiaria vê-lo expulso. Por que você não me deixa pagar sua renda para você? Eu tenho pouco
+ Use por dinheiro. Eu sou o Escolhido.}
+{138}{}{Isso é terrível. Eu adoraria ajudar, mas não tenho ativos líquidos. Uh, é melhor eu ir
+ agora. Adeus.}
+{139}{}{Ameaçar uma mulher frágil com Gross Bodily Harm? Você e Ascorti são cortados do mesmo
+ pano. Tudo certo. Eu vou embora, mas vou deixar um pouco de algo extra dos meus ancestrais gitanos.
+ (Ela faz um sinal com as mãos) lá; Você tem o mal de olho em você agora. Espero que você goste.}
+{140}{}{Tenho alguns gestos que você também vai gostar. Aqui estão eles! (Você faz algumas escolhas)
+ Agora saia!}
+{141}{}{Ciganos, hein? Bem, se você é uma espécie de bruxa, talvez devêssemos queimá-lo, então. Saia.}
+{142}{}{Apenas fazendo um trabalho, senhora. Você não quer que eu tenha que me preocupar com você. Agora saia. Por favor?}
+{143}{}{Ascorti ... Ascorti é ninguém além do mais amado, mais engenhoso, mais deslizador, baixo para baixo,
+ Weasel-rastejando, gutless, slimeball nesta cidade aqui. Ele é o prefeito, bem como meu senhorio.}
+{144}{}{Oh, * que * Ascorti. Bem, por que você não disse isso?}
+{145}{}{Eu odiaria tirar dinheiro de alguém tocado na cabeça. Uh, Sr. Escolhido.}
+{146}{}{Eu odiaria tirar dinheiro de alguém tocado na cabeça. Uh, Miss Escolhido.}
+{147}{}{Não é nada. Estou feliz em fazê-lo. Aqui estão os $ 120 que você precisa.}
+{148}{}{Você sabe, eu me sinto um pouco torpe após a última luta. Talvez eu devesse pensar sobre isso
+ um pouco mais. Adeus.}
+{149}{}{Muito obrigado. Você é o Escolhido! Obrigado. Eu simplesmente não posso esperar para ver o olhar sobre isso
+ O puss de Ascorti quando eu lhe dou o dinheiro.}
+{150}{}{Fiquei feliz em ajudá-lo. Adeus.}
+{151}{}{As coisas materiais significam pouco para mim. Estou feliz por ter conseguido usar o dinheiro para o bem.}
+{152}{}{Parece que seu coração é maior do que seus meios. Bem, agradeço-lhe o pensamento, de qualquer forma.}
+{153}{}{Vou tentar voltar mais tarde com mais dinheiro. Adeus.}
+{154}{}{Eu sinto Muito. Eu gostaria de poder ajudar. Boa sorte.}

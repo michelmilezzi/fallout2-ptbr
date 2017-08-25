@@ -1,0 +1,124 @@
+{100}{}{Você vê um homem com armadura metálica.}
+{101}{}{Você vê Mateus.}
+{102}{}{Você vê um homem vestindo uma armadura de metal com uma insígnia no raio.}
+{103}{}{Olá,}
+{104}{}{. O que posso fazer para você?}
+{105}{}{Você responde perguntas?}
+{106}{}{Nada. Eu volto mais tarde.}
+{107}{}{Você pode começar respondendo algumas perguntas.}
+{108}{}{Nada por enquanto. Vou voltar mais tarde}
+{109}{}{Eu acho que você merece ter respostas para suas perguntas.}
+{110}{}{Com o que posso ajudar?}
+{111}{}{Quem vocês?}
+{112}{}{Por que ninguém fala sobre você?}
+{113}{}{Por que apenas uma pessoa aqui?}
+{114}{}{Eu vou agora.}
+{115}{}{Quem são vocês, pessoal?}
+{116}{}{Por que é que ninguém por aqui menciona você?}
+{117}{}{Por que você tem apenas uma pessoa aqui?}
+{118}{}{Eu tenho que ir.}
+{119}{}{Somos uma organização paramilitar conhecida como a Irmandade do Aço.}
+{120}{}{O que Fraternidade faz?}
+{121}{}{Ok - e o que você faz?}
+{122}{}{Ao mesmo tempo, éramos os únicos bastiões da tecnologia deixada no planeta. Nós nos estabelecemos como o que melhor poderia ser chamado de "polícia tecnológica". Nós acumulamos o conhecimento antigo e só fazemos isso em pequenos pacotes. Claro, foi só para aqueles que sentimos que mereciam e tivemos a sabedoria para usá-lo adequadamente.}
+{123}{}{E agora?}
+{124}{}{Você disse 'ao mesmo tempo'. E agora?}
+{125}{}{Vários meses atrás encontramos um grupo conhecido como Enclave. Para nossa surpresa, seu nível de tecnologia ultrapassou mesmo o nosso. Achamos isso bastante perturbador e considerado entrar em contato com eles. No entanto, decidimos um curso de ação mais cauteloso até que pudéssemos determinar exatamente quem era o Enclave e o propósito subjacente de sua organização.}
+{126}{}{Para este fim, reativamos pequenos postos avançados nas áreas da atividade Enclave a partir dos quais podemos observá-los com segurança. Atualmente, ativamos esses postos avançados no Den, na NCR e aqui em San Francisco.}
+{127}{}{O que você aprende?}
+{128}{}{Soa interessante. O que você aprendeu?}
+{129}{}{Descobrimos que o Enclave trata fortemente em chems, armas e escravos. No entanto, estas são apenas atividades triviais que levam a algum propósito mais elevado, o que não conseguimos descobrir. Ainda os observamos.}
+{130}{}{Por que você conta tudo isso agora?}
+{131}{}{Antes de irmos mais longe, por que me contar tudo isso agora?}
+{132}{}{(suspiro) O Enclave desenvolveu a tecnologia vertibird, máquinas voadoras que permitem que eles se movam profundamente para os territórios circundantes. Sem uma tecnologia similar para contrariar essa ameaça, a Irmandade não conseguiria parar uma invasão lançada pelo Enclave. Precisamos ter tecnologia de verrugas, ou um contador viável para isso, para nós mesmos.}
+{133}{}{Agora, recentemente, o Enclave estabeleceu uma base ao norte daqui chamada Navarro. É usado como ponto de parada para a manutenção e reabastecimento de vertibirds. É minha convicção de que tal base pode ter planos técnicos completos dos vertibirds. Tudo o que preciso é para alguém infiltrar a base, roubar os planos e trazê-los aqui para mim.}
+{134}{}{Uh ... eu faço?}
+{135}{}{Deixe-me adivinhar. Você quer me infiltrar nesta base para você.}
+{136}{}{Deixe-me ser sincero com você,}
+{137}{}{. A Irmandade do Aço não é o poder que nós já fomos. Nós acreditamos que somos a única fonte de tecnologia deixada para a humanidade. Seguro nessa crença, deixamos nossa ordem diminuir ao longo dos anos. Agora, não temos os recursos à nossa disposição para lidar com o Enclave. Nós precisamos da sua ajuda.}
+{138}{}{Estou preparado para fazer você essa oferta. Execute esta missão para mim e conceder-lhe-ei acesso às nossas instalações aqui. A melhor tecnologia da Brotherhood estará disponível para você, exclusivamente. O que você disse?}
+{139}{}{Eu penso.}
+{140}{}{De jeito nenhum. Eu vou.}
+{141}{}{Que diabos. Eu faz.}
+{142}{}{Vou pensar sobre isso.}
+{143}{}{De jeito nenhum. Encontre-se um novo chump.}
+{144}{}{Que diabos. Devo estar louco, mas vou fazer isso.}
+{145}{}{Justo. Volte para mim quando você chegar a uma decisão.}
+{146}{}{OK. Tchau.}
+{147}{}{Ok, mas eu pergunto mais.}
+{148}{}{Tudo certo. Eu vou te ver.}
+{149}{}{Tudo bem, mas eu gostaria de lhe fazer mais algumas coisas.}
+{150}{}{Eu entendo sua hesitação ao aceitar essa missão. Se você mudar de opinião, avise-me.}
+{151}{}{OK. Tchau.}
+{152}{}{Ok, mas eu pergunto mais.}
+{153}{}{Tudo certo. Eu vou te ver.}
+{154}{}{Tudo bem, mas eu gostaria de lhe fazer mais algumas coisas.}
+{155}{}{Excelente. Aqui está o que eu preciso que você faça. Vá para Navarro, infiltre a base e recupere os planos técnicos para os vertibirds. Volte os planos para mim.}
+{156}{}{OK. Uh ... Como você me acha, posso fazer isso? É base militar.}
+{157}{}{OK. Eu vou agora.}
+{158}{}{Tudo bem, mas ... Apenas como penso que eu deveria fazer isso? Esta é uma base militar, afinal.}
+{159}{}{Bem. Eu irei sobre isso.}
+{160}{}{Após a conclusão bem-sucedida da sua missão, conceder-lhe-ei acesso a nossas instalações aqui. Enquanto isso, seria melhor se você começasse imediatamente. Obrigado,}
+{161}{}{.}
+{162}{}{OK. Tchau.}
+{163}{}{Claro, mas eu pergunto mais.}
+{164}{}{Sim, vou te ver.}
+{165}{}{Claro, mas eu gostaria de lhe fazer mais algumas coisas.}
+{166}{}{Tivemos essa base há anos. Ao mantê-lo em um nível baixo com pessoal mínimo, nunca chamando a atenção para nós mesmos, conseguimos o anonimato. Nós deixamos o Shi sozinho, e eles nos deixam em paz.}
+{167}{}{Eu acho ...}
+{168}{}{Sim, acho que vejo o que você quer dizer.}
+{169}{}{Muitas pessoas em qualquer lugar podem atrair a atenção. Um homem em uma cidade de muitos homens é menos perceptível.}
+{170}{}{OK.}
+{171}{}{Olá de novo. Existe algo com o que posso ajudá-lo?}
+{172}{}{Não, apenas diga oi.}
+{173}{}{Sim. Você responde pergunta?}
+{174}{}{Não, apenas passando.}
+{175}{}{Sim, responda algumas perguntas para mim.}
+{176}{}{Olá. Você pensou sobre minha oferta?}
+{177}{}{Não. Não penso ainda.}
+{178}{}{Sim. Eu pego emprego.}
+{179}{}{Não, ainda não.}
+{180}{}{Sim, acho que vou pegar o emprego.}
+{181}{}{Olá. Você mudou sua opinião sobre minha oferta?}
+{182}{}{Não.}
+{183}{}{Sim. Eu pego.}
+{184}{}{Não, não tenho.}
+{185}{}{Sim, vou pegar o emprego.}
+{186}{}{Você completou sua missão?}
+{187}{}{Não, eu ainda trabalho nisso.}
+{188}{}{Eu tenho planos.}
+{189}{}{Não, ainda estou trabalhando nisso.}
+{190}{}{Recebi os planos de vertibird para você.}
+{191}{}{Bem, continue trabalhando nisso. Eu sei que é uma missão difícil, mas acho que você pode retirar isso.}
+{192}{}{OK.}
+{193}{}{Excelente trabalho! Deixe-me ter os planos, e vou fazer uma cópia deles. Como prometido, eu lhe darei acesso total às nossas instalações. Obrigado.}
+{194}{}{Bem vindo.}
+{195}{}{Seja bem-vindo.}
+{196}{}{Navarro é relativamente novo e ainda não possui pessoal completo. Minhas fontes me dizem que recebem novos recrutas de tempos em tempos. Talvez você possa se apresentar como uma nova chegada. Eu sugeriria isso.}
+{197}{}{Navarro é relativamente novo e ainda não possui pessoal completo. Minhas fontes me dizem que recebem novos recrutas de tempos em tempos. Talvez, se você fosse sozinho, poderia se apresentar como uma nova chegada. Eu sugeriria isso. Você poderia ter seus amigos aguardando aqui.}
+{198}{}{OK.}
+{199}{}{Você diz "fontes". O que eles são?}
+{200}{}{Tudo certo.}
+{201}{}{Você mencionou suas "fontes". Quem eles seriam?}
+{202}{}{Tive uma operação e escote a base. Seus relatórios pararam recentemente; Só posso assumir o pior. Por favor, seja cuidadoso}
+{203}{}{. Não gosto de enviar pessoas para a morte deles.}
+{204}{}{Tenho cuidado, obrigado.}
+{205}{}{Eu vou tomar cuidado. Obrigado.}
+{206}{}{Obrigado novamente por toda a sua ajuda. Você tem acesso completo às nossas instalações agora.}
+{207}{}{Isso é um escritório privado.}
+{208}{}{Não há nada para você lá.}
+{209}{}{Esta é uma propriedade privada, então, avance.}
+{210}{}{Como você sabe quem eu sou?}
+{211}{}{Como me conhece?}
+{212}{}{Conhecemos muitas coisas.}
+{213}{}{Após a conclusão bem sucedida da sua missão, irei preparar o petroleiro para você e conceder-lhe acesso às nossas instalações aqui. Enquanto isso, seria melhor se você começasse imediatamente. Obrigado,}
+#161
+{214}{}{Nós chegamos.}
+{215}{}{Excelente trabalho! Deixe-me ter os planos, e vou fazer uma cópia deles. Como prometido, vou garantir que o petroleiro esteja pronto para você levar para a plataforma de petróleo - basta ir ao computador no nível superior e pressionar o interruptor Go. Também lhe darei acesso total às nossas instalações. Obrigado.}
+{216}{}{Você está bem vindo!}
+{217}{}{Basta entrar na porta, se quiser, ou ir até o petroleiro. Está pronto para ir. Boa sorte!}
+{218}{}{Então estou preparado para fazer esta oferta. Execute esta missão para mim e prepararei o petroleiro para você na sua viagem ao Enclave. O que você disse?}
+{219}{}{Eu penso.}
+{220}{}{De jeito nenhum. Eu vou.}
+{221}{}{Que diabos. Eu faz.}
+{222}{}{OK. Go now.}

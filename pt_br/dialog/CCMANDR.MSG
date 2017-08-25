@@ -1,0 +1,34 @@
+{100}{}{Você vê alguém em armadura de poder.}
+{101}{}{Você vê o Navarro base Commander.}
+{102}{}{Você vê alguém com uma armadura de poder de um design incomum. Há uma insígnia no peitoral com a qual você não conhece.}
+
+{103}{}{Quem diabos são vocês ... Alerta! Intrusos na base!}
+{104}{}{Não tenho tempo para conversar com os grunhidos. Você é demitido.}
+{105}{}{Hora de morrer.}
+{106}{}{OK.}
+
+{107}{}{Eu disse a você que não tenho tempo para você. Deixe este escritório e não volte aqui, a menos que eu envie para você. Demitido!}
+{108}{}{Desobedecer uma ordem direta de um oficial superior é traição. Eu não tenho tempo para cortejar marcial, então eu lidar com isso sozinho. Guardas! Mate esse idiota!}
+{109}{}{OK.}
+{110}{}{Dane-se!}
+
+{111}{}{O Fob está no armário lá. Peça ao funcionário que me contacte quando estiver seguro. Demitido!}
+{112}{}{Sim senhor!}
+
+{113}{}{Faça um soldado rápido, não tenho todo o dia para ficar de pé.}
+{114}{}{Sim senhor!}
+
+{115}{}{Deixe o meu armário sozinho ou vou tirar uma dor séria.}
+{116}{}{Sim senhor!}
+
+{117}{}{Esta base está em alerta e não reconheço você. Mostre-me seus papéis, soldado.}
+{118}{}{Quais documentos?}
+{119}{}{Você me exploda!}
+{120}{}{Eu não parece ter eles comigo ...}
+{121}{}{Papéis? Eu tenho seus papéis aqui!}
+
+{122}{}{Resposta errada, larva. Você deve levar seus papéis com você em todos os momentos. Você deveria saber disso!}
+{123}{}{Foda-se.}
+
+{124}{}{Deixe o meu armário sozinho ou vou tirar uma dor séria.}
+{125}{}{Hora de morrer.}

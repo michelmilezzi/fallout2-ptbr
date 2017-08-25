@@ -1,0 +1,8 @@
+{100}{}{O terminal está off-line.}
+{101}{}{Introduzir o código 3 ... P ... C ... F ... 1 ... 6.}
+{102}{}{*Bip*}
+{103}{}{Dispensador médico de emergência ativado.}
+{104}{}{* Ker-klunk *}
+{105}{}{Remova os estimpaks da bandeja inferior.}
+{106}{}{Eu consegui 2 stims e um superstim.}
+{107}{}{Terminal agora off-line.}

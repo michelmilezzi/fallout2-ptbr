@@ -1,0 +1,13 @@
+{100}{}{Você vê um rufião intimidante.}
+{101}{}{Você vê um guarda do Den.}
+
+{102}{}{Agora não; Estou de serviço.}
+{103}{}{Eu não posso falar com você.}
+{104}{}{Por favor vá embora.}
+{105}{}{Não me incomode.}
+{106}{}{Por favor, veja meu chefe.}
+{107}{}{Não tenho permissão para responder suas perguntas.}
+{108}{}{Você deve deixar de me incomodar.}
+{109}{}{Eu apenas trabalho aqui.}
+{110}{}{Eu não sei de nada.}
+{111}{}{Eu falo apenas com o meu chefe.}

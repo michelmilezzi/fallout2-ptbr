@@ -1,0 +1,8 @@
+{100}{}{Uma rocha.}
+{101}{}{Um eixo de ventilação camuflado.}
+{102}{}{}
+
+{110}{}{Isso não faz nada.}
+{120}{}{Você não pode voltar para o eixo de ventilação.}
+
+{200}{}{Um eixo de ventilação.}

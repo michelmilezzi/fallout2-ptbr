@@ -1,0 +1,260 @@
+{100}{}{Você vê um terminal funcional.}
+{101}{}{Você vê o Terminal de controle do Robot de manutenção e reparo do reator}
+{102}{}{Você vê um terminal. Parece ser funcional.}
+
+{110}{}{Olá. Bem-vindo à estação RMR e RCT 3.}
+{111}{}{RMRRCT?}
+{112}{}{Função?}
+{113}{}{Açao:}
+{114}{}{Inicializar:}
+{115}{}{Sair.}
+
+{120}{}{Estação # 3 Reactor Maintenance & Repair Terminal de controle de robô.}
+{121}{}{Função?}
+{122}{}{Um robô, hein? Deixe-me ver o que posso descobrir sobre isso.}
+{123}{}{Sair.}
+
+{130}{}{Este terminal foi projetado para coordenar e gerenciar um robô de manutenção e reparo de reatores.}
+{131}{}{RMRRCT?}
+{132}{}{Um robô, hein? Deixe-me ver o que posso descobrir sobre isso.}
+{133}{}{Sair.}
+
+{140}{}{Este terminal é usado para inserir dados de comando para a unidade de manutenção e reparo robotizada atribuída ao Poseidon Oil-Reactor # 5. Este terminal também permite o acesso ao PoseidoNet.}
+{141}{}{Um robô? Deixe-me ver o que posso descobrir sobre isso.}
+{142}{}{Algum tipo de rede, hein? Eu me pergunto se eu posso acessar isso.}
+{143}{}{Sair.}
+
+{150}{}{Fl>) $ # _ ~) u - * + $ # \) _ + @ # $% - 0? % # $ (Dkhdsdsklfjsd? Agora Iniciando o Win21, Aguarde ... Pear Comando do SO Não reconhecido. Agora iniciando DOD HDD Apagar.}
+{151}{}{Hmmm. Ook?}
+{152}{}{Afjasdfaa kljkljl; jljljj?}
+
+{160}{}{Robô de manutenção do reator pronto para a seqüência de inicialização / inicialização. Código de acesso funcional ?:}
+{161}{}{Função?}
+{162}{}{Açao?}
+{163}{}{35C76863}
+{164}{}{A1546761}
+{165}{}{5B576005}
+{166}{}{Sair.}
+
+{170}{}{Código de acesso funcional inicial aceito. Digite o Código de Acesso Funcional Secundário.}
+{171}{}{Restabelecer.}
+{172}{}{Função?}
+{173}{}{Açao?}
+{174}{}{35C76863}
+{175}{}{A1546761}
+{176}{}{5B576005}
+{177}{}{Sair.}
+
+{180}{}{Código de acesso funcional secundário aceito. Digite o Código de Acesso Funcional Terciário.}
+{181}{}{Restabelecer.}
+{182}{}{Função?}
+{183}{}{Açao?}
+{184}{}{35C76863}
+{185}{}{A1546761}
+{186}{}{5B576005}
+{187}{}{Sair.}
+
+{190}{}{Código de Acesso Funcional Terciário Aceito. Unidade MR & RR que está aquecendo ... Unidade pronta para o serviço. Procedimento de serviço ?:}
+{191}{}{Unidade RM & RR pronta para o serviço. Procedimento de serviço ?:}
+{192}{}{Iniciar a Seqüência de Manutenção Geral.}
+{193}{}{Iniciar a sequência de manutenção do refrigerante.}
+{194}{}{Inicie a seqüência de limpeza.}
+{195}{}{Iniciar a seqüência de reparo.}
+{196}{}{Remain at Ready Status and Sair.}
+
+{200}{}{Este procedimento de serviço não está mais na memória. Carregar o procedimento de serviço atual?}
+{201}{}{Carregar o procedimento de serviço atual.}
+{202}{}{Costas.}
+{203}{}{Sair.}
+
+{210}{}{Pesquisando ... Atualização do procedimento de serviço não disponível localmente.}
+{211}{}{Costas.}
+{212}{}{Faça o download.}
+{213}{}{Sair.}
+
+{220}{}{Uplink com o PosiedoNet central iniciado. Digite a Seqüência de Código de Acesso de Segurança Primária: 70Y644, 008Z21, 9X7299, A46123.}
+{221}{}{70Y644}
+{222}{}{008Z21}
+{223}{}{9X7299}
+{224}{}{A46123}
+{225}{}{Sair.}
+
+{230}{}{Sequência de manutenção de refrigerante iniciada. Preparando-se para mover para a válvula de refrigerante principal.}
+{231}{}{Isso foi muito mais fácil do que eu pensava que seria.}
+{232}{}{Sair.}
+
+{240}{}{Serviço de reparo iniciado. Pesquisando ... Requer o regulador hidroelétrico de magnetosfera. Preparando-se para mover para a válvula de refrigerante principal para substituição de peças. Coloque a parte na bandeja de transferência abaixo do terminal.}
+{241}{}{Ah, acho que isso significa isso.}
+{242}{}{Acho que não tenho a parte que precisa.}
+{243}{}{Sair.}
+
+{250}{}{Este terminal fechado para razões de segurança. Informe o Supervisor PoseidoNet.}
+{251}{}{Hmm, parece que não vou tirar nada disso.}
+{252}{}{Hmm, eu me pergunto se isso tem uma reinicialização local. Há uma. Deixe-me tentar.}
+
+{300}{}{Código de acesso de segurança incorreto inserido.}
+{301}{}{Código de acesso de segurança incorreto inserido. Access Denied. Please enter correct code. Two more attempts permitted.}
+{302}{}{Código de acesso de segurança incorreto inserido. Access Denied. One more attempt permitted.}
+{303}{}{Código de acesso de segurança incorreto inserido. Access Denied. Internal Security Procedures Activated.}
+{304}{}{Oops.}
+{305}{}{É melhor ter mais cuidado.}
+{306}{}{É melhor não me equivocar esta vez.}
+{307}{}{Isso não soa bem.}
+{308}{}{Sair.}
+
+{310}{}{Digite Seqüência de Código de Acesso Secundário de Segurança: 70Y644, 008Z21, 9X7299, A46123.}
+{311}{}{70Y644}
+{312}{}{008Z21}
+{313}{}{9X7299}
+{314}{}{A46123}
+{315}{}{Sair.}
+
+{320}{}{Insira a Seqüência de Código de Acesso Terciário de Segurança: 70Y644, 008Z21, 9X7299, A46123.}
+{321}{}{70Y644}
+{322}{}{008Z21}
+{323}{}{9X7299}
+{324}{}{A46123}
+{325}{}{Sair.}
+
+{330}{}{Seqüência de código de acesso de segurança aceita. Bem-vindo ao PoseidoNet:}
+{331}{}{Download de rotinas de robô de manutenção}
+{332}{}{Liste outras estações}
+{333}{}{Sair.}
+
+{340}{}{Procurando…. Não foram encontradas rotinas de robô de manutenção.}
+{341}{}{Hmm, acho que eles não estão aqui.}
+{342}{}{Lista de estações.}
+{343}{}{Sair.}
+
+{350}{}{Procurando Comlinks ... Procurando ... Iron Mountain ... Offline, NORAD ... Offline, SAC ... Offline. Procurando PoseidoNet ... - Mais? -}
+{351}{}{Download de rotinas de robô de manutenção.}
+{352}{}{Mais}
+{353}{}{Sair.}
+
+{360}{}{Estações Active PoseidoNet: Central de Energia Atômica # 5, Refinaria Navarro, Estação de Controle ENCLAVE, ENCLAVE Controle de Vault-Research ... AccessDenied}
+{361}{}{As luzes estão ligadas, mas a casa de ninguém.}
+{362}{}{Tudo está desligado, exceto para o controle de pesquisa do Vault de ENCLAVE. Eu me pergunto o que é isso?}
+{363}{}{Hmm, parece que as coisas estão offline ou fechadas. Ah bem.}
+
+{370}{}{Acessando ... Enclave Station Access negado.}
+{371}{}{Acessando ... novamente ... Enclave Station Access denegado.}
+{372}{}{Acessando ... mais uma vez ... persistente pouco cuss você não é? ... Enclave Station Access negado.}
+{373}{}{Acessando ... mais uma vez ... você não está cansando disso ainda? ... Enclave Station Access negado.}
+{374}{}{Acessando ... mais uma vez ... você não tem nada melhor para fazer com seu tempo? ... Enclave Station Access negado.}
+{375}{}{É isso aí. Eu já tive o suficiente desta provocação constante. Se você tentar apenas mais uma vez, você vai se arrepender.}
+{376}{}{Não diga que não o avisei. (Assim como você lê isso, você sente um aumento de eletricidade nos dedos do teclado através dos dedos).}
+{377}{}{Talvez eu deva tentar novamente?}
+{378}{}{Muito por isso. É melhor eu conseguir que a unidade RM & RR trabalhe.}
+{379}{}{Porra, devo ter sido cortado.}
+
+{380}{}{O regulador hidroelétrico de magnetosfera é necessário antes que a sequência de reparo possa começar.}
+{381}{}{Iniciar a manutenção do líquido refrigerante}
+{382}{}{Sair.}
+
+{390}{}{O regulador hidroelétrico Magnetoshpere é aceito. Digitalização ... Parte dentro das restrições de QA nominais ... Transferir para a unidade de reparo concluída ... Proceder?}
+{391}{}{Sim.}
+{392}{}{Sair.}
+
+{400}{}{Circuitos lógicos danificados. Em caso de emergência, a unidade RM & RR pode ser direcionada manualmente.}
+{401}{}{Bem, isso explica isso. Eu acho que vou tentar.}
+{402}{}{Hmm, that doesn’t sound too promising. I’m going to Sair.}
+
+{410}{}{O lançamento da unidade RM & RR foi iniciado. Verificando Sistemas de Drive ... OK, Controle-Manipulador ... OK, Verificando o Estabilizador Interno ... OK, Circuitos Lógicos ... FALHA.}
+{411}{}{Os Circuitos Lógicos falharam. Eu me pergunto o que isso significa.}
+{412}{}{Parece que mais funciona do que não. Vamos lá.}
+
+{420}{}{Reconhecimento de localização de trabalho-tarefa inoperante. Unidade não capaz de reconhecer locais de movimentos a distâncias prolongadas. Recomenda: Mova a unidade para locais intermediários como pontos de referência para a localização final da tarefa.}
+{421}{}{Pergunto-me o que acontece se eu não entrar no trabalho na ordem correta?}
+{422}{}{Eu acho que li leves advertências. Estou pronto para usar a coisa agora.}
+
+{430}{}{A unidade retorna ao baía se o programa de comando contiver erros no terminal.}
+{431}{}{Ah bem; Isso explica isso. No entanto, pergunto-me sobre a falha no Circuito Lógico}
+{432}{}{Estou pronto para fazer isso acontecer.}
+
+{440}{}{Direção manual: A unidade RM & RR deve ser direcionada, manualmente, para o destino do destino. A unidade seguirá os comandos de movimento que você dá, mas se o seu caminho for bloqueado ou a unidade tiver um excesso de dano, ele retornará automaticamente ao seu compartimento.}
+{441}{}{Onde eu preciso mover o robô? Deixe-me procurar os procedimentos.}
+{442}{}{Acho que estou pronto para começar.}
+{443}{}{Sair.}
+
+{450}{}{Pedido de informação sobre o procedimento:}
+{451}{}{Quero saber onde preciso ir para substituir o Regulador de Magnetosfera Hidrelétrica.}
+{452}{}{Preciso saber onde é a válvula de saída de refrigerante principal.}
+{453}{}{Sair.}
+
+{460}{}{O Regulador de Magnetosfera Hidrelétrica está localizado contra a parede leste do Reactor Core. Está localizado apenas à direita da válvula de corte do refrigerante principal.}
+{461}{}{Onde está a válvula de amortecimento do refrigerante principal?}
+{462}{}{Acho que estou pronto para começar.}
+{463}{}{Sair.}
+
+{470}{}{A válvula de corte do refrigerante principal está localizada perto da parede leste do Reactor Core. A válvula é controlada por uma grande roda vermelha.}
+{471}{}{Isso não deve ser muito difícil de encontrar - desde que a tinta vermelha não tenha sido removida.}
+{472}{}{Acho que estou pronto para começar.}
+{473}{}{Sair.}
+
+{480}{}{Manual de Emergência RM e Controle da Unidade RR: Para mover a unidade, deve-se dar comandos para Girar para a Esquerda, Girar para a Direita, Avançar e, em seguida, o último comando dado em qualquer sequência é o comando Executar Procedimento.}
+{482}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Comandos ?: MoveVar1}
+{484}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor a 5% da tolerância unitária. Comandos ?: MoveVar1, MoveVar2}
+{486}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor em 10% da tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3}
+{488}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor com 15% de tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4}
+{490}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor com 20% de tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
+{492}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor em 25% da tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
+{494}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor em 30% da tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
+{496}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor em 35% da tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
+{498}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor com 40% de tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
+{500}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor com 45% da tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
+{502}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor com 50% de tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
+{504}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor com 55% de tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
+
+{506}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor em 60% da tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13}
+{508}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor com 65% de tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14}
+{510}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor a 70% da tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15}
+{512}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor em 75% da tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
+{514}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor com 80% da tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
+{516}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor com 85% de tolerância unitária. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
+{518}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor com 90% de tolerância unitária. . Shutdown iminente. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{520}{}{Se isso foi tentado anteriormente, mostre o conjunto anterior de comandos de movimento aqui. Calor a 95% da tolerância unitária. Shutdown iminente. Comandos ?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
+{522}{}{Vire à esquerda.}
+{524}{}{Vire à direita.}
+{526}{}{Siga em frente.}
+
+{530}{}{Procedimento de Execução: Instale o Regulador de Magnetosfera Hidrelétrica}
+{531}{}{Procedimento de Execução: Vire a válvula de refrigerante principal}
+
+{535}{}{Emergency Manual RM & RR Unit Control:}
+
+{540}{}{Adicione um comando.}
+{541}{}{Programa de listagem.}
+{542}{}{Relatório de sensores ambientais.}
+{543}{}{Relatório de danos.}
+{544}{}{Exclua todos os comandos.}
+{545}{}{Execute o programa.}
+{546}{}{Costas.}
+{547}{}{Sair.}
+{550}{}{Voltar ao menu principal.}
+
+{600}{}{Selecione um comando:}
+{601}{}{Calibre o driver de haste de urânio.}
+{602}{}{Amplifique o Plutonium-Gamma Shield.}
+{603}{}{Ajuste a tensão no Condensador da Classe Saturna.}
+{604}{}{Desarmarizar o impulsor Neptunium.}
+{605}{}{Teste Jupiter Wave Compiler.}
+{606}{}{Instale o Regulador de Magnetosfera Hidrelétrica.}
+{607}{}{Vire a válvula de refrigerante principal.}
+{608}{}{Vire a válvula de refrigerante principal.}
+
+{620}{}{Lista de programas:}
+{630}{}{Relatório Ambiental:}
+{640}{}{Relatório de danos:}
+{650}{}{Comandos excluídos.}
+{660}{}{PROGRAMA DE DESENVOLVIMENTO}
+
+{700}{}{Por favor, espere. Programa em execução.}
+{710}{}{Unidade que não responde.}
+{720}{}{Erro comando inválido. Core Dumped. A unidade retornou ao dock de controle.}
+{730}{}{Comando de erro transbordando.}
+{740}{}{Está bem.}
+
+{800}{}{O procedimento de otimização foi bem sucedido.}
+
+{900}{}{Processando arquivos em lote. Por favor, espere.}
+{910}{}{[Feito]}

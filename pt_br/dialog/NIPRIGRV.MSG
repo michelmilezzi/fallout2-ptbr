@@ -1,0 +1,12 @@
+{100}{}{Um corpo de um homem velho está dentro do caixão. Sua garganta foi cortada. Não há nada no corpo.}
+
+{101}{}{O corpo de Pritchard está em um caixão de madeira resistente, e parece que alguém cortou a garganta.}
+
+{150}{}{Ao procurar o corpo de Pritchard, você tira suas botas e percebe que um dos calcanhares está solto. Prying
+ Desça, você encontra um mapa enrugado que leva a algo chamado "SAD". Você entra no mapa no seu PipBoy.}
+
+{200}{}{A lápide lê: "Aqui está Sam Pritchard: Ele falou demais, então nós lhe demos uma segunda boca".}
+
+{250}{}{Você encontrou o túmulo Pritchards ... e o mapa para o Depósito do Exército Sierra.}
+{255}{}{Hmmm ... Parece ter encontrado uma pista.}
+{256}{}{Hmmm ... não está a salvo.}

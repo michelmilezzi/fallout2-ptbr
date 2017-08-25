@@ -1,0 +1,68 @@
+{100}{}{Você vê um ghoul com uma cabeça raspada.}
+{101}{}{Você vê Jeremy, o ghoul responsável pelos suprimentos.}
+{102}{}{Você vê um ghoul alto e magro que parece estar muito ocupado.}
+
+{110}{}{Olá. Meu nome é Jeremy. Eu estou no comando do gabinete de fornecimento todo-poderoso aqui. eu guardo
+ rastreamento de todos os nossos estoques armazenados.}
+{111}{}{Olá de novo. Venha visitar o gabinete de fornecimento todo-poderoso, ou você precisa apenas de algo
+ armazenamento?}
+{112}{}{Todo-poderoso?}
+{113}{}{Preciso de algo do armazenamento.}
+{114}{}{Não preciso de nada. Eu estava apenas olhando ao redor. Adeus.}
+
+{120}{}{Bem, se você quiser algo de armazenamento, você precisa de um Formulário de Autorização de Solicitação. Você tem um
+ Formulário de autorização de solicitação?}
+{121}{}{Sim eu quero. Aqui está.}
+{122}{}{Uh, não, eu não. Onde eu recebo um formulário de solicitação?}
+
+{130}{}{Bem, isso parece, tudo bem. O que você precisa?}
+{131}{}{Preciso de um transformador de plasma de 3 passos.}
+{132}{}{Preciso de um transformador de plasma de 3 passos. Want to know what I need it for?}
+{133}{}{Eu preciso de uma gredunza coberta de musgo e de três manobras.}
+
+{140}{}{Acho que tenho um aqui neste gabinete. Ah sim. Aqui está.}
+{141}{}{Hmm, não o modelo mais recente, mas terá que fazer. Obrigado. Adeus.}
+
+{150}{}{I don’t even want to know. Acho que tenho um aqui neste gabinete. Ah sim. Aqui está.}
+{151}{}{Hmm, não o modelo mais recente, mas terá que fazer. Obrigado. Adeus.}
+
+{160}{}{Não posso ajudá-lo agora. Estou muito ocupado.}
+{161}{}{Você vê, é tudo sobre coisas.}
+{162}{}{Você vê, é tudo sobre idéias.}
+{163}{}{Você vê, é tudo sobre palavras.}
+{164}{}{Você vê, é tudo sobre Natas.}
+{165}{}{Você vê, é tudo sobre macacos de cabeça calva.}
+{166}{}{Você vê, trata-se de segredos.}
+{167}{}{Você vê, é tudo sobre marketing.}
+
+{170}{}{Ok, talvez não seja tudo poderoso. Mas é muito importante. O que você quer?}
+{171}{}{Eu preciso de algo do armazenamento.}
+{172}{}{Uh, nada. Eu estava apenas olhando ao redor. Adeus.}
+
+{180}{}{Não posso acreditar no que eles deixaram aqui nos dias de hoje.}
+{181}{}{Mudo como eles vieram, não é?}
+{182}{}{Não entre no poço do reator.}
+{183}{}{Uh, estou muito ocupado para ler uma história agora.}
+{184}{}{Continue em movimento ... vá em frente. Esse é um bom couro suave.}
+
+{190}{}{Você precisa de um quê? Bem, há uma lista de espera para aqueles. Precisa de mais alguma coisa?}
+{191}{}{Uh, acho que vou me conformar com um transformador de plasma de 3 passos.}
+{192}{}{Droga. Não, nada mais fará. Eu vou ter que voltar. Adeus.}
+
+{200}{}{Hmm, você não é amigo da Skeeter, está? Ele sempre está tentando me fazer dar-lhe
+ suprimentos valiosos. Então, ele simplesmente separa as coisas e a quebra. Eu não confiaria nele para consertar um
+ torradeira.}
+{201}{}{Bem, na verdade eu estava conseguindo isso para a Skeeter.}
+{202}{}{Skeeter quem? Eu só preciso levar essa parte para a sala de controle do reator para corrigir ... Ei,
+ Veja! Isso é um rato lá?}
+{203}{}{Eu não sei o que eles vão fazer com o assunto. Só estou pegando isso.}
+
+{210}{}{Eu deveria ter esperado isso. Como Skeeter conseguiu que alguém o autorize a obter um
+ parte, no entanto Simplesmente ele não explode nada desta vez. Ah bem. Não é do meu jeito, suponho.}
+{211}{}{Uh, a parte? Preciso pegar isso agora.}
+
+{220}{}{Bem, você poderia obter um de Harold de volta ao assentamento, ou você poderia obter um de
+ Festus aqui mesmo na sala de controle do reator principal. Eu não me importo com quem você obtém, desde que você
+ pegue. Nenhuma autorização de solicitação, nenhuma peça - é assim que funciona.}
+{221}{}{Você já obteve seu formulário de autorização de solicitação? Tenho que ter o formulário antes que eu possa lhe dar algumas peças.}
+{222}{}{Oh, está bem. Bem, é melhor eu pegar um, então. Adeus.}

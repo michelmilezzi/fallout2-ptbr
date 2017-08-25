@@ -1,0 +1,53 @@
+{100}{}{Você vê alguém que poderia ser um caçador.}
+{101}{}{Você vê alguém relaxando.}
+{102}{}{Você vê um cidadão.}
+{103}{}{Você vê um trabalhador relaxando.}
+{104}{}{Você vê uma pessoa curtindo uma bebida.}
+
+{150}{}{Você está na taberna errada, não é?}
+{151}{}{Não precisamos de perturbadores aqui.}
+{152}{}{Tribais sempre significam problemas.}
+{153}{}{Jist, desde que você não tenha muita água de fogo em você ...}
+{154}{}{(Mumble, mumble) ... desculpe, ass outa town ...}
+{155}{}{Outra das gangues de Dunton.}
+{156}{}{O que você está olhando?}
+{157}{}{Apenas continue em movimento.}
+{158}{}{Compre-nos uma rodada de bebidas, recém-chegado.}
+{159}{}{Espero que você possa segurar seu licor.}
+{160}{}{Você não parece um canibal.}
+{161}{}{Não há espaço para quem gosta de você.}
+{162}{}{Muitos estranhos ultimamente.}
+{163}{}{Bem, pelo menos seus dentes não são arquivados em pontos.}
+{164}{}{Lá vai o bairro.}
+{165}{}{Você não deveria ter um osso no nariz?}
+{166}{}{(Olha para você e então sacode a cabeça)}
+{167}{}{(Faz um gesto sutilmente grosseiro)}
+{168}{}{Você provavelmente é o responsável pelas mutilações brahmin.}
+{169}{}{Alguns de nossos caçadores desapareceram e "você provavelmente não é porque.}
+{170}{}{Houve bugmen rastejando pela cidade.}
+{171}{}{Há um espírito em uma canção sast de cidade.}
+{172}{}{Não deixe o espírito ambulante se aquecer!}
+{173}{}{É melhor não roubar nosso brahmin.}
+{174}{}{Estamos de olho em você.}
+
+{201}{}{É bom ver alguém novo na cidade.}
+{202}{}{Acho que os tribos não são tão ruins depois de tudo.}
+{203}{}{Compre uma rodada de bebidas!}
+{204}{}{Diga olá para Smiley lá, e Gimpy Jim ao lado dele.}
+{205}{}{Você poderia ser o gêmeo de Sulik.}
+{206}{}{Você disse olá para Sulik ainda?}
+{207}{}{Trapping é bom ultimamente.}
+{208}{}{O tempo está pronto para virar, eu acho.}
+{209}{}{Me trouxe uma boa linha de tração ao sul daqui.}
+{210}{}{Se você é inteligente, você ficará longe dos Duntons.}
+{211}{}{Se você estiver ansioso, experimente o Bathhouse.}
+{212}{}{Dirija-se para o oeste da cidade de Trapper, se quiser um lugar para despachar mais tarde.}
+{213}{}{Bem vindo amigo.}
+{214}{}{Espero que você goste da nossa cidade.}
+{215}{}{Klamath é o lugar para estar.}
+{216}{}{É bom ter você aqui.}
+{217}{}{(Eleva sua caneca para você)}
+{218}{}{(Winks para você)}
+{219}{}{Não vá vagando à noite.}
+{220}{}{Há bugmen nas colinas.}
+{221}{}{Falta um dos nossos melhores caçadores.}

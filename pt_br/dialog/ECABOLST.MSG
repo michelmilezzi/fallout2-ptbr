@@ -1,0 +1,72 @@
+{100}{}{Você vê um viajante.}
+{101}{}{Esta pessoa parece estar procurando por algo.}
+
+
+{200}{}{É um escravidão! Mate ele!}
+{201}{}{Mate o opressor!}
+{202}{}{Mate o malfeitor maligno!}
+{203}{}{Com a escravidão! Mate os escravos!}
+{204}{}{Morra, escorrendo escória!}
+
+{250}{}{Olá!}
+{251}{}{Ei estranho!}
+
+{300}{}{Ei estranho, o que você está fazendo nessas partes?}
+{301}{}{Estou perdido.}
+{302}{}{Apenas vagando por aí.}
+{303}{}{Não muito. O que você está fazendo aqui fora?}
+{304}{}{Procurando pessoas para matar.}
+{305}{}{Nada. Tchau.}
+{306}{}{Hã?}
+
+{307}{}{Um, acho que preciso ir agora. Tchau.}
+
+{310}{}{Eu queria poder ajudá-lo, mas eu andei vagando por essas partes
+ por tanto tempo, não tenho certeza de onde nada mais existe.}
+{311}{}{Por que você está vagando por aqui?}
+{312}{}{O que você está fazendo aqui fora?}
+{313}{}{Bem, boa sorte para você.}
+
+{314}{}{Ah, bem, boa sorte para você. Ah, por sinal, cuidado com o
+ Den. Eles gostam de vender pessoas lá.}
+{315}{}{O Den?}
+{316}{}{Vender pessoas?}
+{317}{}{Claro, seja o que for. Tchau.}
+
+{320}{}{Parece que as pessoas ao redor dessas partes gostam de manter escravos. Eu estou aqui para
+ tente liberá-los e escravos. E se um escravidão ou duas morrem no processo, não é grande.}
+{321}{}{O que há de errado em possuir escravos? Eu teria alguns se eu pudesse encontrá-los.}
+{322}{}{Eu vou manter meus olhos para os bastardos.}
+{323}{}{A matança nunca é justificada.}
+{324}{}{Matar? Eu o ajudarei a matá-los.}
+
+{330}{}{Mesmo? Isso é ótimo. Bem, eu tenho que sair e procurar mais
+ Escravos para livre.}
+{331}{}{Boa sorte.}
+
+{335}{}{Não, às vezes você precisa matar algumas pessoas para salvar muitas. Sacrifícios
+ da terra. Além disso, são escravas; Não é como se fossem pessoas reais.}
+{336}{}{Sim você está certo. Bem, tenho que ir.}
+{337}{}{Mesmo? Bem, para mim você está morto de carne.}
+{338}{}{Tanto faz. Tchau.}
+
+{340}{}{Seu desgraçado! Eu vou te matar por isso!}
+{341}{}{Sua cadela Eu vou te matar por isso!}
+{342}{}{Não se eu te matar primeiro!}
+
+{350}{}{Sim. Eles atacam pequenos grupos de pessoas. Qualquer que viva vá para o
+ blocos de leilão.}
+{351}{}{Isso é horrível. Lembro-me de cuidar deles. Obrigado.}
+
+{355}{}{O Den é uma cidade. Eles se especializam em escravidão e todos os tipos de
+ mal. Eles não são bons em tudo.}
+{356}{}{Obrigado pela informação. Tchau.}
+
+{360}{}{Apenas procurando desligar as rotas dos escravos.}
+{361}{}{O que você quer dizer?}
+{362}{}{Ah ok. Boa sorte para você.}
+{363}{}{Tanto faz. Tchau.}
+
+{370}{}{Tente escravas. Eles fazem muito boas matanças. Agradável e bagunçado.}
+{371}{}{Legal. Obrigado pela informação.}
+{372}{}{Você está aqui. Prefiro matá-lo.}

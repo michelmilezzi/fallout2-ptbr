@@ -1,0 +1,19 @@
+{100}{}{Tenha cuidado! É um radscorpion!}
+{101}{}{Olhando mais de perto, esse escorpião parece estar usando óculos com aro de arame.
+ Na verdade, parece bastante inteligente e não ameaçador.}
+{102}{}{:: clique :: :: clique clack ::}
+{103}{}{Eu posso te ajudar com alguma coisa? Você está interrompendo minhas experiências!}
+{104}{}{:: scuttle :: :: clique clique clique ::}
+{105}{}{O que? O que você quer com ele?}
+{106}{}{Silvo!}
+{107}{}{Bom garoto! Levante-se por si mesmo!}
+{108}{}{[Isso te considera cautelosamente]}
+{109}{}{[Faz gestos com suas garras]}
+{110}{}{[Parece quase amigável]}
+{111}{}{Por favor, não incomode o escorpião. Ele teve um dia difícil.}
+{112}{}{Ele está um pouco abaixo do tempo agora.}
+{113}{}{:: scuttle ::}
+{114}{}{::clique::}
+{115}{}{:: click-clack ::}
+{116}{}{:: sharpen ::}
+{117}{}{Olhando mais de perto, esse escorpião parece ser bastante inteligente e não ameaçador.}

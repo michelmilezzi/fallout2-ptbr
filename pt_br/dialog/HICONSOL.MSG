@@ -1,0 +1,11 @@
+{100}{}{Você vê um console de computador para a estação de energia.}
+{101}{}{Este console deve ser usado para desviar e regular o poder em Broken Hills.}
+{102}{}{Você provavelmente não deve tocar este equipamento sem uma boa razão.}
+{103}{}{Unicematizando não só os controles não conseguirá obter o poder extra de Eric.}
+{104}{}{Você já dirigiu mais energia para a casa de Eric.}
+{105}{}{Você provavelmente não deve tocar este equipamento sem uma boa razão.}
+{106}{}{Você tenta aumentar o fluxo de energia para a casa de Eric, mas não tem êxito.}
+{107}{}{Na sua tentativa bumbling de descobrir como regular o fluxo de energia, você incorre em um choque elétrico maciço.}
+{108}{}{Você consegue descobrir como rotear mais energia para a casa de Eric.}
+{109}{}{Você encaminha mais energia para a casa de Eric. Além disso, você otimiza toda a rede elétrica da Broken Hills.}
+{110}{}{Você já dirigiu mais energia para a casa de Eric.}

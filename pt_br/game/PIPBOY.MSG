@@ -1,0 +1,1246 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in PIPBOY.C
+#
+# (These MUST match "text message" enumeration on the top do PIPBOY.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+#
+# Special holiday dates
+#
+{100}{}{Feliz Ano Novo!}      # New years
+{101}{}{Feliz Dia dos namorados!}     # April fools
+{102}{}{Happy All Fool's Day!}      # April fools
+{103}{}{Happy Ship Day!}            # Shipping day!
+{104}{}{Feliz Dia da Independência!}    # Independence day
+{105}{}{Feliz Dia das Bruxas!}           # Halloween
+{106}{}{Feliz dia de ação de graças!}    # Thanksgiving
+{107}{}{Feliz Natal!}           # X-mas
+
+#
+# System messages
+#
+{200}{}{MAIS}
+{201}{}{COSTAS}
+{202}{}{STATUS}
+{203}{}{Sem tarefas atuais.}
+{204}{}{CLUES}  # clues gone
+{205}{}{AUTOMÁTICOS}
+{206}{}{ARQUIVOS DE VÍDEO}
+{207}{}{DADOS}
+{208}{}{}
+{209}{}{}
+{210}{}{Status}
+{211}{}{DADOS}
+{212}{}{do}
+{213}{}{Página}
+{214}{}{FEITO}
+{215}{}{Você não pode descansar neste local!}
+
+#
+# Alarm clock
+#
+{300}{}{DESPERTADOR}
+{301}{}{Pontos de vida}
+{302}{}{Descanse por dez minutos}
+{303}{}{Descanse por trinta minutos}
+{304}{}{Descanse por uma hora}
+{305}{}{Descanse por duas horas}
+{306}{}{Descanse por três horas}
+{307}{}{Descanse por quatro horas}
+{308}{}{Descanse por cinco horas}
+{309}{}{Descanse por seis horas}
+{310}{}{Descanse até a manhã (0800)}
+{311}{}{Descanse até o meio-dia (1200)}
+{312}{}{Descanse até a noite (1800)}
+{313}{}{Descanse até a meia-noite (0000)}
+{314}{}{Descanse até curado}
+{315}{}{Descanse até que a festa seja curada}
+
+#
+# Holodisk titles
+#
+{400}{}{Vault 13 Holodisk}
+{401}{}{Base militar fora}
+{402}{}{Base Militar Nível 1}
+{403}{}{Base Militar Nível 2}
+{404}{}{Base Militar Nível 3}
+{405}{}{Base Militar Nível 4}
+{406}{}{Sierra Depot Exp. Registro}
+{407}{}{Registro Médico Sierra Depot}
+{408}{}{Sierra Depot Evac. Aviso prévio}
+{409}{}{Sierra Depot GNN Transcript}
+{410}{}{Sierra Mission Statement}
+{411}{}{Ensinamentos de Cuboologist}
+{412}{}{Vault City Desginer Notes}
+{413}{}{Vault City Travel Log}
+{414}{}{NCR Spy Holodisk}
+{415}{}{Nimb História Holodisk}
+{416}{}{Westin Holodisk}
+{417}{}{State do the Nation}
+{418}{}{Lista de palavras}
+{419}{}{O projeto}
+{420}{}{Operações de usinas}
+
+#
+# Movie archive titles
+# Order must match the list (see gmovie.h)
+#
+{500}{}{Logotipo InterPlay}               # Not shown in Pipboy
+{501}{}{Introdução}
+{502}{}{Elder Speech}
+{503}{}{Vault Suit Recovery}
+{504}{}{Arroyo Failure}
+{505}{}{Arroyo Destruído}
+{506}{}{Iniciando o carro}
+{507}{}{Family Cartucci}
+{508}{}{Líder Deathclaw}
+{509}{}{Petroleiro para Derrick}
+{510}{}{Prisioneiros em Enclave}
+{511}{}{Derrick Exploding}
+{512}{}{Arroyo Dream 1}
+{513}{}{Arroyo Dream 2}
+{514}{}{Arroyo Dream 3}
+{515}{}{Arroyo Dream 4}
+{516}{}{Créditos}
+
+#
+# Things for the Mac version to speak
+#
+#
+{600}{}{Status}
+{601}{}{Pistas}  # Pistas gone
+{602}{}{Automaps}
+{603}{}{Arquivos}
+{604}{}{Despertador}
+{605}{}{Doo da doo da dum dee doodly doo dum dum dum doo da doo do doo do do da doo do doo}
+{606}{}{Bem-vindo ao Rob Co Pipboy 2000.}
+{607}{}{Tanto tempo.}
+{608}{}{Acorde.}
+
+
+#
+# Status thread text
+#
+# Format:
+# 0 City name
+# 1 ... 9 thread/quest name
+#
+{700}{}{Vault 13}
+{701}{}{Facção rebelde calma.}
+{702}{}{Destrua o líder Mutant.}
+{703}{}{Destroy the source do the Mutants.}
+{704}{}{Encontre o Water Chip.}
+{705}{}{Encontre o ladrão de água.}
+#
+{710}{}{Abóbada enterrada}
+#
+{720}{}{Shady Sands}
+{721}{}{Cure Jarvis do Radscorpion Poison.}
+{722}{}{Faça o antídoto venenoso.}
+{723}{}{Resgate Tandi dos Incursores.}
+{724}{}{Pare os Radscorpions.}
+#
+{730}{}{Junktown}
+{731}{}{Ajude Saul.}
+{732}{}{Mate Killian.}
+{733}{}{Rescue Sinthia.}
+{734}{}{Salve Trish.}
+{735}{}{Pare o Gizmo.}
+{736}{}{Bust the Skulz gang.}
+#
+{740}{}{Incursores}
+#
+{750}{}{Necrópole}
+{751}{}{Destrua os Super Mutantes na Bacia Hidrográfica.}
+{752}{}{Fix the Necrópole water pump.}
+#
+{760}{}{Cubo}
+{761}{}{Destrua Deathclaw.}
+{762}{}{Dispose do Jain.}
+{763}{}{Dispose do merchant.}
+{764}{}{Encontre as caravanas que faltam.}
+{765}{}{Pegue o colar dos Merchants.}
+#
+{770}{}{fraternidade}
+{771}{}{Torne-se um Iniciado.}
+{772}{}{Rescue Initiate from the Cubo.}
+#
+{780}{}{Base militar}
+#
+{790}{}{Brilho}
+{791}{}{Desarmar armadilhas para a instalação.}
+{792}{}{Turn on power for the Brilho.}
+#
+{800}{}{Boneyard}
+{801}{}{Torne-se um Blade.}
+{802}{}{Entregue Locket para Romero.}
+{803}{}{Entregue o pacote dos Gun Runners.}
+{804}{}{Encontre o espião das crianças nos seguidores.}
+{805}{}{Reparar fazendas hidropônicas em Adytum.}
+{806}{}{Resgate Jason Zimmerman.}
+{807}{}{Pare as Gangs de atacar Adytum.}
+#
+{810}{}{Catedral}
+
+
+#
+# Holodisk text
+#
+
+# GVAR_NCR_FAKE_VAULT13_HOLODISK
+#
+{1000}{}{VAULT 13 HOLO de Ziggy}
+{1001}{}{** END-PAR **}
+{1002}{}{This holodisk gives the location do Vault13. The       }
+{1003}{}{A localização foi marcada no seu mapa.}
+{1004}{}{** END-DISK **}
+# *** ***
+# GVAR_HOLODISK_MB_OUTSIDE
+{2000}{}{Para: CHQ}
+{2001}{}{Our team do scientists has finished testing the sample}
+{2002}{}{obtido a partir da base. Foi confirmado como 99%}
+{2003}{}{puro. Você pode esperar que a amostra chegue em breve. Como}
+{2004}{}{esperava que a população trabalhadora mudasse rapidamente uma vez}
+{2005}{}{exposto à fonte pura. Perdas pesadas, mas aceitáveis}
+{2006}{}{are reported. I've ordered the evacuation do the base.}
+{2007}{}{Assim que a última pessoa estiver fora, vamos explodir}
+{2008}{}{Entrada à base e selar os bastardos.}
+{2009}{}{}
+{2010}{}{Coronel Sanders}
+{2011}{}{** END-DISK **}
+
+# *** ***
+# GVAR_HOLODISK_MB_LEVEL_1
+{3000}{}{Este é o capitão Pickard no checkpoint 1.}
+{3001}{}{Contact with checkpoints 2 & 3 has been cut dof. We}
+{3002}{}{só pode assumir o pior. Os monstros estão pululando}
+{3003}{}{até as minas. Todos os esforços para atrasá-los têm}
+{3004}{}{falhou. Vamos tentar segurá-los nesta posição o tempo todo}
+{3005}{}{como podemos.}
+{3006}{}{** END-DISK **}
+
+# *** ***
+# GVAR_HOLODISK_MB_LEVEL_2
+{4000}{}{O ponto de verificação 3 está sob ataque. Desligamos o}
+{4001}{}{elevadores de minas como precaução, mas posso ouvi-los}
+{4002}{}{chegando o naufrágio. Merda! Enorme, feio,}
+{4003}{}{green, creatures are climbing out do the lower levels!}
+{4004}{}{This must be what the brass is after.  Some kind do}
+{4005}{}{super soldado. Tão rápido quanto nós disparamos para eles dois mais subir}
+{4006}{}{out do the mineshaft and the ones we shoot get up and}
+{4007}{}{continue vindo até nós! Precisamos reforçar}
+{4008}{}{** END-DISK **}
+
+# *** ***
+# GVAR_HOLODISK_MB_LEVEL_3
+{5000}{}{Sergeant Bracks relatórios no ponto de verificação 3. Tudo}
+{5001}{}{é normal, assim como ontem e no dia anterior.}
+{5002}{}{Eu não sei por que o bronze nos tem guardado estes}
+{5003}{}{mineiros miseráveis. Eles são tão escassos e fracos, eles}
+{5004}{}{mal pode levantar uma picareta. De qualquer forma, os pescoços de lápis}
+{5005}{}{passed by a while ago with some kind do sample. They}
+{5006}{}{parecia muito animado com isso. Você sabe se eles encontraram?}
+{5007}{}{o que eles estavam procurando? Talvez possamos finalmente obter}
+{5008}{}{out do this forsaken place. It gives me the creeps.}
+{5009}{}{Segure um segundo, outra carga está chegando}
+{5010}{}{poço de mina. Meu Deus! O que eles são? Estão pululando}
+{5011}{}{nossa posição! Envie ajuda! Repita, este é o ponto de verificação 3}
+{5012}{}{envie ele}
+{5013}{}{** END-DISK **}
+
+# *** ***
+# GVAR_HOLODISK_MB_LEVEL_4
+{6000}{}{A escavação está indo de acordo com o cronograma. Julgando}
+{6001}{}{pelos planos da base antiga, devemos estar chegando ao}
+{6002}{}{vat area shortly. Increased levels do the FEV virus}
+{6003}{}{estão presentes nas amostras de ar e solo que temos}
+{6004}{}{ocupado. Felizmente, nossos trajes filtram o vírus. Contar}
+{6005}{}{the members do the Enclave they should have a pure}
+{6006}{}{sample do the mutagen soon.}
+{6007}{}{** END-PAR **}
+#
+{6008}{}{Além disso, comecei a notar algumas mudanças nos mineiros.}
+{6009}{}{They seem to be showing signs do increased strength,}
+{6010}{}{resistência e uma ligeira alteração no tom de pele; óbvio}
+{6011}{}{signs do mutations by the FEV. The men are getting}
+{6012}{}{nervosos, pois também eles notaram a mudança. Embora eu tenha}
+{6013}{}{increased the number do guards, I fear if the workers}
+{6014}{}{mutar completamente, seremos muito superados em número. Isto é}
+{6015}{}{minha esperança, já que estamos usando os habitantes locais}
+{6016}{}{como força de trabalho, a mutação completa não ocorrerá}
+{6017}{}{a menos que eles sejam diretamente expostos (mergulhados) em um puro}
+{6018}{}{A origem ou exposição prolongada ao vírus ocorre. Como}
+{6019}{}{you recall, minute amounts do the virus have been}
+{6020}{}{detectado em toda a região. Testes em assuntos}
+{6021}{}{viver nesta área mostraram que eles se acumularam}
+{6022}{}{uma tolerância ao vírus FEV. No entanto, eu aconselho}
+{6023}{}{caution since exposure to this level do the FEV virus}
+{6024}{}{nunca foi inserido nos cálculos. Eu aconselho que}
+{6025}{}{você instala a entrada da base para entrar em colapso logo que}
+{6026}{}{como uma amostra pura é obtida. Isso irá selar o}
+{6027}{}{Mineradores expostos na base e evitar amizades não amigáveis}
+{6028}{}{da obtenção do vírus uma vez que nos iremos.}
+{6029}{}{** END-DISK **}
+#
+{7000}{}{Sierra Army Depot - I & D}
+{7001}{}{Médico participante - Dr. H. Lector}
+{7002}{}{Log pessoal}
+{7003}{}{** END-PAR **}
+{7004}{}{28 de junho de 2077}
+{7005}{}{Hoje, os meninos no armazenamento biológico desempenharam uma ótima piada}
+{7006}{}{me. One do the little pranksters altered the}
+{7007}{}{configurações no meu extractor de órgãos automatizado Vault-Tec.}
+{7008}{}{Boy, was I surprised when Private Callow came out do }
+{7009}{}{a sala de operações sem um cólon. Bom, ele era}
+{7010}{}{morto já ou eu estaria em apuros. Eu hardwired}
+{7011}{}{a máquina para extrair apenas cérebros, então isso não}
+{7012}{}{aconteceu denovo. Eu vou buscá-los para isso.}
+{7013}{}{** END-PAR **}
+{7014}{}{29 de junho de 2077}
+{7015}{}{Retirei o fígado de Private Callow e cozinhei. Eu}
+{7016}{}{então, enviou para os meninos no armazenamento biológico}
+{7017}{}{com feijão e um bom Chianti. Eles pensam}
+{7018}{}{foi um agradecimento especial do general por um trabalho}
+{7019}{}{bem feito. Eu amo meu trabalho.}
+{7020}{}{** END-PAR **}
+{7021}{}{30 de junho de 2077}
+{7022}{}{I tried a new chem cocktail do Buffout and Psicopatas}
+{7023}{}{on one do my patients and mixed with some special}
+{7024}{}{potenciadores com os quais toco. Os resultados foram}
+{7025}{}{promissor, se não bagunçado. O assunto tornou-se muito}
+{7026}{}{violent and managed to break out do his room.}
+{7027}{}{Por sorte, os novos robôs de segurança estavam no lugar}
+{7028}{}{e conseguiu subjugá-lo. eu terei}
+{7029}{}{A manutenção cai e substitui essa porta.}
+{7030}{}{** END-PAR **}
+{7031}{}{1º de julho de 2077}
+{7032}{}{Meu experimento favorito morreu. Eu tenho alimentado}
+{7033}{}{him a steady diet do Mentats mixed with my}
+{7034}{}{special enhancers.  He went from an IQ do 39 to}
+{7035}{}{an IQ do 200 in just a few weeks.  I am saddened}
+{7036}{}{since he was one do the few people I could}
+{7037}{}{realmente conversa. Ele sentirá muita falta.}
+{7038}{}{** END-PAR **}
+{7039}{}{5 de julho de 2077}
+{7040}{}{Pensamos que o novo cérebro cibernético é finalmente}
+{7041}{}{pronto. Temos que executar mais alguns testes, mas isso}
+{7042}{}{parece promissor.}
+{7043}{}{** END-PAR **}
+{7044}{}{6 de julho de 2077}
+{7045}{}{A robótica não está feliz por sua preciosa}
+{7046}{}{o computador está sendo modificado para executar a base}
+{7047}{}{segurança para a evacuação. Não posso dizer que eu sou}
+{7048}{}{Feliz também, uma vez que a Skynet foi inestimável}
+{7049}{}{in the development do the new cybernetic brain.}
+{7050}{}{** END-PAR **}
+{7051}{}{9 de julho de 2077}
+{7052}{}{A evacuação foi movida para cima. O que é podre}
+{7053}{}{cronometragem. Estávamos a ponto de começar no}
+{7054}{}{installation do the new cybernetic brain. They}
+{7055}{}{dizer que a evacuação é temporária, então eu vou receber}
+{7056}{}{para continuar minha pesquisa quando volto. este}
+{7057}{}{provavelmente será meu último registro por algum tempo,}
+{7058}{}{since I will be busy gathering up as much do my}
+{7059}{}{pesquisa possível.}
+{7060}{}{** END-DISK **}
+#
+{8000}{}{5 de julho de 2077}
+{8001}{}{Depósito do Exército da Serra - Enfermaria}
+{8002}{}{Médico participante - Dr. Solomon}
+{8003}{}{Assunto - Caporal Dixon}
+{8004}{}{Relatório de acidente nº 8332-523D}
+{8005}{}{** END-PAR **}
+{8006}{}{Assunto estava tentando armar uma mina de ataque em}
+{8007}{}{storage bay as part do Sierra Army Depot's}
+{8008}{}{defesas de evacuação. O meu detonou prematuramente}
+{8009}{}{ferindo gravemente o cabo Dixon e o general}
+{8010}{}{Clifton. O cabo Dixon sofreu graves}
+{8011}{}{lacerações nas mãos, no tórax e na área facial.}
+{8012}{}{Toda a mão direita foi completamente cortada}
+{8013}{}{e não conseguimos localizar o desaparecido}
+{8014}{}{apêndice. Punção severa ferida ao peito}
+{8015}{}{e a área do rosto exigiu uma cirurgia extensiva para}
+{8016}{}{reparar. 32 fragmentos de minas foram removidos em todos.}
+{8017}{}{O olho direito foi danificado além do reparo. Cirurgia}
+{8018}{}{foi realizado para remover o direito do cabo Dixon}
+{8019}{}{olho. É nossa esperança que, colocando o}
+{8020}{}{danificado, mas olho vivo em um novo experimento}
+{8021}{}{Biomed gel, o olho pode ser capaz de}
+{8022}{}{regenerar-se. Espero que possamos ser}
+{8023}{}{capaz de voltar a colocar os olhos em uma data posterior.}
+{8024}{}{Este gel Biomed experimental é ótimo}
+{8025}{}{promessa de estimular o crescimento das células vivas.}
+{8026}{}{No entanto, é infeliz testar este novo gel}
+{8027}{}{sob tais circunstâncias.}
+{8028}{}{** END-DISK **}
+#
+{9000}{}{9 de junho de 2077}
+{9001}{}{Liberação de prioridade}
+{9002}{}{Publicação geral}
+{9003}{}{}
+{9004}{}{Notice to all personnel. Evacuation do Sierra}
+{9005}{}{O Depósito do Exército foi adiantado 1 semana.}
+{9006}{}{Installation do security and defense measures}
+{9007}{}{deve ser completado até então. Todo o pessoal deve}
+{9008}{}{check-in com os chefes da seção para revisão}
+{9009}{}{ordens. Durante este período, a segurança será}
+{9010}{}{ser rigorosamente cumprido; Os cartões de identificação devem ser usados}
+{9011}{}{em todos os momentos.}
+{9012}{}{}
+{9013}{}{By order do General Clifton}
+{9014}{}{** END-DISK **}
+
+# Sierra Base Mission Statement
+{10000}{}{Sierra Army Depot}
+{10001}{}{Declaração de Missão 1942 - 1991}
+{10002}{}{Store and maintain a defensive supply do military ordnance.}
+{10003}{}{In the event do an invasion Sierra Army Depot is to lend }
+{10004}{}{apoio a bases militares vizinhas garantindo que sejam}
+{10005}{}{devidamente fornecido e equipado.}
+{10006}{}{** END-PAR **}
+{10007}{}{Sierra Army Depot}
+{10008}{}{Declaração de Missão 1992 - 2050}
+{10009}{}{Responsible for the demilitarization do stores do surplus}
+{10010}{}{munições que tenham sido consideradas impróprias ou obsoletas para}
+{10011}{}{fins militares. Esta missão deve ser supervisionada pela}
+{10012}{}{Comando de Operações Industriais (COI) em cooperação com}
+{10013}{}{Agência de Proteção Ambiental (EPA), fornecendo um}
+{10014}{}{greener cleaner way to dispose do military ordnance.}
+{10015}{}{** END-PAR **}
+{10016}{}{Sierra Army Depot}
+{10017}{}{Missão Declaração 2050 - 2076}
+{10018}{}{CLASSIFICADO}
+{10019}{}{Nível 5 Liquidação Requerida}
+{10020}{}{A base deve ser remodelada com as mais recentes tecnologias}
+{10021}{}{e deve ser usado como uma instalação de pesquisa secreta para}
+{10022}{}{desenvolvendo e testando robótica, biológica e convencional}
+{10023}{}{armas.}
+{10024}{}{** END-PAR **}
+{10025}{}{Sierra Army Depot}
+{10026}{}{Missão 2077}
+{10027}{}{Devido à escassez de pessoal treinado, o Army Army Depot é}
+{10028}{}{para ser modificado em uma base de defesa automatizada. Todos}
+{10029}{}{pessoal para ser transferido para instalações vizinhas ou}
+{10030}{}{enviado para a linha de frente.}
+{10031}{}{** END-DISK **}
+
+# Sierra Base GNN Transscript
+{11000}{}{Galaxy News Network}
+{11001}{}{Transcript do Broadcast January 11, 2073}
+{11002}{}{A melhor história de hoje no GNN. Em um golpe financeiro,}
+{11003}{}{os EUA conseguiram ser os primeiros a tocar o mundo}
+{11004}{}{last remaining supply do oil. Until recently this}
+{11005}{}{reserve do oil was thought to be unattainable}
+{11006}{}{devido ao depósito sendo localizado milhares}
+{11007}{}{do feet beneath the surface do the Pacific Ocean.}
+{11008}{}{With the world's supply do oil nearing depletion,}
+{11009}{}{uma corrida para ser o primeiro a criar um método para}
+{11010}{}{extraiu esse depósito. Nós no GNN}
+{11011}{}{tem orgulho de anunciar que os EUA são os primeiros a fazer}
+{11012}{}{so and thus claim the oil as property do the United}
+{11013}{}{Estados. Way to US US!}
+{11014}{}{** END-PAR **}
+{11015}{}{China cries foul as news do the success circulates}
+{11016}{}{around the globe. According to President Xin do }
+{11017}{}{China, o projeto da plataforma de perfuração estava agendado}
+{11018}{}{por meses de conclusão antes do projeto dos EUA, no entanto}
+{11019}{}{the Chinese platform had a string do unfortunate}
+{11020}{}{acidentes que atrasam significativamente o seu projeto.}
+{11021}{}{O presidente Xin também é citado ao dizer que ele tem}
+{11022}{}{definitive prodo that the US was behind the sabotage}
+{11023}{}{do their oil platform and formally requests that an}
+{11024}{}{painel internacional será nomeado para investigar.}
+{11025}{}{** END-PAR **}
+{11026}{}{Em outras notícias, os motins rolam a nação como}
+{11027}{}{Os preços da gasolina subiram para os máximos de todos os tempos. Registos}
+{11028}{}{were broken as the price do gas surpassed the current}
+{11029}{}{rate do gold bullion.}
+{11030}{}{** END-PAR **}
+{11031}{}{Aqui em casa, a temperatura do inverno é um frio}
+{11032}{}{100-110F com baixas temperaturas atingindo 90 ° de congelamento ao longo}
+{11033}{}{a costa. Vestir-se calorosamente hoje!}
+{11034}{}{** END-PAR **}
+{11035}{}{Galaxy News Network}
+{11036}{}{Transcript do Broadcast June 24, 2074}
+{11037}{}{Negociações entre os EUA e outras potências mundiais}
+{11038}{}{chegou a um final dramático, com o presidente caminhando}
+{11039}{}{out do oil talks with the other world powers. After a}
+{11040}{}{much heated debate, the President stormed out do the}
+{11041}{}{meeting and declared that the last known supply do}
+{11042}{}{O petróleo será usado exclusivamente pelos EUA e o}
+{11043}{}{Os EUA não venderão nem trocarão petróleo por terceiros.}
+{11044}{}{Threats do UN sanctions fall on deaf ears.}
+{11045}{}{** END-PAR **}
+{11046}{}{Indústria chora em uma parada em todo o mundo como óleo}
+{11047}{}{reserves are depleted. The cries do the desperate,}
+{11048}{}{No entanto, não caia em surdos como exportações de}
+{11049}{}{Os EUA aumentam vinte vezes apesar das sanções da ONU. o}
+{11050}{}{A economia dos EUA está vendo o maior crescimento desde a}
+{11051}{}{Era Reagan.}
+{11052}{}{** END-PAR **}
+{11053}{}{Galaxy News Network}
+{11054}{}{Transcript do Broadcast February 14, 2075}
+{11055}{}{A história foi feita hoje como o Canadá, por demanda popular}
+{11056}{}{do its citizens, agreed to be annexed by the US.}
+{11057}{}{The President is quoted as saying, "Canada is one do}
+{11058}{}{the world's greatest sources do hockey players" and will}
+{11059}{}{seja uma adição bem-vinda aos EUA. Em troca, dizem fontes}
+{11060}{}{Canada will receive a full 10% do the world's remaining}
+{11061}{}{supply do oil, controlled exclusively by the US, as well}
+{11062}{}{como uma redução de impostos de 50%, uma vez que agora eles se enquadram nos EUA}
+{11063}{}{leis tributárias.}
+{11064}{}{** END-PAR **}
+{11065}{}{Nos esportes de hoje, os Little Rock Saints e o Anaheim}
+{11066}{}{Jets lutou contra o Super Bowl CXII. Foi um real}
+{11067}{}{nail-biter, mas J. Montana IV conseguiu salvar o dia}
+{11068}{}{executando a bola todo o caminho da linha de 5 jardas}
+{11069}{}{para marcar o toque vencedor durante os segundos finais}
+{11070}{}{do the game. The final score 95 - 90. The Anaheim}
+{11071}{}{Jets ganham o Super Bowl CXII.}
+{11072}{}{** END-PAR **}
+{11073}{}{Galaxy News Network}
+{11074}{}{Transcript do Broadcast February 15, 2075}
+{11075}{}{In a stunning display do solidarity, the House do}
+{11076}{}{Representantes e Congresso votaram unanimemente}
+{11077}{}{Impeque o presidente para jaywalking. Ambas as casas declararam}
+{11078}{}{que o presidente não está acima da lei e deveria ter}
+{11079}{}{conhecido melhor do que para jaywalk. Ambos os lados negaram que isso teve}
+{11080}{}{anything to do with the recent annexation do Canada.}
+{11081}{}{** END-PAR **}
+{11082}{}{Galaxy News Network}
+{11083}{}{Transcript do Broadcast March 30, 2076}
+{11084}{}{Hoje, o presidente ordenou a frota do Pacífico}
+{11085}{}{Poseidon derrick de óleo de mar profundo localizado em um segredo}
+{11086}{}{localização no Pacífico. Ele citou preocupações sobre isso}
+{11087}{}{exercícios militares realizados pela frota chinesa são}
+{11088}{}{"inaceitavelmente perto de nossas reservas estratégicas de petróleo".}
+{11089}{}{O governo chinês negou quaisquer intenções hostis.}
+{11090}{}{** END-PAR **}
+{11091}{}{A recent poll suggests that 54% do GNN viewers think}
+{11092}{}{que o presidente está usando isso como um diversionário}
+{11093}{}{tactic to take the public's eye dof the President's }
+{11094}{}{admissão recente para ter vários casos extraconjugais}
+{11095}{}{com funcionários da campanha. Nossa pesquisa também sugere que 70%}
+{11096}{}{não se preocupe com esses assuntos e está feliz com o caminho}
+{11097}{}{O presidente está dirigindo o país. Um enorme 60% também}
+{11098}{}{acho que ele deve continuar tendo esses assuntos se for isso}
+{11099}{}{é preciso manter o país funcionando sem problemas.}
+{11100}{}{** END-PAR **}
+{11101}{}{Galaxy News Network}
+{11102}{}{Transcript do Broadcast October, 10 2077}
+{11103}{}{WAR! A state do war is declared as China invades the }
+{11104}{}{United States by way do Alaska! Protests by the US fall }
+{11105}{}{em surdos, quando o conselho da ONU escolhe ignorar isso}
+{11106}{}{blatant act do aggression. The President do the United }
+{11107}{}{Os Estados estão convidando você a ajudar a defender o nosso país}
+{11108}{}{contra aqueles que o prejudicariam. Você é convidado a}
+{11109}{}{go down to your local recruiting dofice and join the }
+{11110}{}{forças Armadas. Tio Sam precisa de você! Para Justiça, para}
+{11111}{}{Freedom and Mom's Apple Pie.}
+{11112}{}{** END-PAR **}
+{11113}{}{Galaxy News Network}
+{11114}{}{Transcript do Broadcast October, 22, 2077}
+{11115}{}{Thanks to the brave souls do the armed forces and our }
+{11116}{}{Novos jogos de combate blindados de poder, forças dos EUA}
+{11117}{}{have pushed back the Chinese invaders. Crippled by lack do }
+{11118}{}{combustível, as forças dos EUA empurraram os invasores para os seus}
+{11119}{}{home capital do Beijing.}
+{11120}{}{** END-DISK **}
+
+
+# Elron Bible
+{12000}{}{Bem vinda!}
+{12001}{}{Welcome to the Cuboology Holodisc! Within these electronic}
+{12002}{}{pages, you'll find a quick description do our beliefs, }
+{12003}{}{including the formerly-repressed teachings do the Cubo. }
+{12004}{}{Este holodisc não pretende representar a última palavra sobre}
+{12005}{}{Cuboology - think do it as a primer, and us as your }
+{12006}{}{guardiões espirituais.}
+{12007}{}{** END-PAR **}
+{12008}{}{MENU PRINCIPAL}
+{12009}{}{História}
+{12010}{}{Filosofia}
+{12011}{}{Small Glossary do Terms}
+{12012}{}{Bibliography do The Cubo}
+{12013}{}{** END-PAR **}
+{12014}{}{HISTÓRIA}
+{12015}{}{Nós fomos fundados antes do Grande Dilúvio por um}
+{12016}{}{author and visionary do great promise, a man named Dick}
+{12017}{}{Cubobell. He saw the failure do the medicine do that time,}
+{12018}{}{and do the failure do religion, and do the failure do }
+{12019}{}{governo. Ele sabia que o mundo precisava de algo}
+{12020}{}{new...the world needed Cuboology. Inspired by music do the }
+{12021}{}{Tempo e experiência pessoal própria com extraterrestres}
+{12022}{}{seres, ele começou a nos mostrar as rodas no céu, a manter}
+{12023}{}{them burning, and to understand the Great Wheel do Life.}
+{12024}{}{** END-PAR **}
+{12025}{}{We call him the Cubo, for it is through him that we}
+{12026}{}{Compreenda o nosso lugar na Roda - ele é o nosso centro, e}
+{12027}{}{nós somos seus raios. É em torno de seus ensinamentos que nós}
+{12028}{}{giram.}
+{12029}{}{** END-PAR **}
+{12030}{}{With the publication do countless books and journals,}
+{12031}{}{the Cubo began spreading the word do Cuboology - and}
+{12032}{}{imediatamente se tornou um alvo para seus detratores. Eles}
+{12033}{}{chamou seu trabalho "pseudo-ciência" e "drible perigoso"}
+{12034}{}{Isso só pode machucar os seus adeptos. "Apesar do coletado}
+{12035}{}{sightings do Extra-Terrestrial Vehicles across the globe,}
+{12036}{}{they insisted on quashing the Cubo's word. We know that }
+{12037}{}{Eles eram simplesmente estúpidos e equivocados, mas eram}
+{12038}{}{poderoso; eles incluíram governos e corporações e}
+{12039}{}{other such entities, keeping the greatest news do all time}
+{12040}{}{from the people do the earth.}
+{12041}{}{** END-PAR **}
+{12042}{}{Cuboology was driven underground for a time, marshalling}
+{12043}{}{its forces against the attacks do those who envied its}
+{12044}{}{simplicity and ease do use for the common man. When at}
+{12045}{}{last the Cuboologists do that time struck back,  they did}
+{12046}{}{de tal forma que poucos poderiam estar contra eles - eles}
+{12047}{}{infiltrou as organizações que procuraram destruí-las}
+{12048}{}{e criou programas de "televisão" que procuravam expor a}
+{12049}{}{o governo alimentou o povo.}
+{12050}{}{** END-PAR **}
+{12051}{}{Isso causou uma contração sutil contra nossa religião. o}
+{12052}{}{common man found reason to doubt Cuboology because do }
+{12053}{}{the distorted teachings do the media, and we had to wage}
+{12054}{}{uma longa campanha contra aqueles que nos chamam de crackpots.}
+{12055}{}{During this time, sadly, the great Cubo passed away.}
+{12056}{}{** END-PAR **}
+{12057}{}{Bolstered by the knowledge that The Cubo had achieved}
+{12058}{}{unidade com o Pai das Estrelas, ajudando a transformar o cósmico}
+{12059}{}{wheel in our direction, attaining another level do }
+{12060}{}{consciência, permanecemos confiantes em nós mesmos}
+{12061}{}{o nosso era o verdadeiro caminho. Ao longo do caminho, ganhamos}
+{12062}{}{adherents, many do whom who simply wanted to believe }
+{12063}{}{que havia um lugar por aí que era melhor do que}
+{12064}{}{this world. We dofer prodo do life on other planets, }
+{12065}{}{e uma filosofia que nos permite entender o caminho}
+{12066}{}{do the universe. People have come to us over the ages, }
+{12067}{}{impressed by the rightness do our minds. And the fact }
+{12068}{}{que sobrevivemos indignamente ao Grande Dilúvio}
+{12069}{}{nos ensina que a Grande Roda se volta para a nossa}
+{12070}{}{ensinamentos!}
+{12071}{}{** END-PAR **}
+{12072}{}{FILOSOFIA}
+{12073}{}{Cuboology contains a simple philosophy, culled from the}
+{12074}{}{finest religious and philosophical minds do pre-Deluge}
+{12075}{}{Terra - acreditamos que a vida, o universo e}
+{12076}{}{tudo pode ser melhor simbolizado por uma roda giratória.}
+{12077}{}{The outer rim do wheel contains those who do not}
+{12078}{}{Compreender os nossos ensinamentos e quem não entende o}
+{12079}{}{verdade. Nós os chamamos de "carne de borda", pois a Roda gira}
+{12080}{}{eles e os moagem, e eles não apreciam sua}
+{12081}{}{funcionamentos.}
+{12082}{}{** END-PAR **}
+{12083}{}{Those who practice Cuboology are the Spokes do the Wheel.}
+{12084}{}{We understand the motion do the Wheel and do our best to}
+{12085}{}{facilitate its turning. Those who control a portion do }
+{12086}{}{the wheel are called Cubos - and as far as we know, there}
+{12087}{}{have been only a few Cubos, enlightened individuals who }
+{12088}{}{seek to better the lots do their fellow earthlings. We }
+{12089}{}{refer to the founder do Cuboology as THE Cubo, for he is }
+{12090}{}{aquele com o ensino mais correto.}
+{12091}{}{** END-PAR **}
+{12092}{}{In the practice do our religion, we simply apply scientific}
+{12093}{}{techniques developed by the Cubo and perfected by his }
+{12094}{}{herdeiros para alinhar os neurodynes defeituosos que criam}
+{12095}{}{desarmonia e uma roda assimétrica. Isso nos permite}
+{12096}{}{purifique-se e prepare-nos para o auto-exame. isto}
+{12097}{}{é apenas através do auto-exame que somos capazes de}
+{12098}{}{bem-sucedido, e somente através do auto-exame que nós}
+{12099}{}{Compreenda o nosso lugar no cosmos e no Grande}
+{12100}{}{Roda. É somente através do auto-exame que nós}
+{12101}{}{discover ourselves to be worthy do boarding the fiery }
+{12102}{}{toca quando nos encontram no planeta Quetzel.}
+{12103}{}{** END-PAR **}
+{12104}{}{We think do ourselves as a religion combined with the best}
+{12105}{}{técnica científica - espiritualidade científica é o que nós}
+{12106}{}{chame isso ... e o que esperamos que você esteja chamando antes disso}
+{12107}{}{longo!}
+{12108}{}{** END-PAR **}
+{12109}{}{Esta é a nossa história de criação:}
+{12110}{}{Aeons atrás, todos viveram pacificamente e em harmonia com um}
+{12111}{}{outro. O corpo, a mente e o espírito se uniram em tudo}
+{12112}{}{criaturas e a tecnologia que existia boggled the}
+{12113}{}{imaginations. It was a time do peace, creativity, and}
+{12114}{}{alinhamento - e então os Dark Days vieram. Thrakazog o}
+{12115}{}{Pot Hole começou a ensinar o dualismo mente-corpo e o}
+{12116}{}{sundering do the spirit, and war arose. The Great War }
+{12117}{}{destruíram almas e corpos e dispersaram seus restos}
+{12118}{}{em todo o universo. A Grande Roda chegou perto de}
+{12119}{}{separating from the axle do existence, its spokes broken }
+{12120}{}{na rotina que Thrakazog criou. Uma nova vida teve que surgir.}
+{12121}{}{** END-PAR **}
+{12122}{}{E surgiu, no planeta Terra, como em outros planetas}
+{12123}{}{em todo o universo. (Nós nos concentramos principalmente na vida que}
+{12124}{}{surgiu na Terra, pois, enquanto achamos que nós uma vez}
+{12125}{}{again heal the sundered spokes do the Wheel with our }
+{12126}{}{Irmãos estrelados, devemos primeiro nos concentrar em fazer}
+{12127}{}{raios úteis.) Esta nova vida foi poluída por}
+{12128}{}{the soul-pieces do the dead. This led to hate and }
+{12129}{}{mal entendidos e guerras arrasaram a superfície de Terra}
+{12130}{}{Até um dia um visionário percebeu que a única maneira de}
+{12131}{}{criar paz, compreensão e esclarecimento foi para}
+{12132}{}{cleanse these soul-pieces from the spirits do humanity.}
+{12133}{}{That visionary was The Cubo. His cleansing continues today.}
+{12134}{}{** END-PAR **}
+{12135}{}{PEQUENO GLOSSÁRIO}
+{12136}{}{AHS/Aligned Cubo Seeker: The levels do enlightenment are }
+{12137}{}{measured by the cleansing do your neurodynes, cleaning }
+{12138}{}{out the base negative energy do your meat and }
+{12139}{}{convertendo-o em energia mental positiva. Quando voce tem}
+{12140}{}{achieved a strong enough level do zetan energy, you can }
+{12141}{}{viajar para Quetzel, ou você pode esperar e esperar que o}
+{12142}{}{Uplifting virá durante sua vida.}
+{12143}{}{** END-PAR **}
+{12144}{}{Alinhamento: quando um neurodyne está poluído e mantém uma}
+{12145}{}{Os níveis Zeta do buscador baixam, nós "alinhamos" os níveis para o}
+{12146}{}{roda universal executando uma varredura Zeta no afetado}
+{12147}{}{neurodyne, cleansing it do taint. Too much alignment too }
+{12148}{}{rapidamente é prejudicial para o espírito, no entanto.}
+{12149}{}{** END-PAR **}
+{12150}{}{Iluminação: a iluminação é o estado alcançado passado}
+{12151}{}{AHS-9 - quando o buscador ganhou tanto conhecimento ele}
+{12152}{}{becomes an integral part do the Great Wheel and leaves }
+{12153}{}{this earthly existence behind. Some do the Enlightened }
+{12154}{}{remain on Terra to guide the rest do us to a state do }
+{12155}{}{grace, to show us how to get behind the Wheel do our own }
+{12156}{}{vidas.}
+{12157}{}{** END-PAR **}
+{12158}{}{Great Wheel: This refers to the cyclical nature do the }
+{12159}{}{universe, space, and time. Everything is a part do the }
+{12160}{}{Great Wheel. There are some who can take control do the }
+{12161}{}{Roda - ou talvez simplesmente entendam a direção}
+{12162}{}{em que viaja - e nós os chamamos de deuses, profetas,}
+{12163}{}{e visionários. Aqueles que dominam a Grande Roda são}
+{12164}{}{verdadeiramente iluminado.}
+{12165}{}{** END-PAR **}
+{12166}{}{Neurodyne: Neurodynes are the stations do the spirit. }
+{12167}{}{As religiões antigas os chamavam de "shakras". Eles podem ser}
+{12168}{}{poluído por pedaços de alma e energia negativa que emana}
+{12169}{}{de opressivos.}
+{12170}{}{** END-PAR **}
+{12171}{}{Oppressives: Oppressives são aqueles indivíduos que são}
+{12172}{}{so full do negative energy and polluted soul-pieces that }
+{12173}{}{Eles arruinam aqueles que procuram a iluminação por seus}
+{12174}{}{very presence. They are to be avoided - many do them are }
+{12175}{}{tão poluídos que não reconhecem o valor a ser encontrado}
+{12176}{}{em uma boa limpeza, e eles fazem o seu melhor para desviar}
+{12177}{}{the course do the Great Wheel.}
+{12178}{}{** END-PAR **}
+{12179}{}{Quetzel: o planeta ao qual o Pai da Estrela trará}
+{12180}{}{nós quando nos tornamos otimizados, onde nos encontraremos}
+{12181}{}{com nossos irmãos estrelados e junte-se a eles em seu flaming}
+{12182}{}{rodas no céu.}
+{12183}{}{** END-PAR **}
+{12184}{}{Rim Meat: uma pessoa básica, uma que ainda não foi}
+{12185}{}{alinhado para purificar seu neurodynes.}
+{12186}{}{** END-PAR **}
+{12187}{}{Star Father: Alguns chamariam o "Pai de Estrela". Nós}
+{12188}{}{prefer to think do the Star Father as the universal }
+{12189}{}{força a partir da qual extraímos nossa energia e para a qual}
+{12190}{}{alimentar nossa energia por sua vez - novamente, uma relação cíclica.}
+{12191}{}{** END-PAR **}
+{12192}{}{Uplifting: O tempo em que o Star Father nos chama para casa}
+{12193}{}{para Quetzel, onde nos encontramos com nossos irmãos extraterrestres}
+{12194}{}{and move closer to the hub do the Great Wheel. Those who }
+{12195}{}{fizeram um esforço para compreender e abraçar o}
+{12196}{}{words do the Cubo, no matter their AHS levels, will be }
+{12197}{}{convidado a se juntar ao Star Father no céu no planeta}
+{12198}{}{Quetzel.}
+{12199}{}{** END-PAR **}
+{12200}{}{Zeta Scan: Outra palavra para "alinhamento", o Zeta Scan}
+{12201}{}{ajuda a purificar seus neurônios e limpar seu espírito.}
+{12202}{}{It consists do a machine that runs massive doses do }
+{12203}{}{Eletricidade através da sua pele - esta eletricidade tem}
+{12204}{}{foi cuidadosamente formulado, para o volt exato, para o}
+{12205}{}{amount do energy needed to drive the negative energy }
+{12206}{}{de um neurodyne. Ao aceitar uma varredura Zeta, seu curso}
+{12207}{}{é ligeiramente corrigido para estar mais em linha com o}
+{12208}{}{movement do the Wheel.}
+{12209}{}{** END-PAR **}
+{12210}{}{BIBLIOGRAFIA}
+{12211}{}{Books by The Cubo}
+{12212}{}{(There are hundreds and hundreds do books listed here, }
+{12213}{}{incluindo títulos como: Espiritualidade científica,}
+{12214}{}{Campo de batalha Quetzel, Star Father Above, Collected}
+{12215}{}{Listas de Compras, Notas e Reflexões, Como Sue seu}
+{12216}{}{Enemigos efetivamente, como criar um culto e futuro}
+{12217}{}{Livros a serem escritos quando eu estiver morto.)}
+{12218}{}{** END-DISK **}
+
+{13000}{}{VAULT CITY DESIGNER NOTES}
+{13001}{}{** END-PAR **}
+{13002}{}{Vault City passou por muitas encarnações. isso foi}
+{13003}{}{desenhado por Leonard Boyarsky, Jason Anderson, Feargus}
+{13004}{}{Urquhart e Chris Avellone. Scott Everts construiu o}
+{13005}{}{mapas e os homens corajosos que rotearam essa arquitetura}
+{13006}{}{Frankenstein eram Rob Hertenstein III e Dan Spitzley.}
+{13007}{}{E finalmente, Eric Pribish quase deu sua vida testando}
+{13008}{}{A monstruosidade que é Vault City.}
+{13009}{}{** END-PAR **}
+{13010}{}{Chris gostaria de agradecer as seguintes pessoas que}
+{13011}{}{helped during the production do Fallout 2: Rob, Scotty,}
+{13012}{}{and Dan (do course), Eileen Suh, Sarah Smart, Emily}
+{13013}{}{Yance, Thuy Dang (que eu nunca agradeço por nada),}
+{13014}{}{Chris Wright e Tim Winkle.}
+{13015}{}{** END-PAR **}
+{13016}{}{Scotty gostaria de agradecer as seguintes pessoas: Don &}
+{13017}{}{Aileen Everts e Avis Andre. E graças a Bill}
+{13018}{}{Pontes para todos os livros cool Fads Suns!}
+{13019}{}{** END-PAR **}
+{13020}{}{Dan gostaria de agradecer as seguintes pessoas:}
+{13021}{}{Split Enz para as grandes músicas, James Cameron para}
+{13022}{}{True Lies, Joe Viskocil por suas explosões de kick-ass,}
+{13023}{}{Chong's na Praça do Triângulo por me manter alimentado, Carlos}
+{13024}{}{Kotkin por finalmente dar o mergulho (você estará vendo}
+{13025}{}{the premiere do his first feature film any day now),}
+{13026}{}{Jon Land para o divertido Blaine}
+{13027}{}{Novelas de McCracken, Red Dwarf para rir e, finalmente,}
+{13028}{}{como sempre, mãe e papai por ter sido legal.}
+{13029}{}{** END-PAR **}
+{13030}{}{Rob Hertenstein gostaria de agradecer as seguintes pessoas:}
+{13031}{}{Becky Warner (still trying to keep me out do trouble),}
+{13032}{}{Billie Ryder (por manter-me sã durante todo isso}
+{13033}{}{projeto), Little Ryder (que deveria chegar a}
+{13034}{}{ao mesmo tempo que este jogo faz), e Nicole Roman (para}
+{13035}{}{Estando lá).}
+{13036}{}{** END-PAR **}
+{13037}{}{Eric Pribish gostaria de agradecer as seguintes pessoas:}
+{13038}{}{Tommy Hood, Jr., Joe Isip e Julio Mata por não}
+{13039}{}{me desprezando quando tive que abandonar o D & D. Para o meu velho}
+{13040}{}{amigos Brad e Dave Carnes por manter contato}
+{13041}{}{(todos esses anos). Por último, mas o mais importante, eu gostaria}
+{13042}{}{gostaria de agradecer a minha namorada amorosa Rhonda Lauffer por}
+{13043}{}{compreendendo todas as longas noites e fins de semana quando}
+{13044}{}{O trabalho me levou e sempre estava lá para mim}
+{13045}{}{Quando cheguei em casa.}
+{13046}{}{** END-PAR **}
+{13047}{}{Como uma recompensa por derrotar o Enclave, Chris, Scotty,}
+{13048}{}{Rob, Dan e Eric gostariam de aproveitar esta oportunidade}
+{13049}{}{para dizer-lhe para ir ao terminal do computador na parte superior}
+{13050}{}{left corner do this level and use it.}
+{13051}{}{** END-PAR **}
+{13052}{}{Parabéns por salvar o mundo. E obrigado novamente}
+{13053}{}{para jogar Fallout 2.}
+{13054}{}{** END-DISK **}
+
+{14000}{}{VAULT CITY NORTHERN CALIFORNIA TRAVEL LOG}
+{14001}{}{** END-PAR **}
+{14002}{}{AVISO: se os Cidadãos do Vault acharem necessário viajar}
+{14003}{}{outside do Vault City, they should keep the following}
+{14004}{}{list do items on their person:}
+{14005}{}{}
+{14006}{}{1. A supply do pre-packaged Vault City-issue rations.}
+{14007}{}{   Never eat any food dofered by an Outsider, as you}
+{14008}{}{   introduzir bactérias ou partículas radioativas}
+{14009}{}{   seu sistema!}
+{14010}{}{}
+{14011}{}{2. Um contador geiger. Certifique-se sempre de monitorar}
+{14012}{}{   níveis de radiação ambiente onde quer que você viaje!}
+{14013}{}{}
+{14014}{}{3. At least two stim-packs em todos os momentos. The slightest}
+{14015}{}{   Cut or nick poderia introduzir bactérias nocivas}
+{14016}{}{   seu sistema!}
+{14017}{}{** END-PAR **}
+{14018}{}{REDDING: Small mining community located west do Vault}
+{14019}{}{Cidade. Redding troca minério de ouro para suprimentos médicos}
+{14020}{}{da Cidade do Vault. Todos os Cidadãos do Vault são encorajados}
+{14021}{}{para ter extremo cuidado ao viajar para dentro}
+{14022}{}{Redding, já que os mineiros provinciais não são fortemente}
+{14023}{}{governado.}
+{14024}{}{}
+{14025}{}{POPULAÇÃO: um recenseamento não está disponível, mas Redding é}
+{14026}{}{believed to have hundreds do residents.}
+{14027}{}{GOVERNO: prefeito e município.}
+{14028}{}{COSTASGROUND RADIATION COUNT: Current readings are}
+{14029}{}{indisponível.}
+{14030}{}{TAXA DE MUTAÇÃO: Desconhecido, acreditado baixo.}
+{14031}{}{** END-PAR **}
+{14032}{}{NEW RENO: City southwest do Vault City. Trades gold}
+{14033}{}{minério para suprimentos médicos da Vault City. Reno}
+{14034}{}{sofreu pouco dano estrutural durante a guerra}
+{14035}{}{(embora o saque e os danos materiais tenham}
+{14036}{}{pedágio), tantas ruas e edifícios permanecem intactos.}
+{14037}{}{Atenção! Não há governo central e nenhuma lei}
+{14038}{}{execução. Jogos de azar, prostituição e uso químico}
+{14039}{}{são desenfreados. Os cidadãos dos cofres são avisados   para evitar novos}
+{14040}{}{Reno TODOS os custos!}
+{14041}{}{}
+{14042}{}{POPULAÇÃO: Nenhum censo atual, mas acreditado para ser}
+{14043}{}{vários milhares ... "pessoas".}
+{14044}{}{GOVERNMENT: New Reno presently exists in a state do}
+{14045}{}{quase anarquia. Segundo relatos, vários "crimes}
+{14046}{}{famílias "dividiram a cidade entre si.}
+{14047}{}{COSTASGROUND RADIATION COUNT: Current readings are}
+{14048}{}{indisponível.}
+{14049}{}{TAXA DE MUTAÇÃO: Desconhecido, acreditado baixo.}
+{14050}{}{** END-PAR **}
+{14051}{}{NEW CALIFORNIA REPUBLIC: The territories do NCR are}
+{14052}{}{located far to the south do Vault City. Trades}
+{14053}{}{equipamento mecânico, ouro e vários excedentes}
+{14054}{}{produtos em troca da tecnologia médica da Vault City.}
+{14055}{}{NCR recentemente intensificou esforços para absorver o Vault}
+{14056}{}{Cidade como um território fronteiriço, então os Cidadãos do Vault deveriam}
+{14057}{}{tenha extremo cuidado ao viajar para a NCR.}
+{14058}{}{}
+{14059}{}{POPULAÇÃO: Embora um censo tenha sido realizado, nós fazemos}
+{14060}{}{não tem acesso aos números. Acredita-se que a NCR tenha}
+{14061}{}{many tens do thousands do people.}
+{14062}{}{GOVERNO: Presidente e um Congresso.}
+{14063}{}{COSTASGROUND RADIATION COUNT: Current readings are}
+{14064}{}{indisponível.}
+{14065}{}{Taxa de MUTAÇÃO: varia entre os territórios.}
+{14066}{}{** END-PAR **}
+{14067}{}{BROKEN HILLS: A mining community to the south do Vault}
+{14068}{}{Cidade que minera minério de urânio. O minério é comercializado para Vault}
+{14069}{}{Cidade em troca de suprimentos médicos, principalmente RadX e}
+{14070}{}{RadAway. Acredita-se que os seres humanos sejam forçados a viver com}
+{14071}{}{mutantes e ghouls dentro da cidade. Devido à natureza}
+{14072}{}{do the inhabitants and the high probability do}
+{14073}{}{contaminação, os cidadãos do cofre devem evitar Broken Hills}
+{14074}{}{a todo custo!}
+{14075}{}{}
+{14076}{}{POPULAÇÃO: Nenhum recenseamento atual, que se acredita estar no}
+{14077}{}{hundreds do residents.}
+{14078}{}{GOVERNO: rumores de que um MUTANTE serve como o primeiro}
+{14079}{}{Citizen do this community. This is extremely unlikely,}
+{14080}{}{as most mutants are incapable do higher reasoning. If}
+{14081}{}{esse rumor é verdadeiro, é outro motivo para evitar}
+{14082}{}{Broken Hills completamente.}
+{14083}{}{COSTASGROUND RADIATION COUNT: Current readings are}
+{14084}{}{indisponível. Believed high.}
+{14085}{}{Taxa de MUTAÇÃO: acreditado alto. Broken Hills é muito provável}
+{14086}{}{has a high rate do degenerative mutations.}
+{14087}{}{** END-PAR **}
+{14088}{}{VAULT CITY: esta utopia está livre de crimes e outros}
+{14089}{}{Doentes sociológicos que infligem as outras comunidades}
+{14090}{}{no norte da Califórnia. Existiu independente}
+{14091}{}{desde o surgimento do Vault 8, e mantém uma}
+{14092}{}{economia próspera baseada na exportação de tecnologia médica}
+{14093}{}{para comunidades estranhas no norte da Califórnia. Todos}
+{14094}{}{Os cidadãos são encorajados a permanecer em Vault City}
+{14095}{}{quando possível.}
+{14096}{}{}
+{14097}{}{POPULAÇÃO: Censo atual 103 Cidadãos.}
+{14098}{}{GOVERNO: Primeiro cidadão e conselho.}
+{14099}{}{COSTASGROUND RADIATION COUNT: Files have been deleted,}
+{14100}{}{faltando as seguintes cordas: [- $ Gecko - / - $ Água subterrânea}
+{14101}{}{Contaminação-]}
+{14102}{}{Taxa de MUTAÇÃO: os arquivos foram excluídos, faltando o}
+{14103}{}{seguintes cordas: [- $ Birthrate% -]}
+{14104}{}{** END-DISK **}
+
+{15000}{}{NOVO DISCO DE INFORMAÇÕES DA REPÚBLICA DA CALIFÓRNIA 5}
+{15001}{}{** END-PAR **}
+{15002}{}{Este disco parece preenchido com relatórios sobre NCR -}
+{15003}{}{totais mensais de produção, horários de caravanas,}
+{15004}{}{security rosters, minutes do Congressional hearings,  }
+{15005}{}{Relatórios do conselho secreto, correspondência diplomática}
+{15006}{}{de New Reno, Redding e Vault City, até vários}
+{15007}{}{weeks worth do President Tandi's appointment schedule.}
+{15008}{}{Não há nada aqui sobre o Vault 13 ou um GECK, no entanto.}
+{15009}{}{Todos os relatórios são dirigidos a Darion e estão assinados}
+{15010}{}{"F-".}
+{15011}{}{** END-DISK **}
+
+{16000}{}{NOVO DISCO DE INFORMAÇÕES DA REPÚBLICA DA CALIFÓRNIA 1}
+{16001}{}{** END-PAR **}
+{16002}{}{Estava aqui! Por que não se juntar a nós?}
+{16003}{}{** END-PAR **}
+{16004}{}{Há um futuro maravilhoso à frente - e poderia ser}
+{16005}{}{seu com a Nova República da Califórnia!}
+{16006}{}{** END-PAR **}
+{16007}{}{Mas o que é, você quer saber?}
+{16008}{}{** END-PAR **}
+{16009}{}{COMO BIG IS NCR?}
+{16010}{}{Founded eighty years ago, the NCR is now comprised do }
+{16011}{}{the states do Shady, Los Angeles, Maxson, Cubo, and    }
+{16012}{}{Dayglow. Aproximadamente 700 mil cidadãos estão satisfeitos}
+{16013}{}{para ligar para a casa da NCR.}
+{16014}{}{** END-PAR **}
+{16015}{}{O QUE NCR SUPORTE?}
+{16016}{}{A Nova República da Califórnia é dedicada a trazer}
+{16017}{}{peace, security and justice to the people do the great}
+{16018}{}{oeste. As policiais finas da NCR constantemente patrulham e}
+{16019}{}{prenda todos os incursores, canibais, escravizados e sem lei}
+{16020}{}{mutantes dentro do país, e o exército NCR valentemente}
+{16021}{}{protege as fronteiras contra marauders externos. Para}
+{16022}{}{garantir a justiça e a liberdade, todos os cidadãos têm acesso}
+{16023}{}{para os tribunais da NCR e o direito de votar por um}
+{16024}{}{representative do their choice to sit in the Hall do  }
+{16025}{}{Congress. In the words do President Tandi,            }
+{16026}{}{"Um povo seguro é uma pessoa forte".}
+{16027}{}{** END-PAR **}
+{16028}{}{QUEM CARTA AQUI?}
+{16029}{}{NCR pode ser um pouco diferente do que você está acostumado.}
+{16030}{}{Não há chefes, chefes da cidade, reis ou}
+{16031}{}{ditadores aqui. Nossos líderes são eleitos pelas pessoas!}
+{16032}{}{Isso mesmo - cada estado tem o direito de enviar}
+{16033}{}{representatives to the Hall do Congress. These        }
+{16034}{}{representantes selecionam o presidente e}
+{16035}{}{Vice-presidente para dirigir o conselho e é o seu}
+{16036}{}{conselhos que orientam as decisões do presidente. Para}
+{16037}{}{dez termos agora, o presidente Tandi foi o unânime}
+{16038}{}{choice do the council, who respect her wisdom and     }
+{16039}{}{previsão.}
+{16040}{}{** END-PAR **}
+{16041}{}{PARECE BOM! COMO EU FICO AO NCR?}
+{16042}{}{Todas as pessoas respeitadoras da lei e pacíficas, humanas ou mutantes,}
+{16043}{}{are eligible to become citizens do NCR. To become a   }
+{16044}{}{cidadão, tudo o que você tem a fazer é mudar para NCR e presente}
+{16045}{}{sua reivindicação de imigração. Após o treinamento de cidadania}
+{16046}{}{e processando seu aplicativo, você será notificado}
+{16047}{}{do your new status as a PC (Provisional Citizen). From}
+{16048}{}{Aí, é apenas um pequeno passo para a cidadania plena!}
+{16049}{}{** END-PAR **}
+{16050}{}{Claro, a NCR não é para todos - escravos,}
+{16051}{}{mutantes não reformados, invasores conhecidos e outros}
+{16052}{}{não é necessário aplicar indesejáveis!}
+{16053}{}{** END-PAR **}
+{16054}{}{MAS EU O QUE SEJA SEU TODO A CIDADE QUER SE JOINAR?}
+{16055}{}{Dependendo de onde sua cidade está localizada, a NCR faz}
+{16056}{}{aceitar petições por vilas, cidades, bases,}
+{16057}{}{cidades-estados, mesmo reinos menores para anexação por}
+{16058}{}{NCR. Uma vez aceita a petição, a NCR concederá}
+{16059}{}{o status territorial da sua cidade. Uma vez que a polícia necessária}
+{16060}{}{e a presença do exército é estabelecida e qualquer bandolim ou}
+{16061}{}{Outra ilegalidade foi tratada, sua aldeia}
+{16062}{}{pode candidatar-se a um estado completo na NCR. É isso}
+{16063}{}{simples!}
+{16064}{}{** END-PAR **}
+{16065}{}{Então lembre-se - ESTAMOS AQUI. Por que não se juntar a nós?}
+{16066}{}{** END-PAR **}
+{16067}{}{Preparado pelo novo painel consultivo de relações da Califórnia}
+{16068}{}{** END-PAR **}
+{16069}{}{NCRAP Pub. # A7-7893b}
+{16070}{}{Esta página foi intencionalmente deixada em branco.}
+{16071}{}{** END-DISK **}
+
+{17000}{}{Primeiro cidadão Lynette;}
+{17001}{}{** END-PAR **}
+{17002}{}{O correio enviou o disco que você enviou. Você era}
+{17003}{}{correct, do course. The information should prove most }
+{17004}{}{útil no próximo debate do conselho. Com o que você tem}
+{17005}{}{enviou-me, tenho certeza de que posso impedir, se não frustrar, qualquer}
+{17006}{}{novas tentativas de uma NCR / New Reno Alliance.}
+{17007}{}{** END-PAR **}
+{17008}{}{    Só posso assegurar-lhe que, se for dado o meu caminho como eu}
+{17009}{}{esperar, não haverá mais interferência ou}
+{17010}{}{provocation by the NCR in any do Vault City's affairs.}
+{17011}{}{Eu, por um lado, respeito sua soberania e não concordo}
+{17012}{}{com os engenheiros que desejam privar nossos}
+{17013}{}{innocent neighbors do their freedoms.                 }
+{17014}{}{** END-PAR **}
+{17015}{}{Seu amigo e aliado,}
+{17016}{}{Roger Westin}
+{17017}{}{** END-DISK **}
+
+# State do the Nation
+{18000}{}{Memo: State do the Nation}
+{18001}{}{De: Presidente Dick Richardson}
+{18002}{}{To: The People do this Great Nation}
+{18003}{}{Subject: The State do the Union Address}
+{18004}{}{** END-PAR **}
+{18005}{}{Companheiros americanos, fiquei com honra de ser o mordomo}
+{18006}{}{que levará o povo americano de volta ao continente}
+{18007}{}{para reivindicar os Estados Unidos para seus próprios cidadãos. Nós}
+{18008}{}{will be the first generation free do the mutant threat }
+{18009}{}{em mais de cem anos.}
+{18010}{}{** END-PAR **}
+{18011}{}{Tem sido uma longa espera, e o trabalho que fez isso}
+{18012}{}{possível foi difícil. Às vezes parecia}
+{18013}{}{impossível, no entanto, através do bravo e incansável}
+{18014}{}{efforts do our own head do the Chemical Corps, Dr. }
+{18015}{}{Charles Curling, the hour do our salvation is now at }
+{18016}{}{mão.}
+{18017}{}{** END-PAR **}
+{18018}{}{Bravo, firme, blá, blá, blá. Jeez, alguém}
+{18019}{}{realmente ouve essas coisas?}
+{18020}{}{** END-PAR **}
+{18021}{}{- Notas para auto-}
+{18022}{}{1) Continue assim por um pouco para cobrir o projeto de Curling.}
+{18023}{}{2) Diga a todos o quão firme, etc., eles são}
+{18024}{}{     Yadda, yadda, yadda}
+{18025}{}{** END-PAR **}
+{18026}{}{Certifique-se de fazer um plugue para reeleição.}
+{18027}{}{** END-PAR **}
+{18028}{}{Lembre-se de NÃO abraçar o meu interno no caminho para baixo do}
+{18029}{}{pódio.}
+{18030}{}{** END-PAR **}
+{18031}{}{Importante: termine de escrever isso em breve. Poderemos}
+{18032}{}{gaste esses malditos mutantes qualquer semana agora se o relatório Curling}
+{18033}{}{está correto.}
+{18034}{}{** END-DISK **}
+
+# Lista de palavras
+{19000}{}{Memo: Lista de palavras}
+{19001}{}{De: Vice-Presidente Daniel Bird}
+{19002}{}{Para mim}
+{19003}{}{Subject: My Lista de palavras}
+{19004}{}{** END-PAR **}
+{19005}{}{Palavras difíceis:}
+{19006}{}{--------------------}
+{19007}{}{Batata}
+{19008}{}{Tomate}
+{19009}{}{Psicopata}
+{19010}{}{Califórnia}
+{19011}{}{Estar preparado}
+{19012}{}{Verbosidade}
+{19013}{}{Inarticulado}
+{19014}{}{Sutil}
+{19015}{}{** END-PAR **}
+{19016}{}{Palavras a mudar:}
+{19017}{}{----------------------}
+{19018}{}{Batatae}
+{19019}{}{Tomatee}
+{19020}{}{Sycho}
+{19021}{}{Kalifornia}
+{19022}{}{Estar preparado}
+{19023}{}{Suttell}
+{19024}{}{Jackelope - faça deste o novo mascote nacional (isto é}
+{19025}{}{uma criatura americana?)}
+{19026}{}{** END-DISK **}
+
+# O projeto
+{20000}{}{Memo: O projetos, Quarterly Status Brief}
+{20001}{}{De: Tenente Coronel, Dr. Charles Curling, Corpo Químico dos EUA.}
+{20002}{}{Para: Gabinete}
+{20003}{}{Assunto: Projeto próximo atingindo o estado operacional completo.}
+{20004}{}{** END-PAR **}
+{20005}{}{É minha honra e feliz privilégio relatar o próximo}
+{20006}{}{completion do O projeto. After years do work, we've }
+{20007}{}{managed to isolate the most toxic elements do the F.E.V.}
+{20008}{}{virus. Some do the only recently decoded information}
+{20009}{}{que recuperamos da base militar abandonada no}
+{20010}{}{O continente tem sido fundamental para o avanço da nossa pesquisa.}
+{20011}{}{** END-PAR **}
+{20012}{}{Descobrimos que o F.E.V. o vírus não era originalmente}
+{20013}{}{designed to be used as an agent for the creation do super-}
+{20014}{}{soldados. Inicialmente, parece, o F.E.V. estava}
+{20015}{}{projetado como uma toxina virulenta. Só depois foi o F.E.V.}
+{20016}{}{vírus manipulados na tentativa de criar super-soldados.}
+{20017}{}{** END-PAR **}
+{20018}{}{Ao retroceder um pouco em nossa pesquisa, e com a}
+{20019}{}{help do the additional information from the military }
+{20020}{}{base's records, we've been able to turn our version do }
+{20021}{}{o F.E.V. (F.E.V. Curling-13) em um muito mais tóxico}
+{20022}{}{agente.}
+{20023}{}{** END-PAR **}
+{20024}{}{Testes finais realizados nos assuntos do vault-descendente,}
+{20025}{}{da aldeia "Arroyo", mostraram uma taxa de sobrevivência}
+{20026}{}{do zero-percent, with most deaths occurring within }
+{20027}{}{one-hour do exposure to a .0001% aerosol solution. By }
+{20028}{}{contraste, os assuntos extraídos do Vault 13 tendem}
+{20029}{}{sofrer hemorragias e convulsões subdurais dentro de}
+{20030}{}{one-hour do exposure, with death not occurring, on }
+{20031}{}{média, por mais 14,5 horas.}
+{20032}{}{** END-PAR **}
+{20033}{}{Em ambos os casos, os níveis de toxicidade do F.E.V. são agora}
+{20034}{}{sufficient to insure a "clean-sweep" do all infested }
+{20035}{}{(ou seja, não-Enclave) locais. Níveis atuais liberáveis}
+{20036}{}{do F.E.V. Curling-13 show a 95% probability do .00007%}
+{20037}{}{average saturation. While the consensus do the Chemical}
+{20038}{}{Corps é que este seria um nível suficiente para garantir}
+{20039}{}{the success do the Project, we believe that it is worth}
+{20040}{}{esperando até que possamos acumular suficiente F.E.V. toxina para}
+{20041}{}{alcance nossa saturação de .0001% e 99.5% de extermínio}
+{20042}{}{objetivo de nível.}
+{20043}{}{** END-PAR **}
+{20044}{}{Atual F.E.V. Curling-13, os níveis de produção mostram que}
+{20045}{}{we'll reach our release goal, do 250,000 gallons, within}
+{20046}{}{seis semanas.}
+{20047}{}{** END-PAR **}
+{20048}{}{Congratulations, ladies and gentlemen, our long years do}
+{20049}{}{O trabalho está quase no fim.}
+{20050}{}{Deus abençoe a America.}
+{20051}{}{** END-DISK **}
+
+# Operações de usinas
+{21000}{}{Memorando: A.E.C., Status Brief}
+{21001}{}{De: Tom Murray, presidente da Comissão de Energia Atômica}
+{21002}{}{Para: Gabinete}
+{21003}{}{Subject: Danger do overdependence  upon central computer }
+{21004}{}{para todo o controle do reator.}
+{21005}{}{** END-PAR **}
+{21006}{}{NOTA para o GABINETE: odeio ser um nag trazendo}
+{21007}{}{isso o tempo todo, mas não posso enfatizar demais}
+{21008}{}{importance do diversifying our Atomic Powerplant's }
+{21009}{}{control systems. Here's my doficial report. I think that}
+{21010}{}{Uma vez que você lê, você entenderá por que precisamos ter}
+{21011}{}{um sistema de backup.}
+{21012}{}{--Tom}
+{21013}{}{** END-PAR **}
+{21014}{}{Regulador de Reactor de Energia Atômica}
+{21015}{}{------------------------------------------}
+{21016}{}{O novo Reator Nuclear de Uranium da Vault-Tec vem funcionando}
+{21017}{}{to top efficiency so far. With the state do the art }
+{21018}{}{sistemas informáticos que foram feitos especificamente para o}
+{21019}{}{task do regulating the coolant temperature as well as }
+{21020}{}{muitas outras funções-chave, somos capazes de permitir a}
+{21021}{}{Reator para funcionar com supervisão mínima.}
+{21022}{}{** END-PAR **}
+{21023}{}{Os novos processadores síncronos que construímos}
+{21024}{}{na placa-mãe tri-processador são capazes de realizar várias tarefas}
+{21025}{}{the coolant temperature, the intake do cool sea water,}
+{21026}{}{the outtake do expended coolant and waste from the }
+{21027}{}{reactions, and the regulation do the neutron bombardment}
+{21028}{}{sobre o urânio. Sem os sistemas informáticos, o}
+{21029}{}{reactor would go out do balance almost immediately, }
+{21030}{}{causing a chain-reaction bombardment do the uranium }
+{21031}{}{isótopos. Dentro de duas horas, ou menos, isso resultaria}
+{21032}{}{em uma explosão nuclear equivalente em 100 quilos}
+{21033}{}{alcance.}
+{21034}{}{** END-PAR **}
+{21035}{}{The sum do the main portions do the reactor are placed}
+{21036}{}{subaquática, abaixo da estação. Este arranjo}
+{21037}{}{permite que a temperatura natural do oceano mantenha a}
+{21038}{}{refrigerador exterior. A água do mar, a partir de 500 metros, é bombeada}
+{21039}{}{into the coolant chamber. A portion do the cool seawater}
+{21040}{}{é desviado para a unidade de contenção, onde o núcleo e}
+{21041}{}{as barras de controle são. Lá, ele circula através do núcleo,}
+{21042}{}{ficando aquecido a partir da reação nuclear ocorrendo.}
+{21043}{}{A água do mar atinge o ponto de ebulição e o resultado}
+{21044}{}{O vapor é usado para transformar o gerador da turbina para criar}
+{21045}{}{all do our electricity. The steam then condenses and }
+{21046}{}{retorna para um tanque de filtro. A água limpa é inserida}
+{21047}{}{de volta a um tanque de preparação, pronto para iniciar o ciclo}
+{21048}{}{tudo de novo.}
+{21049}{}{** END-PAR **}
+{21050}{}{Água gravemente irradiada e tóxicos diversos}
+{21051}{}{materials, are pumped out do the station through a }
+{21052}{}{lixo-conduto, terminando uma milha ao sul.}
+{21053}{}{Relatórios de nossa equipe de pesquisa afirmam que nossos efluvios}
+{21054}{}{drifts down the coast do southern Califórnia and Mexico,}
+{21055}{}{causing irreversible ecological damage. Many do the }
+{21056}{}{As praias estão agora saturadas com resíduos tóxicos e altamente}
+{21057}{}{vida radiativa do mar. Felizmente, isso não nos afeta.}
+{21058}{}{** END-PAR **}
+{21059}{}{Em qualquer caso, se nosso reator estiver desligado, nós temos}
+{21060}{}{algumas baterias de backup que podem ser usadas para alimentar energia vital}
+{21061}{}{sistemas em todo o Enclave até que a energia seja restaurada.}
+{21062}{}{No entanto, estes não incluem energia estranha e de alta energia}
+{21063}{}{itens como campos de força. Além disso, como uma precaução de segurança,}
+{21064}{}{certas portas estanques em toda a estação,}
+{21065}{}{fechar quando o poder é reduzido (para evitar inundações no caso}
+{21066}{}{do an emergency). This will restrict movement through the}
+{21067}{}{station but movement to the top do the station is still}
+{21068}{}{possível, através de rotas alternativas.}
+{21069}{}{** END-PAR **}
+{21070}{}{O problema real é que, se o computador for}
+{21071}{}{shut down or destroyed, unlikely though both do those }
+{21072}{}{os eventos podem ser, o reator ficará crítico até o ponto}
+{21073}{}{do meltdown within two-hours. We need to install some}
+{21074}{}{sort do a human-maintained backup system. I know that}
+{21075}{}{Você pode pensar que sou alarmista por trazer estes}
+{21076}{}{provisões para um evento impensável, no entanto, sempre}
+{21077}{}{paga para estar preparado.}
+{21078}{}{** END-PAR **}
+{21079}{}{Enquanto isso, vamos nos certificar de que ninguém exploda a nossa}
+{21080}{}{computador (hah, hah).}
+{21081}{}{** END-PAR **}
+{21082}{}{Seu, Tom Murray, presidente, A.E.C.}
+{21083}{}{** END-DISK **}

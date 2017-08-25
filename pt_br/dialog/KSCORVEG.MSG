@@ -1,0 +1,15 @@
+{100}{}{Um velho, quebrou Highwayman.}
+{110}{}{Esta máquina está em muito pior forma do que parece - nada fará com que isso seja executado novamente. Parece
+ Como há uma caixa de peças do motor no banco de trás que ainda está em muito boa forma, no entanto.}
+{111}{}{Esta máquina está em mau estado. No entanto, há um pacote no banco de trás.}
+{112}{}{Esta máquina parece ser a mesma coisa que as outras na frente. Parece que existe um pacote no
+ banco de trás.}
+{113}{}{Esta máquina antiga está em excelente forma! Eu aposto que eu poderia corrigi-lo de alguma forma. Se eu tivesse as peças ...}
+{120}{}{O motor parece muito enferrujado para consertar. Enquanto você estava olhando o carro, você encontrou um
+ garrafa de aditivo de combustível que parece que ele arderia muito bem.}
+{121}{}{O motor é nada além de uma pilha de ferrugem que desmorona assim que você abre o capuz.}
+{122}{}{Este é um fixador real - superior. Eu acho que não tenho a habilidade ou peças para fazer isso funcionar ainda.}
+{123}{}{Parece que este bebê está quase pronto para o rock. Apenas mais algumas voltas sobre essa porca ... (Você pula
+ de volta à surpresa quando o motor cai do carro, entrando em colapso em uma pilha de ferrugem e componente
+ partes.)}
+{130}{}{Você encontra um sistema de injeção de combustível no banco de trás.}

@@ -1,0 +1,3 @@
+{100}{}{Uh ... é um banheiro.}
+{101}{}{Ei, alguém escondeu algumas granadas dentro do tanque do banheiro.}
+{102}{}{Nada mais aqui ... bem, nada vale a pena tomar.}

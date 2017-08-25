@@ -1,0 +1,266 @@
+{100}{}{Você vê um ghoul vestindo roupas antigas e mantidas com graxa.}
+{101}{}{Você vê Skeeter, o Ghoul Gadgeteer.}
+{102}{}{Você vê um ghoul sujo, mas de aparência inteligente, usando macacões gordurosos com um micômetro
+ saindo do bolso.}
+
+{110}{}{Apenas não toque nada - você pode se machucar.}
+{111}{}{Eu pensei que os tribais não eram tão sofisticados.}
+{112}{}{Você pode assistir. Você pode aprender alguma coisa, mas eu duvido disso.}
+{113}{}{Bem, você não é outra coisa.}
+{114}{}{Você está apenas fingindo ser burro, ou você realmente é tão estúpido?}
+
+{120}{}{Engraçado você deve perguntar isso. Veja, os carros usam pilhas de combustível substituíveis, ou baterias, para combustível. o que
+ geralmente quebrou foi o Controlador de Pilhas de Combustível. A maioria dos mecânicos amadores jist assume que é o
+ bateria em si. Mas você sabe o que as coisas que fazem, não é?}
+{121}{}{Não, eu não. O que você quer dizer?}
+{122}{}{Então, isso significa que você tem um Controlador de célula de combustível?}
+
+{130}{}{Bem, assumindo que algo faz uma bunda fora de você e eu. Pegue? Ainda é bom, não é
+ isto? Heh heh! Eu não usei isso há anos.}
+{131}{}{Uh, obrigado pela lição. Agora, você tem um Controlador de célula de combustível?}
+
+{140}{}{Sim. Claro que sim. Chegou aqui. Jist espera um carro para ser colocado. Você conseguiu um carro?}
+{141}{}{Eu sei onde está. O que isso vai me custar para obter esse Controlador de Pilhas de Combustível?}
+{142}{}{Eu posso ter um. Talvez eu pareça chipsets antigos. Quanto para o Controlador de célula de combustível?}
+{143}{}{Eu queria que eu fizesse. Se eu encontrar um, saberia por onde vir para um novo Controlador de Pilha de Combustível. Adeus.}
+{144}{}{Na verdade, tenho outra pergunta para você.}
+
+{150}{}{Bem, o dinheiro é bom, mas eu preciso de mais agora. Simplesmente eu não vou conseguir para mim.}
+{151}{}{O que você precisa?}
+
+{160}{}{Ótimo. Você tem meu regulador de plasma. Obrigado. Agora, devo-lhe algum trabalho gratuito. O que você queria
+ pra mim trabalhar? Eu direi o quanto custaria, mas esse já foi pago.}
+{161}{}{Deixe-me ver o que você pode trabalhar.}
+{162}{}{Acho que vou fazer um teste de chuva sobre isso por enquanto. Adeus.}
+
+{170}{}{Obrigado por arrumar nosso reator atômico. A costa precisava de algum trabalho. Eu gostaria de mostrar como eles, mas
+ eles não confiam mais em mim. Eles obtiveram esse idjit loudmouth Festus fazendo todo o trabalho agora.}
+{171}{}{Bem, fiquei feliz em ajudar. No entanto, agora preciso de algo.}
+{172}{}{Com certeza teria sido mais fácil se eles permitissem corrigi-lo. Bem, está feito agora. Até logo.}
+
+{180}{}{Você já obteve meu Transformer de Plasma de 3 Passos ainda?}
+{181}{}{Ainda não tenho, mas ainda estou trabalhando nisso. Deixe-me perguntar-lhe outra coisa.}
+{182}{}{Ainda não. Mas eu vou. Adeus.}
+
+{190}{}{Olá, eu sou o Skeeter. Eu juntei as coisas aqui.}
+{191}{}{Olá. O que você quer dizer?}
+{192}{}{Whaddya precisa?}
+
+{200}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
+{201}{}{Você tem uma bateria que eu poderia usar para consertar um carro?}
+{202}{}{Tenho algumas coisas que eu quero que você veja.}
+{203}{}{O que você faz aqui?}
+{204}{}{Uh, eu estava apenas olhando ao redor. Adeus.}
+
+{210}{}{O que você quer que eu veja?}
+{211}{}{Pronto para mim dar uma olhada em outra coisa? O que você quer que eu olhe agora?}
+{212}{}{Eu tenho essa coisa de telescópio.}
+{213}{}{Eu tenho um 'X'}
+{214}{}{Eu tenho um 'X'}
+{215}{}{Eu tenho um 'X'}
+{216}{}{Eu tenho um 'X'}
+{217}{}{Posso trocar as peças mais tarde?}
+{218}{}{Não preciso de mais nada. Adeus.}
+
+{220}{}{Hmm, eu posso anexar este escopo que você tem para o seu rifle.}
+{221}{}{Bem, eu posso anexar esse escopo a um de seus rifles. Qual você quer que eu anexe?}
+{222}{}{Quanto custa custar esse escopo ao meu Rifle de caça?}
+{223}{}{Quanto custa custar esse escopo ao meu Rifle de Assalto?}
+{224}{}{Quanto custará custar esse escopo ao meu Sniper Rifle?}
+{225}{}{Deixe-me perguntar-lhe sobre outro item.}
+{226}{}{Eu acho que é tudo o que preciso saber. Adeus.}
+
+{230}{}{Hmm, eu pensei. Bem, veja, eu não vou fazer nada com o seu [Nome da parte selecionado]. Você precisa
+ Tenho outro tempo para eu fazer sumthin com isso.}
+{231}{}{Hmm, e um item diferente, então?}
+{232}{}{De que parte eu preciso?}
+{233}{}{Acho melhor voltar depois de ter outra coisa. Adeus.}
+
+{240}{}{Lá você vai. Eu acho que isso deve funcionar para você tudo bem. Algo mais?}
+{241}{}{Sim, você poderia examinar outro item para mim?}
+{242}{}{Isso é tudo o que preciso agora. Obrigado. Adeus.}
+
+{250}{}{Hmm, você não tem dinheiro suficiente para cobrir o custo de trabalhar com isso. Tinha obtido mais você
+ Quer me olhar?}
+{251}{}{Quanto custaria combinar outra coisa?}
+{252}{}{Acho que não. Obrigado de qualquer maneira. Adeus.}
+
+{260}{}{Principalmente, eu toco algo com as coisas. Tire-os de uma tentativa de colocá-los todos de volta juntos ...
+ na maioria das vezes. Faça com que eles funcionem melhor ... às vezes. Mantendo-me fora de problemas. Sabe o que eu quero dizer?}
+{261}{}{Eu acho. Deixe-me perguntar-lhe outra coisa.}
+{262}{}{Bem, acho melhor eu fazer algo sozinho. Adeus.}
+
+{270}{}{Você está olhando um GECK, hein? Bem, eu não sei exatamente onde você pode encontrar um deles
+ coisas. Eu sei que Vault City usou prolly eles próprios.}
+{271}{}{Vault City tinha um?}
+{272}{}{Hmm. Bem, deixe-me perguntar-lhe outra coisa então.}
+{273}{}{Bem, é melhor eu continuar olhando. Adeus.}
+
+{280}{}{Eles certamente fizeram. É por isso que eles estão tão abatidos. Com certeza não é porque eles sabem o que
+ Faz. É porque o GECK começou a fazer as colheitas, e começou a correr a cidade quando saíram
+ o cofre.}
+{281}{}{Quem teria um GECK não utilizado?}
+
+{290}{}{Bem, veja aqui agora. Como eu me lembro, a maioria dos Vaults foram obrigados a ter um GECK.
+ Você pode tentar procurar outro cofre algum dia.}
+{291}{}{Obrigado pelo conselho. Deixe-me perguntar-lhe outra coisa.}
+{292}{}{Bem, é melhor eu procurar em seguida. Adeus.}
+
+{300}{}{Seja certo, honesto com você, eu não sei. Se eu tiver todas as peças da Dinamarca juntas, eu vou ter uma espécie de
+ Sinta-se como todos juntos. Saiba o que significa?}
+{301}{}{Uh, você quer dizer que você está fazendo isso por adivinhação?}
+{302}{}{Que tal dar uma olhada em outra coisa, então?}
+{303}{}{Bem, acho que isso faz sentido. É melhor ir procurar outra parte, então. Adeus.}
+
+{310}{}{Bem, sim. Mas você vê, é uma adivinhação certa edu-ma-cated. É isso que é. Saiba o que significa?}
+{311}{}{Eu não sei o que você quer dizer exatamente, mas acho que vou procurar outra parte. Adeus.}
+{312}{}{Que tal dar uma olhada em outra coisa, então?}
+{313}{}{Bem, acho que isso faz sentido. É melhor ir procurar outra parte, então. Adeus.}
+
+{320}{}{Hoje em dia, boas ferramentas são mais difíceis de usar do que as partes. Preciso de mim um novo kit de ferramentas Super Super.
+ Melhor da marca Snap-Sumthin.}
+{321}{}{Um novo kit de ferramentas? Onde posso conseguir isso?}
+
+{330}{}{Eu acho que o melhor lugar para ir um 'git que seria para baixo em Vault City alguns. Eles têm
+ Obteve todos os tipos de ferramentas, mas com certeza, como não poderia dar-lhes um ghoul, não como.}
+{331}{}{Então, você quer que eu traga você um Super Tool Kit, e então você me dará a parte do carro?}
+
+{340}{}{Egg-zactly. Este é o acordo. Um Super Kit de ferramentas para um controlador de célula de combustível.}
+{341}{}{Sounds like a fair deal, Eu acho. Deixe-me perguntar-lhe outra coisa.}
+{342}{}{E se eu apenas fizer isso de maneira fácil? Eu mato você e pego a parte que eu preciso.}
+{343}{}{Eu acho que vou andar um pouco e pensar sobre isso. Adeus.}
+
+{360}{}{Bem agora. Você poderia fazer isso, talvez. Então agin, você pode estar de surpresa. Eu
+ pode ser mais difícil do que você pensa. Então, novamente, mebebe, você deveria estar com sua própria garganta. Eu parto ser
+ itens de putt bem úteis juntos. Sempre é bom saber que alguém é capaz de fazer isso, não é?}
+{361}{}{Bem, talvez você esteja certo. Eu vou deixar você viver, por enquanto. Diga-me outra coisa, no entanto.}
+{362}{}{Você tem muitas respostas, não é? Espero que você tenha uma resposta para o que está na vida após a morte,
+ Porque eu estou enviando você lá - agora.}
+{363}{}{Eu vou ter que pensar sobre isso. Até logo.}
+
+{370}{}{Eu vejo que você tem um poderoso kit de ferramentas finas lá. Snap-off, não é? Vou trocá-lo deste Combustível
+ Cell Controller para isso.}
+{371}{}{Olá! Você está de volta com o meu kit de reparo. Mmm, Snap-off - eles são os melhores. Pronto para negociar?}
+{372}{}{É um acordo.}
+{373}{}{Agora não. Eu estou segurando isso por um tempo. Adeus.}
+
+{380}{}{Esse é um bom comércio. Você deve poder juntar o plugue que sugador e entrar em seu carro
+ a'workin '.}
+{381}{}{Esse é um bom comércio. Você deve poder juntar o plugue que sugador e entrar em seu carro
+ a'workin '. You know I could do you another favor by fixin’ up some of yur stuff for free, too.}
+{382}{}{Mesmo? De graça, hein? O que eu preciso fazer por você?}
+{383}{}{Deixe-me perguntar-lhe outra coisa.}
+{384}{}{Eu vou tentar isso imediatamente. Adeus.}
+
+{390}{}{Bem, veja, eu preciso de um transformador de plasma de 3 passos. É o único lugar onde posso figurar para ganhar um
+ é da sala de abastecimento.}
+{391}{}{Por que você não entende isso, então?}
+
+{400}{}{Gostaria de me deixar bem lá. E também foi um pouco de fogo. Coulda aconteceu com jist
+ alguém. De qualquer forma, eles não vão me deixar em qualquer lugar dentro do edifício do reator agora. Preciso de outra pessoa para
+ faça minha parte para mim.}
+{401}{}{Como faço para obter o Transformador de Plasma para você?}
+
+{410}{}{Youz deve receber um formulário de requisição de fornecimento. Depois de ter isso, jist entregue-o a Jeremy em
+ a Sala de Fornecimento e ele lhe dará qualquer coisa maldita que você deseja. Você pode obter Requisições de Abastecimento de
+ Harold ou Festus.}
+{411}{}{Onde estão Harold e Festus e eles apenas me dão a forma que eu preciso?}
+
+{420}{}{Harold's in the Settlement, e Festus está na sala de controle do reator. Mas você pode ter que
+ tipo de obter os formulários na astúcia, se você sabe o que quero dizer.}
+{421}{}{Você quer dizer que eu tenho que roubar o Formulário de Requisição, não é?}
+
+{430}{}{Bem, err, sim. Eu acho. Você pode perguntar-lhes, mas eu não colocaria suas chances muito altas lá.}
+{431}{}{Bem, vou ver o que posso descobrir.}
+{432}{}{Eu não acho que eu quero nada disso. Adeus.}
+
+{440}{}{Didja vem aqui para me levar nesse trabalho que eu devo?}
+{441}{}{Eu com certeza. Deixe-me ver o que você pode trabalhar para mim.}
+{442}{}{Ainda não. Acabei de ver se você ainda está aqui. Bem, adeus por enquanto.}
+
+{450}{}{Eu sinto Muito. Você não tem nada com o que eu possa usar. Algo mais?}
+{451}{}{Dê uma olhada em outra coisa que eu tenho.}
+{452}{}{Acho que é por enquanto. Adeus.}
+
+{460}{}{Vamos ver. Vai custar-lhe $ [custo de combinar item a com item b]. Você quer fazer
+ aquele?}
+{461}{}{Sim. Eu faço. Obrigado.}
+{462}{}{Eu não acho que eu quero fazer isso depois de tudo. E quanto a outra coisa?}
+{463}{}{Acho que não quero que você trabalhe em nada agora mesmo. Adeus.}
+
+{470}{}{Uma vez que eu coloco as coisas, eles permanecem. Você não os separará mais tarde e anexá-los para
+ outras coisas. Melhor escolha na primeira vez, acho.}
+{471}{}{Ok, eu entendo. Dê uma olhada em algo para mim, então.}
+{472}{}{Acho que não quero que você trabalhe em nada agora mesmo. Adeus.}
+
+{500}{}{Eu estava perdendo onde o meu kit de reparo é. Você disse que ia dar uma olhada, não foi?
+ Eu não o fiz bem, sem isso. Desculpa. Deveria estar disponível em Vault City.}
+{501}{}{Eu vou ter que voltar quando eu tiver isso. Adeus.}
+{502}{}{Não creio que eu precise de sua ajuda com nada agora, mesmo assim. Adeus.}
+
+{600}{}{O que você quer que eu veja?}
+{601}{}{Eu tenho uma pistola aqui e eu estava pensando ...}
+{602}{}{Com certeza, parece que você poderia bloquear um acessório para este longo braço aqui.}
+{603}{}{Às vezes eu gosto de me aproximar e de ser pessoal. Qualquer coisa que você possa fazer para melhorar minha arma melee motorizada?}
+{604}{}{Uh, talvez mais tarde. Deixe-me perguntar-lhe sobre outra coisa.}
+{605}{}{Não preciso de mais nada. Adeus.}
+
+{610}{}{[Mancha o seu revólver magnum.] Posso montar um carregador de velocidade naquele magnum por $}
+{611}{}{Hmm, que Desert Eagle certamente seria uma plataforma doce com uma revista expandida. Eu posso fazer isso por $}
+{612}{}{Coloque o carregador de velocidade no magnum.}
+{613}{}{Expandir a revista no meu Desert Eagle aqui.}
+{614}{}{Na verdade, eu tinha outra arma em mente ...}
+{615}{}{Hmm, deixe-me perguntar-lhe sobre outra coisa.}
+{616}{}{Talvez eu volte mais tarde.}
+{617}{}{Muito rico para o meu sangue. Volto quando tiver mais dinheiro.}
+
+{620}{}{[Skeeter estuda seu braço longo e acena lentamente.]}
+{621}{}{Posso colocar um bom alcance de todos os tempos nesse rifle de caça por $}
+{622}{}{Nada como ter um rifle de assalto com uma revista expandida. Posso consertar
+ o seu com um por $}
+{623}{}{Que FN FAL é uma boa arma. Ei, eu tenho um alcance baixo para isso. É seu
+ por $}
+{624}{}{Tudo bem então ... coloque um escopo no rifle de caça Colt.}
+{625}{}{Expandir a revista do rifle de assalto AK-112.}
+{626}{}{Anexe esse escopo de luz baixa no FN FAL.}
+{627}{}{Muito rico para o meu sangue. Volto quando tiver mais dinheiro.}
+
+{630}{}{Você quer que essa arma de corpo a corpo esteja suja? Eu posso * supercarregar * por $}
+{631}{}{Certo.}
+
+{640}{}{[Skeeter tira o item e examina-o com um brilho estranho no dele
+ olho] Bem, este é um desafio de ácaros, mas acho que consigo corrigir isso de verdade.
+ para você. Apenas fique apertado por um tempo. [Skeeter leva a arma ao seu
+ banco de trabalho e trava-o em um torno realmente grande.]}
+{641}{}{OK.}
+
+{650}{}{[Enquanto espera, pode ver as costas de Skeeter enquanto ele trabalha em sua arma. Você
+ não sabe exatamente o que ele está fazendo, mas essa risada estranha e todos os golpes são
+ deixando você nervoso.]}
+{651}{}{Esperar...}
+
+{660}{}{[Mais pounding e cackling como você espera um pouco mais ....]}
+{661}{}{[Você associa sem teto e faz títeres de sombra contra a parede traseira de
+ Oficina de Skeeter ....]}
+
+{670}{}{Ai está. [Você acorda de repente quando Skeeter tira sua arma do
+ bancada de trabalho - você pode ver uma série de pequenas peças metálicas brilhantes
+ banco, enquanto Skeeter retorna sua arma para você.] Que * deveria * fazê-lo, eu acho. Dar
+ tentei.}
+{671}{}{Obrigado. Você pode atualizar minhas outras armas?}
+{672}{}{Obrigado, Skeeter. Permita-me perguntar-lhe outra coisa.}
+{673}{}{Obrigado, Skeeter. Eu vou tentar.}
+
+{680}{}{[Mancha seu revólver magnum.] Posso montar um carregador de velocidade naquele magnum de graça.}
+{681}{}{Hmm, que Desert Eagle certamente seria uma plataforma doce com uma revista expandida. Eu posso fazer isso de graça.}
+{682}{}{Eu posso colocar um bom alcance de todos os tempos nesse rifle de caça de graça.}
+{683}{}{Nada como ter um rifle de assalto com uma revista expandida. Posso consertar
+ o seu com um gratuitamente.}
+{684}{}{Que FN FAL é uma boa arma. Ei, eu tenho um alcance baixo para isso. É seu
+ de graça.}
+{685}{}{Você quer que essa arma de corpo a corpo esteja suja? Eu posso * supercharge * de graça.}
+
+{700}{}{Você entregou a peça à Skeeter.}
+{710}{}{Você entregou o kit de reparo para a Skeeter.}
+
+{5500}{}{.}

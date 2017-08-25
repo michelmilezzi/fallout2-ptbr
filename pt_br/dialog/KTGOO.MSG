@@ -1,0 +1,26 @@
+#############################################################
+#  Message File: ktgoo.msg                                  #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: March 1, 1998                                   #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+{100}{}{Você vê Toxic Goo.}
+{101}{}{Você vê Toxic Goo.}
+
+#############################################################
+#  The following lines are floaters for citizens            #
+#############################################################
+
+{110}{}{Ouch - que goo queima.}
+{120}{}{Essas velhas botas de borracha garantem que o limo esquisito.}
+{130}{}{Suas botas apenas derretidas.}
+{140}{}{Seus pés começam a queimar e coçar.}
+{150}{}{Seus pés queimam e coçam um pouco, mas então eles se sentem melhor.}

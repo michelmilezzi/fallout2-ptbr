@@ -1,0 +1,20 @@
+{100}{}{Você vê um mutante de olhos azuis.}
+{101}{}{Você vê Elmo, o mutante bêbado.}
+{102}{}{Você vê um mutante de olhos azuis que parece ter dificuldade em se concentrar em você.}
+{103}{}{Oh, minha cabeça dolorida.}
+{104}{}{Por que eu sempre acordo na prisão?}
+{105}{}{Alguém pare a sala girando ...}
+{106}{}{Eu acho que vou vomitar.}
+{107}{}{Deusa de porcelana, ouça meu choro! Ooh, minha cabeça ...}
+{108}{}{Shhhhhh! Por favor! Shhhhh!}
+{109}{}{Alguém tem minhas máscaras?}
+{110}{}{Marcus deve estar chateado, eu continuo ficando bêbado assim.}
+{111}{}{Vens alguma bebida? Cabelo do cão e tudo isso.}
+{112}{}{Cara, estou com sede.}
+{113}{}{Geez ... um bourbon, um scotch e uma cerveja, e de repente eu estou na prisão.}
+{114}{}{Não me mostre comida ... não me mostre comida ...}
+{115}{}{... não vá na esquina ... vomitei lá.}
+{116}{}{Homem ... outra noite no tanque bêbado.}
+{117}{}{Quer lutar? Estou meio que desperdiçado.}
+{118}{}{:: tecer :: :: stagger ::}
+{119}{}{Eu amo você, estranho!}

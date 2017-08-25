@@ -1,0 +1,7 @@
+{100}{}{Você quer saber se esses fios estão conectados ao chão.}
+
+{110}{}{Você corta os fios, parando a corrente no chão.}
+{111}{}{ corta os fios, parando a corrente no chão.}
+
+{120}{}{Você é muito inepto para cortar os fios corretos.}
+{121}{}{ é muito inepto para cortar os fios corretos.}

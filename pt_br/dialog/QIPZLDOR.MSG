@@ -1,0 +1,24 @@
+{100}{}{Você vê uma porta bem fechada.}
+{101}{}{Esta porta parece ser selada eletro-magnéticamente. Talvez você possa abri-lo
+ em outro lugar.}
+
+{105}{}{Você ignora o campo elétrico temporariamente.}
+{106}{}{ temporariamente ignora o campo elétrico.}
+
+{110}{}{Você falha miseravelmente ao desarmar o campo elétrico.}
+{111}{}{ falha miseravelmente ao desarmar o campo elétrico.}
+
+{115}{}{Você falha em desarmar o campo elétrico.}
+{116}{}{ falha em desarmar o campo elétrico.}
+
+{120}{}{Você encontra um campo elétrico.}
+{121}{}{ Encontra um campo elétrico.}
+
+{125}{}{Você não consegue mover essa porta.}
+{126}{}{ é incapaz de mover essa porta.}
+
+{130}{}{Você não conseguiu desbloquear esta porta.}
+{131}{}{ não conseguiu desbloquear esta porta.}
+
+{135}{}{Você consegue abrir a porta.}
+{136}{}{ consegue abrir a porta.}

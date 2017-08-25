@@ -1,0 +1,6 @@
+# 1.  SEARCH 1 (WTG)
+{200}{}{Sabendo que este é o quarto de Richard, você procura cuidadosamente sua cômoda.}
+{201}{}{Ei. Encontrei uma jarra de jato vazia embaixo da cômoda.}
+{202}{}{Nada mais aqui.}
+
+{250}{}{Você encontrou uma ... pista. Atrás da cômoda. Na mansão de Wright.}

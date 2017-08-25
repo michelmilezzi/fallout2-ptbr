@@ -1,0 +1,266 @@
+{100}{}{Você vê um homem curto e barrento com uma barba cheia, escura. Ele está coberto de pó de rocha.}
+{101}{}{Você vê Dangerous Dan McGrew, o dono da Morningstar Mine.}
+{102}{}{Você vê um homem fortemente musculoso com uma cicatriz no rosto. Ele parece duro e confiante.}
+{103}{}{Se você tivesse um cérebro, acho que acabaria por morrer de solidão.}
+{104}{}{Eu vou ser condenado. Eu acho que a evolução pode ir em sentido inverso.}
+{105}{}{Você não tem todos os seus cachorros em uma coleira, não é?}
+{106}{}{Não tenho tempo para você. Eu acho que você é apenas algumas ervilhas sem uma caçarola.}
+{107}{}{Apenas alguns palhaços sem um circo, não é?}
+{108}{}{Olá. Meu nome é Dangerous Dan McGrew. Eu administrai a Morningstar Mine aqui. O que eu posso fazer
+ para voce?}
+{109}{}{O que você precisa de mim?}
+{110}{}{O que você mina aqui?}
+{111}{}{Você já ouviu falar de algo chamado um Kit de Criação do Jardim do Éden?}
+{112}{}{Por que eles chamam você * Perigoso * Dan McGrew?}
+{113}{}{O que está acontecendo aqui na cidade ultimamente?}
+{114}{}{Eu estava apenas passando. Adeus.}
+{115}{}{Nós amamos o ouro. Todo mundo também quer. Envie-o até Vault City, New Reno e até mesmo
+ até a NCR. Você pode dizer que Redding tem algo para todos - isso é o que nos mantém
+ independente.}
+{116}{}{Gostaria de ser tão gostado. Deixe-me perguntar-lhe sobre outra coisa.}
+{117}{}{Eu pensaria que alguém tentaria controlar o Redding.}
+{118}{}{Obrigado pela informação. Adeus.}
+{119}{}{O que faz você pensar que eles não têm? Todo mundo gostaria de ter o Redding no seu cinto. Minhas
+ acho que alguém vai nos levar muito cedo. Sobre o único que podemos fazer é escolher o nosso mestre, se
+ queremos sobreviver.}
+{120}{}{O que você quer dizer?}
+{121}{}{Eu acho que isso faz sentido. Bem, boa sorte e adeus.}
+{122}{}{Quero dizer, que vamos ser colocados sob o polegar de alguém. Apenas um tolo pensa o contrário. Nosso
+ A escolha é escolher o polegar mais leve.}
+{123}{}{O que você fez, é claro.}
+{124}{}{Poça polegar feliz, então. Adeus.}
+{125}{}{Você apostou que eu tenho. Se não nos aliciarmos com uma das famílias em New Reno, você pode apenas
+ beije Redding adeus. Pelo menos qualquer tipo de Redding em que eu gostaria de viver.}
+{126}{}{O que você quer dizer?}
+{127}{}{Entendo. Bem adeus.}
+{128}{}{Se a NCR assumir, Redding será colocada sob o polegar, difícil. Eles não são muito grandes
+ liberdade pessoal. Eles vão transformar o Redding em outro mancha no mapa New California Republic.
+ O Redding, eu sei, vai embora para sempre.}
+{129}{}{Hmm, e a Vault City, então?}
+{130}{}{Interessante. Adeus.}
+{131}{}{Vault City? (ele ri) Esses bandidos transformaram Redding em um campo de trabalho escravo. Eles não vêem
+ Qualquer um que não seja um dos seus preciosos Cidadãos como valendo um balde quente de cuspir. Gastando minha vida
+ Curar e raspar esses fanáticos não é minha ideia de qualquer tipo de vida.}
+{132}{}{Como o novo Reno é diferente?}
+{133}{}{Obrigado por me mostrar o que está acontecendo aqui. Adeus.}
+{134}{}{O novo Reno é forte o suficiente para proteger Redding dos outros dois. Desde que o novo Reno se separou
+ entre diferentes famílias de gangues, está dividido o suficiente para nos dar a nossa melhor chance de autonomia. No novo
+ Reno, eles não se importam com a forma como executamos as coisas - desde que ganhem seu ouro.}
+{135}{}{Isso também não soa tão bom.}
+{136}{}{Vadio. Mais tarde.}
+{137}{}{Este não é um mundo perfeito, chum. Às vezes você tem que fazer o melhor de uma situação ruim. Somente
+ Acontece que pessoas ruins podem ser a melhor aposta para a Redding. No entanto, nem todo mundo vê isso.}
+{138}{}{Então, o que você acha que vai acontecer?}
+{139}{}{As opiniões são como idiotas, Dan - todos os têm e todos passam mal. Adeus.}
+{140}{}{Nem todo mundo vê o seu caminho, hein? Não consigo imaginar isso. Adeus, Dan.}
+{141}{}{Não sei com certeza, mas as coisas estão se aquecendo. Qualquer cidade tem os patrocinadores mais fortes aqui em
+ Redding vai pegar toda a torta. Eu apenas estou fazendo o meu melhor para garantir que seja o novo Reno que ganha.
+ Do jeito que eu vejo, essa é a única chance de Redding.}
+{142}{}{Como você pode ajudar o New Reno a assumir o controle?}
+{143}{}{Alguém ganha, alguém perde. Tchau, Dan.}
+{144}{}{A melhor coisa a fazer é apenas fazer minha mina prosperar e garantir que meus mineiros saibam quem paga o
+ contas. O fato de que eles tenham todo o seu molho feliz de New Reno torna o lugar muito mais popular,
+ também.}
+{145}{}{Molho feliz?}
+{146}{}{Todo mundo precisa de um pouco de sol nas suas vidas de vez em quando. Adeus, Dan.}
+{147}{}{Booze, chems, todos os tipos de recreação química. Você nomeia e o novo Reno fornece. É apenas
+ sobre a única coisa que alguns dos meus mineiros trabalham. Seja um inferno para pagar se alguma coisa aconteceu com
+ aquele.}
+{148}{}{Como é o seu abastecimento de Jet ultimamente?}
+{149}{}{Eu aposto. Deixe-me perguntar-lhe sobre outra coisa.}
+{150}{}{Obrigado pela informação. Te vejo ao redor, Dan. Adeus.}
+{151}{}{Agora, não recebemos o suficiente Jet na cidade para manter todos felizes. Espero que sejam os próximos
+ Poucas caravanas ficam bem.}
+{152}{}{Interessante. Deixe-me perguntar-lhe sobre outra coisa, Dan.}
+{153}{}{É melhor eu me divertir, Dan. Adeus.}
+{154}{}{Todo mundo está prestes a rodar no Jet ultimamente. Parece como se a maioria dos homens não conseguisse obter o suficiente
+ disso. Faz com que trabalhadores felizes, porém, não posso reclamar. Alinhados dois profundos na frente do Doc
+ Johnson's, eles são. Se houvesse muito mais, eu começaria a me preocupar.}
+{155}{}{Quem é Doc Johnson?}
+{156}{}{Intersting. Deixe-me perguntar-lhe sobre outra coisa, Dan.}
+{157}{}{É melhor que eu seja moseying, Dan. Adeus.}
+{158}{}{Droga; Há muito Jet nesta cidade. Estamos nos afogando nas coisas. Ninguém quer trabalhar;
+ eles só querem ficar altos. Eu não posso fazer minhas cotas de minério com metade dos meus minúsculos mineiros voando alto em Jet.
+ Maldito que Doc Johnson.}
+{159}{}{Quem é Doc Johnson?}
+{160}{}{Parece um problema. Deixe-me perguntar-lhe sobre outra coisa, Dan.}
+{161}{}{É melhor eu viajar, Dan. Adeus.}
+{162}{}{A maioria dos mineiros que eram verdadeiros Jockeys Jet entraram com muita força. Esse último lote que Doc
+ Johnson vendido deve ter sido muito ruim, de alguma forma.}
+{163}{}{Quem é Doc Johnson?}
+{164}{}{Interessante. Deixe-me perguntar-lhe sobre outra coisa, Dan.}
+{165}{}{É melhor estar caminhando, Dan. Adeus.}
+{166}{}{Eu não sei o que aconteceu, mas a maioria dos Jet Jocks ficou realmente doente com esse último lote - e
+ Agora eles não podem ir perto da Jet sem ficar doente. Doc Johnson está olhando para isso, eu ouvi.}
+{167}{}{Quem é Doc Johnson?}
+{168}{}{Interessante. Deixe-me perguntar-lhe sobre outra coisa, Dan.}
+{169}{}{É melhor eu ser Trekking, Dan. Adeus.}
+{170}{}{Porque eu não sou senão o maior, mais difícil, mina-rastejando, gullywumpin ', cobra-comendo' buck
+ nestas partes aqui. * Perigoso * Dan McGrew; esse sou eu, tudo bem.}
+{171}{}{Entendo; Deixe-me perguntar-lhe outra coisa, Dangerous Dan.}
+{172}{}{Você não parece tão difícil para mim.}
+{173}{}{Parece que você é um cara. Bem, não quero tirar mais o seu valioso tempo, Sr.
+ Perigoso. Adeus.}
+{174}{}{Eles estão lutar nas palavras aqui. Você está pronto para suportar isso?}
+{175}{}{Sim eu estou. Você abriu o seu grande yap uma vez por muitas vezes. Desenhe ... peregrino.}
+{176}{}{Eu poderia, se eu pensasse que você me daria satisfação suficiente para pagar a munição que levaria para matá-lo.}
+{177}{}{Eu poderia, se eu quisesse também. Mas estou muito ocupado para mexer com você agora.}
+{178}{}{Sim, foi o que eu pensei. (pausa) Você é amarelo.}
+{179}{}{Eu vou mostrar-lhe amarelo ... quando eu cortar seu baço. Eu estou te chamando.}
+{180}{}{Só vamos ver sobre isso, algum dia. Até logo.}
+{181}{}{Um Kit de Criação do Jardim do Éden? Nunca ouvi falar de algo assim. Eu tende a encontrar o meu Eden em
+ Braços doces de Lou.}
+{182}{}{O nome de Lou não é um cara?}
+{183}{}{Entendo. Deixe-me perguntar-lhe outra coisa, então.}
+{184}{}{A pesquisa continua. Adeus.}
+{185}{}{É quando não é curto para Louisa, como é o meu Lou's. Ela dirige o Salão Malamute aqui em
+ Cidade. Ei, exatamente o que você está conseguindo, mesmo assim?}
+{186}{}{Uh ... nada, Dan. Nada. Deixe-me perguntar-lhe sobre outra coisa.}
+{187}{}{Nada. Apenas descobrimos algo, só isso. Adeus, doce-ervilha.}
+{188}{}{Meu erro. Bem, é melhor eu me divertir. Adeus.}
+{189}{}{Bem, uma coisa é certa: eu poderia usar um novo chip de controle para minha máquina de escavadeira.}
+{190}{}{Um novo Chip Excavator? O que é isso?}
+{191}{}{Deixe-me perguntar-lhe sobre outra coisa, Dan.}
+{192}{}{Entendo. Bem, eu vou deixar você saber se eu encontrar um. Adeus.}
+{193}{}{Engraçado você de todas as pessoas deve pedir isso. Há todos os tipos de coisas acontecendo aqui na cidade
+ recentemente.}
+{194}{}{Como eu disse, você deveria saber se alguma coisa está acontecendo aqui na cidade, se alguém fizer isso.}
+{195}{}{Você quer dizer o Excavator Chip para a máquina de mineração?}
+{196}{}{Quer dizer tudo sobre a prostituta?}
+{197}{}{Você quer dizer a briga da barra que eu resolvi?}
+{198}{}{Estou naturalmente ativo, eu acho. Deixe-me perguntar-lhe outra coisa.}
+{199}{}{Não tenho certeza do que você quer dizer, mas não tenho tempo para descobrir agora. Adeus.}
+{200}{}{Sim, quero dizer, o Excavator Chip que você vendeu para Marge LeBarge na Mina Kokoweef. que
+ foi um erro real ... não apenas para mim, mas para Redding.}
+{201}{}{O que você quer dizer com isso?}
+{202}{}{Essas são as pausas, amigo. Deixe-me perguntar-lhe sobre outra coisa acontecendo na cidade.}
+{203}{}{Merda acontece. Te vejo, talvez.}
+{204}{}{Não posso acreditar que você deixe aquele bastardo Hakeswill sair livre. Meus mineiros parecem felizes por isso, mas
+ Não tenho certeza de que estou.}
+{205}{}{Foi uma chamada difícil, e eu fiz o melhor que pude. Deixe-me perguntar-lhe sobre outra coisa
+ na cidade.}
+{206}{}{Uh, eu não tinha certeza de que ele era culpado. Mas deixe-me perguntar-lhe sobre outra coisa.}
+{207}{}{Eu realmente não me importo com o que você pensa. Adeus.}
+{208}{}{Você fez a coisa certa colocando aquele bastardo Hakeswill na prisão. Ele intimidou e intimidou minha
+ mineiros, mas ainda não queriam vê-lo morto fora da mão. Será melhor vê-lo pendurar todos
+ legal e apropriado.}
+{209}{}{Foi uma chamada difícil, e eu fiz o melhor que pude. Deixe-me perguntar-lhe sobre outra coisa
+ na cidade.}
+{210}{}{A justiça deve ser atendida. Deixe-me perguntar-lhe sobre outra coisa.}
+{211}{}{As coisas nem sempre acontecem da maneira que você gostaria. Adeus.}
+{212}{}{Graças ao seu assassinato, o idiota Hakeswill, meus mineiros estão prontos para fazer uma fúria.}
+{213}{}{Foi uma chamada difícil, e eu fiz o melhor que pude. Deixe-me perguntar-lhe sobre outra coisa
+ na cidade.}
+{214}{}{Aquele bastardo precisava de uma boa matança. Vamos falar sobre outra coisa.}
+{215}{}{Fico feliz que eu estivesse lá para fazer o que precisava ser feito para aquele verme. Adeus.}
+{216}{}{Você sabe o que está acontecendo com a Excavator Chip. Eu quero isso, e eu aposto que você é inteligente o suficiente para
+ percebe que Marge LeBarge também quer isso. Mas seria melhor todo o caminho se você me vender.}
+{217}{}{Quanto vale a pena para você?}
+{218}{}{Por que é melhor para mim vendê-lo para você do que ela?}
+{219}{}{Vou pensar sobre isso. Deixe-me perguntar-lhe sobre outra coisa acontecendo na cidade.}
+{220}{}{Teremos que ver sobre isso. Adeus.}
+{221}{}{Eu só quero agradecer por vender o chip à festa certa.}
+{222}{}{Não é um problema. Deixe-me perguntar-lhe sobre outras coisas acontecendo na cidade.}
+{223}{}{Você entendeu. Que mil fanfarrões fizeram a maioria dos seus convincentes para você. Deixe me perguntar algo.}
+{224}{}{Sem problemas. Adeus por agora.}
+{225}{}{Obrigado por romper essa luta no bar sem ter que bloquear alguém. Os mineiros precisam deixar
+ de vez em quando, mas eles não significam nada por isso.}
+{226}{}{Eu podia ver isso. Deixe-me perguntar-lhe sobre algo mais acontecendo aqui na cidade.}
+{227}{}{Alguém precisava quebrá-lo era tudo. Deixe-me perguntar-lhe sobre outra coisa.}
+{228}{}{Não é um problema. Adeus.}
+{229}{}{Eu certamente gostaria que você não tivesse colocado meus mineiros atrás das grades assim. Eles estavam apenas deixando alguns
+ vapor.}
+{230}{}{Eles começaram a luta; Eu tive que acabar com isso. Deixe-me perguntar-lhe sobre algo mais acontecendo aqui
+ na cidade.}
+{231}{}{Eles precisavam de algum tempo para se refrescar. Você pode obtê-los em alguns dias. Deixe-me perguntar-lhe sobre
+ algo mais.}
+{232}{}{Eu acho que preciso deixar algum vapor sozinho. Adeus.}
+{233}{}{Obrigado por colocar esses bandidos de Kokoweef para escolher uma briga com meus rapazes. Essa
+ Kokoweefers precisa ser guardado para sempre.}
+{234}{}{Eu não sei sobre isso. Eles apenas estavam deixando o vapor. Deixe-me perguntar-lhe sobre outra coisa
+ indo aqui na cidade.}
+{235}{}{Eu acho que isso é um pouco extremo demais. Apenas deixe-os esfriar por alguns dias. Deixe-me perguntar-lhe sobre
+ algo mais.}
+{236}{}{Apenas fique de olho em seus próprios mineiros também a partir de agora. Adeus.}
+{237}{}{Didja tem que trancar todo maldito mineiro da cidade? Quem diabos vai trabalhar minha mina?}
+{238}{}{Você deveria ter pensado sobre isso antes de deixá-los sair da mão. Deixe-me perguntar-lhe sobre
+ alguma coisa acontecendo aqui na cidade.}
+{239}{}{Eles foram muito longe dessa vez. Talvez seja melhor que todos vocês tenham tempo para pensar
+ tudo acabou. Deixe-me perguntar-lhe sobre outra coisa.}
+{240}{}{Boa pergunta. Talvez eu devesse ver sobre entrar no negócio de mineração para mim. Adeus.}
+{241}{}{Você deixa que o crachá da lata chegue à sua cabeça. Você não tinha como chamar pra matar ninguém por um barreto
+ luta.}
+{242}{}{As coisas ficaram um pouco fora de controle. Deixe-me perguntar-lhe sobre algo mais acontecendo aqui na cidade.}
+{243}{}{Merda acontece. Agora, deixe-me perguntar-lhe sobre outra coisa.}
+{244}{}{Eles deveriam saber melhor do que começar uma briga comigo como xerife. Adeus.}
+{245}{}{Vender o chip para Marge faz com que os seus apoiantes se vejam melhor. O NCR apoia Marge, e se eles tomam
+ aqui em Redding, estamos com problemas. Muito melhor para me apoiar e meus amigos em New Reno.}
+{246}{}{Trouble? O que você quer dizer?}
+{247}{}{Não tenho tempo para uma aula política. Adeus.}
+{248}{}{Todo mundo quer o que Redding tem. Algumas pessoas vão ser mais agradáveis   sobre como eles saem
+ de nós, no entanto. Deixe-me explicar a situação.}
+{249}{}{Continue.}
+{250}{}{Já ouvi o suficiente da sua explicação tudo pronto. Adeus.}
+{251}{}{Eu pagarei US $ 1.000 por essa Excavator Chip.}
+{252}{}{Isso parece bom para mim. Onde posso encontrá-lo?}
+{253}{}{Parece bom para mim. Aqui está o seu chip.}
+{254}{}{Acho que vou aguentar com isso por enquanto. Adeus.}
+{255}{}{Se eu encontrar um, eu vou deixar você saber. Adeus.}
+{256}{}{Está na grande mina de Wanamingo, a oeste da cidade. Dentro da mina, há um grande
+ máquina de mineração. Você não consegue sentir falta disso. O chip está naquela máquina. Você só precisa arrancar e
+ traga isso para mim.}
+{257}{}{Deixe-me perguntar-lhe sobre outras coisas acontecendo na cidade.}
+{258}{}{Se você precisar tão ruim, por que você não foi buscá-lo sozinho?}
+{259}{}{Vai fazer. Até logo.}
+{260}{}{Tenho uma grande escavadeira pré-guerra toda pronta para correr, mas tem um problema. Sem cérebro.}
+{261}{}{Gostaria de dizer que tem muita companhia nesta cidade, mas sim vou dizer: o que fazer
+ Você quer dizer?}
+{262}{}{Não sou exatamente exigente, mas não gosto do som de procurar * mais cérebro *. Adeus.}
+{263}{}{O chip de controle foi queimado e não é como se eu pudesse encomendar um novo. Mas eu sei onde está.
+ Esteja disposto a pagar US $ 1.000 por isso, também.}
+{264}{}{Cadê?}
+{265}{}{Se você precisar tão ruim, por que você não foi buscá-lo sozinho?}
+{266}{}{Estou cheio para as brânquias com quests tudo pronto. Desculpe, amigo. Adeus.}
+{267}{}{Muitos motivos, a maioria deles com fome e desagradável. A mina de Wanamingo está cheia de fome
+ Wanamingos.}
+{268}{}{O que diabos é um Wanna-mingle?}
+{269}{}{Oh, eu vejo. Bem, isso explica isso então. Vou pensar sobre isso. Adeus.}
+{270}{}{É apenas a besta mais ousada, mais desagradável e mais viciosa, eu acho que já vi. Tem dentes
+ quatro polegadas de comprimento. Oh, quero dizer, quatro polegadas de polegada de comprimento. Mas acho que você pode lidar com isso.}
+{271}{}{Okay, certo. Vou pensar sobre isso. Adeus.}
+{272}{}{Isso parece assustador. Não acho que seja um trabalho para mim. Meus joelhos estão batendo.}
+{273}{}{Faça isso. US $ 1.000 não é uma mutilação, amigo.}
+{274}{}{Deixe-me perguntar-lhe sobre outras coisas acontecendo na cidade.}
+{275}{}{Eu pensarei sobre isso. Eu sempre posso usar algum dinheiro extra.}
+{276}{}{Acho que estava errado quando pensei que você tinha o que é necessário. Saia daqui; Você está perdendo o tempo.}
+{277}{}{Sim, senhor. Agora vou embora, senhor.}
+{278}{}{Todos cometemos erros, bub. Adeus.}
+{279}{}{Heck ... se eu fosse você, eu compraria a ação para o lugar, esvaziaria e vendê-lo de volta ao Prefeito
+ Ascorti. Ele é o titular da ação agora.}
+{280}{}{Cuide-se. Eu realmente preciso desse chip.}
+{281}{}{Deixe-me perguntar-lhe sobre outras coisas acontecendo na cidade.}
+{282}{}{Obrigado pela dica. Adeus.}
+{283}{}{"Painless" Doc Johnson é o nosso charlatão da cidade. Ah, suponho que ele saiba algo sobre dano, mas
+ Não acho que ele conheça demais. Ele está no lado oeste do centro da cidade. De qualquer forma, ele geralmente vende todos os
+ Medicina e chems que chegamos aqui na cidade.}
+{284}{}{Ele vende tudo isso?}
+{285}{}{Te vejo mais tarde, Dan. Adeus.}
+{286}{}{Sim, bem, quando recebemos Jet, muitas vezes é enviado em massa, e assim ele enche as ampolas. Confiança das pessoas
+ Ele para fazê-lo. Faz um grande show sobre tudo estar limpo e tudo. Remédios simples para mentes simples, eu digo.}
+{287}{}{Ahh. Deixe-me perguntar-lhe sobre outra coisa, então.}
+{288}{}{Obrigado pela informação, Dan. Adeus.}
+{289}{}{Senhor, você não está recebendo duas coisas de mim. Jack e merda, e a cidade esquerda de Jack. Agora receba
+ fora da minha vista.}
+{290}{}{Little Missy, você não está recebendo duas coisas de mim. Jack e merda, e a cidade esquerda de Jack. Agora
+ Saia da minha frente.}
+{291}{}{Ah, vamos lá. Eu sinto Muito. Apenas me diga o que preciso saber.}
+{292}{}{Você quer alguns de mim? Venha receber alguns.}
+{293}{}{Estou indo embora e feliz de fazê-lo. Adeus.}
+{294}{}{Você deveria ter pensado sobre isso antes de fazer as coisas sairem da mão. Foda-se, e obtenha
+ fora do meu escritório.}
+{295}{}{Você certamente fala com dificuldade.}
+{296}{}{Estou indo embora. Não pegue toda a espuma sobre ela. Adeus.}
+{297}{}{Ninguém diz isso a Dan McGrew e se afasta disso.}
+{298}{}{Me veja.}
+{299}{}{Sim, eu aposto ... "Dangerous Dan".}
+{300}{}{Desculpe, Dan; Eu não quis dizer nada por isso. Eu estava apenas brincando com k. Sim, é isso. Adeus.}

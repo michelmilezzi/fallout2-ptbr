@@ -1,0 +1,11 @@
+{100}{}{Este gerador parece ser gravemente danificado.}
+{101}{}{Você acha que pode reparar isso.}
+{102}{}{É um gerador pouco trabalhando.}
+{103}{}{Está funcionando, mas apenas mal.}
+{104}{}{Sim, está quebrado. Chutar não parece funcionar.}
+{105}{}{Quase tinha.}
+{106}{}{Só mais um pouquinho.}
+{107}{}{Isso parece impossível de consertar.}
+{108}{}{As luzes cintilam vagamente quando o gerador gagueja.}
+
+{200}{}{Você repara com êxito o gerador de energia.}

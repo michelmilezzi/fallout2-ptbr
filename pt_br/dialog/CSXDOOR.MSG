@@ -1,0 +1,2 @@
+{100}{}{Esta porta requer uma senha para desbloquear.}
+{101}{}{Usando a senha, você desbloqueia a porta.}

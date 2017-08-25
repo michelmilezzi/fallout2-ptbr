@@ -1,0 +1,80 @@
+{100}{}{Você vê alguém que poderia ser um caçador.}
+{101}{}{Você vê alguém relaxando.}
+{102}{}{Você vê um cidadão.}
+{103}{}{Você vê um trabalhador relaxando.}
+{104}{}{Você vê uma pessoa curtindo uma bebida.}
+
+{106}{}{Você vê um patrono do bar. Eles parecem felizes e contentes.}
+{107}{}{Você vê um patrono. Eles parecem bem alimentados e saudáveis.}
+{108}{}{Você vê um patrono discretamente conversando com alguém próximo.}
+{109}{}{Você vê um patrono calmamente tomando uma caneca de cerveja.}
+{110}{}{Você vê um patrono rindo para si mesmo sobre algo.}
+
+{120}{}{Você está na taberna errada, não é?}
+{121}{}{Não precisamos de perturbadores aqui.}
+{122}{}{Tribais sempre significam problemas.}
+{123}{}{Jist, desde que você não tenha muita água de fogo em você ...}
+{124}{}{(Mumble, mumble) ... desculpe, ass outa town ...}
+{125}{}{Outra das gangues de Dunton.}
+{126}{}{O que você está olhando?}
+{127}{}{Apenas continue em movimento.}
+{128}{}{Compre-nos uma rodada de bebidas, recém-chegado.}
+{129}{}{Espero que você possa segurar seu licor.}
+{130}{}{Você não parece um canibal.}
+{131}{}{Não há espaço para quem gosta de você.}
+{132}{}{Muitos estranhos ultimamente.}
+{133}{}{Bem, pelo menos, seus dentes não são arquivados em pontos.}
+{134}{}{Lá vai o bairro.}
+{135}{}{Você não deveria ter um osso no nariz?}
+{136}{}{(Olha para você e então sacode a cabeça)}
+{137}{}{(Faz um gesto sutilmente grosseiro)}
+{138}{}{Você provavelmente é o responsável pelas mutilações brahmin.}
+{139}{}{Alguns dos nossos caçadores desapareceram; Você provavelmente não é porque.}
+{140}{}{Houve bugmen rastejando pela cidade.}
+{141}{}{Há um espírito em um cânion ao leste da cidade.}
+{142}{}{Não deixe o Walking Spirit getcha!}
+{143}{}{É melhor não roubar nosso brahmin.}
+{144}{}{Estamos de olho em você.}
+
+{150}{}{É bom ver alguém novo na cidade.}
+{151}{}{Acho que os tribos não são tão ruins depois de tudo.}
+{152}{}{Compre uma rodada de bebidas!}
+{153}{}{Olá.}
+{154}{}{Você poderia ser o gêmeo de Sulik.}
+{155}{}{Você disse olá para Sulik ainda?}
+{156}{}{Trapping é bom ultimamente.}
+{157}{}{O tempo está pronto para virar, eu acho.}
+{158}{}{Me trouxe uma boa linha de tração ao sul daqui.}
+{159}{}{Se você é inteligente, você ficará longe dos Duntons.}
+{160}{}{Se você estiver ansioso, experimente o Bathhouse.}
+{161}{}{Dirija-se para o oeste da cidade de Trapper, se quiser um lugar para despachar mais tarde.}
+{162}{}{Bem vindo amigo.}
+{163}{}{Espero que você goste da nossa cidade.}
+{164}{}{Klamath é o lugar para estar.}
+{165}{}{É bom ter você aqui.}
+{166}{}{(Levanta uma caneca para você)}
+{167}{}{(Winks para você)}
+{168}{}{Não vá vagando à noite.}
+{169}{}{Há bugmen nas colinas.}
+{170}{}{Falta um dos nossos melhores caçadores.}
+
+{201}{}{Bem, com certeza molhe meu apito.}
+{202}{}{Obrigado.}
+{203}{}{Mmm-mm, bom.}
+{204}{}{Nada como Buckner's Best.}
+{205}{}{Obrigado pela brew.}
+{206}{}{Huzzah!}
+{207}{}{Os tribais sabem o que é melhor na vida.}
+{208}{}{Obrigado.}
+{209}{}{Obrigado, amigo.}
+{210}{}{I sure needed that. Obrigado.}
+{211}{}{Agradeço um milhão!}
+{212}{}{Em vez disso, tenha uma garrafa na minha frente ...}
+{213}{}{Muito obrigado, amigo.}
+{214}{}{Bem!}
+{215}{}{Sim! Eu estava esperando por isso.}
+{216}{}{Eu pensei que você nunca perguntaria.}
+{217}{}{Obrigado, amigo.}
+{218}{}{Assim como Sulik.}
+{219}{}{Obrigado.}
+{220}{}{sim!}

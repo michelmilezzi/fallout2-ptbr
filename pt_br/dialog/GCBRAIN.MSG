@@ -1,0 +1,278 @@
+{100}{}{Você vê um molerat invulgarmente grande.}
+{101}{}{Você vê The Brain.}
+{102}{}{Você vê um enorme, albino molerat. Parece ter um crânio inchado e é particularmente
+ Inteligente.}
+
+{110}{}{Você é ainda mais tolo do que a maioria do seu tipo para me atravessar. Agora você deve morrer.}
+
+{120}{}{Eu não sei como você entrou aqui - mas você deve ser capaz de encontrar o caminho da mesma maneira.}
+{121}{}{Eu não tenho tempo para sua preocupação. Estou planejando uma maneira de assumir o controle do mundo. Vá embora.}
+{122}{}{Não me incomode. Não vou avisá-lo novamente.}
+{123}{}{É isso aí. Zomak! Mate-o para mim!}
+
+{130}{}{A renovação está em mãos. Mas não ficará mais perto, a menos que você se mexa em reparar o Atomic
+ Reactor. (Para si mesmo) Humanos ... eles são tão decepcionantes.}
+{131}{}{Reparar o Reator Atômico?}
+{132}{}{Oh sim. Bem, eu irei então. Adeus.}
+
+{140}{}{Eu cheiro um dos meus talismãs sobre você, mas não lembro de ter te dado.}
+{141}{}{Eu encontrei.}
+{142}{}{Uh, você deve ter esquecido.}
+{143}{}{É apenas o meu pós-porte. Old Mice - você gosta?}
+{144}{}{Eu matei um dos seus drones e tirei-o de seu cadáver ainda quente.}
+
+{150}{}{Você está pronto para se tornar um de nós?}
+{151}{}{Eu nasci pronto. Onde eu assino?}
+{152}{}{Você quer dizer se tornar um rato gigante?}
+{153}{}{Não quero nenhuma parte do que você é.}
+{154}{}{Apenas quem somos nós, uh, quero dizer, você?}
+
+{160}{}{Para sobreviver, Gecko e Vault City precisarão cooperar. Vault City precisa do
+ Poder de nosso Reator Atômico para expandir, e precisamos da tecnologia médica da Vault City. A menos que
+ Nós cooperamos, ambas as cidades estagnarão. Vault City precisa nos ajudar a reparar a nossa Central de Energia.}
+{161}{}{Como você vai conseguir que façam isso?}
+
+{170}{}{Sou conhecido simplesmente como The Brain. Uma homenagem ao meu gênio. Poucas coisas dentro do Gecko, e apenas algumas mais
+ Sem, escapar do meu aviso.}
+{171}{}{Mas você é apenas um rato gigante.}
+{172}{}{Você disse algo sobre se juntar a você?}
+
+{180}{}{Não me importa onde você conseguiu. A verdadeira questão é se você pretende se juntar a nós e usá-lo
+ Na sério.}
+{181}{}{Juntar à você? O que você quer dizer?}
+{182}{}{Prefiro limpar sua gaiola do que juntar-se a você.}
+
+{190}{}{Bem, como parte do meu plano de governar o mundo, pretendo recompensar meus seguidores de ghoul encontrando um
+ Maneira de restaurar sua humanidade.}
+{191}{}{Como você irá fazer aquilo?}
+
+{200}{}{Quando eu unir Gecko e Vault City sob o meu governo, vou dedicar os laboratórios médicos da Vault City
+ Para encontrar uma maneira de reverter os efeitos da radiação que transformou as pessoas em ghouls. Eles serão
+ Renovado, renascido como humano novamente.}
+{201}{}{Isso não parece tão ruim assim.}
+
+{210}{}{O Ankh é um símbolo da vida. Uma vez que lhe dei esse talismã, você será um de nós. E sua
+ Os camaradas terão maior probabilidade de ajudá-lo no caminho da Renovação. Mas tenha cuidado com quem você mostra
+ Para.}
+{211}{}{Você está pronto para aceitar a Renovação e usar o meu Ankh Talisman?}
+{212}{}{OK, eu tomarei seu Ankh Talisman.}
+{213}{}{Eu não quero Renovar. Eu gosto de mim do jeito que eu sou. Eu não quero seu talismã.}
+{214}{}{Renovação? O que você quer dizer?}
+
+{220}{}{Esses tolos na cidade de Vault assinaram seus mandatos de morte destruindo nosso reator.}
+{221}{}{Agora eu tenho que pensar em outra maneira de assumir o controle do mundo. Apenas saia.}
+{222}{}{Já tive o suficiente da sua torpe intromissão. Zomak! Mate esse idiota para mim.}
+
+{230}{}{Reparar o reator foi um excelente primeiro passo. Mais um passo é necessário para garantir a
+ Sobrevivência de Gecko e Vault City.}
+{231}{}{Mais um passo?}
+{232}{}{Você não é o cidadão preocupado de repente.}
+{233}{}{Eu acho que fiz mais do que o suficiente. Adeus.}
+{234}{}{Só por que um gigante rato falante está tão preocupado com tudo isso?}
+
+{240}{}{Você fez bem. Ambos, Vault City e Gecko têm motivos para se alegrar. Com o nosso reator trabalhando
+ Na maior eficiência, meu plano de conquistar o mundo pode se concretizar. Agora você pode sair. Tenho trabalho para
+ Faz.}
+{241}{}{Bem, eu não fiz isso por você. Adeus.}
+{242}{}{Grandes planos para um rato exagerado. Adeus.}
+
+{250}{}{Bem, o reator está funcionando - mas não muito eficientemente. Precisamos usar a central da Cidade do Vault
+ Computador para analisar o relatório de produção do nosso reator.}
+{251}{}{Computador central da Vault City. Tenho certeza de que pessoas abertas como essa ficariam felizes em ajudar
+ Um gigante gigante e uma cidade cheia de ghouls.}
+{252}{}{Como você propõe que isso aconteça?}
+
+{260}{}{Cidadão interessado? De certa forma. Para assumir o controle do mundo, tenho que garantir que haja
+ Algo que vale a pena assumir. Eu preciso construir uma base de energia forte usando Gecko e Vault City.}
+{261}{}{Um rato conspirando para conquistar o mundo?}
+
+{270}{}{Bem, apesar de seus sentimentos sobre um roedor que governa o mundo, as ações que proponho beneficiariam
+ Milhares de cidadãos da cidade de Vault e Gecko. Você pode não se importar comigo ou com meus motivos, mas os resultados
+ Ainda vale a pena trabalhar.}
+{271}{}{Por que você não me fala sobre este último passo, e pensarei em ajudar.}
+{272}{}{Isso faz com que minha carne se arraste para pensar que eu já ajudei você de alguma maneira. Estou indo embora.
+ Adeus.}
+
+{280}{}{Bem, eles vão te deixar se você pode mostrar-lhes o quanto os beneficia. Temos uma economia
+ Relatório que prova que a otimização do conjunto de energia atômica Gecko beneficiará diretamente a Vault City. eu vou
+ Deixe nossos companheiros aqui em Gecko saber de sua missão.}
+{281}{}{Eles lhe darão o Regulador de Magnetosfera Hidrelétrica se você puder provar que isso beneficia a Vault City. eu preparei
+ Um relatório econômico que detalha o quanto a reparação do nosso sistema de energia beneficia a Vault City. Eu vou permitir
+ Os nossos companheiros aqui em Gecko conhecem sua missão.}
+{282}{}{Isso é ótimo, mas quem, em Vault City, pensaria mesmo em ler tal coisa?}
+{283}{}{Por que você não fala com o velho saco de vento, aquele saco fedorento Festus, na Central de energia e
+ Veja se ele pode tirar algumas informações úteis de seu crânio apodrecido. Ele pode saber de um meio de otimizar a Usina.
+ Deixarei nossos companheiros aqui em Gecko conhecer sua missão.}
+{284}{}{Parece uma boa ideia. Adeus.}
+
+{290}{}{Eu acho que McClure é o único Conselheiro da Cidade do Vault com cérebros suficientes para poder
+ Veja os seus preconceitos. Ele irá garantir que você obtenha o que precisa.}
+{291}{}{De jeito nenhum, como eu vou ser seu menino mensagem.}
+{292}{}{Bem, acho que vale a pena disparar. Onde faço para obter o disco?}
+
+{300}{}{Você precisa subir acima, para o junkyard. Procure um ghoul chamado Gordon. Ele tem o Economic
+ Disco de dados que você precisa. Você terá meu talismã, então ele saberá lhe dar o disco.}
+{301}{}{O talismã?}
+
+{310}{}{Você tem certeza de que deseja consignar todos os cidadãos de ambas as cidades em uma morte lenta?}
+{311}{}{Bem, acho que não. Ok, diga-me onde obter o disco.}
+{312}{}{Melhor uma morte lenta do que ser governado por um rato. Adeus.}
+
+{320}{}{(Sniff, sniff) Hmmm, sinto o aroma distintivo de Cheezy Poofs em você. Você não acontece com
+ Tem algum poupar, você? Eu adoro Cheezy Poofs.}
+{321}{}{Hmm, não. Não há Cheezy Poofs aqui.}
+{322}{}{Acho que pude poupar alguns Cheezy Poofs.}
+
+{330}{}{Agora você é um de nós. Em breve, eu assumirei o mundo e todos vocês serão renovados.}
+{331}{}{Uh, sim. Qualquer coisa que você diga.}
+{332}{}{É isso aí. É o bastante. Isso pára aqui. Alguém tem que pisoteá-lo fora da existência -
+ E aquele é eu mesmo.}
+
+{340}{}{Bem, então, suponho que não temos mais nada a dizer uns aos outros. Mas você sabe que não posso
+ Permitir que você deixe aqui vivo, a menos que você seja um de nós.}
+{341}{}{Prefiro morrer do que juntar-se a você.}
+{342}{}{Hmm, talvez eu tenha sido precipitado no meu julgamento.}
+{343}{}{Traga-o, Willard.}
+
+{350}{}{Seu idiota. Zomak! Mate esse intruso para mim.}
+
+{360}{}{Vocês humanos têm tolerâncias tão limitadas. Eu teria permanecido um rato normal se você, seres humanos
+ Não fez o seu melhor para destruir o mundo. Se não fosse pela radiação, eu não seria
+ O que sou hoje.}
+{361}{}{E o que é isso, exatamente?}
+
+{370}{}{Agora que tudo foi explicado para você, você está pronto para se juntar a nós?}
+{371}{}{Bem, suponho que sim.}
+{372}{}{Estou convencido, tudo bem. Convencido de que eu tenho que sair desta casinha.}
+
+{380}{}{Eu era apenas um dos muitos ratos normais em um laboratório avançado de pesquisa. Então, um dia, havia
+ Explosões. Nossas gaiolas foram abertas, e nós fomos arrumados com algum tipo de fluido de um vaso enorme.}
+{381}{}{Então o que?}
+
+{390}{}{Eu rastejei lá fora. Quando comecei a curar, percebi que eu havia mudado. Eu tentei me comunicar com
+ Pessoas, mas todos tentaram me matar. Os seres humanos são muito violentos para sobreviver sob os seus próprios
+ Liderança - mas essa é outra história. O primeiro passo é reparar o reator.}
+{391}{}{Reparar o reator?}
+
+{400}{}{Sim. Você deve obter um Regulador de Magnetosfera Hidrelétrica da Vault City para reparar o reator Gecko. Se você não fizer isso,
+ Então Vault City, sem dúvida, irá atacar Gecko. Claro que, ao destruir o reator, eles vão acabar
+ Eles mesmos, a longo prazo, também.}
+{401}{}{Doom eles mesmos? O que você quer dizer?}
+{402}{}{Por que a Vault City me daria uma parte para o Gecko Atomic Powerplant?}
+
+{410}{}{Você tem que mostrar-lhes que é do seu melhor interesse fazê-lo. As pessoas são facilmente
+ Manipulado através do interesse próprio.}
+{411}{}{Eu não acho que as pessoas na cidade de Vault me   dêem uma parte para sua usina de energia atômica.}
+
+{420}{}{Mas agora mesmo, você não tem algo para fazer?}
+{421}{}{Uh, eu acho que é melhor eu seguir essa coisa da central nuclear atômica. Adeus.}
+{422}{}{Eu com certeza faço. Preciso tirar o dia daqui.}
+
+{430}{}{Meu nariz está bastante interessado. Tenho certeza de que você tem Cheezy Poofs. Me dê algum agora. Por favor.}
+{431}{}{A única maneira que você está recebendo meu Cheezy Poofs é de meus dedos frios e sem vida.}
+{432}{}{Oh, ei. O que é isso no meu bolso? Acho que tenho alguns Cheezy Poofs depois de tudo. Whaddya sabe?}
+
+{440}{}{(Crunch, munch, crunch) Mmmm, eu amo Cheezy Poofs, eles são tão, bem, uh, Cheesy. Para isso, você
+ Seja um membro do meu culto especial, e você pode me ajudar a assumir o controle do mundo.}
+{441}{}{(Crunch, munch, crunch) Mmmm, eu amo Cheezy Poofs, eles são tão, bem, uh, Cheesy. Eu era sábio
+ Permitem que você se junte ao meu culto. Não há algo que você deveria estar fazendo agora?}
+{442}{}{(Crunch, munch, crunch) Mmmm, eu amo Cheezy Poofs, eles são tão, bem, uh, Cheesy.}
+{443}{}{(Crunch, munch, crunch) Mmmm, eu amo Cheezy Poofs, eles são tão, bem, uh, Cheesy.}
+{444}{}{OK.}
+
+{450}{}{Que assim seja. Zomak! Mate esse idiota para mim. Mas tenha cuidado com o Cheezy Poofs!}
+
+{460}{}{Você deve usar o disco do Reactor Data no Computador Central da Cidade do Vault. Você pode se esgueirar
+ E usá-lo ou, se você tiver o disco de dados econômicos, você pode ir para o McClure.}
+{461}{}{Disco de dados econômicos?}
+{462}{}{Oh, está bem.}
+{463}{}{Basta trazer o disco de Dados do Reator Analisado para Festus e ele entrará os dados para obter o
+ Reator funcionando de forma eficiente.}
+{464}{}{Bem, uma vez que você obtenha um Regulador de Magnetosfera Hidrelétrica da Vault City, traga de volta
+ Para o reator. Então, você pode tentar convencer aquela batuta pomposa Festus para instalar a peça, ou usar a
+ Repare o robô para instalar a peça, ou você poderia instalar a peça você mesmo, é claro - desde que
+ Alguém faz isso, nós estaremos bem.}
+{465}{}{Como posso obter o papel da Vault City?}
+{466}{}{Oh, eu vejo. Bem, obrigado pela informação. Adeus.}
+{467}{}{Festus é o geezer que administra a usina de energia atômica. Ele é velho, crotchety, e cantakerous, mas
+ Ele realmente sabe algo sobre como executar a planta. Seus escritórios terminaram na parte do extremo sudeste
+ a planta. Traga o disco de dados para ele e ele saberá como usá-lo.}
+{468}{}{Oh, I get it. OK. Thanks. Goodbye.}
+
+
+{500}{}{(Pensando em si mesmo) Tantas coisas passam. Os tempos não são o que eram. (Suspiro) Eu sinto que o meu
+ O único parente restante morreu. Louco, apesar disso, queria que não fosse assim. Eu esperava que
+ Ele pode encontrar alguma felicidade mesmo em sua dotage. (Para você) Bem, o suficiente das minhas reflexões tristes.}
+{501}{}{Ok, ok.}
+
+{504}{}{Um regulador hidroelétrico de magnetosfera. Essa é a parte que você precisa para obter
+ Vault City. Então você precisa trazê-lo de volta aqui e instalá-lo no reator.}
+{505}{}{Instale isso no reator? Como eu posso fazer isso?}
+{506}{}{Oh, está bem. Thanks.}
+
+{510}{}{Os dados de otimização do reator foram gravados no disco que você possui pela Vault City's
+ Computador central. Agora, tudo o que você tem a fazer é trazer o disco para aquele saco de vento pomposo, Festus.
+ Ou eu suponho que você poderia usar o disco no terminal de controle do robô do reator, se você não puder
+ Fale falando com Festus.}
+{511}{}{Festus? Quem é ele?}
+{512}{}{Oh, está bem. Thanks. Goodbye.}
+
+{600}{}{A renovação está em mãos. Mas não ficará mais perto, a menos que você avance
+ Reparando nosso reator atômico. (Para si mesmo) Humanos ... eles são tão decepcionantes.}
+{601}{}{A renovação está quase aqui, mas não ficará mais próxima, a menos que você use o
+ Disco de Dados do Reator no Computador Central da Cidade do Vault. Phah! Pode-se pensar que
+ Até mesmo um humano poderia entender tanto.}
+{602}{}{Você está tão perto de fornecer os meios para Renovação para todos nós. Se você tivesse
+ Apenas forneça o disco Reactor Data que você analisou para Festus.}
+{603}{}{Você sabe que você precisa obter o Regulador de Magnetosfera Hidrelétrica
+ De Vault City para instalá-lo em nosso reator atômico. As vezes eu penso
+ Que a Renovação nunca chegará enquanto eu tiver que depender dos humanos.}
+{604}{}{Reparar o reator? What do you mean?}
+{605}{}{Use o disco Reactor Data? Como eu vou fazer isso?}
+{606}{}{Eu tenho que dar isso a Festus?}
+{607}{}{A Hydro-whatsits? Hã?}
+{608}{}{O que é sobre o reator?}
+{609}{}{Dê a quem?}
+{610}{}{Oh sim. Bem, eu irei então. Adeus.}
+
+{620}{}{Sou conhecido simplesmente como The Brain. Uma homenagem ao meu gênio. Poucas coisas dentro
+ Gecko, e apenas alguns mais sem, escapar do meu aviso.}
+{621}{}{Mas você é apenas um rato gigante.}
+{622}{}{Você disse algo sobre se juntar a você?}
+
+{630}{}{As ações que proponho beneficiarão milhares de Vault City e Gecko's
+ Cidadãos. Você pode não se preocupar comigo, ou com meus motivos, mas os resultados ainda estão bem
+ Vale a pena trabalhar.}
+{631}{}{Você recebeu o disco Reactor Data, agora você tem que usá-lo.}
+{632}{}{Você teve o disco do Reactor Data analisado, agora você tem que fazer algo com ele.}
+{633}{}{Nosso reator atômico precisa de uma parte se tivermos alguma esperança de fazê-lo correr
+ eficientemente.}
+{634}{}{Você adquiriu os dados que precisamos para otimizar o reator atômico. Agora,
+ Tudo o que você tem a fazer é dar a Festus.}
+{635}{}{Por que você não me fala sobre o que é que você está propondo?}
+{636}{}{Use o disco Reactor Data? Como faço para fazer isso?}
+{637}{}{Bem, eu percebi isso, mas o quê?}
+{638}{}{Uma parte? Que tipo de parte?}
+{639}{}{Por que você não me fala sobre este último passo e pensarei em ajudar.}
+{640}{}{Dê a quem?}
+{641}{}{Mais um passo?}
+
+{650}{}{Bem, apesar de seus sentimentos sobre um roedor que governa o mundo, as ações que eu
+ Proposta beneficiaria milhares de cidadãos da cidade de Vault e Gecko. Você pode não se importar
+ Para mim ou para os meus motivos, mas os resultados ainda valem a pena trabalhar.}
+{651}{}{Você recebeu o disco Reactor Data, agora você tem que fazer algo com ele.}
+{652}{}{Você teve o disco Reactor Data analisado, agora você precisa usá-lo.}
+{653}{}{Nosso reator atômico precisa de uma parte se tivermos alguma esperança de fazê-lo correr
+ eficientemente.}
+{654}{}{Por que você não me fala sobre as ações que você está propondo?}
+{655}{}{Use o disco Reactor Data? Como faço para fazer isso?}
+{656}{}{Bem, eu percebi isso, mas o quê?}
+{657}{}{Como o quê?}
+{658}{}{Uma parte? Que tipo de parte?}
+{659}{}{Por que você não me fala sobre este último passo e vou pensar em ajudar?}
+
+{670}{}{O reator, sempre o reator (suspiro). Volte quando você fez alguns
+ Progresso nisso.}
+{671}{}{Volte mais tarde. Estou comunicando com um poder superior, ou algo assim (sheesh).}
+
+{700}{}{Não tenho mais nada para te dizer.}

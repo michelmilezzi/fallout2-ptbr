@@ -1,0 +1,147 @@
+#
+#	 Messages from stat.c
+#
+#
+#	 STAT NAMES
+#
+{100}{}{Força}
+{101}{}{Percepção}
+{102}{}{Resistência}
+{103}{}{Carisma}
+{104}{}{Inteligência}
+{105}{}{Agilidade}
+{106}{}{Sorte}
+{107}{}{Máximo pontos de vida}
+{108}{}{Pontos de ação máxima}
+{109}{}{Classe de armadura}
+{110}{}{Dano desarmado}
+{111}{}{Dano corpo a corpo}
+{112}{}{Carregar peso}
+{113}{}{Seqüência}
+{114}{}{Taxa de cura}
+{115}{}{Chance crítica}
+{116}{}{Criticas melhores}
+{117}{}{Limiar de dano}
+{118}{}{Limiar de dano Laser}
+{119}{}{Limiar de dano Fire}
+{120}{}{Limiar de dano Plasma}
+{121}{}{Limiar de dano Electrical}
+{122}{}{Limiar de dano EMP}
+{123}{}{Limiar de dano Explosion}
+{124}{}{Resistência ao dano}
+{125}{}{Resistência ao dano Laser}
+{126}{}{Resistência ao dano Fire}
+{127}{}{Resistência ao dano Plasma}
+{128}{}{Resistência ao dano Electrical}
+{129}{}{Resistência ao dano EMP}
+{130}{}{Resistência ao dano Explosion}
+{131}{}{Radiação Resistência}
+{132}{}{Resistência ao veneno}
+{133}{}{Era}
+{134}{}{Gênero}
+{135}{}{Pontos de vida atuais}
+{136}{}{Nível atual de veneno}
+{137}{}{Nível atual de radiação}
+#
+#	 STAT DESCRIPTIONS
+#
+# @ Basic stats @
+#
+# Força
+{200}{}{Raw physical strength. A high Força is good for physical characters. Modifies: Hit Points, Dano corpo a corpo, and Carregar peso.}
+# Percepção
+{201}{}{The ability to see, hear, taste and notice unusual things. A high Percepção is important for a sharpshooter.  Modifies: Seqüência and ranged combat distance modifiers.}
+# Resistência
+{202}{}{Stamina and physical toughness. A character with a high Resistência will survive where others may not. Modifies: Hit Points, Poison & Radiação Resistência, Taxa de cura, and the additional hit points per level.}
+# Carisma
+{203}{}{A combination of appearance and charm. A high Carisma is important for characters that want to influence people with words. Modifies: NPC reactions, and barter prices.}
+# Inteligência
+{204}{}{Knowledge, wisdom and the ability to think quickly. A high Inteligência is important for any character. Modifies: the number of new skill points per level, dialogue options, and many skills.}
+# Agilidade
+{205}{}{Coordination and the ability to move well. A high Agilidade is important for any active character. Modifies: Action Points, Classe de armadura, Seqüência, and many skills.}
+# Sorte
+{206}{}{Fate. Carma. An extremely high or low Sorte will affect the character - somehow. Events and situations will be changed by how lucky (or unlucky) your character is.}
+#
+# Derived/Non Derived stats
+#
+# Máximo pontos de vida
+{207}{}{Quanto dano seu personagem pode demorar antes de morrer. Se você alcança 0 HP ou menos, você está morto.}
+# Pontos de ação máxima
+{208}{}{O número de ações que o personagem pode tomar durante uma volta de combate.}
+# Classe de armadura
+{209}{}{Modifica a chance de acertar esse personagem em particular.}
+# Dano desarmado
+{210}{}{A quantidade de bônus que seu personagem faz no combate corpo-a-corpo.}
+{211}{}{A quantidade de bônus que seu personagem faz no combate corpo-a-corpo.}
+# Carregar peso
+{212}{}{A quantidade máxima de equipamentos que seu personagem pode transportar, em libras esterlinas.}
+# Seqüência
+{213}{}{Determina em quanto tempo em um combate o seu personagem pode reagir.}
+# Taxa de cura
+{214}{}{At the end of each day, your character will heal 1 HP for each point of Taxa de cura.  When you rest, you heal every six hours.}
+# Chance crítica
+{215}{}{A chance de causar um golpe crítico no combate é aumentada por esse valor.}
+{216}{}{Criticas melhores}
+{217}{}{Limiar de dano}
+{218}{}{Limiar de dano Laser}
+{219}{}{Limiar de dano Fire}
+{220}{}{Limiar de dano Plasma}
+{221}{}{Limiar de dano Electrical}
+{222}{}{Limiar de dano EMP}
+{223}{}{Limiar de dano Explosion}
+# Resistência ao dano
+{224}{}{Any damage taken is reduced by this amount. Resistência ao dano can be increased by wearing armor.}
+{225}{}{Resistência ao dano Laser}
+{226}{}{Resistência ao dano Fire}
+{227}{}{Resistência ao dano Plasma}
+{228}{}{Resistência ao dano Electrical}
+{229}{}{Resistência ao dano EMP}
+{230}{}{Resistência ao dano Explosion}
+# Radiação Resistência
+{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiação Resistência can be modified by the type of armor worn, and anti-radiation chems.}
+# Resistência ao veneno
+{232}{}{Reduz o dano de veneno por este valor.}
+{233}{}{Era}
+{234}{}{Gênero}
+{235}{}{Pontos de vida atuais}
+{236}{}{Nível atual de veneno}
+{237}{}{Nível atual de radiação}
+#
+# STAT LEVEL DESCRIPTIONS
+#
+{301}{}{V. Mau}
+{302}{}{Mau}
+{303}{}{Pobre}
+{304}{}{Justo}
+{305}{}{Média}
+{306}{}{Boa}
+{307}{}{V. Boa}         # Abbreviated for character editor
+{308}{}{Ótimo}
+{309}{}{Excelente}
+{310}{}{Heróico}
+#
+#	 PC STAT NAMES
+#
+{400}{}{Pontos de habilidade inexperientes}
+{401}{}{Nível}
+{402}{}{Experiência}
+{403}{}{Reputação}
+{404}{}{Carma}
+#
+#	 PC STAT DESCRIPTIONS
+#
+# Pontos de habilidade inexperientes
+{500}{}{Points earned by going up a Nível. Can be used to increase a skill by 1%, or a tag skill by 2%, per point spent.}
+# Nível
+{501}{}{A competência geral do personagem do jogador. Uma medida de sua experiência e habilidades.}
+# Experiência
+{502}{}{A reward for completing specific tasks, or defeating enemies in combat. More experience points are required to attain higher Nívels.}
+# Reputação
+{503}{}{O que o mundo conhece de suas ações e ações. Isso irá modificar as reações NPC.}
+# Carma
+{504}{}{Os efeitos das ações que você tomou. Informações importantes serão exibidas.}
+
+#
+#  Experiência-gain messages
+#
+{600}{}{Você subiu um nível.}

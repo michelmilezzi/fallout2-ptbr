@@ -1,0 +1,52 @@
+{100}{}{Você vê um miserável infeliz.}
+{101}{}{Você vê Rattray, o ajudante corajoso de Doc Johnson.}
+{102}{}{Você vê um miserável infeliz, corpulento e paralisado - com um caso ruim de caspa.}
+{103}{}{Ratt limpo muito bem, doutor.}
+{104}{}{Você é um pedaço de carne sem valor.}
+{105}{}{Ratt tenta realmente ajudar.}
+{106}{}{Não sei por que aguento sua incompetência.}
+{107}{}{Ratt realmente se arrepende, Ratt age melhor.}
+{108}{}{Você melhor, ou você vai se encontrar novamente na rua - eu também sou gentil.}
+{109}{}{Nenhum médico, não coloque Ratt fora! Ratt seja bom. Ratt promessa.}
+{110}{}{Bem, apenas veja que você limpa seu ato então. Estou te avisando.}
+{111}{}{Ratt seja muito bom. Ratt sem problemas.}
+{112}{}{Sim, bem, veja que suas tarefas são feitas.}
+{113}{}{Ratt limpo e limpo. Coma todos os erros ruins. Mantenha a casa limpa.}
+{114}{}{E isso é outra coisa, eu não quero ver você constantemente comendo esses besouros, ou baratas, ou outras coisas.}
+{115}{}{Doctor não quer que Ratt se livre de insetos? Certo, Ratt pode salvar bons insetos para o médico comer.}
+{116}{}{Eu não quero comê-los, seu idiota! Eu simplesmente não quero assistir você comê-los.}
+{117}{}{Ratt não come erros?}
+{118}{}{Isso é certo, NÃO COMA ERROS EM FRENTE A MIM. Eu não me importo com esse som desagradável.}
+{119}{}{Ratt apenas sugam conchas crocantes então?}
+{120}{}{NÃO! Eu não quero que você chewing bugs, sugando-os, lambendo-os, ou qualquer outra coisa.}
+{121}{}{Ratt não comem erros. Ratt cuida bem os erros do doutor.}
+{122}{}{Bem, agora que temos isso resolvido. Você limpou as prateleiras?}
+{123}{}{Sim, doutor, Ratt limpa todas as lindas e bonitas prateleiras do médico. Pequenas prateleiras estão todas limpas.}
+{124}{}{Muito bem então. E o chão? Parece sujo.}
+{125}{}{Ratt, esfregue o chão novamente para o bom médico. Não quero piso sujo para o médico limpo.}
+{126}{}{Hmm, suponho que você acha que pode simplesmente se debruçar sobre isso agora. É isso?}
+{127}{}{Nenhum médico, não. Ratt não faz isso de novo. Ratt lembra.}
+{128}{}{Basta ver que você se mantém ocupado, ou eu vou chicoteá-lo novamente.}
+{129}{}{NÃO! Médico, sem chicote Ratt. Ratt esteja bem agora.}
+{130}{}{Tenho em mente que não aproveito. Mas você precisa da disciplina, Rattray. Você certamente faz.}
+{131}{}{Sim, doutor. O médico sempre sabe melhor para Ratt.}
+{132}{}{Enquanto você se lembrar disso, Rattray. Deus sabe por que tomo tantas dores com você.}
+{133}{}{Médico bom homem, homem muito legal.}
+{134}{}{Sim, bem, eu suponho que eu sou, naquilo.}
+{135}{}{Eu trabalho antes do médico.}
+{136}{}{Eu limpo. Hokay?}
+{137}{}{Heh, heh, heh. Eu encontrei algo para comer.}
+{138}{}{Eu encontrei uma barata. Gostoso.}
+{139}{}{Você também quer comer barata para comer? Ratt compartilha.}
+{140}{}{O médico cuida bem de Ratt.}
+{141}{}{Ratt, um médico ruim, mas legal, cuida bem dele de qualquer maneira.}
+{142}{}{Ratt sempre tão estúpido. Por que eu sou tão estúpido?}
+{143}{}{Ratt desculpe. Não entendi o que você quer.}
+{144}{}{O doutor diz Ratt para não falar com os visitantes.}
+{145}{}{Ratt não diz nada.}
+{146}{}{Ratt não entra em caminho. Ratt quer ajuda.}
+{147}{}{Você sabe onde Doc vai?}
+{148}{}{Ratt não vê o Doc em longa data.}
+{149}{}{Doc ido, Ratt triste.}
+{150}{}{Quem cuida Ratt agora?}
+{151}{}{Ratt mantém a casa agradável até o médico voltar.}

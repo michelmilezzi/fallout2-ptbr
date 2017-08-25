@@ -1,0 +1,331 @@
+#############################################################
+#  Message File: Door.msg                                   #
+#                                                           #
+#  Note: Characters within curly braces (like line 100)     #
+#        will be read in as a message string. Caution       #
+#        should be used when making comments. All comments  #
+#        should be prepended with a pound symbol for        #
+#        visual ease. This does not comment out the line    #
+#        though.                                            #
+#                                                           #
+#  Purpose: This message file contains the information      #
+#           concerning doors in a locked state, trapped     #
+#           state, locked and trapped state.                #
+#                                                           #
+#  Log: Please note any changes that have been made to this #
+#       file and comment which lines have changed.          #
+#                                                           #
+#  Created: September 26, 1997                              #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for description of the door. The #
+#  first lines, line 100-1, are for the look_at_proc. The   #
+#  remainder until the next block are for description_proc  #
+#  based one skill and perception success.                  #
+#############################################################
+
+# look_at_proc
+{100}{}{Você vê uma caixa de madeira.}
+{101}{}{Você vê um armário de metal.}
+{212}{}{Você vê um refridgerator.}
+
+# description_proc
+
+# Perception Check Critical Success
+{102}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+ lockpicks) e uma armadilha altamente explosiva no quadro, que
+ você pode abrir-se.}
+{103}{}{Você vê um recipiente resistente com um bloqueio e um
+ armadilha explosiva no quadro, que você poderá
+ abrir-se.}
+{104}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+ uma armadilha altamente explosiva no quadro, que você pode
+ abrir-se.}
+{105}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e um
+ armadilha explosiva no quadro, que você pode conseguir
+ aberto.}
+
+{106}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+ lockpicks) e uma armadilha no quadro, que você poderá
+ abrir-se.}
+{107}{}{Você vê um recipiente resistente com um bloqueio e uma armadilha em
+ o quadro, que você poderá abrir.}
+{108}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+ uma armadilha no quadro, que você poderá abrir.}
+{109}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e uma armadilha
+ no quadro, que você poderá abrir.}
+
+{110}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+ lockpicks) e um fio cortado no quadro, que você pode ser
+ capaz de se abrir.}
+{111}{}{Você vê um recipiente resistente com um bloqueio e um fio cortado
+ no quadro, que você poderá abrir.}
+{112}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+ um fio cortado no quadro, que você pode conseguir
+ aberto.}
+{113}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e um corte
+ fio na moldura, que você poderá abrir.}
+
+{114}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+ lockpicks), que você poderá abrir.}
+{115}{}{Você vê um recipiente resistente com um bloqueio, o que você pode ser
+ capaz de se abrir.}
+{116}{}{Você vê um recipiente resistente sem dispositivo de bloqueio aparente,
+ que você poderá abrir.}
+{117}{}{Você vê um recipiente resistente com uma trava velha e enferrujada, que
+ você pode abrir-se.}
+
+# Perception Check Success
+
+{118}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+ lockpicks) e uma armadilha altamente explosiva no quadro.}
+{119}{}{Você vê um recipiente resistente com um bloqueio e um
+ armadilha explosiva no quadro.}
+{120}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+ uma armadilha altamente explosiva no quadro.}
+{121}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e um
+ armadilha explosiva no quadro.}
+
+{122}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+ lockpicks) e uma armadilha no quadro.}
+{123}{}{Você vê um recipiente resistente com um bloqueio e uma armadilha em
+ a moldura.}
+{124}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+ uma armadilha no quadro.}
+{125}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e uma armadilha
+ no quadro.}
+
+{126}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+ lockpicks) e um fio cortado no quadro.}
+{127}{}{Você vê um recipiente resistente com um bloqueio e um fio cortado
+ no quadro.}
+{128}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
+ um fio cortado no quadro.}
+{129}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e um corte
+ fio no quadro.}
+
+{130}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
+ lockpicks) sobre ele.}
+{131}{}{Você vê um recipiente resistente com um bloqueio nele.}
+{132}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente.}
+{133}{}{Você vê um recipiente resistente com um bloqueio antigo e enferrujado.}
+
+# Perception Check Critical Failure
+
+{134}{}{Você vê um recipiente danificado com um bloqueio (que pode ser colhido com
+ lockpicks) e uma armadilha altamente explosiva no quadro.}
+{135}{}{Você vê um recipiente danificado com um bloqueio e um
+ armadilha explosiva no quadro.}
+{136}{}{Você vê um recipiente danificado sem dispositivo aparente de bloqueio e
+ uma armadilha altamente explosiva no quadro.}
+{137}{}{Você vê um recipiente danificado com um bloqueio antigo e enferrujado e um
+ armadilha explosiva no quadro.}
+
+{138}{}{Você vê um recipiente danificado com um bloqueio (que pode ser colhido com
+ lockpicks) e uma armadilha no quadro.}
+{139}{}{Você vê um recipiente danificado com um bloqueio e uma armadilha em
+ a moldura.}
+{140}{}{Você vê um recipiente danificado sem dispositivo aparente de bloqueio e
+ uma armadilha no quadro.}
+{141}{}{Você vê um recipiente danificado com um bloqueio velho e enferrujado e uma armadilha
+ no quadro.}
+
+{142}{}{Você vê um recipiente danificado com um bloqueio (que pode ser colhido com
+ lockpicks) e um fio cortado no quadro.}
+{143}{}{Você vê um recipiente danificado com um bloqueio nele e um fio cortado
+ no quadro.}
+{144}{}{Você vê um recipiente danificado sem dispositivo aparente de bloqueio e
+ um fio cortado no quadro.}
+{145}{}{Você vê um recipiente danificado com um bloqueio antigo e enferrujado e um corte
+ fio no quadro.}
+
+{146}{}{Você vê um recipiente danificado com um bloqueio (que pode ser colhido com
+ lockpicks).}
+{147}{}{Você vê um recipiente danificado com um bloqueio nele.}
+{148}{}{Você vê um recipiente danificado sem dispositivo de bloqueio aparente.}
+{149}{}{Você vê um recipiente danificado com um bloqueio antigo e enferrujado.}
+
+# Perception Check Failure
+
+{150}{}{Você vê um recipiente antigo com um bloqueio (que pode ser colhido com
+ lockpicks) e uma armadilha altamente explosiva no quadro.}
+{151}{}{Você vê um recipiente antigo com um bloqueio e um
+ armadilha explosiva no quadro.}
+{152}{}{Você vê um recipiente antigo sem dispositivo de bloqueio aparente e
+ uma armadilha altamente explosiva no quadro.}
+{153}{}{Você vê um recipiente antigo com um bloqueio antigo e enferrujado e um
+ armadilha explosiva no quadro.}
+
+{154}{}{Você vê um recipiente antigo com um bloqueio (que pode ser colhido com
+ lockpicks) e uma armadilha no quadro.}
+{155}{}{Você vê um recipiente antigo com um bloqueio e uma armadilha em
+ a moldura.}
+{156}{}{Você vê um recipiente antigo sem dispositivo de bloqueio aparente e
+ uma armadilha no quadro.}
+{157}{}{Você vê um recipiente antigo com um bloqueio velho e enferrujado e uma armadilha
+ no quadro.}
+
+{158}{}{Você vê um recipiente antigo com um bloqueio (que pode ser colhido com
+ lockpicks) e um fio cortado no quadro.}
+{159}{}{Você vê um recipiente antigo com um bloqueio nele e um fio cortado
+ no quadro.}
+{160}{}{Você vê um recipiente antigo sem dispositivo de bloqueio aparente e
+ um fio cortado no quadro.}
+{161}{}{Você vê um recipiente antigo com um bloqueio antigo e enferrujado e um corte
+ fio no quadro.}
+
+{162}{}{Você vê um recipiente antigo com um bloqueio (que pode ser colhido com
+ lockpicks).}
+{163}{}{Você vê um recipiente antigo com um bloqueio nele.}
+{164}{}{Você vê um recipiente antigo sem dispositivo de bloqueio aparente.}
+{165}{}{Você vê um recipiente antigo com um bloqueio antigo e enferrujado.}
+
+#############################################################
+#  The following lines are for damage done to the player or #
+#  critter who tried to open the door, or failed a traps    #
+#  roll.                                                    #
+#############################################################
+
+# The following sets of lines are to be translated as:
+# Você desencadeou a armadilha e foi atingido por[x] pontos de dano.
+# NPC sets of the trap and was hit for [x] pontos de dano.
+
+# Player sets off the trap
+{166}{}{Você desencadeou a armadilha e foi atingido por}
+{167}{}{ pontos de dano.}
+
+# NPC sets off the trap
+{168}{}{ desencadeia a armadilha e foi atingido por}
+{169}{}{ pontos de dano.}
+
+#############################################################
+#  The following lines are for when the player uses skills  #
+#  on the door.                                             #
+#############################################################
+
+# Player uses a skill on the door
+# Unlock Door
+{170}{}{Você escolhe habilmente o bloqueio no recipiente.}
+{171}{}{Sua falta de habilidade bloqueou o bloqueio neste recipiente.}
+{172}{}{Você não consegue escolher o bloqueio neste recipiente.}
+
+# Lock Door
+{189}{}{Você bloqueia habilmente o recipiente.}
+{190}{}{Você não bloqueia o recipiente.}
+
+# Find Trap on the Door
+{194}{}{Você encontra uma armadilha no recipiente.}
+{195}{}{Você não consegue encontrar nenhuma armadilha no recipiente.}
+
+# Disarm the Trap on the Door
+{196}{}{Você habilmente desarmar a armadilha.}
+{198}{}{Você não consegue desarmar a armadilha.}
+
+# NPC uses a skill on the door
+# The following lines are prepended by the NPC's name
+
+# Unlock Door
+{173}{}{ Escolha habilmente o bloqueio no recipiente.}
+{174}{}{A falta de habilidade bloqueou o bloqueio neste recipiente.}
+{175}{}{ não conseguiu escolher o bloqueio neste recipiente.}
+
+# Lock Door
+{191}{}{ bloqueia habilmente o recipiente.}
+{192}{}{ falhou ao bloquear o recipiente.}
+
+# Find Trap on the Door
+{199}{}{ encontra uma armadilha no recipiente.}
+{200}{}{ não encontra nenhuma armadilha no recipiente.}
+
+# Disarm the Trap on the Door
+{201}{}{ Destrói habilmente a armadilha.}
+{202}{}{ não desarmar a armadilha.}
+
+# Using a key on the door.
+{400}{}{Você desbloqueia o recipiente.}
+
+#############################################################
+#  The following lines are for when the player tries to     #
+#  use items on the door which are not lockpicks.           #
+#############################################################
+
+# Player uses an item on the door
+{176}{}{Você interrompe o bloqueio do recipiente.}
+{177}{}{Você pressiona suas costas enquanto tenta abafar o bloqueio e
+ tomar um ponto de dano.}
+
+# The following set of lines is to be translated as:
+# You strain your back while trying to bust the lock and
+# take [x] pontos de dano.
+
+{178}{}{Você pressiona suas costas enquanto tenta abafar o bloqueio e
+ levar}
+{179}{}{ pontos de dano.}
+{180}{}{Você é muito fraco para destruir o bloqueio.}
+
+# NPC uses an item on the door
+# The following lines are prepended by the NPC's name
+{181}{}{ bifurca o bloqueio do recipiente.}
+{182}{}{ Estica as costas enquanto tenta abater a fechadura e leva
+ um ponto de dano.}
+
+# The following line set of lines is to be translated as:
+# NPC strains his back while trying to bust the lock and
+# takes [x] points of damage
+
+{183}{}{ Estica as costas enquanto tenta abater a fechadura e leva}
+{184}{}{ pontos de dano.}
+
+{185}{}{ é muito fraco para destruir o bloqueio.}
+{186}{}{ afasta-se de suas costas enquanto tenta abater a fechadura e leva
+ um ponto de dano.}
+
+# The following line set of lines is to be translated as:
+# NPC strains her back while trying to bust the lock and
+# takes [x] points of damage
+
+{187}{}{ afasta-se de suas costas enquanto tenta abater a fechadura e leva}
+{188}{}{ pontos de dano.}
+
+#############################################################
+#  Damage done to the door due to explosives.               #
+#############################################################
+
+{193}{}{Os explosivos nem sequer colocam um arranhão no recipiente.}
+
+#############################################################
+#  Reporting Door Status should it be used.                 #
+#############################################################
+
+{203}{}{O contêiner parece estar bloqueado.}
+{204}{}{Você percebe uma armadilha no recipiente.}
+
+# NPC finds trap
+# The following line is to be translated as:
+# NPC notices a trap in the door jam.
+
+{205}{}{ percebe uma armadilha no encaixe do recipiente.}
+
+#############################################################
+#  Setting traps on a door and whether the door is open or  #
+#  closed to set the trap.                                  #
+#############################################################
+
+# Player tries to set a trap on an open door
+{206}{}{Não é possível colocar uma armadilha neste recipiente, porque
+ O recipiente está aberto.}
+
+# NPC tries to set a trap on an open door
+{207}{}{ é incapaz de colocar uma armadilha neste recipiente, porque a
+ O recipiente está aberto.}
+
+# Player tries to set a trap on a closed door
+{208}{}{Você habilmente configurou uma armadilha no recipiente.}
+{209}{}{Você não configura adequadamente a armadilha no recipiente.}
+
+# NPC tries to set a trap on a closed door
+{210}{}{ habilmente define uma armadilha no recipiente.}
+{211}{}{ não configura adequadamente a armadilha no recipiente.}

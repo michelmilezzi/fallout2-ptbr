@@ -1,0 +1,5 @@
+{100}{}{Um soldado duro do exército do mestre.}
+{101}{}{O mestre diz trazer todos os normies para ele.}
+{102}{}{Todos os normies devem ser mergulhados.}
+{103}{}{Squish the normie!}
+{104}{}{Eu quero ouvir você fazer barulho.}

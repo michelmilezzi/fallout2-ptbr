@@ -1,0 +1,34 @@
+{100}{}{Você vê Lucas.}
+{101}{}{Lucas é o principal guerreiro da sua tribo.}
+{102}{}{Então, você está, o Escolhido. Hmmmph! Como vai a sua missão?}
+{103}{}{Muito bem.}
+{104}{}{Não tão bom.}
+{105}{}{Ugh ?!}
+{106}{}{Devo voltar para ele.}
+{107}{}{Talvez você precise da ajuda de um guerreiro.}
+{108}{}{Certo. Com o que você pode me ajudar?}
+{109}{}{Não. Eu estou bem.}
+{110}{}{Boa resposta, burra. Agora fique quieto enquanto eu pratico.}
+{111}{}{Uh-kay.}
+{112}{}{Eu sei como lutar com punhos e pés. Pense que você pode aprender isso?}
+{113}{}{O que você pode me ensinar?}
+{114}{}{Que o vento esteja às suas costas, Escolhido.}
+{115}{}{Adeus.}
+{116}{}{Hmmm - passe um dia comigo e eu vou ensinar-lhe como apertar mais.}
+{117}{}{OK. Vamos fazer isso.}
+{118}{}{Desculpe, não tenha tempo agora.}
+{119}{}{Você sabe tudo o que posso ensinar, Escolhido. Boa sorte para você em sua missão.}
+{120}{}{Oh, está bem.}
+{121}{}{Ha! Escolhido, você não é gracioso o suficiente para eu ensinar-lhe qualquer coisa.}
+{122}{}{Oh, está bem.}
+{123}{}{Você não é rápido o suficiente em combate para o meu treinamento para ajudá-lo, Escolhido.}
+{124}{}{Oh, está bem.}
+{125}{}{Você precisa aprender mais sobre o combate antes que eu possa ajudá-lo, irmãozinho.}
+{126}{}{Oh, está bem.}
+{127}{}{Eu posso te ensinar um chute mais poderoso. Isso nos levará todos de um dia.}
+{128}{}{OK.}
+{129}{}{Posso te ensinar o suficiente para lutar melhor. Isso nos levará todos de um dia.}
+{130}{}{OK.}
+{131}{}{Você aprendeu bem, Escolhido. Que o vento esteja às suas costas.}
+{132}{}{Obrigado pela ajuda.}
+{133}{}{Eu ensinei tudo o que posso, Escolhido. Boa sorte na sua missão.}

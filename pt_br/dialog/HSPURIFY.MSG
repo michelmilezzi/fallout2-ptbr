@@ -1,0 +1,13 @@
+{100}{}{Uma grande maquinaria.}
+{101}{}{O purificador de ar está fazendo barulhos clamando e rangendo. Parece estar quebrado. Talvez precise de uma parte ...}
+{102}{}{O purificador de ar desliga silenciosamente. Parece estar em funcionamento.}
+
+{110}{}{Essa parte não poderia consertar isso.}
+{120}{}{Você reparou o purificador de ar.}
+{125}{}{Você destruiu o purificador de ar.}
+{129}{}{Os conspiradores não podem mais enviar o sinal de destruição para o interruptor explosivo. É inútil, então você joga fora.}
+{130}{}{Já foi corrigido.}
+{131}{}{Clunk}
+{132}{}{Ranger}
+{133}{}{Clank}
+{134}{}{Whirrrrrrr}

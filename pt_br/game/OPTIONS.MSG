@@ -1,0 +1,83 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in OPTIONS.C
+#
+# (These MUST match "text message" enumeration on the top of OPTIONS.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+# ° Main option panel °
+#
+# Buttons
+{0}{}{SALVAR JOGO}
+{1}{}{CARREGAR JOGO}
+{2}{}{PREFERÊNCIAS}
+{3}{}{SAIR DO JOGO}
+{4}{}{FEITO}
+#
+# Preferences
+#
+{100}{}{GAME PREFERÊNCIAS}
+{101}{}{DIFÍCILIDADE DO JOGO}
+{102}{}{DIFÍCILIDADE DO COMBATE}
+{103}{}{NÍVEL DE VIOLÊNCIA}
+{104}{}{DESTAQUE ALVO}
+{105}{}{COMBAT LOOKS}  # Was: BURNING GUYS
+{106}{}{MENSAGENS DE COMBATE}
+{107}{}{TAXAS DE COMBATE}
+{108}{}{FILTRO DE IDIOMA}
+{109}{}{CORRIDA}
+{110}{}{SUBTÍTULOS}
+{111}{}{DESTAQUE DO ITEM}
+{112}{}{VELOCIDADE DE COMBATE}
+{113}{}{ATRASO DE TEXTO}
+{114}{}{MASTER AUDIO VOLUME}
+{115}{}{MUSIC / MOVIE VOLUME}
+{116}{}{VOLUME DE EFEITOS DE SOM}
+{117}{}{VOLUME DE DISCURSO}
+{118}{}{NÍVEL DE BRILHANTE}
+{119}{}{SENSIBILIDADE DO RATO}
+{120}{}{PADRÃO}
+{121}{}{CANCELAR}
+{122}{}{Afetar a velocidade do jogador}
+{123}{}{Discurso de Pipboy}
+#
+# Label text
+#
+{201}{}{Em}             # 1
+{202}{}{Fora}            # 2
+{203}{}{Fácil}           #  1
+{204}{}{Normal}         #  2
+{205}{}{Difícil}           #  3
+{206}{}{Wimpy}          # 1
+{207}{}{Normal}         # 2
+{208}{}{Rude}          # 3
+{209}{}{Normal}         #  1
+{210}{}{O mais rápido}        #  2
+{211}{}{Verbo}        # 1
+{212}{}{Breve}          # 2
+{213}{}{Targeting Emly}
+{214}{}{Nenhum}           # 1
+{215}{}{Mínimo}        # 2
+{216}{}{Sangue Máximo}  # 3
+{217}{}{Lento}           #  1
+{218}{}{Mais rápido}         #  2
+{219}{}{Sempre}
+{220}{}{Grande quantidade}
+{221}{}{Quieto}          # 1
+{222}{}{Alto}           # 2
+{223}{}{Mais brilhante}
+{224}{}{Largo}
+
+
+#
+# Pause window
+#
+{300}{}{FEITO}
+{301}{}{PAUSADO}
+#
+# Demo versions only
+#
+{1000}{}{Desculpe, o menu de preferências não é}  # 1
+{1001}{}{disponível na versão de demonstração.}      # 2

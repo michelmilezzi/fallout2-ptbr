@@ -1,0 +1,7 @@
+{100}{}{Você vê um terminal.}
+{101}{}{Este terminal parece operar as portas nesta área.}
+{102}{}{Você ouve algumas portas se abrindo.}
+
+{110}{}{Você pareceu ter desalojado algo aqui.}
+
+{120}{}{As descargas electrificadas do piso.}

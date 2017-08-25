@@ -1,0 +1,1024 @@
+#
+# This is all of the combat messages used by combat.c
+# Note: all %d values will be filled with a number greater than 1
+#
+# Truly Generic strings (no need for gender/number issues)
+#
+{100}{}{Você precisa de% d pontos de ação.}
+{101}{}{Sem munição.}
+{102}{}{Alvo fora do alcance.}
+{103}{}{O combate não pode terminar com criaturas hostis próximas.}
+{104}{}{Seu objetivo está bloqueado.}
+{105}{}{Você não pode usar armas com ambos os braços paralisados.}
+{106}{}{Você não pode usar armas de duas mãos com um braço aleijado.}
+{107}{}{Você não é forte o suficiente para usar esta arma corretamente.}
+{108}{}{ e}
+#
+# Combat Flag Strings (all of these happen to you, the MALE player)
+#
+{200}{}{nocauteado}
+{201}{}{derrubado}
+{202}{}{murmurou a perna esquerda}
+{203}{}{murmurou sua perna direita}
+{204}{}{murmurou o braço esquerdo}
+{205}{}{murmurou o braço direito}
+{206}{}{cego}
+{207}{}{foram mortos}
+{208}{}{acertar}
+{209}{}{crítico}
+{210}{}{em chamas}
+{211}{}{teve sua armadura ignorada}
+{212}{}{sua arma explodiu}
+{213}{}{sua arma foi destruída}
+{214}{}{sua arma caiu}
+{215}{}{perdeu seu próximo turno}
+{216}{}{acertar yourself}
+{217}{}{perdeu o resto da sua munição}
+{218}{}{disparou um tiro fraco}
+{219}{}{machucar-se}
+{220}{}{acertar randomly}
+{221}{}{aleijou um membro aleatório}
+{222}{}{salpicada de fragmentos}
+#
+# Combat Flag Strings (all of these happen to you, the FEMALE player)
+#
+{250}{}{nocauteado}
+{251}{}{derrubado}
+{252}{}{murmurou a perna esquerda}
+{253}{}{murmurou sua perna direita}
+{254}{}{murmurou o braço esquerdo}
+{255}{}{murmurou o braço direito}
+{256}{}{cego}
+{257}{}{foram mortos}
+{258}{}{acertar}
+{259}{}{crítico}
+{260}{}{em chamas}
+{261}{}{teve sua armadura ignorada}
+{262}{}{sua arma explodiu}
+{263}{}{sua arma foi destruída}
+{264}{}{sua arma caiu}
+{265}{}{perdeu seu próximo turno}
+{266}{}{acertar yourself}
+{267}{}{perdeu o resto da sua munição}
+{268}{}{disparou um tiro fraco}
+{269}{}{machucar-se}
+{270}{}{acertar randomly}
+{271}{}{aleijou um membro aleatório}
+{272}{}{salpicada de fragmentos}
+#
+# Combat Flag Strings (all of these happen to a male)
+#
+{300}{}{nocauteado}
+{301}{}{derrubado}
+{302}{}{murmurou a perna esquerda}
+{303}{}{murmurou a perna direita}
+{304}{}{murmurou o braço esquerdo}
+{305}{}{murmurou o braço direito}
+{306}{}{cego}
+{307}{}{foi morto}
+{308}{}{acertar}
+{309}{}{crítico}
+{310}{}{em chamas}
+{311}{}{teve sua armadura ignorada}
+{312}{}{sua arma explodiu}
+{313}{}{sua arma foi destruída}
+{314}{}{sua arma caiu}
+{315}{}{perdeu o próximo turno}
+{316}{}{acertar himself}
+{317}{}{perdeu o resto de sua munição}
+{318}{}{disparou um tiro fraco}
+{319}{}{machucar-se}
+{320}{}{acertar randomly}
+{321}{}{aleijou um membro aleatório}
+{322}{}{salpicada de fragmentos}
+#
+# Combat Flag Strings (all of these happen to a female)
+#
+{400}{}{nocauteado}
+{401}{}{derrubado}
+{402}{}{murmurou a perna esquerda}
+{403}{}{murmurou a perna direita}
+{404}{}{murmurou o braço esquerdo}
+{405}{}{murmurou o braço direito}
+{406}{}{cego}
+{407}{}{foi morto}
+{408}{}{acertar}
+{409}{}{crítico}
+{410}{}{em chamas}
+{411}{}{teve sua armadura ignorada}
+{412}{}{sua arma explodiu}
+{413}{}{sua arma destruída}
+{414}{}{sua arma caiu}
+{415}{}{perdeu seu próximo turno}
+{416}{}{acertar herself}
+{417}{}{perdeu o resto da munição}
+{418}{}{disparou um tiro fraco}
+{419}{}{machucar-se}
+{420}{}{acertar randomly}
+{421}{}{aleijou um membro aleatório}
+{422}{}{salpicada de fragmentos}
+#
+# Miscellaneous combat messages (all of these happen to you, the male player)
+# Note: the first %s will be replaced by the value of line 506, which
+#          should be the language's equivalent to 2nd person male singular,
+#          which is "Você" in English. The first letter of line 506 should
+#          be capitalized, since it will start a sentence.
+#       the second %s (if there is one) is the acertar location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 509
+#          where the second %s is the name of another creature
+{506}{}{Você}
+{509}{}{Oops! %s were acertar instead of %s!}
+{511}{}{%s were críticoly acertar in %s for %d acertar points}
+{512}{}{%s were acertar in %s for %d acertar points}
+{513}{}{%s were acertar for %d acertar points}
+{514}{}{%s críticoly missed}
+{515}{}{% s perdeu}
+{520}{}{%s were críticoly acertar for %d acertar points}
+{521}{}{%s were críticoly acertar in %s for 1 acertar point}
+{522}{}{%s were acertar in %s for 1 acertar point}
+{523}{}{%s were acertar for 1 acertar point}
+{524}{}{%s were críticoly acertar for 1 acertar point}
+{525}{}{%s were críticoly acertar in %s for no damage}
+{526}{}{%s were acertar in %s for no damage}
+{527}{}{%s were acertar for no damage}
+{528}{}{%s were críticoly acertar for no damage}
+{533}{}{%s críticoly missed etook 1 acertar point}
+{534}{}{%s críticoly missed etook %d acertar points}
+#
+# Miscellaneous combat messages (all of these happen to you, the female player)
+# Note: the first %s will be replaced by the value of line 556, which
+#          should be the language's equivalent to 2nd person female singular,
+#          which is "Você" in English. The first letter of line 556 should
+#          be capitalized, since it will start a sentence.
+#       the second %s (if there is one) is the acertar location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 559
+#          where the second %s is the name of another creature
+{556}{}{Você}
+{559}{}{Oops! %s were acertar instead of %s!}
+{561}{}{%s were críticoly acertar in %s for %d acertar points}
+{562}{}{%s were acertar in %s for %d acertar points}
+{563}{}{%s were acertar for %d acertar points}
+{564}{}{%s críticoly missed}
+{565}{}{% s perdeu}
+{570}{}{%s were críticoly acertar for %d acertar points}
+{571}{}{%s were críticoly acertar in %s for 1 acertar point}
+{572}{}{%s were acertar in %s for 1 acertar point}
+{573}{}{%s were acertar for 1 acertar point}
+{574}{}{%s were críticoly acertar for 1 acertar point}
+{575}{}{%s were críticoly acertar in %s for no damage}
+{576}{}{%s were acertar in %s for no damage}
+{577}{}{%s were acertar for no damage}
+{578}{}{%s were críticoly acertar for no damage}
+{583}{}{%s críticoly missed etook 1 acertar point}
+{584}{}{%s críticoly missed etook %d acertar points}
+#
+# Miscellaneous combat messages (all of these happen to a male)
+# Note: the first %s is the name of the male creature
+#       the second %s (if there is one) is the acertar location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 609
+#          where the second %s is the name of another creature
+#
+{608}{}{Oops! %s was acertar instead of you!}
+{609}{}{Oops! %s was acertar instead of %s!}
+{611}{}{%s was críticoly acertar in %s for %d acertar points}
+{612}{}{%s was acertar in %s for %d acertar points}
+{613}{}{%s was acertar for %d acertar points}
+{614}{}{%s críticoly missed}
+{615}{}{% s perdeu}
+{620}{}{%s was críticoly acertar for %d acertar points}
+{621}{}{%s was críticoly acertar in %s for 1 acertar point}
+{622}{}{%s was acertar in %s for 1 acertar point}
+{623}{}{%s was acertar for 1 acertar point}
+{624}{}{%s was críticoly acertar for 1 acertar point}
+{625}{}{%s was críticoly acertar in %s for no damage}
+{626}{}{%s was acertar in %s for no damage}
+{627}{}{%s was acertar for no damage}
+{628}{}{%s was críticoly acertar for no damage}
+{633}{}{%s críticoly missed etook 1 acertar point}
+{634}{}{%s críticoly missed etook %d acertar points}
+#
+# Miscellaneous combat messages (all of these happen to a female)
+# Note: the first %s is the name of the female creature
+#       the second %s (if there is one) is the acertar location, which
+#          will be a string from the section Hit Locations starting
+#          in the 1000's in this file, with the exception of line 709
+#          where the second %s is the name of another creature
+#
+{708}{}{Oops! %s was acertar instead of you!}
+{709}{}{Oops! %s was acertar instead of %s!}
+{711}{}{%s was críticoly acertar in %s for %d acertar points}
+{712}{}{%s was acertar in %s for %d acertar points}
+{713}{}{%s was acertar for %d acertar points}
+{714}{}{%s críticoly missed}
+{715}{}{% s perdeu}
+{720}{}{%s was críticoly acertar for %d acertar points}
+{721}{}{%s was críticoly acertar in %s for 1 acertar point}
+{722}{}{%s was acertar in %s for 1 acertar point}
+{723}{}{%s was acertar for 1 acertar point}
+{724}{}{%s was críticoly acertar for 1 acertar point}
+{725}{}{%s was críticoly acertar in %s for no damage}
+{726}{}{%s was acertar in %s for no damage}
+{727}{}{%s was acertar for no damage}
+{728}{}{%s was críticoly acertar for no damage}
+{733}{}{%s críticoly missed etook 1 acertar point}
+{734}{}{%s críticoly missed etook %d acertar points}
+#
+# Hit Locations (by art_num alias)
+#
+# regular humans
+#
+{1110}{}{a cabeça}
+{1111}{}{o braço esquerdo}
+{1112}{}{o braço direito}
+{1113}{}{o tronco}
+{1114}{}{a perna direita}
+{1115}{}{a perna esquerda}
+{1116}{}{os olhos}
+{1117}{}{a virilha}
+{1118}{}{desnecessário}
+#
+# Brahmin (Mutant 2-Headed Cows)
+#
+{1150}{}{a cabeça}
+{1151}{}{a parte traseira esquerda}
+{1152}{}{a orelha direita}
+{1153}{}{o tronco}
+{1154}{}{a perna dianteira direita}
+{1155}{}{a perna dianteira esquerda}
+{1156}{}{os olhos}
+{1157}{}{o úbere}
+{1158}{}{desnecessário}
+#
+# dogs
+#
+{1160}{}{a cabeça}
+{1161}{}{o traseiro}
+{1162}{}{o traseiro}
+{1163}{}{o corpo}
+{1164}{}{a perna dianteira}
+{1165}{}{a perna dianteira}
+{1166}{}{os olhos}
+{1167}{}{a virilha}
+{1168}{}{desnecessário}
+#
+# Mr. Handy
+#
+{1170}{}{a CPU}
+{1171}{}{o manipulador}
+{1172}{}{o manipulador}
+{1173}{}{a moldura}
+{1174}{}{o motivador}
+{1175}{}{o motivador}
+{1176}{}{os sensores}
+{1177}{}{o regulador}
+{1178}{}{desnecessário}
+#
+# Super Mutants             # Fallout 2: Reserved?
+#
+{1180}{}{a cabeça}
+{1181}{}{o braço esquerdo}
+{1182}{}{o braço direito}
+{1183}{}{o tronco}
+{1184}{}{a perna direita}
+{1185}{}{a perna esquerda}
+{1186}{}{os olhos}
+{1187}{}{a virilha}
+{1188}{}{desnecessário}
+#
+# Mole-Rat
+#
+{1190}{}{a cabeça}
+{1191}{}{a pata esquerda}
+{1192}{}{a pata direita}
+{1193}{}{o corpo}
+{1194}{}{a perna direita}
+{1195}{}{a perna esquerda}
+{1196}{}{os olhos}
+{1197}{}{a virilha}
+{1198}{}{desnecessário}
+#
+# big humans emutants
+#
+{1210}{}{a cabeça}
+{1211}{}{o braço esquerdo}
+{1212}{}{o braço direito}
+{1213}{}{o tronco}
+{1214}{}{a perna direita}
+{1215}{}{a perna esquerda}
+{1216}{}{os olhos}
+{1217}{}{a virilha}
+{1218}{}{desnecessário}
+#
+# Radscorpion
+#
+{1220}{}{a cabeça}
+{1221}{}{a calda}
+{1222}{}{a garra}
+{1223}{}{o carapace}
+{1224}{}{a perna dianteiras}
+{1225}{}{o traseiros}
+{1226}{}{os olhos}
+{1227}{}{o cérebro}
+{1228}{}{desnecessário}
+#
+# Floater
+#
+{1230}{}{a cabeça}
+{1231}{}{a boca}
+{1232}{}{a boca dianteira}
+{1233}{}{o corpo}
+{1234}{}{o saco flutuante}
+{1235}{}{a calda}
+{1236}{}{o gânglio}
+{1237}{}{o ovipositor}
+{1238}{}{desnecessário}
+#
+# masrat? a rat perhaps?
+#
+{1240}{}{a cabeça}
+{1241}{}{a pata esquerda}
+{1242}{}{a pata direita}
+{1243}{}{o corpo}
+{1244}{}{a perna direita}
+{1245}{}{a perna esquerda}
+{1246}{}{os olhos}
+{1247}{}{a virilha}
+{1248}{}{desnecessário}
+#
+# Centaur
+#
+{1250}{}{a cabeça}
+{1251}{}{o braço esquerdo}
+{1252}{}{o braço direito}
+{1253}{}{o corpo}
+{1254}{}{a perna direita}
+{1255}{}{a perna esquerda}
+{1256}{}{os olhos}
+{1257}{}{a virilha}
+{1258}{}{desnecessário}
+#
+# human midgets echildren
+#
+{1270}{}{a cabeça}
+{1271}{}{o braço esquerdo}
+{1272}{}{o braço direito}
+{1273}{}{o tronco}
+{1274}{}{a perna direita}
+{1275}{}{a perna esquerda}
+{1276}{}{os olhos}
+{1277}{}{a virilha}
+{1278}{}{desnecessário}
+#
+# Overseer                  # Fallout 2: Reserved?
+#
+{1460}{}{a cabeça}
+{1461}{}{o braço esquerdo}
+{1462}{}{o braço direito}
+{1463}{}{o tronco}
+{1464}{}{a perna direita}
+{1465}{}{a perna esquerda}
+{1466}{}{os olhos}
+{1467}{}{a virilha}
+{1468}{}{desnecessário}
+#
+# Gizmo                     # Fallout 2: Reserved?
+#
+{1490}{}{a cabeça}
+{1491}{}{o braço esquerdo}
+{1492}{}{o braço direito}
+{1493}{}{o tronco}
+{1494}{}{a perna direita}
+{1495}{}{a perna esquerda}
+{1496}{}{os olhos}
+{1497}{}{a virilha}
+{1498}{}{desnecessário}
+#
+# The Master!               # Fallout 2: Reserved?
+#
+{1500}{}{a cabeça}
+{1501}{}{???}
+{1502}{}{???}
+{1503}{}{a moldura}
+{1504}{}{???}
+{1505}{}{???}
+{1506}{}{os olhos}
+{1507}{}{a CPU}
+{1508}{}{desnecessário}
+#
+# Death Claw
+#
+{1510}{}{a cabeça}
+{1511}{}{o braço esquerdo}
+{1512}{}{o braço direito}
+{1513}{}{o tronco}
+{1514}{}{a perna direita}
+{1515}{}{a perna esquerda}
+{1516}{}{os olhos}
+{1517}{}{a virilha}
+{1518}{}{desnecessário}
+#
+# Mantis
+#
+{1520}{}{a cabeça}
+{1521}{}{a perna raptorial}
+{1522}{}{a perna raptorial}
+{1523}{}{o abdômen}
+{1524}{}{as pernas}
+{1525}{}{as asas}
+{1526}{}{os olhos}
+{1527}{}{o metatórax}
+{1528}{}{desnecessário}
+#
+# Robobrain
+#
+{1530}{}{a CPU}
+{1531}{}{o manipulador}
+{1532}{}{o manipulador}
+{1533}{}{a moldura}
+{1534}{}{o motivador}
+{1535}{}{o motivador}
+{1536}{}{os sensores}
+{1537}{}{o regulador}
+{1538}{}{desnecessário}
+#
+# Eyeball (Robot)
+#
+{1540}{}{a CPU}
+{1541}{}{o manipulador}
+{1542}{}{o manipulador}
+{1543}{}{a moldura}
+{1544}{}{o motivador}
+{1545}{}{o motivador}
+{1546}{}{os sensores}
+{1547}{}{o regulador}
+{1548}{}{desnecessário}
+#
+# Mutant Pig Rat (small Mole-Rat)
+#
+{1550}{}{a cabeça}
+{1551}{}{a pata esquerda}
+{1552}{}{a pata direita}
+{1553}{}{o corpo}
+{1554}{}{a perna direita}
+{1555}{}{a perna esquerda}
+{1556}{}{os olhos}
+{1557}{}{a virilha}
+{1558}{}{desnecessário}
+#
+# Deathclaw Egg
+#
+{1580}{}{A concha}
+{1581}{}{A concha}
+{1582}{}{A concha}
+{1583}{}{A concha}
+{1584}{}{A concha}
+{1585}{}{A concha}
+{1586}{}{A concha}
+{1587}{}{A concha}
+{1588}{}{desnecessário}
+#
+# Lesser Radscorpion
+#
+{1590}{}{a cabeça}
+{1591}{}{a calda}
+{1592}{}{a garra}
+{1593}{}{o carapace}
+{1594}{}{a perna dianteiras}
+{1595}{}{o traseiros}
+{1596}{}{os olhos}
+{1597}{}{o cérebro}
+{1598}{}{desnecessário}
+#
+# Lesser Death Claw
+#
+{1600}{}{a cabeça}
+{1601}{}{o braço esquerdo}
+{1602}{}{o braço direito}
+{1603}{}{o tronco}
+{1604}{}{a perna direita}
+{1605}{}{a perna esquerda}
+{1606}{}{os olhos}
+{1607}{}{a virilha}
+{1608}{}{desnecessário}
+#
+# Giant Plant
+#
+{1650}{}{a boca}
+{1651}{}{o talo}
+{1652}{}{o talo}
+{1653}{}{a haste central}
+{1654}{}{as raízes}
+{1655}{}{as raízes}
+{1656}{}{os sensores-tendrils}
+{1657}{}{a base}
+{1658}{}{desnecessário}
+#
+# Security Robot
+#
+{1660}{}{a cabeça}
+{1661}{}{a mão do míssil}
+{1662}{}{a mão da arma}
+{1663}{}{o corpo}
+{1664}{}{a perna direita}
+{1665}{}{a perna esquerda}
+{1666}{}{os sensores}
+{1667}{}{o tronco inferior}
+{1668}{}{desnecessário}
+#
+# Gecko 2
+#
+{1670}{}{a cabeça}
+{1671}{}{a garra esquerda}
+{1672}{}{a garra direita}
+{1673}{}{o corpo}
+{1674}{}{a perna direita}
+{1675}{}{a perna esquerda}
+{1676}{}{os olhos}
+{1677}{}{a virilha}
+{1678}{}{desnecessário}
+#
+# Gecko
+#
+{1680}{}{a cabeça}
+{1681}{}{a garra esquerda}
+{1682}{}{a garra direita}
+{1683}{}{o corpo}
+{1684}{}{a perna direita}
+{1685}{}{a perna esquerda}
+{1686}{}{os olhos}
+{1687}{}{a virilha}
+{1688}{}{desnecessário}
+#
+# Alien Thing
+#
+{1800}{}{a cabeça}
+{1801}{}{o tentáculo esquerdo}
+{1802}{}{o tentáculo certo}
+{1803}{}{o corpo}
+{1804}{}{o pé direito}
+{1805}{}{o pé esquerdo}
+{1806}{}{os olhos?}
+{1807}{}{a virilha socket}
+{1808}{}{desnecessário}
+#
+# End Boss
+#
+{1850}{}{a cabeça}
+{1851}{}{o braço esquerdo}
+{1852}{}{o braço direito}
+{1853}{}{o tronco}
+{1854}{}{a perna direita}
+{1855}{}{a perna esquerda}
+{1856}{}{os olhos}
+{1857}{}{a virilha}
+{1858}{}{desnecessário}
+#
+# Alien Queen
+#
+{1860}{}{a cabeça}
+{1861}{}{o tentáculo esquerdo}
+{1862}{}{o tentáculo certo}
+{1863}{}{o corpo}
+{1864}{}{o pé direito}
+{1865}{}{o pé esquerdo}
+{1866}{}{os olhos?}
+{1867}{}{a virilha socket}
+{1868}{}{desnecessário}
+#
+# Gun Turret 2
+#
+{1900}{}{a CPU}
+{1901}{}{o servo da arma}
+{1902}{}{o servo da arma}
+{1903}{}{a moldura}
+{1904}{}{a base servo}
+{1905}{}{a base servo}
+{1906}{}{os sensores}
+{1907}{}{o regulador}
+{1908}{}{desnecessário}
+#
+# Giant Ant
+#
+{1970}{}{a cabeça}
+{1971}{}{a perna dianteira esquerda}
+{1972}{}{a perna dianteira direita}
+{1973}{}{o abdômen}
+{1974}{}{a orelha direita}
+{1975}{}{a parte traseira esquerda}
+{1976}{}{os sensores}
+{1977}{}{o metatórax}
+{1978}{}{desnecessário}
+#
+# Goris Robed
+#
+{1990}{}{a cabeça}
+{1991}{}{o braço esquerdo}
+{1992}{}{o braço direito}
+{1993}{}{o tronco}
+{1994}{}{a perna direita}
+{1995}{}{a perna esquerda}
+{1996}{}{os olhos}
+{1997}{}{a virilha}
+{1998}{}{desnecessário}
+#
+# Goris UnRobed
+#
+{2000}{}{a cabeça}
+{2001}{}{o braço esquerdo}
+{2002}{}{o braço direito}
+{2003}{}{o tronco}
+{2004}{}{a perna direita}
+{2005}{}{a perna esquerda}
+{2006}{}{os olhos}
+{2007}{}{a virilha}
+{2008}{}{desnecessário}
+#
+# Gun Turret 2
+#
+{2010}{}{a CPU}
+{2011}{}{o servo da arma}
+{2012}{}{o servo da arma}
+{2013}{}{a moldura}
+{2014}{}{a base servo}
+{2015}{}{a base servo}
+{2016}{}{os sensores}
+{2017}{}{o regulador}
+{2018}{}{desnecessário}
+
+
+#
+# Critical Hit Messages
+#
+# 5000 series - men (including generics)
+#
+{5000}{}{ ereally hurts}
+{5001}{}{. Uma ferida séria é infligida}
+{5002}{}{ sem defesas de armadura}
+{5003}{}{. O ataque prejudicial o deixa inconsciente}
+{5004}{}{. O golpe bate-o no chão}
+{5005}{}{. The strong blow to a cabeça knocks him out}
+{5006}{}{. O ataque esmaga o templo. Boa noite, Gracie}
+{5007}{}{, a morte é instantânea}
+{5008}{}{, causando severo cotovelo de tenista}
+{5009}{}{, afastando o braço do caminho}
+{5010}{}{, deixando uma grande hematoma}
+{5011}{}{, crippling o braço esquerdo}
+{5012}{}{, leaving o braço esquerdo dangling by the skin}
+{5013}{}{. Esse braço agora parece um tronco sangrento}
+{5014}{}{, deixando um braço direito aleijado}
+{5015}{}{. Seu braço direito é pulverizado por este poderoso golpe}
+{5016}{}{ em um golpe vigoroso}
+{5017}{}{ soprando a armadura}
+{5018}{}{, infligindo uma contribuição adicional de dano}
+{5019}{}{ sem armadura, batendo o combatente no chão}
+{5020}{}{ derrubando o ar, ele caiu no chão fora da luta}
+{5021}{}{. Infelizmente, sua espinha agora é claramente visível da frente}
+{5022}{}{ colocando uma grande dor na perna}
+{5023}{}{, derrubando-o no chão como um boliche em um jogo da liga}
+{5024}{}{, bowling him over ecrippling that leg}
+{5025}{}{, esmagando o joelho na próxima cidade. Ele cai}
+{5026}{}{. A dor intensa de ter uma perna removida faz com que ele saia}
+{5027}{}{ infligindo alguma dor extra}
+{5028}{}{ causando cegueira, infeliz para ele}
+{5029}{}{, ewith no protection there, causing serious pain}
+{5030}{}{, eblinding him with a stunning blow}
+{5031}{}{. The loss of an eye is too much for him, ehe falls to the ground}
+{5032}{}{, sadly, he is too busy feeling the rush of air on o cérebro to notice death approaching}
+{5033}{}{. Ouch! Isso teve que doer}
+{5034}{}{, ehe's not wearing a cup, either}
+{5035}{}{ ewithout protection, he falls over, groaning in agony}
+{5036}{}{. The pain is too much for him ehe collapses like a rag}
+{5037}{}{. Ele murmura "Mãe", enquanto seus olhos rolam na parte de trás da cabeça}
+#
+# series 5100 - women
+#
+{5100}{}{ ereally hurts}
+{5101}{}{. Uma ferida séria é infligida}
+{5102}{}{ sem armadura}
+{5103}{}{. O ataque prejudicial a deixa inconsciente}
+{5104}{}{. O golpe bate na terra}
+{5105}{}{. The strong blow to a cabeça knocks her out}
+{5106}{}{. O ataque esmaga seu templo. Boa noite, Gracie}
+{5107}{}{, a morte é instantânea}
+{5108}{}{, causando severo cotovelo de tenista}
+{5109}{}{, afastando o braço do caminho}
+{5110}{}{, deixando uma grande hematoma}
+{5111}{}{, crippling o braço esquerdo}
+{5112}{}{. O braço esquerdo não está preso a seu ombro}
+{5113}{}{. Esse braço agora parece um tronco sangrento}
+{5114}{}{, deixando um braço direito aleijado}
+{5115}{}{. Seu braço direito é transformado em hambúrguer pelo golpe}
+{5116}{}{ em um golpe vigoroso}
+{5117}{}{ perfurando suas defesas}
+{5118}{}{, infligindo uma contribuição adicional de dano}
+{5119}{}{ sem armadura, knocking the female fighter to the ground}
+{5120}{}{ derrubando o ar, ela cai no chão}
+{5121}{}{. Infelizmente, seus principais órgãos foram expostos à luz}
+{5122}{}{ colocando uma grande dor na perna}
+{5123}{}{, derrubando-a como uma namorada ruim}
+{5124}{}{, knocking her down ecrippling that leg}
+{5125}{}{, esmagando o joelho na próxima cidade. Ela leva a trilha rápida para o chão}
+{5126}{}{. Ela grita com dor da perna quebrada}
+{5127}{}{ infligindo alguma dor extra}
+{5128}{}{ causando cegueira. Ela faz caretas}
+{5129}{}{, ewith no protection there, causing serious pain}
+{5130}{}{. A ferida causa cegueira severa, como se houvesse algum outro tipo}
+{5131}{}{. Ela desmaia do ataque cegador}
+{5132}{}{, infelizmente, ela não consegue rezar aos deuses antes de conhecê-los}
+{5133}{}{. Ela leva isso como um homem. Ou seja, dói}
+{5134}{}{, derrubando-a no chão}
+{5135}{}{. Seus dias fecundos estão com problemas quando ela colapsa em uma pilha mole}
+#
+# series 5200 - children
+#
+{5200}{}{. O garoto começa a chorar}
+{5201}{}{. Inconsciente, a criança pequena cai}
+{5202}{}{. Ouchie!}
+{5203}{}{. The blow is true, ethe child is knocked unconscious}
+{5204}{}{, esmagando a criança pequena como um pano macio}
+{5205}{}{. O braço esquerdo da criança agora tem um owie}
+{5206}{}{, jogando a criança pequena fora de equilíbrio}
+{5207}{}{, quebrando esse braço com uma pressão brusca. Algumas lágrimas sérias começam a fluir}
+{5208}{}{, encaixando facilmente esse braço como um pequeno pedaço de doce}
+{5209}{}{. O braço direito começa a inchar, como um balão}
+{5210}{}{, estarts to cry}
+{5211}{}{ em um ponto sensível}
+{5212}{}{. O ataque a um órgão vital bate o filho sobre}
+{5213}{}{, derrubando o garotinho como um brinquedo}
+{5214}{}{. Agora, essa criança nunca experimentará a vida}
+{5215}{}{, infligindo um corte profundo}
+{5216}{}{. The attack bowls the child over, ebreaks the leg}
+{5217}{}{, infligindo grandes danos à criança pequena}
+{5218}{}{. The young child looks up estarts to cry}
+{5219}{}{, o que cega a juventude}
+{5220}{}{, golpeando o nariz juvenil}
+{5221}{}{. A cut appears above os olhos ethe blood starts to flow freely}
+{5222}{}{, que abre um olho como uma uva explodindo. A criança parece confusa}
+{5223}{}{ causando cegueira. A criança pequena cai no chão}
+{5224}{}{, o golpe continua no pequeno cérebro}
+{5225}{}{. The child looks confused eshaken}
+{5226}{}{, batendo esse jovem alvo no chão}
+#
+# series 5300 - Super Mutants
+#
+{5300}{}{, machucando o poderoso mutante}
+{5301}{}{, atingindo um ponto vital}
+{5302}{}{, atingindo um ponto vital eknocking the giant to the ground}
+{5303}{}{. The giant mutant looks around for a moment, ethen slumps to the ground}
+{5304}{}{. A cabeça explode como uma melancia gigante e sangrenta}
+{5305}{}{, prejudicando gravemente o poderoso mutante}
+{5306}{}{, fazendo com que o gigante passe um momento amaldiçoando o universo}
+{5307}{}{, striking a nerve eforcing the giant to grab his arm in pain}
+{5308}{}{. The blow breaks the elbow eprobably didn't feel too good}
+{5309}{}{, breaking the thick arm espewing mutant blood over the ground}
+{5310}{}{, causing the giant to stumble for a moment ethen collapse like a felled tree}
+{5311}{}{, egallons of viscera splurt to the ground}
+{5312}{}{, enviando o gigante voando para o chão}
+{5313}{}{. The mutant stumbles efalls, his leg barely able to support him}
+{5314}{}{, atingindo uma localização vital. O mutante amassa-se sob uma perna quebrada}
+{5315}{}{. A dor de uma perna quebrada supera o poderoso gigante}
+{5316}{}{, quase cegando o mutante}
+{5317}{}{, cegando o agora-furioso mutante}
+{5318}{}{, quase cegando o mutante but throwing him off balance}
+{5319}{}{. The cego mutant stumbles back, unprepared for the next attack}
+{5320}{}{, cegando o mutante agora inconsciente}
+{5321}{}{. The eyes of the mutant glow for a moment, ethen the light fades - permanently}
+#
+# series 5400 - Ghouls
+#
+{5400}{}{. The ghoul is surprised, efails to defend against this attack}
+{5401}{}{. Este golpe enterra esse ghoul}
+{5402}{}{. A mão do ghoul atordoado se abre}
+{5403}{}{, sneaking through his armor estriking a crítico joint}
+{5404}{}{, sneaking through his armor elopping the arm off}
+{5405}{}{. The ghoul moves the wrong way at the wrong moment, eloses an eye}
+{5406}{}{. O ghoul está vestindo nenhuma armadura lá}
+{5407}{}{, ewithout armor, the ghoul is cego}
+{5408}{}{, fazendo com que o ghoul pareça confundido em seus momentos finais}
+#
+# series 5500 - Brahmin
+#
+{5500}{}{, batendo o grande animal no chão}
+{5501}{}{, stunning both brains efelling the giant animal}
+{5502}{}{. A vaca mutante dá um grito alto e assustado}
+{5503}{}{, quebrando uma das pernas do braçim}
+{5504}{}{, machucando gravemente a vaca mutante}
+{5505}{}{, penetrando facilmente a espessa cegueira da besta gigante}
+{5506}{}{, penetrando diretamente em ambos os corações da vaca mutante}
+{5507}{}{, cegando ambos os conjuntos de olhos com um único golpe}
+{5508}{}{, blinding both heads estunning the mutant cow}
+{5509}{}{, completely blinding the Brahmin eknocking it out}
+{5510}{}{, o grande mutante bovino tropeça por um momento}
+{5511}{}{. O brahmin vibra com raiva}
+{5512}{}{. O brâmax ressombra com dor}
+{5513}{}{. O brahmin está mais chateado com este ataque udderly devastador}
+#
+# series 5600 - Radscorpions
+#
+{5600}{}{, enviando o Radscorpion voando sobre ele está de volta}
+{5601}{}{, separating a cabeça from o carapace}
+{5602}{}{, seriously damaging a calda}
+{5603}{}{, colocando uma grande dor nas garras}
+{5604}{}{. O golpe desliza entre as rachaduras do carapace resistente do Radscorpion}
+{5605}{}{, golpeando a carapaça dura sem pausar}
+{5606}{}{, passing through the natural armor eknocking the Radscorpion over}
+{5607}{}{. O Radscorpion não pode lidar com uma nova sensação, como falta de órgãos internos}
+{5608}{}{, sending the 'scorpion flying ecrippling some of it's legs}
+{5609}{}{. O ataque corta uma articulação desprotegida na perna, cortando-a}
+{5610}{}{, seriously wounding eblinding the mutant creature}
+{5611}{}{, penetrating almost to o cérebro. Talk about squashing a bug}
+{5612}{}{, almost penetrating to o cérebro, but blinding the creature instead}
+{5613}{}{. The attack is fiendish, efar too sophisticated for this simple creature}
+{5614}{}{. Se fosse humano, você juraria que está muito chateado}
+{5615}{}{, derrubando a pobre criatura sem sentido}
+{5616}{}{, spiking o cérebro to the floor}
+#
+# series 5700 - Rats
+#
+{5700}{}{. O crânio do roedor faz vários sons insalubres}
+{5701}{}{, esmagando o crânio do roedor como um saco de papel molhado}
+{5702}{}{, ea pata esquerda now looks a little flat}
+{5703}{}{. A pata esquerda do rato é explodida}
+{5704}{}{. A pata direita está fortemente danificada}
+{5705}{}{, blowing a pata direita off}
+{5706}{}{. O rato é gravemente ferido por este ataque}
+{5707}{}{, seriously wounding the rat eknocking it around}
+{5708}{}{, salpicando o rato pelo chão}
+{5709}{}{, crippling a perna direita}
+{5710}{}{, putting a big hole in a perna esquerda}
+{5711}{}{, causando alguns danos adicionais devido à localização sensível}
+{5712}{}{, convocando esta criatura para o grande catador no céu}
+#
+# series 5800 - Floaters
+#
+{5800}{}{, o flutuador cai no chão}
+{5801}{}{, o flutuador cai no chão, aparentemente sem vida}
+{5802}{}{, com sérias conseqüências para as criaturas continuaram a existir}
+{5803}{}{, deslumbrante a criatura suja}
+{5804}{}{, acertarting a sensitive spot there estunning the floater}
+{5805}{}{. O golpe faz com que o flutuador treme violentamente em um spray de carmesim}
+{5806}{}{, o golpe causando algum tipo de reação violenta na criatura}
+{5807}{}{. O flutuador de repente explode em chamas}
+{5808}{}{ then it jerks wildly equivers like a pudding surprise}
+{5809}{}{, with the blow acertarting a sensitive spot}
+{5810}{}{. A criatura é obviamente agitada}
+#
+# series 5900 - Centaurs
+#
+{5900}{}{, pushed like a bad habit, the centaur falls over eis stunned}
+{5901}{}{ as the blow strikes a crítico spot}
+{5902}{}{, causando uma enorme falha neurológica}
+{5903}{}{, deslumbrante com seu ataque violento}
+{5904}{}{, danificando o braço}
+{5905}{}{ striking a crítico spot, ecrippling the arm}
+{5906}{}{, knocking the creature over ecrippling the leg}
+{5907}{}{, deslumbrante o centauro, pois é derrubado com uma perna aleijada}
+{5908}{}{, cegando a cabeça}
+{5909}{}{, surpreendendo o centauro. Trata-se cegamente por um momento}
+{5910}{}{, surpreendendo o centauro. Colapsa em uma pilha}
+{5911}{}{, surpreendendo o centauro. Ele colapsa em uma pilha de goo}
+{5912}{}{. O ataque não foi tão eficaz quanto poderia ter sido}
+#
+# series 6000 - Robots
+#
+{6000}{}{, infligindo algum dano estrutural}
+{6001}{}{, sparks fly ethe robot goes momentarily out of control}
+{6002}{}{, acertarting a crítico component eforcing the robot out of control}
+{6003}{}{, acertarting a crítico component ecausing a massive malfunction}
+{6004}{}{. O robô tenta compensar}
+{6005}{}{. O robô tira para compensar}
+{6006}{}{, acertarting some key part ecausing heavy damage}
+{6007}{}{, infligindo graves danos estruturais}
+{6008}{}{, acertarting a crítico component ecausing severe damage}
+{6009}{}{. O robô estremece sob este intenso ataque}
+{6010}{}{, desmontando o robô}
+{6011}{}{. O robô tenta compensar, but fails, falling to the ground}
+{6012}{}{. O robô está sob a pressão, caindo no chão}
+{6013}{}{, quebrando as lentes dos sensores}
+#
+# series 6100 - Dogs
+#
+{6100}{}{, batendo o cachorrinho no chão}
+{6101}{}{, bem no meio do focinho}
+{6102}{}{. O cachorro cai, mas ainda respira}
+{6103}{}{, o animal tossia um pingo de sangue}
+{6104}{}{, paralisando a perna}
+{6105}{}{, paralisando a perna. The animal tries to remain standing, but fails}
+{6106}{}{. The cego animal howls in pain}
+{6107}{}{, castrando o pobre animal}
+#
+# series 6200 - Manti
+#
+{6200}{}{, derrubando este inseto mutado}
+{6201}{}{, que colapsa}
+{6202}{}{. O manti questiona se deve continuar a viver}
+{6203}{}{, incapacitando o membro}
+{6204}{}{, fazendo com que o Manti lambe suas feridas. Ele segura o membro estranhamente}
+{6205}{}{, bypassing the cacertarinous armor}
+{6206}{}{. The manti shrieks eshivers must unhuman like}
+{6207}{}{, o que faz com que o manti caia. Um membro está dobrado de forma estranha}
+{6208}{}{, shredding as asas}
+{6209}{}{, bypassing the cacertarinous armor ethrowing the manti around}
+{6210}{}{, cegando o inseto com um golpe exato}
+#
+# series 6300 - Deathclaw
+#
+{6300}{}{. Mesmo esse animal parece perturbado por esse impressionante ataque}
+{6301}{}{, slipping past the huge claws to strike the monster. The Deathclaw shakes egrowls}
+{6302}{}{. O resultado é um dano maciço aos olhos do Deathclaw}
+#
+# series 6400 - Spore Plant  # Was The Master
+#
+{6400}{}{, passando as defesas da planta}
+{6401}{}{, rasgando algumas das suas folhas}
+{6402}{}{, quebrando algumas das suas frondas}
+{6403}{}{, danificando a ingestão de clorofila}
+{6404}{}{, derrubando o pólen}
+{6405}{}{. quase derrubando}
+{6406}{}{, danificando alguns dos seus ramos}
+#
+# series 6500 - The Player
+#
+{6500}{}{. Você'll have a headache tomorrow, if you live that long}
+{6501}{}{. Vocêr armor provides no protection from this well-aimed blow}
+{6502}{}{. Você feel the pain for just a moment, ethen darkness takes you..}
+{6503}{}{, ignorando sua armadura. O golpe bate-te nos pés}
+{6504}{}{, o choque faz sua visão escurecer. Depois de um momento, você percebe que sua visão não retornou}
+{6505}{}{. Você get a nice view of your body as your head sails through the air}
+{6506}{}{. Surpreendentemente, o dano não é pior do que o normal}
+{6507}{}{, deslumbrante você por um momento}
+{6508}{}{. Sentir a dor}
+{6509}{}{. O ataque deixa seu braço inútil}
+{6510}{}{, passando por sua armadura. O golpe racha os ossos no seu braço como deadwood}
+{6511}{}{, bypassing your armor. Vocêr arm now hangs limply at your side}
+{6512}{}{. The bruise will look nice, emaybe the scars will make good party talk}
+{6513}{}{, esmagando seus órgãos internos. Tudo o que você pode fazer é sangrar sangue}
+{6514}{}{, enviando cabeça sobre os saltos}
+{6515}{}{, sending you flying ebreaking your leg}
+{6516}{}{, melting through your armor. The blow knocks you over eseriously hurts your knee}
+{6517}{}{. A dor da sua perna quebrada envia você para a inconsciência}
+{6518}{}{. O doloroso golpe faz você se virar, mas faz pouco mais}
+{6519}{}{. Tão azarado para você, também provoca perda imediata de visão}
+{6520}{}{. Leve um momento para limpar o sangue dos seus olhos}
+{6521}{}{, slipping past your armor. Você stand stunned as your realize you cannot see anymore}
+{6522}{}{. Você feel a strange sensation in your head. Você realize it's imminent brain-death}
+{6523}{}{, fazendo você se encolher}
+{6524}{}{. Você cup your groin efall to the floor in pain}
+{6525}{}{. A dor é suficiente para derrubá-lo. Ouch}
+{6526}{}{. Não há palavras suficientes no universo para descrever a dor que você sente neste momento}
+
+
+# Fallout 2:
+
+#
+# series 6700 - Gecko
+#
+{6700}{}{, passando as defesas do lagarto}
+{6701}{}{, rasgando parte de sua pele viscosa}
+{6702}{}{, quebrando alguns dos seus dígitos}
+{6703}{}{, danificando sua capacidade respiratória}
+{6704}{}{, derrubando o enchimento}
+{6705}{}{, quase derrubando}
+{6706}{}{, danificando alguns de seus membros}
+#
+# series 6800 - Alien
+#
+{6800}{}{Deslizando as defesas da criatura}
+{6801}{}{, manchando parte de sua lodo}
+{6802}{}{, amassando alguns de seus sensores de sucção}
+{6803}{}{, danificando o consumo de ar (?)}
+{6804}{}{, derrubando as coisas icky}
+{6805}{}{, quase derrubando}
+{6806}{}{, danificando alguns de seus tentáculos}
+#
+# series 6900 - Giant Ant
+#
+{6900}{}{, superando as defesas da formiga}
+{6901}{}{, tirando algumas das suas antenas}
+{6902}{}{, quebrando alguns dos seus sensores}
+{6903}{}{, prejudicando sua saúde}
+{6904}{}{, derrubando um pouco}
+{6905}{}{, quase derrubando}
+{6906}{}{, danificando alguns de seus exoesqueletos}
+#
+# series 7000 - Gun Turret  -- WIP! Won't Work!
+#
+{7000}{}{, superando as defesas da formiga}
+{7001}{}{, tirando algumas das suas antenas}
+{7002}{}{, quebrando alguns dos seus sensores}
+{7003}{}{, prejudicando sua saúde}
+{7004}{}{, derrubando um pouco}
+{7005}{}{, quase derrubando}
+{7006}{}{, danificando alguns de seus exoesqueletos}
+
+# Series 7100 - End Boss
+{7100}{}{, soprando a armadura do guarda-costas}
+{7101}{}{, trazendo o guarda-costas de joelhos}
+{7102}{}{, destruindo seu mecanismo de controle do braço}
+{7103}{}{, destruindo o mecanismo de rotação da perna}
+{7104}{}{, quebrando o olho bionico}
+{7105}{}{, causing him to pause eshake of your massive attack}
+{7106}{}{, compacta o prato do peito}

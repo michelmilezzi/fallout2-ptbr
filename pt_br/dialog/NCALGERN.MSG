@@ -1,0 +1,97 @@
+# 0. QUICK LOOK )
+{100}{}{Você vê Algernon de boca aberta.}
+{101}{}{Você vê Algernon.}
+
+# 0. LOOK )
+{150}{}{Você vê um homem sujo e magro. Ele está balançando os pés e fazendo pouco
+ Assobiando ruídos para si mesmo.}
+{151}{}{Você vê Algernon. He looks like he is playing Missile Command in his head.}
+
+# 1. FLOAT DIALOGUES (WTG)
+{200}{}{Piu Piu}
+{201}{}{Thoom!}
+{202}{}{Zark! Zark!}
+{203}{}{Sssssshhhhhhuuuu ... * BOOM! *}
+{204}{}{Zap!}
+{205}{}{Boooom! Budda-budda-boom!}
+{206}{}{Budda-budda-budda}
+{207}{}{Budda-budda-budda}
+{208}{}{Blammo! Blam blam blam!}
+{209}{}{Blam!}
+{210}{}{Ptow! Ptow!}
+{211}{}{Phooom!}
+{212}{}{Kablooie!}
+{213}{}{Ratta-tatta-tatta}
+{214}{}{Kaa-booom}
+
+# 2.  INTRO (WTG)
+{220}{}{(Algernon olha para você e dá um sorriso sem dentes.) Estrondo!}
+{221}{}{(O jovem jovem com a boca aberta olha para você com um sorriso sem dentes. Costurado em sua camisa é uma pequena etiqueta que diz "Algernon"
+ Em letras cursivas.) Estrondo!}
+{222}{}{(Quando ele vê suas armas, ele começa a apontar com entusiasmo.) Estrondo!}
+{223}{}{Estrondo!}
+{224}{}{Vaguear longe.}
+{225}{}{Uh ... você quer ver uma dessas armas?}
+{226}{}{Sim, "boom" para você também. Algernon, você pode atualizar essas coisas aqui?}
+{227}{}{Uh, não há "boom" neste momento, obrigado. Tchau.}
+
+# 3. RETARD (2)
+{230}{}{Hunh! Huh-huh! (Algernon dá uma risada de gargalhadas, depois aponta seu dedo para você como uma arma.) Blam Blam!}
+{231}{}{Me falta, saudades de mim! Tome thiz! (Dê um dedo a ele como uma pistola.) POW! PRISIONEIRO DE GUERRA!}
+{232}{}{Ugh. Estou morto. Eu vou para um melhor lugar agora}
+
+# 4. AL DIES (3)
+{235}{}{(Algernon fica com uma expressão chocada em seu rosto, então olha lentamente para o lugar onde você o atirou. De repente
+ Cambaleia, então seus olhos se enrolaram em sua cabeça e ele caiu, morto.)}
+{236}{}{Uh, Al? Está bem?}
+{237}{}{Uh-oh.}
+
+# 5. AL DEAD (4)
+{240}{}{(Ele não se move.)}
+{241}{}{(Comece a aplaudir.)}
+
+# 6. START CLAPPING (5)
+{245}{}{(Ele não se levanta. Ele também não está respirando).}
+
+# 7. GIVE ITEMS MENU (2, 8, 9, 10, 11, 12)
+{250}{}{(O que você quer dar?)}
+{251}{}{Dê-lhe uma das suas pistolas.}
+{252}{}{Dê-lhe um dos seus rifles.}
+{253}{}{Dê-lhe o combustível do lança-chamas.}
+{254}{}{Dê-lhe uma das suas armas corpo-a-corpo.}
+{255}{}{Desculpe, acho que não tenho nada para lhe dar, Al. Talvez na próxima vez.}
+{256}{}{Na verdade, não acho que dar um atraso óbvio, qualquer tipo de arma é uma idéia inteligente. Diversão, talvez, inteligente, não. Mais tarde.}
+
+# 8. RETURN ITEMS MENU (7, 9, 10, 11, 12)
+{260}{}{(Al leva o item e seus olhos se iluminam. Ele brincadeira com ele por alguns minutos, depois alguns minutos mais,
+ Então mais algumas ... uma hora depois, Al leva de volta para você com um aceno de cabeça e um sorriso malvado.) * Booooooom. *}
+{261}{}{Diga ... você pode atualizar ESTE?}
+{262}{}{Obrigado, Al.}
+
+# 9. PISTOLS MENU (7)
+{265}{}{[Qual?]}
+{266}{}{Seu .44 Magnum?}
+{267}{}{Seu Desert Eagle.}
+{268}{}{Sua pistola laser Wattz 1000.}
+{269}{}{Sua pistola de plasma Glock 86.}
+{270}{}{Cavar no seu pacote e dar-lhe outra coisa ...}
+{271}{}{Nevermind, Al. Até logo.}
+{272}{}{Nevermind, criança ... sem brinquedos para você hoje. Tchau.}
+
+# 10. RIFLES MENU (7)
+{276}{}{Seu rifle de caça de Colt.}
+{277}{}{Seu rifle de assalto AK-112.}
+{278}{}{Seu FN FAL.}
+{279}{}{Seu Wattz 2000 Laser Rifle.}
+{280}{}{Seu Lançador Flambe 450.}
+{281}{}{Seu Plasma Rifle.}
+
+# 11. FUEL MENU (7)
+{291}{}{Quer tirar um trago desse combustível de lança-chamas?}
+{292}{}{Aqui está um combustível de lança-chamas. Você pode fazer algo com isso?}
+
+# 12. MELEE MENU (7)
+{301}{}{Dê-lhe o seu gado produzindo. Uh ... depois de ter certeza de que ele o agarra primeiro.}
+{302}{}{Your Beat Co. "Bigger Frigger" Power Fist.}
+
+{400}{}{Eu matar Al. Eu vou sair melhor aqui}

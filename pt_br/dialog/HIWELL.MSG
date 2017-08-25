@@ -1,0 +1,72 @@
+{100}{}{Você vê a cidade Broken Hills bem.}
+{101}{}{O poço da cidade é construído com tijolos rachados e soltos. Um embrião, odor de mofo emantes de baixo.}
+{102}{}{Lembrando o que Typhon disse sobre esconder o tesouro em algum lugar "indispensável" e "isso
+ não era provável que fosse derrubado ou arado ", você faz um controle completo do poço antigo. Alguns pés
+ por dentro, você percebe um tijolo saindo substancialmente do resto da parede.}
+{103}{}{Goodeee! Trezhur!}
+{104}{}{Cha-ching! Eu vou ficar rindo!}
+{105}{}{Puxando suavemente o tijolo solto da parede, você olha para a escuridão procurando o saque que ganhou.}
+{106}{}{Onde Munneee?}
+{107}{}{Hmm ... não consigo ver lá.}
+{108}{}{Você levanta o tijolo inútil no poço, esperando libertar suas mãos.}
+{109}{}{Huunngh! Obter munneee!}
+{110}{}{Hunnngh! Tudo certo. Tempo para ganhar dinheiro!}
+{111}{}{De repente, de fora do buraco na parede do poço, um saco considerável com uma corda presa a ele mergulha no
+ escuridão do poço. Na sua pressa de recuperar o tesouro, você não percebeu que o tijolo que você descartou foi
+ Apegado por uma corda ao próprio saque que você estava procurando.}
+{112}{}{Poopie!}
+{113}{}{Porcaria! Isso é uma merda!}
+{114}{}{Sim, sugere. Parece que você precisará descobrir uma maneira de tirar o tesouro do poço. Você é muito grande demais
+ para diminuir o poço sem ficar preso. Parece que você precisará de ajuda.}
+{115}{}{Muito grande vai bem.}
+{116}{}{Não é bom. Não consigo descer o poço. Eu sou muito grande.}
+{117}{}{Uh ... amigo, isso não é ... uh ... bem, o que eu tinha em mente.}
+{118}{}{GO, shortee!}
+{119}{}{Rapaz simpático. Como rapaz curto.}
+{120}{}{Continue indo, Curta Rodada.}
+{121}{}{Você está indo bem! Apenas um pouco mais.}
+{122}{}{Tudo bem, tudo bem. Eu vou ... Auugghh ... Isso apanha aqui! ESTÁ BEM. Quase lá ... SIM!}
+{123}{}{Muneee ?!}
+{124}{}{Você entendeu?!}
+{125}{}{Sim, está bem aqui! Meu Deus! Este saco é ENORME! O velho não estava brincando. Deve haver uma quantidade de dinheiro aqui!}
+{126}{}{GIMMEEE !!!}
+{127}{}{Amarre o saco à corda! Vou levantar isso!}
+{128}{}{Okay, certo! Então você pode fugir com minha participação? Acho que não! Apenas me dê um segundo para verificar isso.}
+{129}{}{ESTÁ BEM.}
+{130}{}{Tanto faz. Você não vai a lugar algum.}
+{131}{}{Estou abrindo o saco. É ... é lindo! É tão brilhante! É ... é ... Uh oh ...}
+{132}{}{Uh oh?}
+{133}{}{'Uh oh'? Você disse 'Uh oh'. Por que você disse 'Uh oh'?}
+{134}{}{Uh ... não importa! [risadinha] ... Confira.}
+{135}{}{[Micky amarra o saco para a corda, e você lança isso. É bastante pesado. Talvez Micky esteja errado.]}
+{136}{}{Lookee, lookee!}
+{137}{}{Vamos ver o que temos aqui.}
+{138}{}{[Você abriga cautelosamente o saco, saboreando a adrenalina. O tecido das peças do saco para revelar .....]}
+{139}{}{Yah, Yah?}
+{140}{}{O que é isso?}
+{141}{}{10000 bottlecaps.}
+{142}{}{CÁPSULAS?!}
+{143}{}{Freakin 'bottlecaps ?!}
+{144}{}{Isso é um assunto, não é criança? Bem, melhor sorte na próxima vez. Tire-me daqui!}
+{145}{}{Old ghoul faz uma piada de funnee! Ha Ha!}
+{146}{}{Aquele velho bastardo que me enganou! Ele só queria que eu desperdiçasse meu tempo correndo para que ele pudesse rir de mim!}
+{147}{}{Uh ... amigo? Um pouco de ajuda aqui?}
+{148}{}{Ele sabia que eu passaria horas ... não, DAYS, correndo por toda a criação para encontrar essa porcaria que ele queria apenas para que ele pudesse ter uma boa risada!}
+{149}{}{Uh ... olhe. Há uma grande coisa de várias pernas aqui que eu gostaria de me afastar. Você poderia se apressar?}
+{150}{}{Typhon deveria ter sabido que as tampas eram inúteis estes dias. Não deveria?}
+{151}{}{Meu Deus! Está rastejando em mim! SOCORRO!}
+{152}{}{Sabe, é muito gentil quando pensa nisso. Ele realmente pensou que ele estava me ajudando. Talvez eu
+ não deve ser tão difícil com o velho. :: suspiro :: tanto para o tesouro. Eu acho que tenho lugares para ir.}
+{153}{}{::Choradeira...::}
+{154}{}{Não há mais cuidados sobre isso.}
+{155}{}{Hmmmm ... Eu continuo tendo esse sentimento de que esqueci algo sobre o bem. Bem, não há tempo para desperdiçar.}
+{156}{}{Alguém poderia me ajudar aqui?}
+{157}{}{SOCORRO!!!}
+{158}{}{Ooooh! Musgo! Eu estou com fome!}
+{159}{}{Está rastejando em mim! Oh Deus!}
+{160}{}{Eu vou te pegar por isso!}
+{161}{}{Meu Deus! Morlocks!}
+{162}{}{[assobio] Quando estou um pouco assustado, eu [estremeço] cantei essa canção alegre ... [apito]}
+{163}{}{Então ... louco ... certo ... agora!}
+{164}{}{Suponho que uma passagem secreta seria demais para pedir.}
+{165}{}{O que está acontecendo lá em cima?}

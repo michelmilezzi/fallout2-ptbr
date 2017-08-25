@@ -1,0 +1,11 @@
+# 0. LOOK HEADSTONE
+{100}{}{A lápide lê: "Aqui está o nosso amado filho, Richard Wright. Você nunca será esquecido".}
+
+# 1.  DISPLAY (WTG)
+{200}{}{Você vê o corpo de um adolescente no caixão.}
+{201}{}{Você examina o túmulo de Richard Wright. Um feio cheiro emana do corpo.}
+{202}{}{Esse fedor que vem do corpo é veneno de radscorpion ... esse garoto não morreu
+ de uma overdose de jato. Ele foi envenenado.}
+{203}{}{Algo sobre esse cheiro do corpo do miúdo parece familiar, mas não posso colocá-lo ...}
+
+{300}{}{Você descobriu que Richard Wright estava envenenado.}

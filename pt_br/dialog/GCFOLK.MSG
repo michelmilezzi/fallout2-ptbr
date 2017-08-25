@@ -1,0 +1,146 @@
+{100}{}{Você vê alguém cuja pele foi muito queimada.}
+{101}{}{Você vê um cidadão ghoul de Gecko.}
+{102}{}{Você vê alguém cuja pele parece ter sido queimada com radiação. Essa radiação parece muita radiação
+ como se devesse ter matado, mas parece bem o suficiente.}
+
+{110}{}{A pessoa que você vê está brilhando fracamente. Sua pele parece estar gravemente queimada.}
+{111}{}{Você vê um cidadão Glowing One de Gecko.}
+{112}{}{Você vê alguém que foi exposto a tanta radiação que está brilhando fracamente.
+ Essa radiação parece ser que deveria ter matado, mas parece bem o suficiente.}
+
+{120}{}{Obrigado por nos salvar da Vault City.}
+{121}{}{Aqueles fanáticos na cidade de Vault nos mataram se não fosse por você.}
+{122}{}{Você é um herói.}
+{123}{}{Você pode entrar na minha casa para cozinhar gecko a qualquer momento.}
+{124}{}{Obrigado por consertar nosso reator.}
+{125}{}{Parece mais frio agora, mas obrigado por reparar o vazamento em nosso reator.}
+{126}{}{Obrigado por lidar com esses fanáticos em Vault City para nós.}
+{127}{}{Se você não nos ajudou, Vault City teria nos destruído.}
+{128}{}{Você é nosso herói.}
+{129}{}{Obrigado novamente.}
+{130}{}{Obrigado pela ajuda.}
+{131}{}{Você é o melhor. Obrigado.}
+{132}{}{Muito bom, para uma pele lisa.}
+
+{140}{}{Olá, meu amigo liso.}
+{141}{}{Bem-vindo ao Gecko.}
+{142}{}{Olá, amigo.}
+{143}{}{Você não é como outros peitos suaves.}
+{144}{}{Veja algo interessante nos resíduos?}
+{145}{}{Olá.}
+{146}{}{Howdy, amigo.}
+{147}{}{Nosso reator atômico faz-me brilhar com orgulho.}
+{148}{}{Nós aproveitamos o poder do átomo aqui.}
+{149}{}{Algum dia, outros poderão usar nosso poder.}
+{150}{}{Fico feliz que nem todos os smoothies sejam como os da Cidade do Vault.}
+{151}{}{Se Vault City fosse como você, não teríamos problemas com eles.}
+
+{160}{}{Hmmph, outro trapaceiro de pele lisa.}
+{161}{}{Heya, suave.}
+{162}{}{Olá.}
+{163}{}{Estás bem?}
+{164}{}{Seja legal enquanto você está na cidade.}
+{165}{}{Venha chegar até aqui?}
+{166}{}{Parece que você é da Vault City.}
+{167}{}{Nós somos tolerantes aqui, mas não estúpidos, Smoothy.}
+{168}{}{Fique longe de Vault City. Esses caras são idiotas.}
+{169}{}{Olá. O tempo está muito seco ultimamente.}
+
+{180}{}{Certamente tem estado seco ultimamente.}
+{181}{}{Droga todas essas ervas daninhas.}
+{182}{}{Acho que o reator atômico piora as ervas daninhas.}
+{183}{}{Ouvi dizer que algumas ervas daninhas são perigosas.}
+{184}{}{Ouvi dizer que as tribos sabem como chamar a chuva.}
+{185}{}{Boa safra este ano.}
+{186}{}{O milho está crescendo tão alto como o olho de uma morte.}
+{187}{}{Os vegetais são bons para você.}
+{188}{}{Quase pronto para colher.}
+{189}{}{Claro que poderia usar mais chuva.}
+
+{200}{}{Tenho que ver esses brahmin.}
+{201}{}{Esses brahmin são tão fofos. Não estou ansioso para matá-los.}
+{202}{}{Estou tão entediado.}
+{203}{}{Moo, moo, moo?}
+{204}{}{Estive aqui há muito tempo.}
+{205}{}{Isso cheira você ou o brahmin?}
+{206}{}{Eles quase parecem saber o que está por vir.}
+{207}{}{Alguém apontou uma última noite.}
+{208}{}{Alguns deles são muito mais lindos do que outros.}
+{209}{}{Hmm, eu me pergunto por que ninguém os monta.}
+
+{220}{}{Ei lá, pele lisa.}
+{221}{}{Compre-nos uma bebida, pele suave.}
+{222}{}{Cara, estou com sede.}
+{223}{}{Muito bom para beber com a gente?}
+{224}{}{Onde estão meus amigos, Johnny Stroller e Jim Bean?}
+{225}{}{Eu terei a mina abalada, não agitada.}
+{226}{}{Peça a Wooz para contar uma história.}
+{227}{}{Vamos cantar uma canção.}
+{228}{}{... E então as cabeças fazem o quê? Eu simplesmente não entendo Wooz.}
+{229}{}{O que é uma maçã?}
+
+{240}{}{Você é muito legal para uma pele lisa.}
+{241}{}{Compre-nos outra rodada, suave.}
+{242}{}{./~ Quão seco eu estou, quão seco eu sou ... ./~}
+{243}{}{Você está bem no meu livro.}
+{244}{}{Ei, cuidado com o rato.}
+{245}{}{Pergunto-me por que a Skeeter nunca se junta a nós?}
+{246}{}{Estamos tentando criar um novo tipo de brâmane - com apenas uma cabeça.}
+{247}{}{Alguém deveria começar a fazer mais roupas aqui.}
+{248}{}{Ahh, a cerveja é boa.}
+{249}{}{Esta cerveja é excelente. É a água - e muito mais.}
+
+{260}{}{Você é a melhor pele lisa que já conheci.}
+{261}{}{Mais suco de brilho! Mais suco de brilho!}
+{262}{}{Dá-nos outro, eh smoothy?}
+{263}{}{Aqueles pobres mutis em Broken Hills.}
+{264}{}{Ouvi dizer que os geckos são como nós. Alterado pela radiação.}
+{265}{}{Nós apenas nos apegamos à vida aqui, como um pequeno gecko na parede.}
+{266}{}{Ouço Skeeter construir um robô gigante.}
+{267}{}{Ouvi dizer que Chester é um espião para o Vault City.}
+{268}{}{Gostaria de Renovar em um smoothy.}
+{269}{}{Juro que vi coisas sobre nós durante a noite.}
+
+{280}{}{Eu te amo Cara.}
+{281}{}{Você é o melhor.}
+{282}{}{Nuke Vault City até que brilhe!}
+{283}{}{./ ~ 99 seringas de Rad-away na parede, 99 seringas .... ./~}
+{284}{}{./~ Eu trabalhei no re-ato-ou, todo o dia ao vivo ... ./~}
+{285}{}{Antes de você, eu não confiaria em um couro suave.}
+{286}{}{Eu acho que alguns de vocês são bem-sucedidos depois de tudo.}
+{287}{}{Devemos ir buscar Chester para beber com a gente.}
+{288}{}{Quando eu Renew, eu quero sair como você.}
+{289}{}{Certo contente com o funcionamento do nosso reator.}
+{290}{}{Devo estar bêbado. Wooz está começando a fazer sentido para mim.}
+{291}{}{Acho que vi uma maçã uma vez ... ou era uma banana?}
+
+{300}{}{O reator está funcionando tão bem que quase pode ouvi-lo zumbir.}
+{301}{}{Obrigado por resolver coisas com a Vault City para nós.}
+{302}{}{Nós vamos ter muito poder agora.}
+{303}{}{Não muito mais até que possamos comercializar o poder para o Vault City.}
+{304}{}{Gosh, vamos precisar de muito cobre da Redding agora.}
+{305}{}{O reator está funcionando muito bem agora. Obrigado.}
+{306}{}{Você é o melhor.}
+{307}{}{Obrigado por consertar nosso reator atômico.}
+{308}{}{O Reator está ronronando, tão legal quanto você. Obrigado.}
+{309}{}{Você é a melhor pele lisa que já conheci.}
+
+{320}{}{Renovar, camarada. Renovar!}
+{321}{}{Você é um de nós.}
+{322}{}{Olá camarada. A renovação está à mão.}
+{323}{}{Todos nós seremos um em breve.}
+{324}{}{Ele sabe de tudo. Adore seu elegante pêlo.}
+{325}{}{Damn cultists. Saia daqui.}
+{326}{}{Renova isso (faz um gesto de mão), idiota.}
+{327}{}{Eu tenho sua Renovação aqui, amigo.}
+{328}{}{Não pode virar estes dias sem pisar outro condenado cultista.}
+{329}{}{Você nunca vai me pegar adorando um maldito rato de grande tamanho.}
+
+{340}{}{Você deveria ver Lenny sobre essas feridas.}
+{341}{}{Você parece todo golpeado. Vá ver Lenny.}
+{342}{}{Você não deve lutar com um deathclaw. Vá ver Lenny.}
+{343}{}{Lenny está no escritório de Harold. Você deve fazer com que ele dê uma olhada nessas feridas.}
+{344}{}{Como você ficou arruinado assim?}
+{345}{}{Ouch. Você deveria ir ver Lenny.}
+{346}{}{Lenny está no assentamento; vá mandar-lhe dar uma olhada em seus ferimentos.}
+{347}{}{Eu certamente odiaria ver o outro cara.}

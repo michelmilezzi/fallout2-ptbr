@@ -1,0 +1,103 @@
+{100}{}{Você vê o Chefe bibliotecário Kohl.}
+{101}{}{Você vê um homem de aparência gentil no uniforme da Vault City.}
+{102}{}{Você vê o Chefe bibliotecário Kohl.}
+{103}{}{Você vê um homem de aparência gentil no uniforme da Vault City.}
+{104}{}{Devo ter certeza de que seus feitos heróicos estão registrados nos arquivos da Vault City,}
+{105}{}{Minha palavra! Um intruso! Socorro! Guardas!}
+{106}{}{Minha palavra! Um mutante em Vault City! Guardas! Guardas!}
+{107}{}{Minha palavra! Um ghoul em Vault City! Guardas! Guardas!}
+{108}{}{O Gabinete de Informação está fechado para a noite. Volte pela manhã.}
+{109}{}{O Gabinete de Informação está fechado para a noite. Eu irei para casa depois de tabular todas essas listas.}
+{110}{}{Shhhhh.}
+{111}{}{Pise em silêncio, por favor.}
+{112}{}{Shhhhh.}
+{113}{}{O silêncio é uma virtude.}
+{114}{}{Oh ... oi! Havia algo com que eu pudesse ajudá-lo?}
+{115}{}{Frazz-urb-luuw!}
+{116}{}{Shamble off}
+{117}{}{O que é este lugar?}
+{118}{}{Nada. Lamento perturbá-lo.}
+{119}{}{Uh ... perdoa-me?}
+{120}{}{Cripple-aleijado}
+{121}{}{Shamble off}
+{122}{}{Oh meu, você deve ser um dos servos. Você deve REALMENTE voltar para o Mestre Barkus de uma vez, ou ele ficará bastante furioso!}
+{123}{}{Okee!}
+{124}{}{Este é o Centro de Informação da Cidade do Vault. Esse é o lugar que você estava procurando?}
+{125}{}{Sim, na verdade. Eu tive algumas perguntas, talvez você possa responder.}
+{126}{}{Centro de Informações? Você tem algum livro ou manual?}
+{127}{}{Na verdade não. Lamento perturbá-lo.}
+{128}{}{Infelizmente, nossos livros estão atualmente sendo transcritos em formato eletrônico. Os extras estão sendo enviados para o
+ Serviços escritórios abaixo da rua. Você pode tentar lá.}
+{129}{}{Onde esses livros formatados eletronicamente estão armazenados?}
+{130}{}{Todos os livros desapareceram?}
+{131}{}{Oh. Eu tenho algumas perguntas...}
+{132}{}{Talvez eu cheguei lá, então.}
+{133}{}{Olá de novo. Você precisou de ajuda para encontrar alguma coisa?}
+{134}{}{Certamente. Que perguntas você teve?}
+{135}{}{O que é este lugar?}
+{136}{}{Você sabe onde posso encontrar um GECK?}
+{137}{}{Você sabe onde eu poderia encontrar o Vault?}
+{138}{}{Nada hoje, obrigado.}
+{139}{}{UM GECK? Esse nome parece familiar. O que isso faz?}
+{140}{}{Você sabe, eu não me conheço. Para ouvir o Ancião da minha aldeia, diga, é suposto ser uma panacéia para minha aldeia.
+ Eu sou um pouco mais céptico.}
+{141}{}{Eu realmente não sei.}
+{142}{}{Posso fazer algumas outras perguntas?}
+{143}{}{Deixa pra lá. Talvez falemos mais uma vez.}
+{144}{}{O cofre? Por que, a entrada é apenas no final da rua ... é o grande buraco do lado da montanha.}
+{145}{}{Você conhece algum outro Vaults?}
+{146}{}{Posso fazer algumas outras perguntas?}
+{147}{}{Obrigado pelas instruções.}
+{148}{}{Outros Vaults? Hmmm. Não, na verdade não. Eu sei que outros Vaults foram construídos, mas nunca nos encontramos com nenhum deles.
+ Pode haver alguma menção deles no Computador Central no Vault.}
+{149}{}{Como posso chegar ao Vault?}
+{150}{}{Posso fazer algumas outras perguntas?}
+{151}{}{Obrigado pela informação.}
+{152}{}{Hmmmm. Bem, você sabe, o Computador central no Vault pode ter alguma informação sobre isso. Nós mantemos mais
+ Dos arquivos mais antigos lá embaixo.}
+{153}{}{Como posso chegar ao Vault?}
+{154}{}{Posso fazer algumas outras perguntas?}
+{155}{}{Obrigado pela informação.}
+{156}{}{Bem, você é cidadão da comunidade, não é? Você tem permissão para andar lá.}
+{157}{}{Oh, você é? Perdoe-me, perdoe-me ... Bem, então, você pode simplesmente caminhar lá e usar o computador.}
+{158}{}{Bem, você precisaria ser um Citizen of Vault City primeiro. Se você quiser, você poderia fazer o teste de cidadania ... ou melhor ainda,
+ Fale com o primeiro cidadão Lynette. Tenho certeza de que ela pode fazer uma exceção no seu caso.}
+{159}{}{Uh, mas eu sou um cidadão.}
+{160}{}{Posso fazer algumas outras perguntas?}
+{161}{}{Obrigado pela informação.}
+{162}{}{Sim, bem, tudo está sendo transcrito porque ... hmmm. Este é um assunto um pouco delicado, mas acredito que minha publicação aqui
+ Em Vault City tornou-se obsoleto.}
+{163}{}{Obsoleto? O que você quer dizer?}
+{164}{}{Obsoleto?}
+{165}{}{Oh. Tive algumas outras questões ...}
+{166}{}{Desculpe ouvir isso. Eu tenho que ir.}
+{167}{}{Isso significa que minha postagem aqui não é mais necessária. É tudo para o melhor.}
+{168}{}{Eles estão discutindo colocar terminais de informação em cada família. Estes novos terminais estarão todos vinculados à lista
+ Servidor e os Arquivos de Informação. Uma vez feito isso, o centro de informações ... e eu ... será desnecessário. É tudo para o
+ Melhor, realmente.}
+{169}{}{Você tem certeza?}
+{170}{}{Oh. Tive algumas outras questões ...}
+{171}{}{Desculpe ouvir isso. Eu tenho que ir.}
+{172}{}{Oh meu, sim. O primeiro cidadão raramente é errado em tais assuntos. Ainda assim, vou me arrepender de deixar este lugar. Ouvi dizer que eles têm uma posição que me espera no Escritório da Lista.}
+{173}{}{Oh. Bem, lamento ouvir que todos os livros foram transcritos. Eu prefiro ler um livro do que olhar para uma tela de computador.}
+{174}{}{Oh. Bem, lamento ouvir que todos os livros foram transcritos. Eu prefiro ler um livro do que olhar para uma tela de computador.}
+{175}{}{Oh. Tive algumas outras questões ...}
+{176}{}{Desculpe ouvir isso. Eu tenho que ir.}
+{177}{}{É assim que eu me sinto bem! Não tenho nada contra o formato eletrônico, mas há uma certa ... solidez ... em ter um livro em suas mãos e virar as páginas uma a uma. Hmmm. Você sabe...}
+{178}{}{Sim?}
+{179}{}{Oh. Tive algumas outras questões ...}
+{180}{}{Desculpe ouvir isso. Eu tenho que ir.}
+{181}{}{Eles ainda não enviaram todos os livros para os Escritórios de Móveis. Eu sei que Randal não sentirá falta deles se eu os entregasse a alguém que os apreciasse ... alguém como você.}
+{182}{}{Eu adoraria tê-los. Obrigado.}
+{183}{}{Eu vou buscá-los ...}
+{184}{}{Tudo certo.}
+{185}{}{Aqui está. Espero que goste de lê-los. Eles são alguns dos meus favoritos ... um pouco do lado técnico, mas ainda é muito bom.}
+{186}{}{Obrigado. Você se importa se eu fizer algumas outras perguntas?}
+{187}{}{Ótimo. Eu vou verificar isso.}
+{188}{}{Os livros estão sendo inseridos em um dos terminais da biblioteca no terceiro nível do Vault.
+ Não me lembro qual deles ... não é um dos principais no núcleo central.}
+{189}{}{Por que tudo está sendo transcrito?}
+{190}{}{Como posso chegar ao Vault?}
+{191}{}{Entendo. Você se importa se eu fizer algumas outras perguntas?}
+{192}{}{Talvez eu vá ver se posso encontrá-lo.}
+{193}{}{! Bem feito! Bravo!}

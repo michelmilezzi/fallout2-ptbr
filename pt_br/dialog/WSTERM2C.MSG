@@ -1,0 +1,26 @@
+{100}{}{Um terminal de computador.}
+{101}{}{Um computador bastante antiquado. Velocidade da CPU de apenas 500hz.}
+{102}{}{Você não consegue ler o que está no monitor.}
+{103}{}{Estação de reparação automatizada
+                                  Processando solicitações de reparo da Skynet
+                        Unidades de Reparo de Despacho}
+{104}{}{}
+{105}{}{}
+{106}{}{Tentativa de desativação da estação de reparo.}
+{107}{}{Desconecte o computador.}
+{108}{}{Pressione o botão vermelho grande marcado com as letras OFF.}
+{109}{}{Saída}
+{110}{}{[Você não consegue descobrir como fechar o programa.]}
+{111}{}{Saída}
+{112}{}{[Escrever a palavra "OFF" parece fazer o truque. O sistema de reparo automatizado está desligado.]}
+{113}{}{Saída}
+{114}{}{[Por pura chance, você percebe um cabo elétrico que passa do computador para um soquete na parede.
+ A tela do computador desvanece-se a preto quando você puxa o plugue.]}
+{115}{}{Saída}
+{116}{}{[Pressiona ousadamente o botão vermelho marcado como "DESLIGADO". Como você suspeitava que o terminal do computador escurecesse.]}
+{117}{}{Saída}
+{118}{}{[À medida que você começa a digitar, as teclas começam a surgir do teclado e caem para
+ o chão. Tanto para usar este terminal.]}
+{119}{}{Saída}
+{120}{}{Você já desligou o sistema de reparo automatizado.}
+{121}{}{Não consigo acessar o terminal. Alguém quebrou o teclado.}

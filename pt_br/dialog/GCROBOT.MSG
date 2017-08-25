@@ -1,0 +1,7 @@
+{100}{}{Você vê um robô.}
+{101}{}{Você vê o Robô de manutenção e reparo do reator.}
+{102}{}{Você vê um robô. It appears to be functional.}
+
+{200}{}{O robô reparou a usina.}
+
+{300}{}{Você programou o robô para iniciar uma fusão.}

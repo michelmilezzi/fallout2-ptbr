@@ -1,0 +1,18 @@
+{100}{}{Você vê uma secretária um tanto gorda e loura com um vestido apertado.}
+{101}{}{Você vê o secretário particular pessoal * pessoal do presidente.}
+{102}{}{Você vê um estagiário gordo, mas não atraente, uh, secretário. Seu cabelo está um pouco mussed.}
+{103}{}{Sim? O que quer, querida?}
+{104}{}{Não novamente, eu limpei meu vestido.}
+{105}{}{Então, o que o Sr. Importante consegue?}
+{106}{}{Eles não o chamam de * Dick * Richardson para nuthin '}
+{107}{}{Eu também sei como digitar.}
+{108}{}{Você deve bater antes de subir assim.}
+{109}{}{Preciso de um enxaguatório bucal.}
+{110}{}{Onde está essa toalha de banho?}
+{111}{}{Eu acho que é hora de um aumento.}
+{112}{}{Os agentes do Serviço Secreto sempre devem passar assim?}
+{113}{}{Volte mais tarde. Eu vou estar ocupado em um minuto aqui.}
+{114}{}{Eu não acho que vou lavar este vestido - pode ser útil.}
+{115}{}{O presidente diz que eu beijo o melhor.}
+{116}{}{Você não está me gravando, não é?}
+{117}{}{Onde estão os meus joelhos? Heh, heh, apenas brincando.}

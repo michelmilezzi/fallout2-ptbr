@@ -1,0 +1,148 @@
+#############################################################
+#  Message File: ACWarior.msg                               #
+#                                                           #
+#  Note: Characters within curly braces (like line 100)     #
+#        will be read in as a message string. Caution       #
+#        should be used when making comments. All comments  #
+#        should be prepended with a pound symbol for        #
+#        visual ease. This does not comment out the line    #
+#        though.                                            #
+#                                                           #
+#  Purpose: This message file contains the dialog for a     #
+#           new character from which is used by the         #
+#           design tool. It will be updated using the       #
+#           the tool. This is just a tool file, and not     #
+#           meant to be used in the game.                   #
+#                                                           #
+#  Log: Please note any changes that have been made to this #
+#       file and comment which lines have changed.          #
+#                                                           #
+#  Created: December 01, 1997                               #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+{100}{}{Você vê um membro da tribo.}
+{101}{}{Você vê uma formadora de tribos.}
+
+#############################################################
+#  The following lines are for the dialog which the NPC     #
+#  says. This will be disorganized because of the Design    #
+#  Tool.                                                    #
+#############################################################
+
+{150}{}{Antes que você esteja um grande guerreiro de sua aldeia, vestindo
+ Calças feitas a partir de peles de animais.}
+{151}{}{[CONVERSA]}
+{152}{}{Olá, Escolhido, posso ajudá-lo na sua missão?}
+{153}{}{Estou apenas olhando pela vila uma última vez antes
+ Eu deixo.}
+{154}{}{O que você pode me falar dos comerciantes que trocam conosco?}
+{155}{}{Você poderia me dizer onde posso encontrar mais pó de cura?}
+{156}{}{Os deuses te dão velocidade para trazer o Eden antes que seja tarde demais.}
+{157}{}{Eu tenho uma pergunta para você.}
+{158}{}{Adeus meu amigo.}
+{159}{}{Oh, você está me testando. Vá ver Hakunin no canto norte da aldeia. Ele faz nosso
+ medicamentos.}
+{160}{}{Obrigado. Adeus.}
+{161}{}{Bem, eu os vi quando Mynoc nos guarda na ponte, mas ele faz todo o trato.
+ Fale com ele na grande ponte.}
+{162}{}{Obrigado. Adeus.}
+{163}{}{Poderia me dizer onde a grande ponte está localizada?}
+{164}{}{Mais uma pergunta, se eu puder.}
+{165}{}{Escolhido? A grande ponte está no extremo sul da aldeia. Você sabe,
+ Você esteve lá muitas vezes.}
+{166}{}{Obrigado. Adeus.}
+{167}{}{Mais uma pergunta, se eu puder.}
+{168}{}{Claro, o que é isso?}
+{169}{}{Você poderia me dizer onde posso encontrar algumas ervas curativas?}
+{170}{}{O que você pode me falar dos comerciantes que trocam conosco?}
+{171}{}{Deixa pra lá.}
+{172}{}{Ah, maçante. Eles dizem que você é o Escolhido. Devo dizer o espírito
+ Do Fundador funciona de maneiras estranhas.}
+{173}{}{Oon Ga.}
+{174}{}{ Tenha uma jornada segura, aborrecida, por nossa causa.}
+{175}{}{????}
+{176}{}{Você nos traiu. Você deve morrer.}
+{177}{}{Um traidor para o seu próprio povo!}
+{178}{}{Por que você faz isso?}
+{179}{}{Morte ao maligno!}
+{180}{}{Eles não são nada para nós! Eles descobrem o cadáver moribundo
+ Dos desperdícios para viver.}
+{181}{}{Você poderia me dizer onde posso encontrar algumas ervas curativas?}
+{182}{}{Obrigado. Adeus.}
+{183}{}{Mais uma pergunta, se eu puder.}
+
+# Starting Dialog after 1st Hakunin Movie
+{300}{}{Olá novamente, Escolhido. Que os espíritos guerreiros o protejam e guiem.}
+
+# Starting Dialog after 2nd Hakunin Movie
+{301}{}{Você está tendo dificulites, Escolhido? Você não deve nos deixar - por favor, apresse-se.}
+
+# Starting Dialog after 3rd Hakunin Movie
+{302}{}{Por que você espera tanto tempo? Devemos ter o GECK em breve. Escolhido, nossa aldeia está morrendo.}
+
+# Starting Dialog after 4th Hakunin Movie
+{303}{}{Escolhido, nossa aldeia está quase morta. Por que você ainda não trouxe o sagrado GECK para nós?}
+
+
+
+#############################################################
+#  TELL - ME - ABOUTS                                       #
+#############################################################
+
+#                      #
+#                      #
+# TELL ME ABOUT STUFF  #
+#      "my name"       #
+#      (970-979)       #
+#                      #
+#                      #
+{970}{}{Esse é meu nome.}
+{971}{}{Você está falando comigo.}
+{972}{}{Que pergunta tola. Este sou eu.}
+
+#                      #
+#                      #
+# TELL ME ABOUT STUFF  #
+#     "don't know"     #
+#      (980-989)       #
+#                      #
+#                      #
+{980}{}{Não sei nada sobre isso.}
+{981}{}{Desculpa. Nenhuma pista.}
+{982}{}{Nunca ouvi falar disso.}
+
+
+{1000}{}{Mais velho}
+{1001}{}{Fundador}
+{1002}{}{Cofre Dweller}
+{1003}{}{Arroyo}
+{1004}{}{Klamath}
+{1005}{}{Cofre}
+{1006}{}{Escolhido}
+{1007}{}{Xamã}
+{1008}{}{Hakunin}
+{1009}{}{Pó de cura}
+{1010}{}{Ponte}
+{1011}{}{Mynoc}
+
+{1100}{}{The Mais velho is your mother and our leader.}
+{1101}{}{Nosso grande antepassado que nos deu conhecimento.}
+{1102}{}{O primeiro a lutar e conquistar o caos.}
+{1103}{}{Essa seria a nossa bela aldeia.}
+{1104}{}{Esse é um posto comercial a poucos dias a leste daqui.}
+{1105}{}{The Cofre is heaven.}
+{1106}{}{You are the Escolhido.}
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está no norte
+ Parte da nossa aldeia.}
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está no norte
+ Parte da nossa aldeia.}
+{1109}{}{É um pó magico que irá curá-lo, mas fará
+ Você está com sono.}
+{1110}{}{The Great Ponte exits our village in the south.}
+{1111}{}{Ele guarda a ponte que conduz à nossa aldeia.}

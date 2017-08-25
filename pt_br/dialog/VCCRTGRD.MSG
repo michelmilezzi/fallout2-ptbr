@@ -1,0 +1,14 @@
+{100}{}{Você vê uma guarda severa.}
+{101}{}{Você vê um guarda da Cidade Vault de aparência média.}
+{102}{}{Conheça o seu negócio.}
+{103}{}{Acho que é hora de você sair.}
+{104}{}{Eu não gosto da aparência de você.}
+{105}{}{Tenha cuidado.}
+{106}{}{Olá, cidadão.}
+{107}{}{Prazer em vê-lo, cidadão.}
+{108}{}{Dia ocupado, cidadão?}
+{109}{}{Depois de você, Citizen.}
+{110}{}{Olá, viajante.}
+{111}{}{Seja sobre o seu negócio, Outworlder.}
+{112}{}{Nenhuma demora.}
+{113}{}{Fale com Wallace se você estiver procurando entrar na cidade.}

@@ -1,0 +1,44 @@
+{100}{}{Você vê um ghoul com algum tipo de talismã em volta do pescoço.}
+{101}{}{Você vê um membro do Culto de Renovação.}
+{102}{}{Você vê um ghoul de aparência satisfeita.}
+
+{110}{}{Você vê um Glowing One com algum tipo de talismã em volta do pescoço.}
+{111}{}{Você vê um membro do Culto de Renovação.}
+{112}{}{Você vê um olhar incandescente satisfeito.}
+
+{120}{}{Um de nós, um de nós ...}
+{121}{}{Renovar, camarada! Renovar!}
+{122}{}{O horário do último dia está aqui.}
+{123}{}{Em breve, todos nós sereis suaves peixinhos como você, camarada.}
+{124}{}{O Atom nos dá o poder.}
+{125}{}{Olá camarada. O cérebro conhece tudo.}
+{126}{}{A renovação está quase à mão, camarada.}
+{127}{}{Juntos, devemos ser ligados como um.}
+{128}{}{Com o radicalismo livre, camarada.}
+{129}{}{Nós todos seremos renovados juntos.}
+
+{130}{}{Olá amigo. O cérebro conhece tudo.}
+{131}{}{Você é favorecido pelo cérebro - em breve você será um de nós.}
+{132}{}{Você procura uma palavra de Renovação, amigo?}
+{133}{}{Sente-se com seus pés cor-de-rosa e ouça sobre a Renovação.}
+{134}{}{Os sábios procuram sua sabedoria.}
+{135}{}{Olá amigo. Você procura renovação conosco?}
+{136}{}{Renovar! Renovar!}
+{137}{}{Se ao menos tivéssemos uma roda para ele. (suspiro)}
+{138}{}{Salve, amigo. A renovação está disponível para os escolhidos.}
+{139}{}{Ser um amigo do cérebro é uma coisa maravilhosa.}
+
+{140}{}{Olá. Você é melhor ter cuidado.}
+{141}{}{Estamos de olho em você.}
+{142}{}{Procure a iluminação na sabedoria do cérebro.}
+{143}{}{Não sei por que deixamos lixar as mulheres aqui.}
+{144}{}{É melhor ir diretamente para ele.}
+{145}{}{Você está aqui para ver o cérebro?}
+
+{150}{}{Olá, pele suave. Você procura renovação?}
+{151}{}{Sua Elegância deseja vê-lo.}
+{152}{}{Você também pode renovar!}
+{153}{}{Junte-se a nós e Renove!}
+{154}{}{Ele quer te ver?}
+{155}{}{A renovação está aberta até mesmo para pele de liso.}
+{156}{}{Smoothskins pode também renovar.}

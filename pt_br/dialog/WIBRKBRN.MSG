@@ -1,0 +1,5 @@
+{100}{}{Este é um receptáculo cibernético. Parece que pode ser reparado
+ Com as partes certas.}
+{101}{}{Você substitui o motivador quebrado.}
+{102}{}{Você liga o cérebro à interface neural do receptáculo.}
+{103}{}{Os reservatórios de Biomed Gel estão agora cheios.}

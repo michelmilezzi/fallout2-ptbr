@@ -1,0 +1,8 @@
+{100}{}{Você vê um caçador.}
+{101}{}{Bem-vindo aqui, Escolhido.}
+{102}{}{Você encontrou o sagrado GECK?}
+{103}{}{Volte com o GECK em breve.}
+{104}{}{Que suas viagens sejam sem dor.}
+{105}{}{Retorne-nos o que é devido.}
+{106}{}{Você deve se apressar, Escolhido.}
+{107}{}{Nossas orações estão com você, Escolhido.}

@@ -1,0 +1,30 @@
+{100}{}{Você vê um vendedor de aparência oleosa de algum tipo.}
+{101}{}{Você vê Velani, o comerciante Mordino.}
+{102}{}{Você vê um homem de aparência suave e bem cuidada.}
+{103}{}{Você é patético. Se eu tivesse mais músculo comigo, você não viveria para abandonar outra caravana. Agora
+ saia daqui.}
+{104}{}{Você cometeu um grande erro ao roubar da família Mordino. Você pagará por isso - com interesse.
+ Por enquanto, apenas saia da minha vista.}
+{105}{}{Um ladrão? Parece-me a essa observação, você admira a sua ingrate. Estou indo embora. Adeus.}
+{200}{}{Por que não liquidamos agora? Prepare-se para morrer, asshole.}
+{106}{}{Algum dia em breve, você vai se arrepender de me cruzar. Adeus.}
+{107}{}{Essa caravana era uma desgraça. Fico feliz que Savinelli não tenha sobrevivido. Não posso acreditar que você pense
+ Você seria pago por essa falha. Saia daqui.}
+{108}{}{Você bastardo barato! Você pagará por me irritar. Adeus.}
+{109}{}{Bem, às vezes você só tem mais sorte do que outros. Este foi um dos momentos infelizes. Adeus.}
+{110}{}{Eu pagarei você pelo trabalho de meia burra que você fez. Aqui estão $ 500. Agora sai daqui.}
+{111}{}{Bem, algo é melhor do que nada, acho. Adeus.}
+{112}{}{Maldito bastardo! Ninguém poderia ter feito um trabalho melhor. Você vai se arrepender de me irritar. Adeus.}
+{113}{}{Bem, a maioria da caravana conseguiu, mesmo que Savinelli não o fizesse. Aqui estão os seus $ 1500. Eu não sei quando
+ Nós vamos conseguir outra pessoa para correr a caravana, no entanto.}
+{114}{}{Eu não acho que eu sempre queira passar tanto tempo olhando o culo de um brahmin novamente. Adeus.}
+{115}{}{Isso não era muito ruim. Até logo. Adeus.}
+{116}{}{Boa corrida. Você pode tirar o corte de Savinelli, pois ele não vai precisar disso. US $ 150 para você. Eu não sei
+ Quando conseguiremos que outra pessoa execute esta maldita caravana, mas se o fizermos, você terá um emprego se quiser.}
+{117}{}{É bom encontrar alguém que aprecie a qualidade quando o vê. Te vejo, talvez. Adeus.}
+{118}{}{Sempre feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
+{119}{}{Savinelli deve estar realmente perdendo antes de comprar a fazenda. Não sei por que ele deixaria
+ um retrocesso como você marca de outra forma. Saia daqui.}
+{120}{}{Ook?}
+{121}{}{Savinelli foi morto. Merda, eu ainda não acredito. Eu sou Velani. Eu vou resolver o que devemos.}
+{122}{}{Uh, obrigado.}

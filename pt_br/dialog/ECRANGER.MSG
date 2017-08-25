@@ -1,0 +1,31 @@
+{100}{}{Você vê um grupo de viajantes bem armados.}
+{101}{}{Eles ainda são estranhos bem armados.}
+{102}{}{Eles têm armas limpas e bem polidas e estão usando algum tipo de emblema em seus baús.}
+{103}{}{Estamos à procura de patrulhas escandalas. Já viu algum estranho?}
+{104}{}{Saudações estranhas. Certifique-se de que você não é um escravagista - por sua própria causa.}
+{105}{}{Muito bom te conhecer, estranho. Não nos importe e não haverá nenhum problema.}
+{106}{}{Nós somos o NCR Rangers - fazemos do mundo um lugar melhor. Só pensei que você gostaria de saber.}
+{107}{}{Nós somos Rangers. Killing slavers é o nosso negócio.}
+{108}{}{Caramba, amante dos escravos. Você vai morrer duro!}
+{109}{}{Merda - eu avisei você!}
+{110}{}{Seu tipo não é necessário por aqui - então, morra.}
+{111}{}{Sempre as armas. Ninguém acaba de render-se mais?}
+{112}{}{Bem, é isso - temporada aberta!}
+{113}{}{Uh - vou buscar reforços. Não se mexa!}
+{114}{}{"Nós podemos levá-los", disse ele. Certo…}
+{115}{}{Ow-ow-ow-ow-ow!}
+{116}{}{Porcaria! Estou fora daqui!}
+{117}{}{Eu não estou morrendo por isso!}
+{118}{}{Vejo que você tem uma tatuagem lá - a marca dos escravos. Você não seria um escravo agora, seria
+ você?}
+{119}{}{Sim.}
+{120}{}{Não.}
+{121}{}{Muito ruim para você. Nós somos NCR Rangers. Já ouviu falar de nós? Nós matamos os escravos.}
+{122}{}{Você é um saco tão mentiroso de merda. Pegue-os!}
+{123}{}{Saudações, estranho. Eu sou Ezekiel dos NCR Rangers. Quem é você?}
+{124}{}{Não é da sua conta.}
+{125}{}{Diga, eu ouvi esse nome. Você é um Ranger, não é?}
+{126}{}{Sim.}
+{127}{}{Não é da sua conta.}
+{128}{}{Tudo bem, seja anti-social. Pelo menos você não é um escravo. Adeus.}
+{129}{}{Prazer em conhecê-lo, amigo Ranger. Mantenha seus olhos claros para problemas. Até a próxima.}

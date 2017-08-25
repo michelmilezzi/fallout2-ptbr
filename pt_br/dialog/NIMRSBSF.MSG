@@ -1,0 +1,83 @@
+# 0.  LOOK, CLOSED (WTG)
+{100}{}{Você vê um conjunto seguro firmemente na parede. Está fechado.}
+
+# 1.  LOOK, OPEN (WTG)
+{150}{}{Você vê um conjunto seguro firmemente na parede. Está aberto.}
+
+# 2.  EXAMINE SAFE, CLOSED (WTG)
+{200}{}{(Há uma pequena porta na parede. Um perhsun muito, muito pequeno, deve viver dentro! Há uma maçaneta da porta com números no meio da porta.)}
+{000}{}{(Você examina o cofre da parede. Parece firmemente preso na parede e tem um mostrador de combinação no lado de fora).}
+{000}{}{Bata na porta}
+{000}{}{Gire o botão}
+{000}{}{Afastar-se}
+{000}{}{[SSS]}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Gire o mostrador aleatoriamente.}
+{000}{}{Examine o cofre para armadilhas.}
+{000}{}{Deixe o cofre sozinho.}
+
+# 3.  SAFE IS OPEN (WTG, 2, 5, 6, 7, 8)
+{220}{}{(Existe um KER-KLANK, e o cofre abre.)}
+{000}{}{(O cofre está aberto.)}
+{000}{}{(A porta se abre. O interior da pequena casa é novamente escuro e pequeno.)}
+{000}{}{(A porta está aberta! O interior está novamente escuro e pequeno.)}
+{000}{}{Procure na casa para as pessoas}
+{000}{}{Afastar-se}
+{000}{}{Procure na parte inferior do cofre para o compartimento secreto que a Sra. Bishop mencionou.}
+{000}{}{Arraste o cofre.}
+{000}{}{Deixe o cofre sozinho.}
+
+# 4.  OPEN COMPARTMENT (3)
+{230}{}{(Você puxa um pequeno painel no fundo do cofre. Você não acha que o teria encontrado se a Sra. Bishop não tivesse contado sobre isso. O interior é um acessório de pip boy estranho).}
+{000}{}{Pegue, depois saqueie o resto do cofre.}
+
+# 5.  CLICKING (2, 5, 6, 8)
+{240}{}{(Você gira o disco lentamente por vários minutos, mas você não consegue entender nada).}
+{000}{}{[SSS]}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Gire o mostrador aleatoriamente.}
+{000}{}{Examine o cofre para armadilhas.}
+{000}{}{Deixe o cofre sozinho.}
+
+# 6.  TRAPS . . . ? (2, 6, 8)
+{250}{}{(Você não encontra nenhuma armadilha no cofre).}
+{000}{}{[SSS]}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Gire o mostrador aleatoriamente.}
+{000}{}{Examine o cofre para armadilhas novamente.}
+{000}{}{Deixe o cofre sozinho.}
+
+# 7.  SPIN RANDOM, SUCCEED (2, 5, 6, 8, 9)
+{260}{}{(Você está girando o botão ... quando de repente há um KER-KLANK, e a porta se abre!)}
+{000}{}{(Você está girando o seletor aleatoriamente, quando de repente o disco trava em um número ... existe um KER-KLANK, e os pops seguros abrem!)}
+{000}{}{Hullo? Hulllooo? Um amigo?}
+{000}{}{Sim, eu tenho o toque ...}
+
+# 8.  SPIN RANDOM, FAIL (2, 5, 6, 8, 9)
+{270}{}{(Você gira o botão, mas a pequena porta não vai abrir!)}
+{000}{}{(Você gira o disco por vários minutos, e nada acontece).}
+{000}{}{Bata na porta}
+{000}{}{Continue girando o botão}
+{000}{}{Afastar-se}
+{000}{}{[SSS]}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Rode o disco, ouça os ruídos do clique.}
+{000}{}{Continue girando o mostrador aleatoriamente.}
+{000}{}{Examine o cofre para armadilhas.}
+{000}{}{Deixe o cofre sozinho.}
+
+# 9.  HELLO? (2, 8, 9)
+{290}{}{(Você não ouve ninguém e não pode ver uma campainha. Talvez ninguém esteja em casa.)}
+{000}{}{(Ninguém vem para a porta).}
+{000}{}{(Sua mão está começando a doer.)}
+{000}{}{(Se alguém estiver em casa, eles não estão respondendo a porta.)}
+{000}{}{Bata na porta again}
+{000}{}{Gire o botão}
+{000}{}{Afastar-se}

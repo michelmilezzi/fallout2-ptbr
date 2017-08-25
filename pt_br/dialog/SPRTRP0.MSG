@@ -1,0 +1,18 @@
+{100}{}{Você vê uma placa levantada. Parece ser parte de um
+ armadilha.}
+
+# NPC name prepends this line
+{101}{}{ vê uma placa levantada. Parece ser parte de um
+ armadilha.}
+
+{102}{}{Você vê uma placa levantada.}
+
+# NPC name prepends this line
+{103}{}{ vê uma placa levantada.}
+
+{104}{}{Você desencadeia a armadilha e evita o tiro do projétil da parede.}
+
+# NPC name prepends this line
+{105}{}{ desencadeia a armadilha e evita estreitamente o tiro do projétil da parede.}
+
+{106}{}{Você vê uma placa levantada que parece inofensiva.}

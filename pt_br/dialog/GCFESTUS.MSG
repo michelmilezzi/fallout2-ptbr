@@ -1,0 +1,273 @@
+{100}{}{Você vê um ghoul particularmente descuidado.}
+{101}{}{Você vê Festus, o supervisor da planta de energia atômica.}
+{102}{}{Você vê um ghoul com aparência glum com uma aparência particularmente rançosa. Ele cheira como um
+ Ferida infectada.}
+
+{110}{}{Você não é tão estúpido quanto eles? Hah, hah, hah.}
+{111}{}{Você é burra ou o quê? Hah, hah, hah. Você se parece com uma pessoa da City do Vault.}
+{112}{}{Bem, você é muito burra, não é? Você deve dirigir-se a Vault City.}
+{113}{}{Eu apenas tenho tantas coisas importantes a fazer. Por que você não volta para o Vault City, onde você pertence?}
+{114}{}{Hah, hah, hah. Você apenas tem um olhar tão estúpido em seu rosto.}
+
+{120}{}{Olá. Sou Festo. Eu administrai todo o reator. Sem mim, toda a cidade seria fechada
+ baixa. Sou um homem muito ocupado. Eles realmente me sobrecarregam aqui.}
+{121}{}{Eu tenho muito a fazer aqui. Eu poderia realmente usar uma pausa. Mas, você sabe, ninguém mais pode executar o
+ Planta de energia atômica. Estou aproveitando o poder do átomo, você sabe. Realmente cansa um sujeito.}
+{122}{}{O que você faz aqui?}
+{123}{}{Entendo que o reator não corre muito bem. Isso é verdade?}
+{124}{}{Por que você olha e cheira - como se estivesse se desmoronando?}
+{125}{}{Bem, eu não gostaria de aproveitar seu valioso tempo. Eu vou estar no meu caminho. Adeus.}
+
+{130}{}{Tenho certeza de que o reator está funcionando sem problemas agora. Eu sou tão bom.}
+{131}{}{O reator está funcionando muito bem agora, tudo bem. Ainda poderia fazer com um pequeno minério de megafone, mas eu diria que é um trabalho muito bom, o mesmo.}
+{132}{}{Mais trabalho? O que você quer dizer?}
+{133}{}{Bem, nada é perfeito. Adeus, Festus.}
+
+{141}{}{Bem, eu supervisiono a usina de energia atômica. No entanto, eu corro tudo sozinho.}
+{142}{}{Sim, eu corro o todo - em uma capacidade de supervisão. Sozinho. Seria impossível se
+ Eu simplesmente não estava muito bem com isso. É um presente, realmente ...}
+{143}{}{Por você mesmo? Quais são as outras pessoas na próxima sala fazendo então?}
+{144}{}{Você deve saber um pouco sobre o poder atômico, então.}
+{145}{}{Bem, não quero evitar o seu trabalho. Adeus.}
+
+{150}{}{Wastrels. Isso é tudo o que são. Eles realmente não entendem o que precisa ser feito. Eles são apenas
+ Espaços reservados. Isso me incomoda de pensar que eles sabem algo sobre as usinas de energia atômica. Por que, se
+ Não era para mim ...}
+{151}{}{Hmm. O que você disse que faz aqui?}
+{152}{}{Ah sim. Bem, é melhor eu ir agora. Adeus.}
+
+{160}{}{Saiba sobre o poder atômico? Bem, eu quase inventei. Eu sei mais sobre o poder atômico do que qualquer um
+ vivo. Se é poder atômico - eu sou seu homem.}
+{161}{}{Hmm. O que você disse que faz aqui?}
+{162}{}{Ah sim. Bem, é melhor eu ir agora. Adeus.}
+
+{170}{}{Você sabe, eu realmente administrai tudo. É muito difícil. Mas eu tenho muitos anos de
+ experiência. Sou profissional quando se trata de gerar usinas de energia atômica.}
+{171}{}{Você deve ser muito bom em seu trabalho.}
+{172}{}{Eu tenho certeza que você é. É melhor eu ir agora. Adeus.}
+
+{180}{}{A maioria das pessoas pensa que é fácil. Eles pensam que apenas qualquer um pode executar um reator atômico. Mas é
+ Não para o destreza ou desmaio do coração. Estou aproveitando o poder do átomo aqui!}
+{181}{}{Estou impressionado.}
+{182}{}{Bem, eu não gostaria de mantê-lo. Adeus.}
+
+{190}{}{Com certeza, seria bom ter alguma ajuda. Mas, você vê, ninguém mais está qualificado para fazer o que eu faço.
+ Eles nem compreendem o básico do que eu faço.}
+{191}{}{Como alguém poderia esperar para acompanhar você?}
+{192}{}{Você é realmente especial, sem dúvida. Adeus.}
+
+{200}{}{Você sabe que eu sou. Posso dizer que você realmente entende coisas assim. Se eu não estivesse tão ocupado aqui
+ Girei Gecko. E deixe-me dizer-lhe, eu funcionaria corretamente.}
+{201}{}{Você também dirigiu a cidade?}
+{202}{}{Arrrrrgh! Estou partindo agora. Eu sou. Não tente me parar. Adeus!}
+
+{210}{}{Bem, não haveria nenhuma dessas negociações com a Broken Hills para o minério de urânio. Nós apenas trocamos
+ Eles em vez disso. Eles poderiam dirigir sua cidade usando o poder do átomo.}
+{211}{}{Você não precisaria executar linhas de energia elétrica em quilômetros e quilômetros de deserto perigoso?}
+{212}{}{Você cheira alguma coisa? Alguma coisa ruim? É melhor eu sair. Adeus.}
+
+{220}{}{Bem, suponho que sim. Então nós teríamos eles comprando baterias gigantes de nós. Sim, essa é a beleza de
+ isto. Então, eles também teriam que comprar as baterias de nós. E isso é apenas para começar; Eu tenho outro grande
+ Planos, como ...}
+{221}{}{Você também é um político? É incrível que seus talentos cubram campos tão diversos.}
+{222}{}{Alguma coisa está apodrecendo aqui? Eu acho que preciso de ar fresco. Adeus.}
+
+{230}{}{Eu sou apenas multifacetado. Realmente, sou muito bom em qualquer tentativa. Raramente há alguém melhor.
+ Claro, eu simplesmente prefiro executar a usina de energia atômica. Mas, se eu quisesse, eu poderia fazer
+ algo mais.}
+{231}{}{Não posso acreditar que todos no Gecko não vejam o seu verdadeiro valor. Eu vou dizer-lhes
+ agora mesmo. Adeus.}
+{232}{}{Deve sair livre. Desvanecimento da força. Deve sair.}
+
+{240}{}{O que o traz para esta parte do meu reator atômico?}
+{241}{}{Bem, eu tenho uma parte que você pode usar para consertar o reator.}
+{242}{}{Uh, eu só estava olhando ao redor. Adeus.}
+
+{250}{}{Você sabe, não tenho tanta certeza de que esta seja a parte certa, afinal. Talvez você devesse levá-lo de volta
+ Para Vault City para verificar. Eu não acho que posso ajudá-lo com isso, afinal.}
+{251}{}{Tenho certeza de que é a parte certa. Tenho uma grande confiança em suas habilidades.}
+{252}{}{Acho que você está certo. É melhor encontrar outra maneira de instalar a peça.}
+
+{260}{}{Eu não acho que essas pessoas em Vault City realmente nos gostem tanto. Eu não colocaria isso
+ Passando por eles para atrapalhar essa parte. Talvez pareça apenas a parte certa, e é realmente uma bomba!
+ Você não pode me enganar tão facilmente. Não estou instalando isso.}
+{261}{}{Com sua experiência técnica, se fosse uma bomba, você já sabia disso. Por favor apenas
+ Instale a peça.}
+{262}{}{Acho que você está certo. É melhor encontrar outra maneira de instalar a peça.}
+
+{270}{}{Ok, estou aqui. Mas ainda não tenho certeza de que essa não seja a parte certa, ou que não é uma armadilha
+ de alguma forma. Você sabe, sou muito valioso para desperdiçar. Talvez eu deva deixar alguém fazer isso ...
+ Mais tarde ... muito depois.}
+{271}{}{Precisa ser feito agora. E você é a única pessoa que pode fazê-lo direito. Vamos, todos os Gecko
+ depende de você!}
+{272}{}{Acho que você está certo. É melhor encontrar outra maneira de instalar a peça.}
+
+{300}{}{Bem, com certeza usa muito urânio. E derrama alguns. Sabe, perguntei a alguém para corrigi-lo,
+ Mas ninguém me escuta.}
+{301}{}{Ouvi dizer que está vazando a radiação nas águas subterrâneas. Isso é verdade?}
+{302}{}{Eu pensei que você era o especialista. Por que você não conserta isso? Simplesmente o que você faz aqui?}
+
+{310}{}{Bem, isso é possível, mas não acho que isso prejudicaria nada. É subterrâneo,
+ depois de tudo.}
+{311}{}{Eu acho que você pode estar errado. Vault City está reclamando que seu reator atômico foi
+ Manchando a água com radiação.}
+{312}{}{Bem, se você diz. Adeus.}
+
+{320}{}{Não é possivel. Ninguém saberia mais sobre isso do que eu. Eles estão apenas procurando alguém para culpar
+ Pelo seu problema. Nós nem sequer desenhamos do mesmo aqüífero.}
+{321}{}{Você parece certo. Mas eles também.}
+
+{330}{}{Bem, eles são apenas um monte de amadores quando se trata de poder atômico. Eu sou o verdadeiro especialista aqui.
+ Você pode levar o que eu digo ao banco. Se houvesse alguns bancos, isto é.}
+{331}{}{Bem, acho que você sabe do que está falando. Adeus.}
+{332}{}{Eu não tenho tanta certeza quanto você. Adeus.}
+
+{340}{}{Você tem um regulador de magnetosfera hidroelétrico sob medida em você?}
+{341}{}{Você realmente sabe o que é isso?}
+{342}{}{Claro. Você está pronto para instalá-lo?}
+
+{350}{}{Surpreso? Eu disse-lhe que eu sei tudo sobre plantas de energia atômica. Você deveria me ouviu.}
+{351}{}{Bem, já que você sabe o que é, você deve saber como instalá-lo.}
+{352}{}{Acho que já te ouvi muito. Adeus.}
+
+{360}{}{Claro que eu faço. Por que, simplesmente é simples para alguém da minha experiência e talento. Eu fui
+ Desmamado em Magnetoshpere Regulators como filhote, você sabe.}
+{361}{}{Isso é ótimo. Você poderia instalá-lo para mim?}
+
+{370}{}{Bem, acho que poderia instalá-lo. Eu certamente sou o único que poderia instalá-lo direito.
+ Instalar um Regulador de Magnetosfera Hidrelétrica é bastante complicado.}
+{371}{}{Aqui está o Regulador. Eu sabia que eu poderia contar com você.}
+{372}{}{Pensando bem, acho melhor encontrar outra maneira. Adeus.}
+
+{380}{}{Eu acho que poderia instalá-lo. Mas, você sabe, instalando um Regulador de Magnetosfera Hidrelétrica
+ É bastante complicado. E é perigoso. Não que tenha medo por mim mesmo. Mas quem poderia executar o atômico
+ Planta de energia se alguma coisa acontecesse comigo? Desculpe, não posso ajudá-lo.}
+{381}{}{Eu deveria ter sabido que você iria dar um frango. Adeus.}
+
+{390}{}{Não posso ajudá-lo agora. Estou muito ocupado.}
+{391}{}{Volte na semana que vem. Talvez eu tenha algum tempo.}
+{392}{}{Uh, você tem a parte errada de qualquer maneira. Sim, é isso.}
+{393}{}{Desculpe, estou muito ocupado para ajudá-lo.}
+{394}{}{Não posso trair o Gecko pondo em perigo.}
+
+{400}{}{Oh sim. Heh heh. Claro, é a parte certa. É só, uh, um modelo mais primitivo do que eu sou
+ costumava. Isso é tudo.}
+{401}{}{Boa. Então, vá em frente e instale-o.}
+
+{410}{}{Eu acho que eles saberiam melhor do que tentar me enganar com uma bomba. Estou certo de que eles sabem apenas
+ Com quem estão lidando aqui.}
+{411}{}{Eles falaram de você muitas vezes em Vault City. Normalmente, em tons silenciosos de reverência. Agora, apenas instale
+ A parte maldita.}
+
+{420}{}{Tudo bem. Ei! Eu fiz isso. Eu realmente estou bem.}
+{421}{}{Nossa, eu sou bom.}
+{422}{}{Foi difícil, mas eu fiz isso. Eu sou um herói.}
+{423}{}{Eu mereço um aumento pelo trabalho que faço.}
+{424}{}{Gecko certamente me deve agora.}
+{425}{}{Você me viu lá fora? Nunca vacilou.}
+
+{430}{}{O que você quer?}
+{431}{}{Ouvi dizer que você cuida das requisições de peças e preciso de uma.}
+{432}{}{Eu simplesmente me perguntei o que você faz aqui.}
+
+{440}{}{Você? Para que você precisa?}
+{441}{}{Bem, os caras da outra sala precisam disso. Mas eu disse-lhes que queria obtê-lo de você apenas
+ Que eu poderia te ver em ação.}
+{442}{}{Eu só preciso de um. Vamos, seja um amigo. Apenas me dê uma. OK?}
+{443}{}{Eu só acho que é melhor você me dar uma. Trabalhando em uma usina, às vezes as pessoas têm acidentes.
+ Me compreende?}
+{444}{}{Preciso de um para ... Ei, o Fershlubiner Widget Activator não está funcionando no vermelho?}
+
+{450}{}{Bem, tudo bem. Aqui está seu formulário de requisição de peça. Eu acho que você tem seus motivos para neely.}
+{451}{}{Bem, tudo bem. Aqui está o seu ... Ei? Onde eu coloquei essa coisa ruim? Deve estar aqui em algum lugar ... Hmm, eu acho
+ Não consigo encontrá-lo agora mesmo. Ele vai aparecer, no entanto.}
+{452}{}{Obrigado. Adeus.}
+{453}{}{Ah bem. Talvez eu volte mais tarde, então. Adeus.}
+
+{460}{}{Não me importo com o que você deseja. Esses formulários de requisição de peça são apenas para negócios oficiais. Eles
+ Apenas confie-os ao pessoal-chave. É por isso que os tenho. Me pega? Pessoal-chave, apenas.}
+{461}{}{Sim, eu entendo você. Adeus.}
+{462}{}{Bem, você receberá o seu. Talvez não hoje, mas em breve. Adeus.}
+
+{470}{}{Uh, bem, é suposto ser assim. Tenho muito trabalho importante a fazer. Se isso é tudo
+ Você veio para ...}
+{471}{}{Bem, na verdade eu preciso de um formulário de requisição de peça.}
+{472}{}{Acho que não preciso de nada depois de tudo. Adeus.}
+
+{480}{}{O que você quer dizer? Oh, bem, acho que já estou trabalhando muito difícil ultimamente. Não tive tempo
+ Para cuidar de mim mesmo da maneira que eu deveria. Talvez a radiação apenas me afecte um pouco
+ De forma diferente.}
+{481}{}{Uh, bem ... talvez você considere se banhar ou algo assim, para cuidar do funk.}
+
+{490}{}{Bem, acho que deveria. Sempre que eu me banho, muitas das minhas pele se desprendem e todas as minhas escamas
+ arrombar. E outra coisa, minhas unhas continuam rasgando ...}
+{491}{}{Aguente! Esperar! Eu acho que já ouvi o suficiente. Uh, vamos voltar um pouco.}
+
+{500}{}{Festus sai e depois volta. Ele ainda está carregando a parte.}
+{510}{}{[Feito]}
+{520}{}{Festus dá-lhe de volta a parte.}
+{530}{}{Festus sai e depois volta. Ele parece muito satisfeito com alguma coisa.}
+
+{600}{}{Eu tenho um disco de dados do reator que pode ajudá-lo a otimizar o reator.}
+{610}{}{Ok, dê-me e eu vou ver o que posso fazer.}
+{620}{}{Aqui está.}
+{630}{}{Não, acho que vou ficar por agora.}
+{640}{}{OK. Parece bom. Obrigado por toda sua ajuda.}
+{650}{}{Certo. Sem problemas.}
+
+{700}{}{Você convenceu Festus para ajudá-lo com a usina.}
+
+{800}{}{Quero dizer, o reator está funcionando agora, mas com certeza pode correr melhor. Eu quero dizer melhor por uma longa milha do país, se nós tivéssemos mais dados. Agora, se você pudesse
+ Obter os dados de otimização, estaríamos cozinhando com gás, uh, bem, você sabe o que quero dizer.}
+{801}{}{Dados de otimização? Onde eu conseguiria isso?}
+{802}{}{Bem, você provavelmente poderia obter as informações da central da Cidade do Vault
+ computador.}
+{803}{}{Bem, deixe-me ver o que posso fazer.}
+{804}{}{Hmm, isso é um pensamento.}
+{805}{}{Isso só acontecerá quando um cão de papel perseguir com sucesso um amianto
+ Passe pelo inferno. Adeus, Festus.}
+{806}{}{Aposto que um inteligente como você poderia se esgueirar lá e usar um
+ Holodisco com as informações de desempenho do reator no computador central. Então
+ Esgueirar o disco de volta aqui. Isso faria isso. Eu faria isso sozinho, mas eu também sou
+ Valioso aqui para sair, mesmo por um momento.}
+{807}{}{Eu odeio deixar um trabalho apenas meio feito.}
+{808}{}{Hmm, eu não acho que eu poderia fugir com isso. Desculpe, Festus. Adeus.}
+{809}{}{Isso só pode funcionar. Acho que a minha habilidade está se esfregando
+ você. Bom Bom. Diga, você deve prolly trazê-lo para um feller chamado McClure. A partir de
+ O que eu ouço, ele é o único lá que dobraria uma orelha sobre qualquer coisa, exceto Vault
+ Os cidadãos preciosos da cidade.}
+{810}{}{O conselheiro McClure é o homem a ver. OK, obrigado pela dica. Acho que vou fazer isso
+ então.}
+{811}{}{Gee, eu adoraria ficar preso na cidade de Vault por ser um simpatizante mutie. Não
+ Obrigado Festus. Você esta por sua conta. Adeus.}
+{812}{}{Esse é o espírito. Eu estava tentando dizer isso. Ótimo. Basta usar este disco aqui
+ No computador central da Vault City e depois gite-o aqui de volta. Usaremos menos urânio, o
+ O núcleo não vai ficar tão ruim, e esta Cidade do Vault não terá nenhum motivo para nos exterminar.}
+{813}{}{Eu certamente não quero ver o Gecko destruído. Eu vou fazer isso.}
+{814}{}{Eu simplesmente não acho que estou fazendo isso. Desculpe, Festus. Adeus.}
+{815}{}{Eu certamente gostaria de poupar o tempo para fazer isso sozinho, mas não posso. Tudo o que posso dizer é
+ Obrigada criança. Você vai fazer todos nós aqui um grande favor. (Cheirar, cheirar) Você me faz tão
+ orgulhoso.}
+{816}{}{Bem, é melhor eu ir. Adeus, Festus. Volto com os dados que você precisa apenas
+ assim que eu puder.}
+{817}{}{Não apenas lollygag lá. Obtenha esses dados.}
+{818}{}{Não fique parado lá. O reator não vai continuar trabalhando para sempre.}
+{819}{}{Mova-se e obtenha esses dados de otimização, como você disse que faria.}
+{820}{}{Muito tempo para conversar * depois * otimizamos o reator.}
+{821}{}{Vá para Vault City e troque McClure pelo disco Econ para os dados do reator que precisamos. Obter
+ isto?}
+{822}{}{Venha agora. Obter esse disco para o McClure.}
+{823}{}{Vault City? Trabalho desfeito? Toque os sinos naquela oca entre as orelhas?}
+{824}{}{Se apresse!}
+{825}{}{Obrigado por obter os dados que precisávamos da Vault City para otimizar esta besta antiga com vazamento.
+ Você é um idiota, sem negar isso, por cracky. Quase um trabalho tão bom como eu poderia ter feito a mim mesmo.
+ 'Curso ... se você não quiser realmente * terminar * o trabalho dang, use esse disco no Terminal de Controle de Robô.
+ Me compreende? Bem, ok então.}
+{826}{}{Bem, não gostei de deixar o trabalho meio quebrado. Adeus, Festus.}
+{827}{}{Sim, eu aposto que você teria feito isso. Você está com um saco de vento fervoroso. Adeus.}
+{828}{}{Você é um pêssego. Não há dúvida sobre isso. Eu sabia que você faria isso.}
+{829}{}{Você me deixa tão orgulhoso.}
+{830}{}{Obrigado. Agora, deixe-me voltar ao meu importante trabalho.}
+{831}{}{Mantenha isso e você pode chegar a ser como eu algum dia.}
+
+{900}{}{Você não vê que estou ocupada?}

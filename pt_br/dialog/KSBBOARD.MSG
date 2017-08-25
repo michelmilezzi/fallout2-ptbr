@@ -1,0 +1,59 @@
+{100}{}{Algum tipo de quadro de avisos.}
+{101}{}{Você vê o quadro de avisos da Klamath.}
+{102}{}{Os anúncios e avisos para o emprego são aderidos a este conselho. Alguns deles estiveram aqui por um
+ enquanto.}
+
+{110}{}{Há várias coisas aqui. Alguns anúncios, avisos de trabalho e até mesmo um desenho. Parece que
+ Alguns desses estão aqui há algum tempo.}
+{120}{}{Acho que vou dar uma olhada nesse desenho.}
+{130}{}{Este parece ser bom - algo sobre álcool.}
+{140}{}{Alguma coisa aqui sobre um banho.}
+{150}{}{Alguém quer comprar alguns couros de lagarto.}
+{160}{}{Aqui está algo sobre ratos.}
+{170}{}{Algo sobre coisas antigas aqui.}
+{180}{}{Parece que alguém está desaparecido.}
+
+{210}{}{Um desenho grosseiro do que parece um brahmin com um grande 'X' através dele e a palavra 'Torr'
+ Rabiscado embaixo.}
+{220}{}{Eu acho que vou dar uma olhada em outro aviso.}
+{230}{}{Essa é toda a informação que eu preciso para agora.}
+
+{240}{}{Booze - Gotcher 'tention não eu? Bum laig impede negócios. Precisa de ajuda para o reabastecimento ainda.
+ Tipo necessário e rápido. Veja Whisky Bob no lugar de Ma Buckner.}
+{250}{}{Eu acho que vou dar uma olhada em outro aviso.}
+{260}{}{Essa é toda a informação que eu preciso para agora.}
+
+{270}{}{Pessoa desaparecida. Alguém já viu Smiley o caçador? Smiley tem cerca de seis pés de altura, limpo e
+ Housebroken (principalmente). Desapareceu para o norte e eu meio que sinto falta dele. -Ardin Buckner}
+{280}{}{Eu acho que vou dar uma olhada em outro aviso.}
+{290}{}{Essa é toda a informação que eu preciso para agora.}
+
+{310}{}{Dólar superior para peles superiores. Você tem peles gecko? Tenho $$$. Pele de gecko dourado especialmente
+ bem vinda. Veja-me primeiro! -Sajag, proprietário, operador, Golden Gecko Tavern.}
+{320}{}{Eu acho que vou dar uma olhada em outro aviso.}
+{330}{}{Essa é toda a informação que eu preciso para agora.}
+
+{340}{}{Muitos riquíssimos ratos em Trapper Town. Venha buscá-los, tudo que você pode comer .-- Slim.}
+{350}{}{Eu acho que vou dar uma olhada em outro aviso.}
+{360}{}{Essa é toda a informação que eu preciso para agora.}
+
+{370}{}{Feelin 'grubby? Nuthin faz um feller se sentir melhor e um bom banho. Três tipos divertidos para
+ Escolha! Apresentando a bela e talentosa Jenny (tarde do Den) - Veja o Big Nosed Sal no
+ Bathhouse para detalhes mais excitin.}
+{380}{}{Eu acho que vou dar uma olhada em outro aviso.}
+{390}{}{Essa é toda a informação que eu preciso para agora.}
+
+{400}{}{Jan-u-wine Antee-seções. Eles não fazem isso como eles usta. Na verdade, eles na maioria não conseguem
+ todos. Se você quiser o bom velho, veja Vic the Trader - East side of Downtown.}
+{410}{}{Eu acho que vou dar uma olhada em outro aviso.}
+{420}{}{Essa é toda a informação que eu preciso para agora.}
+
+{430}{}{Você vê um pedaço de madeira com pedaços de papel presos a ele. Todos, exceto um dos artigos, têm aqueles
+ Pequenas marcas de insetos parecidas com elas. Whew! Menino, você está cansado. Talvez você deva encontrar algo menos
+ Tributação para fazer.}
+{440}{}{Gorr. (Observe o aviso que faz algum sentido.)}
+{450}{}{Ook}
+
+{460}{}{Um desenho grosseiro do que parece um brahmin com um grande 'X' através dele e a palavra 'Torr'
+ Rabiscado embaixo. (Not exactly Lascaux but the meaning is clear enough.)}
+{470}{}{Eruu. (Bem, claramente, uma alma pobre chamada Torr precisa de ajuda com o braimínio de alguma maneira.)}

@@ -1,0 +1,54 @@
+{100}{}{Você vê um jogador.}
+{101}{}{Você vê um jogador esperando ganhar algum dinheiro.}
+{102}{}{Você vê uma pessoa com emoção nervosa.}
+{103}{}{Vamos, o bebê precisa de sapatos novos.}
+{104}{}{Sim, esse é o bilhete!}
+{105}{}{Merda!}
+{106}{}{Por que eu?}
+{107}{}{Alguém pode me poupar alguma mudança?}
+{108}{}{Tenho uma coisa certa desta vez.}
+{109}{}{O meu sistema sempre funciona.}
+{110}{}{Este sistema fede!}
+{111}{}{Este jogo é manipulado!}
+{112}{}{Eu sou a pessoa mais sortuda viva!}
+{113}{}{O que eu fiz para merecer isso?}
+{114}{}{Porcaria!}
+{115}{}{Yeee-haaaawww!}
+{116}{}{Yippeeee!}
+{117}{}{Nunca vi ninguém ter sorte antes.}
+{118}{}{Que * parece * muito bom para ser verdade.}
+{119}{}{É melhor não ganhar novamente.}
+{120}{}{Qual é o limite da casa?}
+{121}{}{As regras da casa realmente dizem isso?}
+{122}{}{Sim, você betcha.}
+{123}{}{Deixe-o andar.}
+{124}{}{Vou dobrar a próxima vez.}
+{125}{}{Vá baby, vá baby ...}
+{126}{}{Lá vai minha casa.}
+{127}{}{Lá vai minha terra.}
+{128}{}{Eu só preciso de um pouco mais de crédito.}
+{129}{}{A minha sorte está a mudar; Eu posso sentir isso.}
+{130}{}{Onde está o meu gecko-pé de sorte quando preciso?}
+{131}{}{O que você quer?}
+{132}{}{Retire, bub.}
+{133}{}{Ei, não me diga.}
+{134}{}{Você está me dando o mal de olho?}
+{135}{}{Ei, você é uma boa sorte.}
+{136}{}{Posso dar uma palmadinha na sua cabeça por sorte?}
+{137}{}{Explodir esses dados, você será seu amigo?}
+{138}{}{Jogue ou sopre.}
+{139}{}{Este não é um esporte de espectador, amigo.}
+{140}{}{Espero que você não altere as chances.}
+{141}{}{Esta tabela é azarada.}
+{142}{}{Esta tabela tem sorte.}
+{143}{}{Apenas mais alguns dólares e eu vou sair. Falo sério dessa vez.}
+{144}{}{Não me agrupe aqui.}
+{145}{}{Você viu aquilo?}
+{146}{}{Eu simplesmente não posso acreditar nessa sorte.}
+{147}{}{Bom jogo, não é?}
+{148}{}{Hoje tenho sorte.}
+{149}{}{Esta vez vai ser diferente.}
+{150}{}{Não sabia que vocês eram muito para jogos de azar.}
+{151}{}{É toda habilidade, eu lhe digo.}
+{152}{}{Afaste-se e veja isso acontecer.}
+{153}{}{Vamos acabar com o banco aqui, eu só sei disso.}

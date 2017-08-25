@@ -1,0 +1,12 @@
+{100}{}{Você vê um concurso de dinheiro desprezível.}
+{101}{}{Parece que ele iria comprar praticamente qualquer coisa para que as pessoas jogassem aqui.}
+
+{102}{}{Wah d'ya quer?}
+{103}{}{Quero trocar algumas coisas.}
+{104}{}{Nada.}
+{105}{}{quer shinies.}
+{106}{}{vá adeus.}
+
+{107}{}{Algo mais?}
+{108}{}{Eu tenho mais coisas para trocar.}
+{109}{}{quer morais.}

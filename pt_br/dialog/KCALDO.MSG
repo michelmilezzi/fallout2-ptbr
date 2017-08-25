@@ -1,0 +1,153 @@
+#############################################################
+#  Message File: KCaldo.msg                                 #
+#                                                           #
+#       Body Type:                                          #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP: 15                                              #
+#       Skills to note: Barter 50                           #
+#       Inventory: 2 bottles of booze, 1 bottle of beer     #
+#                  and 2 molotov cocktails                  #
+#  Log:                                                     #
+#                                                           #
+#  Created: January 14, 1998                                #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+{100}{}{Você vê um homem doentio vestido com roupas muito sujas.}
+{101}{}{Você vê Aldo, a Cidade Greeter. Você acha que pode ver sua respiração a partir daqui.}
+
+#############################################################
+#  The following lines are for the dialog which the NPC     #
+#  says. This will be disorganized because of the Design    #
+#  Tool.                                                    #
+#############################################################
+
+{200}{}{Olá, eu não o vi em Klamath antes. Eu sou Aldo, o ganhador da cidade. (Hic)
+ É meu trabalho cumprimentar alguém novo na cidade e responder a quaisquer perguntas sobre as quais eles possam ter.
+ Nosso burg bucólico. Bem-vindo ao Klamath. (Ai) Quem você pode ser?}
+{201}{}{Uhh, obrigado pela saudação. Sou apenas um viajante.}
+{202}{}{Meu nome é}
+{203}{}{ . Obrigado por me receber aqui.}
+{204}{}{ De Arroyo. Eu sou o Escolhido.}
+{205}{}{Você não precisa saber meu nome ou qualquer outra coisa sobre mim. Vá embora, seu bêbado imundo.}
+{206}{}{Eu não acho que uma cidade como Klamath tenha um bêbado como você como um colega de trabalho ou qualquer outra coisa.}
+
+{300}{}{O Escolhido. Oh, poderoso}
+{301}{}{, Você deve ser muito importante e poderoso entre seu povo. Certamente um dos seus ótimos (hic)
+ A estatura ficaria feliz em seguir nosso costume de inclinar o ganhador da cidade. (Urp)}
+{302}{}{Aqui está uma dica para você - fique longe da bebida por um tempo.}
+{303}{}{Uma dica, hein? Bem, acho que vale 5 dólares para tirar você das minhas costas.}
+{304}{}{Bem, eu não gostaria de ir contra o costume. 5 dólares são suficientes?}
+{305}{}{Você deveria me dar uma dica, então eu não vou tomar o tempo para livrar Klamath de sua pele suja.}
+{306}{}{Desculpe, o Escolhido tem pouco uso para o dinheiro - eu não tenho nenhum para te dar.}
+
+{350}{}{Bom amigo}
+{351}{}{, Uma vez que você é novo nessas partes (hic), e parece que você poderia usar (urp) algumas dicas,
+ Vou deixar você saber que é costume ditar o público da cidade antes de fazer qualquer pergunta e tal.}
+{355}{}{Desculpe, não posso poupar dinheiro para você.}
+
+{400}{}{Bem estranho, já que você é novo nessas partes, você provavelmente não sabe se é que é
+ (Harto) costume para dar uma gorjeta ao público da cidade antes de fazer qualquer pergunta e tal.}
+
+{450}{}{Obrigado pelo dinheiro, amigo. (Urp) Eu vou usá-lo para obter algum medicamento (hic) para o meu seco
+ garganta. Considere-se oficialmente (hic) saudado para a cidade de Klamath. Você tem alguma pergunta
+ Sobre nossa metrópole justa (urp)?}
+{451}{}{Não, obrigado, acho que posso descobrir as coisas aqui sozinho.}
+{452}{}{Bem, na verdade, eu estava curioso sobre uma coisa ou duas.}
+{453}{}{Aldo, estou à procura de um comerciante que vende antes das coisas. Você sabe, coisas realmente antigas.}
+
+{500}{}{Pergunte, oh benfeitor meu.}
+{501}{}{O que as pessoas fazem aqui em Klamath?}
+{502}{}{Onde posso trocar coisas ou encontrar cura?}
+{503}{}{Conte-me sobre geckos.}
+{504}{}{Onde você compra sua bebida?}
+{505}{}{Obrigado, acho que é tudo o que preciso saber por enquanto.}
+{506}{}{Você sabe onde eu posso encontrar um GECK?}
+
+{550}{}{Obrigado por nada. Espero que você não fique na cidade por muito tempo. Não precisamos do seu tipo aqui.
+ Humph. Tribais - são todos iguais.}
+
+{600}{}{Aqui, em Klamath algumas pessoas cultivam, alguns levantam braçim, mas pegar geckos é o que a maioria dos
+ pessoas fazem.}
+{601}{}{O que é um gecko?}
+{602}{}{Oh, obrigado. Acho que é tudo o que preciso saber.}
+{603}{}{Isso é interessante. Eu tenho outra questão.}
+
+{650}{}{Um gecko é um grande lagarto que é caçado pelos caçadores ao redor destas peças por sua carne e
+ ocultar. Mas, com certeza, é um monte de trabalho para pegá-los criadores de dang - e também perigoso. Meu conselho para um
+ Amigo ... evite isso. É muito trabalho demais.}
+{651}{}{Oh, obrigado. Acho que é tudo o que preciso saber.}
+{652}{}{Hmm. Mais uma coisa, Aldo.}
+
+{700}{}{Você pode comprar ou trocar coisas na Buckner House e também no Golden Gecko. Às vezes eles até
+ Tenha ervas curativas disponíveis - não que elas me dêem qualquer condição para meu (hic). Ambos estão corridos
+ Por real skinflints. Apenas fique um pouco atrasado na sua aba e vá para o frio e a chuva.}
+{701}{}{Obrigado pela informação, é tudo o que preciso por enquanto.}
+{702}{}{Eu sempre encontrei o ar fresco revigorante. Hmm, eu tenho outra pergunta para você.}
+
+{750}{}{Eu sei que você não poderia poupar dinheiro para a cidade oficial mais cedo antes, mas talvez
+ (Hic) desta vez você está se sentindo mais generoso e está pronto para ser saudado 'oficialmente' para Klamath.}
+{751}{}{Eu acho que eu poderia poupar $ 5 para mantê-lo nas minhas costas.}
+{752}{}{Eu senti que faltava algo. Aqui estão $ 5; Estou pronto para ser saudado.}
+{753}{}{Não, obrigado, não acho que eu precise de sua saudação oficial.}
+{754}{}{Eu acho que prefiro que seus interiores saibam minha lâmina.}
+
+{800}{}{Ei, amigo, é bom te ver de novo. Você pode poupar algum dinheiro para um pouco de remédio? Minhas
+ A garganta está ficando mais seca e arrumada (hic) o tempo todo. Eu poderia até jogar outro oficial
+ (Urp) saudação.}
+{801}{}{Claro, eu sempre posso poupar US $ 5 para os remédios de um amigo.}
+{802}{}{Desculpe, Aldo não consigo poupar agora.}
+{803}{}{Eu acho que você já teve medicamentos suficientes. Você deve suar esse veneno do seu sistema com alguns
+ trabalho duro.}
+
+{810}{}{Obrigado por nada. Como você pode ser tão cruel com alguém tão mal quanto eu? Damn tribals!
+ (Aldo cuspiu no chão aos seus pés, driblando um pouco no queixo dele)}
+
+{820}{}{Tenho certeza de que sua generosidade para alguém tão necessário quanto eu (hic) irá te trazer bem
+ sorte. Espero vê-lo novamente em breve.}
+{830}{}{Eu poderia usar algum dinheiro para medicina. Eu me sinto muito fraco - mas se você não pode (tosse, tosse)
+ Esqueça qualquer (tosse), acho que entendo. Talvez da próxima vez, se eu ainda estiver por perto (tosse) até então.}
+
+{850}{}{Você quer dizer o meu tão necessário medicamento? (Hic) Bem, eu costumava comprá-lo no Golden Gecko ou
+ O Buckner Place (urp), mas eles não vão me vender até eu pagar algum dinheiro na minha conta. Lucky for
+ Eu, Whisky Bob tem feito um remédio para alguns de seus amigos.}
+{851}{}{Fico feliz que você tenha encontrado uma fonte para o seu medicamento. Acho que é tudo o que preciso saber por enquanto.}
+{852}{}{Interessante. Onde eu acharia esse Whisky Bob?}
+{853}{}{Obrigado, Aldo. Diga-me sobre outra coisa, no entanto.}
+
+{860}{}{Whisky Bob geralmente é (urp) no Buckner's Place aqui mesmo no centro da cidade. Eu não acho que ele é
+ Foi capaz de sair para cuidar dele ainda ultimamente. Ele não é apenas uma fonte confiável de remédio para alguém
+ Como (ai) indisposto como eu.}
+{861}{}{Obrigado pela informação, Aldo. Isso é tudo o que eu preciso saber.}
+{862}{}{Ainda bem que você encontrou outro fornecedor. Uh, você poderia respirar um pouco mais a favor do vento? Eu tenho outro
+ pergunta para você.}
+
+{870}{}{Olá, amigo, você parece um pouco perplexo. O que você precisa é um amigo aqui na cidade. Eu estou
+ Aldo, o ganhador da cidade.}
+{871}{}{Amigos? Heh heh,}
+{872}{}{ como amigo.}
+{873}{}{Urk (cheira, cheira) cheiro ruim. Vá embora agora.}
+
+{880}{}{Se você me entregar $ 20 eu serei seu amigo e eu me certificarei de que todos os outros são, também. É assim que
+ Trabalha aqui na grande cidade.}
+{881}{}{Toowa-eee-nty? Ook? Beeg Cee-tee? Ook?}
+{882}{}{Dê uma folha bonita do homem agora?}
+
+{890}{}{Um Geck? Heck, você quer dizer um gecko. Nunca ouvi falar sobre um geck, mas vou falar sobre geckos.}
+
+{900}{}{Coisas antigas, hein? (Urp) Bem, o único comerciante (hic) que conheço que troca muito coisas antigas é
+ (Ai) Vic.}
+{901}{}{Vic? Onde posso encontrar este Vic?}
+
+{910}{}{Bem agora (hic), eu não vi Vic por um tempo. Eu não tenho razão (urp) saber onde ele pode ter
+ Fugir para. Você pode conversar com Jenny sobre a casa do banho. Ela e Vic estavam lindas (hic).
+ Heh, heh, heh. Pegue? Oh meu, não perdi meu contato.}
+{911}{}{É bom saber que não importa quão baixo você afunda, você não pode perder algo que você nunca teve. Deixei
+ Eu arrisco perguntar-lhe outra coisa.}
+{912}{}{Felizmente, você é um dos únicos, Aldo. Acho que é tudo o que preciso saber.}

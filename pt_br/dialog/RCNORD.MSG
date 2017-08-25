@@ -1,0 +1,27 @@
+{100}{}{Você vê um homem gordo e curioso.}
+{101}{}{Você vê Nording o vendedor de pagamento.}
+{102}{}{Você vê um pombo nervoso, gordo e pequeno de um homem.}
+{103}{}{Você não pode ser pago por abandonar a caravana.}
+{104}{}{Uh, havia algumas coisas que faltavam na caravana. Os estatutos da NCR não me permitem pagar uma
+ ladrao. Desculpa.}
+{105}{}{Um ladrão? Parece-me a essa observação, você está malditamente ingrato! Estou indo embora. Adeus.}
+{106}{}{Algum dia em breve, você vai se arrepender de me cruzar. Adeus.}
+{107}{}{Não posso recompensar uma caravana tão catastrófica. Você não receberá nada de mim.}
+{108}{}{Você bastardo barato! Você pagará por me irritar. Adeus.}
+{109}{}{Bem, às vezes você só tem mais sorte do que outros. Este foi um dos momentos desafortunados. Adeus.}
+{110}{}{Essa era uma caravana muito inútil. Não posso dar mais de $ 500 como sua participação.}
+{111}{}{Bem, algo é melhor do que nada, acho. Adeus.}
+{112}{}{Maldito bastardo! Ninguém poderia ter feito um trabalho melhor. Você vai se arrepender de me irritar. Adeus.}
+{113}{}{Isso não foi muito ruim. Aqui estão os seus $ 1500. Eu não sei quando encontraremos alguém para correr
+ A caravana, mas, se fizermos, você pode trabalhar para nós de novo.}
+{114}{}{Eu não acho que eu sempre queira passar tanto tempo olhando o culo de um brahmin novamente. Adeus.}
+{115}{}{Isso não foi muito ruim. Até logo. Adeus.}
+{116}{}{Essa foi uma boa corrida, mesmo que você perdeu Stanwell. Em cada vida, um pouco de chuva deve cair.
+ Aqui estão os seus $ 100, mais $ 50 da participação da Stanwell.}
+{117}{}{É bom encontrar alguém que aprecie a qualidade quando o vê. Até você, talvez. Adeus.}
+{118}{}{Sempre prazer em ganhar algum dinheiro extra. Obrigado e adeus.}
+{119}{}{Se você estivesse na NCR, você seria mantido em uma ala agradável e não forçado a fazer seu próprio caminho
+ o mundo. Pelo menos nós permitimos que você viajasse com segurança. Adeus.}
+{120}{}{Ook?}
+{121}{}{Maldita vergonha que Stanwell tenha sido morto. Meu nome é Nording. Eu liquidarei a dívida.}
+{122}{}{Uh, obrigado.}

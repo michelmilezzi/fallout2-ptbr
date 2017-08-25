@@ -1,0 +1,66 @@
+{100}{}{Você vê uma criança.}
+
+{150}{}{Você vê uma pequena criança órfã.}
+
+{200}{}{Mudança de substituição?}
+{201}{}{O que?}
+{202}{}{Não estou fazendo nada!}
+
+{210}{}{Este é o lugar de Tubby.}
+{211}{}{Tubby vende coisas ruins.}
+{212}{}{Tubby não é muito legal.}
+{213}{}{Tubby cheira engraçado.}
+
+{220}{}{Esta é a loja do Flick.}
+{221}{}{Flick é legal.}
+{222}{}{Flick vende muitas coisas diferentes.}
+{223}{}{Não esqueça de dizer oi para o Flick.}
+
+{230}{}{Este é o lugar de Frankie.}
+{231}{}{Você é amigo de Frankie?}
+{232}{}{Este lugar cheira bem.}
+{233}{}{As bebidas de Frankie são caras ... então eu ouço.}
+
+{240}{}{Becky é tão legal.}
+{241}{}{Este é o lugar de Rebecca.}
+{242}{}{Becky tem os melhores preços em bebidas ... então eu ouvi.}
+{243}{}{Rebecca não me deixa jogar seus jogos.}
+{244}{}{Becky é tão bonita.}
+{245}{}{Você conheceu Rebecca? Eu queria que ela fosse minha mãe.}
+
+{250}{}{Ei, senhora, tem alguma mudança de reposição?}
+{251}{}{Eh, senhor, tem alguma mudança de reposição?}
+
+{270}{}{Você vai ficar lá ou entrar?}
+{271}{}{Oi.}
+{272}{}{Eu estou com fome.}
+{273}{}{Ei você! Tubby's está sempre aberto. Venha acabar.}
+
+{280}{}{Você entra ou o que?}
+{281}{}{Venha verificar o lugar da Flicks.}
+{282}{}{Oi.}
+{283}{}{Ei, você está por aí! Confira a loja do Flick.}
+
+{290}{}{Bem, você entra?}
+{291}{}{Oi.}
+{292}{}{Não faça isso.}
+{293}{}{Ei! Frankie tem excelentes coisas.}
+
+{300}{}{Você deveria entrar, Beck é muito legal.}
+{301}{}{Estou observando.}
+{302}{}{Uau, você é bonita.}
+{303}{}{Oi.}
+{304}{}{Qual o seu nome?}
+{305}{}{Becky gostaria de você.}
+{306}{}{Ei! Venha visitar Becky's.}
+
+{310}{}{Ahhhh! Me deixe em paz.}
+{311}{}{Ajuda, estou sendo reprimido!}
+{312}{}{Agora vemos a violência inerente ao sistema.}
+{313}{}{Eu não fiz nada}
+{314}{}{Ahhhh!}
+{315}{}{Sentiu minha falta.}
+{316}{}{Você é isso.}
+{317}{}{Não!}
+{318}{}{Pare com isso.}
+{319}{}{Eu não fiz nada para você!}

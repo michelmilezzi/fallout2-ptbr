@@ -1,0 +1,73 @@
+{100}{}{Você vê alguém cuja pele foi muito queimada. Parece estar de guarda aqui.}
+{101}{}{Você vê um ghoul agindo como um guarda.}
+{102}{}{Você vê alguém cuja pele parece ter sido queimada com radiação. Essa radiação parece muita radiação
+ como se devesse ter matado, mas parece bem o suficiente. Parece que é
+ ficando de guarda aqui.}
+
+{110}{}{Bem-vindo à usina de energia atômica. Apenas um aviso para você: se algo der errado enquanto você está
+ dentro, vamos culpá-lo, liso.}
+{111}{}{Olá amigo. Eu tenho que deixar você saber que, se algo der errado, qualquer não-ghouls - como você -
+ serão culpados.}
+{112}{}{Blook?}
+{113}{}{Eu vou tomar cuidado. Estou procurando por algo, e eu me pergunto se você poderia me dirigir.}
+{114}{}{Isso é justo, suponho. Eu vou tomar cuidado. Adeus.}
+
+{120}{}{Você está de volta, hein? Tome uma volta errada?}
+{121}{}{Brugah.}
+{122}{}{Na verdade, eu preciso de instruções para outra coisa.}
+{123}{}{Achei que vi pessoas que vivem aqui. Isso é seguro?}
+{124}{}{Uh, não. Está tudo bem. Estou apenas olhando. Adeus.}
+
+{130}{}{Oh. Bem, o que você queria ajudar a encontrar? A sala de controle do reator, a sala de abastecimento, o robô
+ sala de controle ou o poço do reator?}
+{131}{}{A sala de controle do reator.}
+{132}{}{A sala de abastecimento.}
+{133}{}{A sala de controle do robô.}
+{134}{}{O poço do reator.}
+{135}{}{Acho que não preciso de instruções depois de tudo. Adeus.}
+
+{140}{}{Eu acho que Jeremy tem uma chave. Os guardas das portas de segurança têm chaves, assim como algumas pessoas
+ que vivem aqui no reator.}
+{141}{}{Interessante. Deixe-me perguntar-lhe outra coisa.}
+{142}{}{Obrigado. Isso era tudo o que eu precisava saber. Adeus.}
+
+{150}{}{O poço do reator está logo atrás da sala de controle e depois da sala de Festus. Mas você está indo para
+ Precisa de uma Chave Vermelha para entrar.}
+{151}{}{Onde está o quarto de controle do reator?}
+{152}{}{Interessante. Deixe-me perguntar-lhe outra coisa.}
+{153}{}{Preciso de um cartão-chave? Como faço para obter um desses?}
+{154}{}{Obrigado. Isso era tudo o que eu precisava saber. Adeus.}
+
+{160}{}{A sala de abastecimento é através da porta à esquerda daquele que você entrou no prédio
+ através. Você precisa conversar com Jeremy lá se quiser obter suprimentos.}
+{161}{}{Obrigado. Eu preciso saber onde outra coisa é, no entanto.}
+{162}{}{Obrigado. Isso era tudo o que eu precisava saber. Adeus.}
+
+{170}{}{Bem, tendemos a gostar do vazamento de radiação de fundo aqui. Os Glowing Ones realmente gostam disso.
+ Nenhum de nós se sentiria muito bem sem isso.}
+{171}{}{Interessante. Deixe-me perguntar-lhe outra coisa.}
+{172}{}{Fuga de fundo?!?!}
+{173}{}{Oh, está bem. Bem, é tudo o que eu precisava saber. Adeus.}
+
+{180}{}{A sala de controle do reator é através da porta à direita da que você entrou no prédio
+ através. Então, através de uma porta no final. Passado a Porta de Segurança Amarela. Então você vai para a direita.
+ No entanto, você precisará de um cartão-chave para a porta de segurança.}
+{181}{}{Interessante. Deixe-me perguntar-lhe outra coisa.}
+{182}{}{Preciso de um cartão-chave? Como faço para obter um desses?}
+{183}{}{Obrigado. Isso era tudo o que eu precisava saber. Adeus.}
+
+{190}{}{Não sei por que você gostaria de ir lá. O robô de manutenção maldito não funcionou em anos.
+ No entanto, está além da sala de controle do reator.}
+{191}{}{Onde está a sala de controle do reator?}
+{192}{}{Interessante. Deixe-me perguntar-lhe outra coisa.}
+{193}{}{Preciso de um cartão-chave? Como faço para obter um desses?}
+{194}{}{Obrigado. Isso era tudo o que eu precisava saber. Adeus.}
+
+{200}{}{Bem, eu não me preocuparia se você planeja ficar aqui por mais do que algumas semanas. O máximo de
+ a radiação que os vazamentos do reator entra na água do refrigerante, e nós a bombamos de volta no subsolo.
+ O pouco que escapa acima do solo é bom para nós, de alguma forma.}
+{201}{}{Oh, bem, isso não soa tão ruim. Deixe-me perguntar-lhe outra coisa.}
+{202}{}{Hmm, acho melhor me mudar. Adeus.}
+
+{300}{}{Certo. O que mais você gostaria de saber?}
+{301}{}{Preciso de direções para outro lugar.}

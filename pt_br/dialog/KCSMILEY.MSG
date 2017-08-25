@@ -1,0 +1,118 @@
+{100}{}{Você vê um truque imundo com roupas rasgadas e manchadas de sangue. Ele parece estar a favor de uma perna
+ levemente.}
+{101}{}{Você vê Smiley, o caçador. Ele está mancando um pouco e parece infeliz.}
+{102}{}{Você vê Smiley, o caçador. Ele parece muito melhor desde que o resgatou das cavernas.}
+{103}{}{Você vê um homem de meia idade vestindo a roupa sangrenta e rasgada de um caçador. Ele não parece
+ muito bem.}
+{104}{}{Você vê Smiley, o caçador. Parece que sua saúde melhorou muito desde que você
+ o resgatou da caverna.}
+
+{110}{}{Olá, estranho. As pessoas me chamam de Smiley. Tenho certeza de prazer em vê-lo. Eu pensei que estava indo
+ para morrer aqui com certeza! Estou ferido muito mal para superar esses malditos lagartos sozinhos.}
+{111}{}{Smiley, heh, heh, heh. Ook.}
+{112}{}{O que você está fazendo aqui?}
+{113}{}{Prazer em conhecê-lo, Smiley. Acho que irei agora.}
+
+{120}{}{Ótimo. Outro Torr. Eu (pontos em si mesmo) precisa de você (apontar para você) para me ajudar a sair daqui
+ (faz mover os movimentos dos movimentos na mão).}
+{121}{}{Ir? Agora? Ook}
+{122}{}{ ir. Bad lizard! Mau!}
+
+{130}{}{Sim! É isso aí. Nós iremos (caminhando dedos novamente) juntos (agarra as mãos juntas). Agora mesmo!}
+{131}{}{Smiley com}
+{132}{}{ agora.}
+{133}{}{Smiley no go with}
+{134}{}{. Não, como Smiley. Adeus.}
+
+{140}{}{Ei! Esperar! Você não pode simplesmente me deixar aqui.}
+{141}{}{Oh, desculpe. O que eu estava pensando?}
+{142}{}{Bem, acho que não.}
+{143}{}{Eu posso e vou. Eu acho que vou fazer exatamente isso. Adeus.}
+
+{150}{}{Eu sempre peguei mais geckos dourados a norte e a oeste de Klamath do que qualquer outro. Entao eu deduzi
+ que todos os geckos dourados viveram em algum lugar aqui.}
+{151}{}{Parece que você estava certo.}
+
+{160}{}{Eu adoraria conversar com você, mas vamos sair daqui agora e conversar mais tarde. OK?}
+{161}{}{Uh, sim. Acho que é uma boa idéia.}
+{162}{}{Apenas uma pergunta, primeiro. O que você conhece dessas cavernas?}
+
+{170}{}{Parece que eu estava um pouco certo demais. Cheguei aqui, ok, mas então um daqueles malditos geckos
+ ficou atrás de mim e maldito perto tirou minha perna. Eu mal consegui chegar aqui.}
+{171}{}{Eu me pergunto por que eles não acabaram com você?}
+
+{180}{}{Bem, acho que eles não gostam de rastejar demais demais. Não posso dizer como culpo-los.
+ Certamente queima se ficar em sua pele. Mas isso não parece impedir que eles lambem as coisas malditas
+ como se fosse o melhor de Buckner.}
+{181}{}{Interessante.}
+
+{190}{}{Bastão de goma. Agora vamos sair daqui. Eu acho que, se eu puder me juntar a você, devemos ambos
+ ser capaz de sair daqui, ok. Eu certamente poderia usar a ajuda.}
+{191}{}{Está bem. Você pode se juntar a mim. Vou ter certeza de você sair daqui e de volta para Klamath. Eu acho que Ardin
+ ficará feliz em vê-lo novamente.}
+{192}{}{Bem ok. Mas eu não quero que você se queixa por ajuda o tempo todo.}
+
+{200}{}{Estas cavernas parecem uma área de armazenamento antes da guerra. Eu acho que deve haver mais abaixo de nós, mas
+ Há algum tipo de bloqueio teck-no-logical elegante na porta. De qualquer forma, eu já tive o suficiente. Vamos sair de
+ Aqui.}
+{201}{}{ESTÁ BEM.}
+
+{210}{}{Whew. Eu acho que acabei de usar algumas vidas naquela época. Por que você não vem para o
+ Buckner coloque um pouco mais tarde, e eu me certificarei de ter uma boa recompensa por salvar-me.}
+{211}{}{Obrigado, Smiley. Fiquei feliz em fazê-lo. Adeus.}
+{212}{}{OK tanto faz. Adeus.}
+{213}{}{Sobre o tempo que você mencionou uma recompensa. É melhor ser um bom. Adeus.}
+
+{220}{}{Bem, se não é meu amigo idjit. Agradeço uma pilha. Adeus para você.}
+{221}{}{Olá, amigo. Obrigado novamente por me tirar desse ponto apertado. Qualquer coisa que eu possa ajudá-lo
+ com?}
+{222}{}{Mais alguma coisa, amigo?}
+{223}{}{Bem, eu tive algumas perguntas sobre caçar geckos.}
+{224}{}{Eu tenho todo tipo de perguntas sobre essa área.}
+{225}{}{A Sra. Buckner está feliz em vê-lo de volta?}
+{226}{}{Não, acho que só queria dizer olá. Fale com você mais tarde, Smiley. Adeus.}
+
+{230}{}{Eu certamente te devo por salvar meu esconderijo. Pelo menos eu posso fazer é ensinar-lhe algo em troca.}
+{231}{}{Ensinar?}
+{232}{}{Obrigado Smiley. Gostaria de apreciar todas as dicas que você poderia me dar.}
+
+{240}{}{Uma vez que aqueles geckos quase tinham minha pele, deixe-me ensinar-lhe como conseguir a sua. Veja como você os ama. (Risonho
+ demonstra) ... e quando você os mata, você pode pegar suas peles e as vender. ok?}
+{241}{}{Urk. Bonito, heh, heh, heh. Vender. Heh, heh, heh. Tchau.}
+{242}{}{Obrigado, tenho certeza de que isso será útil. Diga-me outra coisa.}
+{243}{}{Obrigado por me mostrar como fazer isso, Smiley. Eu acho que vou praticar alguns geckos. Adeus.}
+
+{250}{}{I think you know enough about geckos agora. }
+{251}{}{Heh heh. Eu acho que talvez você possa me ensinar algo sobre geckos. Eu não acho que posso te ajudar
+ com isso.}
+{252}{}{Bem, acho que sei mais sobre geckos do que ninguém vivo. Eu fui criado em leite gecko, você sabe.
+ Mas demorará algumas horas.}
+{253}{}{Quero saber tudo o que você pode me ensinar sobre geckos.}
+{254}{}{I guess I don’t need to know about that right agora. Tell me something else though.}
+{255}{}{Leite de gecko? Eu pensei que os geckos eram répteis.}
+
+{260}{}{Há mais que você precisa saber do que você mesmo sabe que precisa.}
+{261}{}{Ensina-me, ó grande caçador.}
+{262}{}{Uh, sim. Continue. Estou ouvindo.}
+{263}{}{Bem, tudo bem. Gire seus contos altos. Eu vou escutar.}
+{264}{}{Talvez eu não precise saber sobre isso. Adeus.}
+
+{270}{}{Bem, você vê isso assim - geckos dourados e geckos regulares são basicamente o mesmo bicho
+ exceto que os dourados obtiveram uma grande segunda ajuda de pura compaixão ... (o tempo passa enquanto você aprende a sabedoria
+ do Gecko)}
+{271}{}{That was great. I think I know a lot more about geckos agora. Thanks. Goodbye.}
+
+{280}{}{Maida Buckner, a filha da viúva Buckner, é a única a conversar com todos os tipos de fofocas da cidade.}
+{281}{}{Deixe-me perguntar-lhe outra coisa, então.}
+{282}{}{Oh, eu vejo. Obrigado. Adeus.}
+
+{290}{}{Widow Buckner está tão feliz por me ter devolvido que ela pode ser a Sra. Smiley antes de muito tempo. Ela
+ estava mesmo falando sobre lhe dar um pouco para encontrar minha bunda peluda e devolvê-la a ela.}
+{291}{}{Estou feliz por vocês dois. Deixe-me perguntar-lhe outra coisa.}
+{292}{}{Isso é ótimo. Eu vou ter que falar com ela. Adeus.}
+
+{300}{}{Ei, obrigado por salvar meu culpa triste. Eu melhor volto para Klamath. Vejo você lá.}
+{310}{}{Não se preocupe comigo. Eu posso fazer isso de volta por aqui sozinho.}
+
+{320}{}{Você ganha}
+{330}{}{exp. pontos para resgatar Smiley.}

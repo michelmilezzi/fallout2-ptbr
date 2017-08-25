@@ -1,0 +1,64 @@
+{100}{}{Você vê um homem forte em roupas de trabalho. Ele mantém os olhos firmemente fixados no chão.}
+{101}{}{Você vê um escravo do Vault City.}
+{102}{}{Você vê um homem forte em roupas de trabalho. Ele mantém os olhos firmemente fixados no chão.}
+{103}{}{Você vê uma mulher de aparência saudável com roupas de trabalho. Ela mantém os olhos firmemente consertados
+ o chão.}
+{104}{}{Você vê um escravo do Vault City.}
+{105}{}{Você vê uma mulher de aparência saudável com roupas de trabalho. Ela mantém os olhos firmemente consertados
+ o chão.}
+{106}{}{Ouvi falar de seus atos corajosos. Você fez um ótimo serviço para o Vault City ... e o mundo.}
+{107}{}{Sua batalha contra o Enclave impressionou até o Primeiro Cidadão.}
+{108}{}{Eu queria poder de alguma forma dar-lhe algo para tudo o que você fez para nós, mas não tenho nada para
+ Dê ... exceto meus agradecimentos.}
+{109}{}{Os outros servos terão inveja que eu estava falando com o herói dos Resíduos.}
+{110}{}{Sim, capitão?}
+{111}{}{Capitão?}
+{112}{}{Is there something you wanted me to do, Capitão?}
+{113}{}{Did you have a task for me, Capitão?}
+{114}{}{Me desculpe, capitão. Vou tentar trabalhar mais.}
+{115}{}{Me desculpe, capitão. Vou tentar estar mais atento.}
+{116}{}{Sim, cidadão?}
+{117}{}{Cidadão?}
+{118}{}{Is there something you wanted me to do, Cidadão?}
+{119}{}{Did you have a task for me, Cidadão?}
+{120}{}{Me desculpe, cidadão. Vou tentar trabalhar mais.}
+{121}{}{Me desculpe, cidadão. Vou tentar estar mais atento.}
+{122}{}{Os mutantes não são permitidos dentro da cidade!}
+{123}{}{Se os guardas vêem seu mutante, você será obrigado a sair.}
+{124}{}{Os mutantes não são permitidos dentro da cidade! Tens de sair!}
+{125}{}{Ghouls não são permitidos dentro da cidade!}
+{126}{}{Se os guardas vêem seu ghoul, você será obrigado a sair.}
+{127}{}{Ghouls não são permitidos dentro da cidade! Tens de sair!}
+{128}{}{Sim, já sou de propriedade. O Centro de Alocação de Serventes tem meus documentos.}
+{129}{}{Por favor, deixe-me estar. Eu sou um servo de Vault City.}
+{130}{}{Peço-lhe: você viu dois filhos, cabelos escuros ...? Eles foram levados por outros escravos dois anos
+ Atrás e vendido no norte.}
+{131}{}{Por favor ... Não tenho permissão para falar com ninguém.}
+{132}{}{Se um cidadão me pega conversando com um escravo, eu vou ser punido.}
+{133}{}{Os guardas me informarão se você continuar a falar comigo.}
+{134}{}{Eu não posso falar com você. Eu tenho deveres.}
+{135}{}{Vá embora, escravidão. Não quero problemas.}
+{136}{}{Escapar? Eu ... nunca tentei fugir daqui. A vida é boa aqui.}
+{137}{}{Os Cidadãos me disseram que se eu trabalhar duro o suficiente, um dia * eu * poderia me tornar um cidadão.}
+{138}{}{Os Cidadãos nos ensinam que o trabalho é sua própria recompensa.}
+{139}{}{Os Cidadãos nos dizem que nosso serviço lhes permite tempo para assuntos mais importantes.}
+{140}{}{Tive a sorte de que Vault City precisasse de servos. Eu poderia ter acabado em New Reno.}
+{141}{}{Vault City recompensa os criados que trabalham diligentemente com rações extras.}
+{142}{}{Ouvi dizer que eles fazem coisas horríveis aos escravos em New Reno.}
+{143}{}{Os Cidadãos trouxeram toda a minha tribo dentro da Cidade para servir como servos.}
+{144}{}{Os Cidadãos me levaram para fora dos resíduos e me ensinaram a ler.}
+{145}{}{Os cidadãos me tratam muito bem. A comida aqui é excelente.}
+{146}{}{Não tenho permissão para falar com Estranhos.}
+{147}{}{Perdi minha família no início, mas faz muitos anos que os vi.}
+{148}{}{Eu fui tirado de uma aldeia tribal ao norte daqui. A vida é muito melhor aqui.}
+{149}{}{Fui capturado pela primeira vez no Den. Felizmente, acabei aqui.}
+{150}{}{Eu ouço o primeiro cidadão ocasionalmente perder o temperamento com seus criados.}
+{151}{}{Eu não posso falar com você. Tenho trabalho a fazer.}
+{152}{}{Devo terminar meus deveres dentro de uma hora.}
+{153}{}{Falar para Outsiders é contra as regras.}
+{154}{}{Escapar? Por quê?}
+{155}{}{Sim? Posso ajudar?}
+{156}{}{Eu fui capturado por escravos há muito tempo. Apenas lembro disso.}
+{157}{}{Eu costumava ter dois filhos, mas eles foram enviados para o norte. Espero que eles façam o seu caminho aqui
+ algum dia.}
+{158}{}{Me desculpe, mas não tenho tempo para conversar.}

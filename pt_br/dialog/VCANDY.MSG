@@ -1,0 +1,250 @@
+{100}{}{Você vê um homem de aparência desalinhada com uma camisa marrom suja. Seus braços estão cobertos com uma erupção vermelha brilhante, que ele arranha com freqüência.}
+{101}{}{Você vê "Doctor" Andrew.}
+{102}{}{Você vê um homem de aparência desalinhada com uma camisa marrom suja. Seus braços estão cobertos com uma erupção vermelha brilhante, que ele arranha com freqüência.}
+{103}{}{Parece que você viu alguma luta, amigo.}
+{104}{}{Whoa ... parece que você viu alguma ação séria, amigo.}
+{105}{}{Whoa ... parece que você esteve em uma luta pesada, amigo.}
+{106}{}{Piedosos...! Você está sangrando por todo o chão!}
+{107}{}{Você está aqui para ser remendado?}
+{108}{}{Patssshh.}
+{109}{}{Nup.}
+{110}{}{Sim, eu poderia usar alguma atenção médica.}
+{111}{}{Eu preciso de um crescimento removido. Meu sexto dedo do pé.}
+{112}{}{Na verdade, meu amigo aqui poderia usar alguma atenção médica.}
+{113}{}{Na verdade, meus amigos aqui podem usar alguma atenção médica.}
+{114}{}{O que é este lugar?}
+{115}{}{Uh, o que é esse lugar de novo?}
+{116}{}{Eu encontrei alguns esquemas de implantes de combate na base de dados médica da cidade de Vault. Você poderia executar a operação?}
+{117}{}{Não agora. Parece pior do que é.}
+{118}{}{Não, eu estou bem. Apenas parando.}
+{119}{}{Tudo bem ... da aparência, vai custar}
+{120}{}{ dinheiro. Você conseguiu o dinheiro, então você é bom para ir.}
+{121}{}{Nenhuma garantia com o ol Doc na sala dos fundos, é claro ...}
+{122}{}{Patshhh? Patshh! Tome moneee, fixx vazamentos.}
+{123}{}{Tchau tchau.}
+{124}{}{Not nuff moneee. Tchau tchau.}
+{125}{}{Tudo certo.}
+{126}{}{Isso é bastante íngreme. E se}
+{127}{}{?}
+{128}{}{Deixa pra lá. Que tal, em vez disso, meu amigo?}
+{129}{}{Deixa pra lá. E os meus amigos?}
+{130}{}{O que é este lugar?}
+{131}{}{Eu encontrei alguns esquemas de implantes de combate na base de dados médica da cidade de Vault. Você poderia executar a operação?}
+{132}{}{Eu não tenho o suficiente. Volto quando tiver mais dinheiro.}
+{133}{}{Não, obrigado. Talvez outra hora.}
+{134}{}{Bem ... tudo bem. Isso parece justo.}
+{135}{}{Vamos lá, então. Eu vou ligar você ao médico ol aqui ... deslize seus braços para as ranhuras lá, e vou apertar as chaves e segurar as braçadeiras ...}
+{136}{}{Desvanece-se por 3 segundos}
+{137}{}{Tudo certo! Sabia que o doutor não me decepcionaria.}
+{138}{}{Eu quero montar agin! Contra!}
+{139}{}{Buyhye.}
+{140}{}{Você pode curar meu amigo aqui?}
+{141}{}{Você pode curar meus amigos aqui?}
+{142}{}{O que é este lugar?}
+{143}{}{Eu encontrei alguns esquemas de implantes de combate na base de dados médica da cidade de Vault. Você poderia executar a operação?}
+{144}{}{Sinto-me muito melhor, obrigado.}
+{145}{}{Bem, agora, talvez não seja a coisa mais segura para você, amigo. Parece que você já fez algumas viagens no ol 'Doctor da maneira como você fala. Mas se você quiser ...}
+{146}{}{Desvanece-se por 3 segundos}
+{147}{}{Uh ... como você se sente? Melhor? Pior ainda?}
+{148}{}{Contra! Contra! Contra!}
+{149}{}{Eu me sinto como maxxx hup puints incrise, então eu bem por agora. Buhyyee.}
+{150}{}{Uh, bem, eu avisei você ...}
+{151}{}{Desvanece-se por 3 segundos}
+{152}{}{Uh-oh. Parece que o ol 'Doctor pegou uma libra de carne desta vez.}
+{153}{}{Urrrhkkk ... eu machuquei ... insighde ... eu nunca quero ta andar em uma agina fina e má ...}
+{154}{}{Bem, agora eu não sou um mecânico, então não posso ajudar esse cérebro que você conseguiu com você. Desculpa amigo.}
+{155}{}{Você pode me curar?}
+{156}{}{Entendo. Digamos que eu fiz algumas perguntas que queria lhe perguntar ...}
+{157}{}{Ah bem. Obrigado mesmo assim.}
+{158}{}{Tudo bem ... da aparência, vai custar}
+{159}{}{ dinheiro. Você conseguiu o dinheiro, então você é bom para ir.}
+{160}{}{Nenhuma garantia com o ol 'Doctor na sala dos fundos, é claro. . .}
+{161}{}{Tudo certo.}
+{162}{}{Isso é bastante íngreme. E se}
+{163}{}{?}
+{164}{}{Deixa pra lá. Que tal eu?}
+{165}{}{O que é este lugar?}
+{166}{}{Eu encontrei alguns esquemas de implantes de combate na base de dados médica da cidade de Vault. Você poderia executar a operação?}
+{167}{}{Eu não tenho o suficiente. Volto quando tiver mais dinheiro.}
+{168}{}{Eu mudei de ideia. Talvez outra hora.}
+{169}{}{Bem, agora ... diga o que.}
+{170}{}{ Bucks para todo o seu lote, e nós vamos chamar isso mesmo. O que você disse?}
+{171}{}{Tudo certo.}
+{172}{}{Eu não sei. Isso é um pouco íngreme. E se}
+{173}{}{ dinheiro?}
+{174}{}{Você pode me curar em vez disso?}
+{175}{}{O que é este lugar?}
+{176}{}{Eu encontrei alguns esquemas de implantes de combate na base de dados médica da cidade de Vault. Você poderia executar a operação?}
+{177}{}{Eu não tenho o suficiente. Volto quando tiver mais dinheiro.}
+{178}{}{Eu mudei de ideia. Talvez outra hora.}
+{179}{}{Bem ... tudo bem. Isso parece justo.}
+{180}{}{Vamos lá, então. Eu vou ligar o ol 'Doctor aqui ... faça-os se deitarem, e aperto os aparelhos e segura as braçadeiras ...}
+{181}{}{Desvanece-se por 3 segundos}
+{182}{}{Lá, tudo costurado! Sabia que o doutor ainda tinha alguma vida em mim.}
+{183}{}{Obrigado. Digamos, havia outra coisa que eu precisava ...}
+{184}{}{Muito apreciado. Podemos estar de volta.}
+{185}{}{Esta é a loja de corpo comum da Vault City. Eu e o 'ol' Doctor no back patch para quem precisa de alguma atenção.}
+{186}{}{"Ol 'Doctor?"}
+{187}{}{Entendo. Diga, eu tive algumas outras perguntas para você ...}
+{188}{}{Hmmm. Talvez eu esteja de volta quando eu precisar de seus serviços.}
+{189}{}{Sim, o "Auto-Doutor" na sala dos fundos lá. É um empréstimo da cidade.}
+{190}{}{Pode ser um pequeno ornery às vezes, mas principalmente ele faz o seu trabalho. Na maioria das vezes.}
+{191}{}{Foi correndo muito mais suave ultimamente, o que é bom. Corta os visitantes repetidos.}
+{192}{}{Sim, substituí alguns dos cabos e limpei o interior. Não deve dar mais problemas.}
+{193}{}{Entendo. Diga, eu tive algumas outras perguntas para você ...}
+{194}{}{Ornery, hein? Talvez eu vá dar uma olhada nisso ...}
+{195}{}{Bom ouvir isso. Fale com você mais tarde, Andrew.}
+{196}{}{Eh ... bem ... muito obrigado. Isso foi decente para se voluntariar para corrigi-lo assim.}
+{197}{}{Ah, não era um trabalho voluntário. Espero um pouco de dinheiro para os meus serviços.}
+{198}{}{Alguma chance de conseguir algum tipo de desconto?}
+{199}{}{Sem problemas. Feliz em ajudar.}
+{200}{}{De jeito nenhum! Eu não pedi que você consertasse, então você não pegou Jack. Eu não empurraria sua sorte, enquanto os guardas estiverem ao alcance do ouvido.}
+{201}{}{Continue. Chame-os. Eles não chegarão a tempo de salvar sua bunda.}
+{202}{}{Bem então. Seja bem-vindo.}
+{203}{}{Então ... havia algo mais com o qual eu poderia ajudá-lo?}
+{204}{}{Com o que posso ajudar?}
+{205}{}{Eu poderia usar alguma atenção médica.}
+{206}{}{Eu preciso de um crescimento removido. Meu sexto dedo do pé.}
+{207}{}{Meu amigo aqui poderia usar algum atendimento médico.}
+{208}{}{Meus amigos aqui podem usar alguma atenção médica.}
+{209}{}{O que é este lugar?}
+{210}{}{O que é esse lugar de novo?}
+{211}{}{Eu encontrei alguns esquemas de implantes de combate na base de dados médica da cidade de Vault. Você poderia executar a operação?}
+{212}{}{Nada mais hoje, na verdade.}
+{213}{}{Combater implantes? O que você quer dizer?}
+{214}{}{Bem, de acordo com os esquemas que vi, você pode enxertar placas dérmicas e dissipadores térmicos para o esqueleto de uma pessoa usando o seguinte procedimento ...}
+{215}{}{Hã. Bem, suponho que, com a ajuda do médico, eu poderia fazer essa operação. Claro, eu precisaria de alguns pratos de impacto e dissipadores primeiro ... pode ser capaz de tirar alguns de um terno de armadura de combate, se você puder encontrar um.}
+{216}{}{Você pode me dar informações sobre alguns dos implantes?}
+{217}{}{I've got a suit of combat armor right here. Você pode me dar informações sobre alguns dos implantes?}
+{218}{}{Hmmm. Tudo bem então. Diga, eu precisava de algo mais ...}
+{219}{}{Obrigado. Posso estar de volta.}
+{220}{}{Heh! Você é sério então, eu vejo. Bem, agora, este é um empreendimento arriscado. Os Cidadãos descobrem que estou usando o ol 'Doctor para isso, e' eles vão retomá-lo.}
+{221}{}{Entendo. Quanto para os implantes?}
+{222}{}{Deixa pra lá então. Eu ainda precisava de outra coisa.}
+{223}{}{Esqueça, então. Talvez outra hora.}
+{224}{}{Depende do que você quiser. Você quer baixo impacto, alto impacto, baixa temperatura ou alta temperatura? Cada um tem seu preço.}
+{225}{}{Qual? Baixo impacto, alto impacto, baixa temperatura ou alta temperatura?}
+{226}{}{Baixo impacto.}
+{227}{}{Alto impacto.}
+{228}{}{Baixa térmica.}
+{229}{}{Alta térmica.}
+{230}{}{Deixa pra lá. Tive algumas outras questões ...}
+{231}{}{Esqueça. Eu tenho que ir.}
+{232}{}{A Armadura de Impacto Dermal Padrão tira o golpe da maioria das explosões, socos, pontapés, coisas assim. Digamos, 5%. Preciso retirar algumas armaduras de combate para os pratos, e levará dois dias para fazer os enxertos. 7K deve cobri-lo.}
+{233}{}{Parece bom. Aqui está a Armadura de Combate e o dinheiro.}
+{234}{}{7000? Uh, 5000 dólares é tudo o que tenho.}
+{235}{}{Hmmm. Conte-me sobre os outros implantes.}
+{236}{}{Deixa pra lá. Tive algumas outras questões ...}
+{237}{}{Voltarei quando tiver mais dinheiro.}
+{238}{}{Voltarei quando eu tiver um conjunto de Combat Armor.}
+{239}{}{Entendo. Talvez outra hora.}
+{240}{}{Bem, tecnicamente, o "alto impacto" é a Armadura de Impacto Dermal padrão com placas de impacto adicionais de impacto de assalto abarrotadas sob sua pele.}
+{241}{}{Então você vai precisar primeiro do enxerto dérmico básico.}
+{242}{}{Ok, o que está envolvido?}
+{243}{}{Conte-me sobre os outros implantes.}
+{244}{}{Deixa pra lá. Tive algumas outras questões.}
+{245}{}{Entendo. Talvez outra hora.}
+{246}{}{Bem, vou precisar de outro conjunto de armaduras de combate para obter as placas de assalto extra. O bom é que os pratos duplicam a força dos enxertos originais, então eles absorverão 10% do chute. Exceto...}
+{247}{}{Sim?}
+{248}{}{Conte-me sobre os outros implantes.}
+{249}{}{Deixa pra lá. Tive algumas outras questões.}
+{250}{}{Entendo. Talvez outra hora.}
+{251}{}{Vai demorar um pouco, pelo menos alguns dias, assumindo que o ol 'Doctor não bagunça. Um 'é caro. 40K, como eu vejo. Além disso ... bem, não vai ajudar sua aparência nenhuma.}
+{252}{}{Quanto dói a minha aparência?}
+{253}{}{Conte-me sobre os outros implantes.}
+{254}{}{Deixa pra lá. Tive algumas outras questões.}
+{255}{}{Entendo. Talvez outra hora.}
+{256}{}{Todas as curvas que você obteve vão se tornar ângulos retos, perto do que eu posso dizer.}
+{257}{}{Você ficará sempre impressionado quando terminar.}
+{258}{}{Tirar todas essas placas em seu corpo significa que o seu carisma vai dar um golpe. Você ainda é o jogo?}
+{259}{}{Oh, o que diabos. Aqui está o dinheiro e a armadura de combate.}
+{260}{}{Eu não sei. 40K é bastante íngreme. Tenho $ 30,000 em mim, no entanto.}
+{261}{}{Conte-me sobre os outros implantes.}
+{262}{}{Deixa pra lá. Tive algumas outras questões.}
+{263}{}{Voltarei quando tiver mais dinheiro.}
+{264}{}{Eu voltarei quando eu tiver um terno de Combat Armor.}
+{265}{}{Entendo. Talvez outra hora.}
+{266}{}{O Phoneix Impants toma a mordida fora do fogo, lasers e queimaduras de plasma ... cerca de 5%. Preciso retirar algumas armaduras de combate para as membranas térmicas, e levará dois dias para a operação. 10K deve cobri-lo.}
+{267}{}{Parece bom. Aqui está a armadura e o dinheiro.}
+{268}{}{$ 10.000 um pouco fora da minha liga. Como cerca de US $ 8000?}
+{269}{}{Conte-me sobre os outros implantes.}
+{270}{}{Deixa pra lá. Tive algumas outras questões.}
+{271}{}{Voltarei quando tiver mais dinheiro.}
+{272}{}{Eu voltarei quando eu tiver um terno de armadura de combate.}
+{273}{}{Entendo. Talvez outra hora.}
+{274}{}{Bem, tecnicamente, "alta térmica" é a Phoenix Armor padrão com alguns dissipadores térmicos em camadas sobre as membranas.}
+{275}{}{Então você vai precisar primeiro do enxerto básico de implante de Phoenix.}
+{276}{}{Ok, o que está envolvido?}
+{277}{}{Conte-me sobre os outros implantes.}
+{278}{}{Deixa pra lá. Tive algumas outras questões.}
+{279}{}{Entendo. Talvez outra hora.}
+{280}{}{Bem, vou precisar de dissipadores térmicos de outro conjunto de armaduras de combate. O bom é que os dissipadores dupliquem a resistência térmica, absorvendo 10% da mordida. Mas...}
+{281}{}{Sim?}
+{282}{}{Conte-me sobre os outros implantes.}
+{283}{}{Deixa pra lá. Tive algumas outras questões.}
+{284}{}{Entendo. Talvez outra hora.}
+{285}{}{Vai fazer sua pele blister. Mau. Você ficará muito parecido com aquele material de embalagem antes da guerra, então não espere ter muitas datas depois disso. E vai custar-te. 50K. Na frente.}
+{286}{}{Que diabos. Aqui está o dinheiro ... e outro conjunto de armaduras de combate.}
+{287}{}{40,000 e é um acordo.}
+{288}{}{Conte-me sobre os outros implantes.}
+{289}{}{Deixa pra lá. Tive algumas outras questões.}
+{290}{}{Voltarei quando tiver mais dinheiro.}
+{291}{}{Eu voltarei quando eu tiver outro conjunto de armaduras de combate.}
+{292}{}{Entendo. Talvez outra hora.}
+{293}{}{Bem ... isso parece justo.}
+{294}{}{Tudo bem, deixe-me apenas atolá-lo no ol 'Doctor aqui ... espero que o reservatório de anestesia não esteja entupido novamente ... talvez você mude melhor neste pedaço de brahmin hide, por favor.}
+{295}{}{Uh ... ok. Quero dizer, o Auto-Doc tem tempos de manutenção programados regularmente, certo? Heh heh. Quão ruim poderia ser?}
+{296}{}{Você sabe o que? Esqueça. Eu não quero correr o risco de que o "ol 'Doctor's" não corresponda a isso.}
+{297}{}{Aieeeeeeeeeee!}
+{298}{}{Aguarde 2 segundos.}
+{299}{}{Uh-oh.}
+{300}{}{O jogador explode na horrível animação da morte.}
+{301}{}{Aguarde 2 segundos.}
+{302}{}{Parece que o ol 'Doctor não estava preparado para isso, afinal ...}
+{303}{}{Aguarde 2 segundos}
+{304}{}{No entanto, botas bonitas sobre este. Talvez eu possa vendê-los ...}
+{305}{}{Goto Death Screen}
+{306}{}{Bem ... isso parece justo.}
+{307}{}{Tudo bem, deixe-me apenas atolá-lo no ol 'Doctor aqui ... espero que o reservatório de anestesia não esteja entupido novamente ... talvez você mude melhor neste pedaço de brahmin hide, por favor.}
+{308}{}{Desvanece-se por 3 segundos}
+{309}{}{Bem, eles estão dentro, eu acho. Uh, sobre o inchaço e a dor, tenho certeza de que ambos são apenas efeitos colaterais temporários. Ah, essa sensação de punção que você sente quando você move seus braços e pernas deve desaparecer em algumas semanas.}
+{310}{}{Você pode me ouvir? Whew. Não pensei que houvesse espaço para esses pratos de impacto, mas consegui arrancar um monte de tecido muscular e cartilagem fora do caminho. Eles estão em um jarro lá, se você quiser uma lembrança.}
+{311}{}{Misericórdia ... foi uma cirurgia de tentativa e erro se eu alguma vez vi isso. Acabei tendo que amputar algumas de suas terminações nervosas ... essa é a sensação de queimação e coceira que você está sentindo agora. Provavelmente desaparecerá em algumas semanas.}
+{312}{}{Espero que o céu você possa me ouvir agora. Olha, quando você recuperar o sentimento em suas extremidades, você sentirá uma sensação de coceira incrível por toda parte. Não arranhe! Se você fizer isso, essas croturas de pus sobre as incisões de drenagem irão estourar e deixar cicatrizes. Dê-lhes algumas semanas para curar, ok?}
+{313}{}{Fanks. Kuh uh astwe yew sum mewr kesstions?}
+{314}{}{Fanks, Adrew. Tchau.}
+{315}{}{Bem ... tudo bem. Isso parece justo.}
+{316}{}{Vamos lá, então. Vou ligar o ol 'Doctor aqui ... deixe-me apertar as chaves e segurar as braçadeiras ...}
+{317}{}{Desvanece-se por 3 segundos}
+{318}{}{Hmmph. Parece que o 'Doctor' está sendo teimoso novamente. Pedaço de lixo ... Ainda assim, fiquei feliz por ter sido capaz de colocar os grampos antes de começar a rotina da cirurgia exploratória. Talvez funcione melhor na próxima vez.}
+{319}{}{Wha...? Eu quero meu dinheiro de volta!}
+{320}{}{Oh, bem, espero que sim. Olha, eu precisava de algo mais ...}
+{321}{}{Sim talvez. Estou indo embora.}
+{322}{}{Desculpe, não há garantias, nenhum reembolso. Você se arrisca. Se você tiver um problema com isso, levante-o com os guardas.}
+{323}{}{Me devolva meu dinheiro agora mesmo, ou eu vou colocá-lo no "ol 'Doctor".}
+{324}{}{Esqueça, então. Eu precisava de algo mais ...}
+{325}{}{Tanto faz. Estou indo embora.}
+{326}{}{Bem, posso tentar. Nenhuma garantia com o ol 'Doctor na sala dos fundos, é claro. Vai custar-te ... e não sabe se a operação vai demorar. Pode voltar a crescer.}
+{327}{}{Eu não ligo. Eu quero isso antes que ele cresça em um novo eu.}
+{328}{}{Deixa pra lá então. Tive algumas outras questões ...}
+{329}{}{Esqueça, então. Talvez eu volte.}
+{330}{}{Hmmmmm. Quinhentos, e chamaremos de acordo. Eu não estou autorizado a realizar amputações com o Auto-Doc, e será meu trabalho se eles descobrirem.}
+{331}{}{Bem. Quinhentos. Agora tire a maldita coisa.}
+{332}{}{Isso é um pouco íngreme. Como cerca de US $ 300?}
+{333}{}{Deixa pra lá então. Tive algumas outras questões ...}
+{334}{}{Esqueça, então. Talvez eu volte.}
+{335}{}{Esqueça. Eu não tenho esse tipo de dinheiro agora. Posso estar de volta.}
+{336}{}{Bem ... tudo bem. Isso parece justo.}
+{337}{}{Vamos lá, então. Eu vou ligar o ol 'Doctor aqui ... faça-os se deitarem, e aperto os aparelhos e segura as braçadeiras ...}
+{338}{}{Desvanece-se por 3 segundos}
+{339}{}{Aquele pequeno amigo seu deveria ter ido agora. Eu espero. É difícil espremer todo esse débito mutado da medula óssea. De qualquer forma, aqui você vai.}
+{340}{}{Ainda bem que tenha cuidado. Digamos, havia outra coisa que eu precisava ...}
+{341}{}{É melhor não crescer de volta desta vez. Quero dizer.}
+{342}{}{Muito apreciado. Posso estar de volta.}
+{343}{}{Você ganhou +2 Max HP.}
+{344}{}{Você ganhou +4 Max HP.}
+{345}{}{Você perdeu -2 Max HP.}
+{346}{}{Uh, bem, ok ... mas eu avisei a última vez que pode não ser seguro.}
+{347}{}{ Bucks para todo o seu lote, e nós vamos chamar isso mesmo. O procedimento não funcionará no seu cérebro de robôs, amigo. O que você disse?}
+{348}{}{Legal! Eu sempre quis me parecer com Kryten! Aqui está o dinheiro e a armadura de combate.}
+{349}{}{Tudo certo.  Here we go.}

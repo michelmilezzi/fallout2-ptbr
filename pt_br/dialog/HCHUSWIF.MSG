@@ -1,0 +1,28 @@
+{100}{}{Você vê um mutante de aparência suja.}
+{101}{}{Ele está vestindo uma camisa de vestido com abotoaduras manchadas de suor com uma camisa amarelada embaixo. Ele parece estar esperando por algo.}
+{102}{}{Você vê um mutante feminino irritado.}
+{103}{}{Ela está usando um avental manchado com um poodle sobre ele. Há curlers rosados   e plásticos em seus cabelos.}
+{104}{}{Onde está minha torta de panela brahmin, mulher ?!}
+{105}{}{Vá fácil na pimenta desta vez, você está com vaca!}
+{106}{}{Onde você estava ontem à noite?!}
+{107}{}{Onde está a minha pata de gato? Você jogou fora de novo, não foi?}
+{108}{}{** Phhhhhhhttttttt **}
+{109}{}{Zaius na mina diz que pode ter algum trabalho para mim no próximo mês.}
+{110}{}{Este lugar é uma bagunça maldita! Quando você vai "começar a limpar", mulher?}
+{111}{}{Você tem uma verdadeira boca inteligente na sua mulher!}
+{112}{}{Eu te amo, woogums.}
+{113}{}{Você quer a parte de trás da minha mão, mulher?}
+
+{140}{}{Corrija sua própria torta de pote, você pedaço de pus louco!}
+{141}{}{... (murmurar) dê-lhe tanta pitada de pimenta quanto eu quero (mumble) ...}
+{142}{}{Esfregando suas gavetas sujas na cidade bem, como de costume!}
+{143}{}{O que você precisa dessa imundície quando você me tem aqui ?!}
+{144}{}{Eu disse para você parar de comer essa iguana-on-a-stick! Abra uma janela! Augh!}
+{145}{}{Boa! Se vai tirar o seu culo de fora da casa, eu sou tudo por isso!}
+{146}{}{Assim que você começar a me mostrar um pouco de merda, seu bastardo!}
+{147}{}{Tem que haver algum cérebro em algum lugar nesta casa!}
+{148}{}{Eu também te amo, sugerplumps.}
+{149}{}{Eu não quero nada relacionado com sua parte traseira!}
+
+{200}{}{O que diabos você quer? Saia da minha casa, do mindinho.}
+{201}{}{Eu juro que, um desses dias, vou acabar e sair. Então, qual é o seu esconderijo preguiçoso?}

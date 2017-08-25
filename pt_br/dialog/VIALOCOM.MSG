@@ -1,0 +1,11 @@
+{100}{}{Um terminal de computador, exibindo vários bits de dados.}
+{101}{}{Você vê um terminal.}
+{102}{}{Um terminal de computador, exibindo vários bits de dados.}
+{103}{}{Você vê o Vault City Allocation Computer.}
+{104}{}{Você vê um terminal.}
+{105}{}{Você vê o Vault City Allocation Computer.}
+{106}{}{Este é o computador que o Pip Boy disse para usar.}
+{107}{}{Nada acontece.}
+{108}{}{Com a ajuda da informação no seu Pip Boy, você acessa o computador.}
+{109}{}{Uau.}
+{110}{}{Você aprendeu TONELADAS de informações sobre Fallout 2.}

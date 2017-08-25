@@ -1,0 +1,133 @@
+{100}{}{Você vê uma mulher corpulenta e de meia idade coberta de pó de pedra.}
+{101}{}{Você vê Marge LeBarge, dono da Mina Kokoweef.}
+{102}{}{Você vê uma mulher forte e durável com um ar de autoridade.}
+{103}{}{Desculpe, não tenho tempo para casos de caridade agora.}
+{104}{}{Volte quando essa ferida da cabeça se curar.}
+{105}{}{Estou surpreso que você possa andar e conversar ao mesmo tempo.}
+{106}{}{Parece que seu cinto não passa por todos os loops.}
+{107}{}{Você é apenas alguns palhaços sem um circo, não é?}
+{108}{}{Você não é exatamente a minha pessoa favorita agora.}
+{109}{}{Ei, obrigado por me pegar esse chip de escavadeira. As coisas realmente estão indo bem para o Kokoweef
+ Meu agora.}
+{110}{}{Vou dar-lhe $ 1000 para esse chip de escavadeira.}
+{111}{}{Tem alguma sorte para obter esse chip de escavação?}
+{112}{}{Sim, bem, desculpe por isso. Mas você não pode agradar todas as pessoas o tempo todo.}
+{113}{}{Sempre feliz em conseguir um emprego que pague bem. Deixe-me perguntar-lhe sobre outra coisa.}
+{114}{}{Como você sabia que eu tinha o chip de escavadeira em mim?}
+{115}{}{Quanto vale a pena para você?}
+{116}{}{Se eu tivesse, você ficaria entre os primeiros a saber.}
+{117}{}{Acho que vou seguir em frente agora. Adeus.}
+{118}{}{Ei, obrigado por romper essa briga. Às vezes, meus mineiros ficam um pouco fora de linha, mas eles são
+ um bom tipo quando eles não são todos Jetted up.}
+{119}{}{Obrigado por colocar esses problemas da Morningstar atrás das grades. É aí que eles pertencem. Como
+ posso ajudar?}
+{120}{}{Não posso acreditar que você colocaria alguns dos meus meninos na prisão. Tenho certeza de que esses malditos matadores da Morningstar
+ começou essa luta. Agora, o que você quer?}
+{121}{}{Eu certamente gostaria que você não tivesse encarcerado meus mineiros assim. Apenas encarcerando aqueles hooligans da Morningstar
+ teria mantido a paz na cidade. O que você quer?}
+{122}{}{Você sabe como bater um bebê com um machado, não é? Ninguém precisava morrer por uma briga de bar.
+ É mesmo o que diabos você quer de mim, afinal?}
+{123}{}{Quem é Você?}
+{124}{}{Queria lhe perguntar sobre algo.}
+{125}{}{Eu estava apenas passando. Eu acho que vou continuar andando. Adeus.}
+{126}{}{Olá. Eu sou Marge. Marge LeBarge, e eu corro essa mina.}
+{127}{}{O que Marge pode fazer?}
+{128}{}{O que você mina aqui?}
+{129}{}{Você já ouviu falar de algo chamado um Kit de Criação do Jardim do Éden?}
+{130}{}{Você é um nativo da Redding?}
+{131}{}{Saiba sobre qualquer trabalho ou qualquer outra coisa acontecendo aqui?}
+{132}{}{Eu só estava olhando um pouco. Adeus.}
+{133}{}{Ouro, é claro. Nós o mina aqui no Kokoweef e, em seguida, envie-o para Vault City, New Reno,
+ e a Nova República da Califórnia.}
+{134}{}{Você o envia por todo o lado?}
+{135}{}{Por que você chamou sua mina Kokoweef?}
+{136}{}{Deixe-me perguntar-lhe outra coisa.}
+{137}{}{Entendo. Obrigado. Isso é tudo o que preciso saber por enquanto. Adeus.}
+{138}{}{Claro que sim. Todo mundo gosta de ouro. Você deve falar com o mestre da caravana, James Hoffy, se você é real
+ curioso sobre isso.}
+{139}{}{Deixe-me perguntar-lhe outra coisa.}
+{140}{}{Obrigado, vou fazer isso. Adeus.}
+{141}{}{Um Kit de Criação do Jardim do Éden, hein? Parece muito impressionante. Se eu tivesse algo assim, você
+ com certeza não me acharia se arrumar na terra para chegar ao fim, agora você faria?}
+{142}{}{I guess not. Deixe-me perguntar-lhe outra coisa.}
+{143}{}{Acabei de pensar em perguntar. Adeus.}
+{144}{}{Heck no. Eu nasci bem no norte. À direita do limite de um lago. Lake LeBarge, foi.}
+{145}{}{I've never heard of that. Deixe-me perguntar-lhe outra coisa.}
+{146}{}{Parece bom. Talvez eu vá caçar esse lugar para baixo. Até logo.}
+{147}{}{Apenas alguns rumores são todos.}
+{148}{}{Bem, sempre há rumores ... mas eu tenho algo que precisa fazer.}
+{149}{}{Eu vou voltar para isso. Permitam-me perguntar-lhe sobre outra coisa em primeiro lugar, no entanto.}
+{150}{}{Conte-me sobre os rumores.}
+{151}{}{O que é isso?}
+{152}{}{Eu aposto que você faz. Desculpe, mas estou muito ocupado agora. Adeus.}
+{153}{}{Tenho uma grande máquina de escavação na minha mina. O problema é que o chip de controle para ele
+ não trabalha mais. Preciso de um novo se eu quiser expandir minhas operações.}
+{154}{}{Isso é interessante, mas como eu encaixo?}
+{155}{}{O Great Wanamingo Mine, ao oeste da cidade, deve ter uma dessas máquinas de escavação.
+ Foi abandonado por um bom tempo, então acho que eles ainda têm um chip de trabalho na sua
+ máquina.}
+{156}{}{Parece muito fácil. Como é que você já não fez isso?}
+{157}{}{Não é tão fácil quanto tudo. Você vê, o Great Wanamingo Mine está assombrado. As pessoas vão lá e
+ eles não voltam. Essa é a grande razão pela qual foi encerrado. Usado para ser um tipo de rolo alto.
+ Ainda não.}
+{158}{}{Então, você quer que eu tire o chip da máquina de escavação desta mina. Qual é o valor para você?}
+{159}{}{Eu lhe darei $ 1.000 por esse chip. McGrew no Morningstar provavelmente daria o mesmo,
+ mas ele é tudo para aqueles malditos bandidos de New Reno. Não suporto aqueles bastardos violentos. Então deixe-me te dar a
+ dinheiro, está bem?}
+{160}{}{Veremos. Uma coisa, porém ... é um bom dinheiro. Que o meu deve ser bastante perigoso.}
+{161}{}{Bem, não é um cakewalk, querido. Mas você se parece com alguém que pode cuidar
+ si mesmos. De qualquer forma, você me traz o chip e você recebe o dinheiro. Interessado?}
+{162}{}{Sim. Estou interessado. Assine-me.}
+{163}{}{Bem, vou pensar sobre isso. Até logo.}
+{164}{}{Ótimo. Quanto mais cedo você voltar aqui com o chip da máquina escavadora, melhor.}
+{165}{}{Verei o que posso fazer. Primeiro, deixe-me perguntar-lhe sobre outra coisa.}
+{166}{}{Ok, vou ver você por aí. Adeus.}
+{167}{}{Bem, sempre há rumores habituais sobre Redding sendo assumido, ou sobre Wanamingos
+ saindo do cemitério de noite. Heck, alguém até disse que viram algum tipo de vôo
+ A máquina avança alguns meses atrás.}
+{168}{}{O que mais você estava curioso?}
+{169}{}{O que você ouviu sobre uma aquisição?}
+{170}{}{O que é um Wanamingo?}
+{171}{}{Uma máquina voadora?}
+{172}{}{Eu acho que as pessoas falam sobre o mesmo tipo de coisas em todos os lugares. Conte-me sobre outra coisa.}
+{173}{}{Eu adoraria ouvir, mas eu tenho que ir. Adeus.}
+{174}{}{Bem, as pessoas sempre falam sobre a Cidade do Vault, assumindo o controle para obter o nosso ouro. Ou uma das famílias em
+ O novo Reno conseguiu que todos fiquem viciados em sua droga para assumir o controle. Ou mesmo a NCR que deseja anexar
+ nos. Eu digo-lhe, a NCR é a nossa melhor aposta - mas eles estão todos fora por nosso ouro. Redding ainda
+ independente até agora.}
+{175}{}{E os outros rumores?}
+{176}{}{Acho que é tudo o que preciso saber por enquanto. Adeus.}
+{177}{}{Um Wanamingo é apenas o bicho único ou mais amável que existe. Alto como dois homens, mais forte do que um touro
+ brahmin, e com ovos de flappin em vez de braços. Também não pode ser ferido com armas. Aparentemente, insiste
+ chamou-os para se vingarem do homem branco pelo que a guerra fez. Eu não coloquei muito estoque disso, no entanto.}
+{178}{}{E os outros rumores?}
+{179}{}{Acho que é tudo o que preciso saber por enquanto. Adeus.}
+{180}{}{Oh sim. Bem, alguns dos meus mineiros estavam voando um pouco - Jetando ao redor, se você pegar
+ minha deriva - um tempo atrás. Eles juraram que eles viram um navio voar passado, indo para o sudoeste.}
+{181}{}{E os outros rumores?}
+{182}{}{Acho que é tudo o que preciso saber por enquanto. Adeus.}
+{183}{}{Bem, Dan e seus garotos da Morningstar favorecem aqueles instigadores de NCR. Eu acho que Redding será
+ parte da Nova República da Califórnia antes de muito tempo.}
+{184}{}{Na verdade não é minha preocupação. Conte-me sobre outra coisa.}
+{185}{}{Ah bem. Adeus.}
+{186}{}{Em uma cidade deste tamanho, todos sabem mais do que querem sobre todos os outros. Então, que tal?}
+{187}{}{Quanto você poderia me dar por isso?}
+{188}{}{US $ 1.000. Aqui e agora. Você quer ou não?}
+{189}{}{OK, vou entender. Aqui está o chip.}
+{190}{}{Eu não acho que eu quero vender agora.}
+{191}{}{Pense que você terá uma oferta melhor? Pense novamente, amigo. Eu não acho que você encontrará uma oferta melhor. Mas
+ Eu acho que é o seu tempo.}
+{192}{}{Tudo bem, eu vou vender para você. Aqui está o chip.}
+{193}{}{Eu acho que ainda gostaria de olhar um pouco mais. Adeus.}
+{194}{}{Você fez a escolha certa. Obrigado. Eu irei direto sobre isso para que possamos colocar essa escavadeira
+ máquina para trabalhar.}
+{195}{}{Ótimo. Ei, deixe-me perguntar-lhe outra coisa primeiro, no entanto.}
+{196}{}{Obrigado pelo dinheiro. Adeus.}
+{197}{}{Sim? Caramba, valeu. Estou me sentindo quente e fofinho por dentro. O que você quer?}
+{198}{}{Quero lhe perguntar sobre algo.}
+{199}{}{Nada. Estou só dando uma olhada. Adeus.}
+{200}{}{Por que não? Na verdade, não sei de onde veio o nome. Eu acho que sempre foi chamado isso.
+ Mesmo antes de chegar aqui. Tem um tipo de som romântico, não é? Ko-ko-weef. Sim, eu ainda
+ Como a forma como isso soa.}
+{201}{}{Uh, sim. OK. Uh, o que você disse que você é meu aqui?}
+{202}{}{Uh hein. Bem, eu vou embora agora. Adeus.}

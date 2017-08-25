@@ -1,0 +1,10 @@
+{100}{}{Você vê um obús tipo SIAD-BG.}
+{101}{}{Embora pareça um pouco dilapidado, você acha que ainda pode disparar. Se ao menos você pudesse encontrar uma concha.}
+{102}{}{O mecanismo de disparo está fundido. Você está olhando agora para um peso de papel de 2 toneladas.}
+
+{200}{}{O assistente já está carregado.}
+{201}{}{Você carrega o shell no howizter.}
+
+{210}{}{Você dispara o howitzer na porta, soprando-o aberto.}
+{211}{}{O obus não tem nada para disparar.}
+{212}{}{Você dispara o howitzer.}

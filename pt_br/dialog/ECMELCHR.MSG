@@ -1,0 +1,32 @@
+{100}{}{Você vê uma besta estranha.}
+{101}{}{Você vê um super mutante que parece um pouco perturbado.}
+{102}{}{Pare!}
+{103}{}{Não se aproxime! Melchior the Magnificent o comando!}
+{104}{}{Eis que eu sou o maior mágico do mundo!}
+{105}{}{Tremam diante do poder do Melchior o Magnífico!}
+{106}{}{Meus animais de estimação se deleitarão em seus ossos!}
+{107}{}{Eu te avisei! Ataque, meus animais de estimação!}
+
+# CREATION COMMENTS
+# DEATH CLAWS
+{1000}{}{SHAHOOEY!}
+{1001}{}{Meus animais de garras cuidam você.}
+{1002}{}{Claw thing attack!}
+
+# FIRE GECKOS
+{1010}{}{ABADABRA!}
+{1011}{}{Melchior faz fogo animais de estimação para queimar humanos.}
+{1012}{}{Burn da HU - MUN!}
+
+# FLOATERS
+{1020}{}{ZIMZOWY!}
+{1021}{}{Jaw pet te rasga!}
+{1022}{}{Chomp ele meu precioso.}
+
+# MOLE RATS
+{1030}{}{KALIMAJIGGER!}
+{1031}{}{Merda! Eu só ganhei ratos gordurosos.}
+{1032}{}{Eu estou sem animais de estimação.}
+
+# OUT
+{1050}{}{Uh Oh. Eu estou fora demais para se mexer.}

@@ -1,0 +1,139 @@
+#############################################################
+#  Message File: KCjenny.msg                                #
+#                                                           #
+#       Body Type:                                          #
+#       Combat AI:                                          #
+#       Weapons: None                                       #
+#       HP:                                                 #
+#       Skills to note:                                     #
+#       Inventory:                                          #
+#  Log:                                                     #
+#                                                           #
+#  Created: January 15, 1998                                #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+{100}{}{Você vê uma jovem atraente, mas cansada, jovem.}
+{101}{}{Você vê Jenny, a assistente de banho.}
+
+#############################################################
+#  The following lines are for the dialog which the NPC     #
+#  says. This will be disorganized because of the Design    #
+#  Tool.                                                    #
+#############################################################
+
+{200}{}{Gee, senhor, isso foi bastante rápido. Você deve ser muito novo neste tipo de coisa. Apenas relaxe um
+ pouco e você vai gostar mais.}
+{201}{}{Obrigado, Jenny; Acho que preciso de mais prática nisso.}
+
+{210}{}{Aquilo foi legal. Parece que você conhece seu caminho em torno de uma mulher melhor do que a maioria dos homens de sua idade.}
+{211}{}{Fico feliz que tenha tido muita diversão como fiz.}
+
+{220}{}{Você realmente tem muito poder de permanência. Isso é bom sobre homens mais jovens. Desejo seguro
+ Havia mais como você na cidade.}
+{221}{}{Com certeza gostei do banho, Jenny. Eu poderia ir um pouco mais se eu não tivesse outras coisas
+ que eu tinha que fazer.}
+
+{230}{}{Bem, isso era diferente. Espero que você volte; Eu acho que gostaria de experimentar algumas idéias
+ da minha próxima vez.}
+{231}{}{É bom estar com alguém que entende o que preciso para uma mudança.}
+
+{240}{}{Isso foi divertido. Você poderia ser um nocaute real se nós o tivéssemos tirando daqueles insultos tribais. Eu
+ Não importaria ter você ficado por um tempo, irmã. Já considerou uma mudança de carreira?}
+{241}{}{Eu também gostei de mim mesmo. Eu tenho muitas coisas para fazer antes que eu pudesse considerar estabelecer-se apenas
+ ainda. Mas, obrigado mesmo assim.}
+
+{250}{}{Você é diferente do grupo habitual por aqui.}
+{251}{}{Conte-me sobre o que se passa aqui.}
+{252}{}{Não acho que eu queira saber sobre o que acontece aqui.}
+
+{260}{}{Bem, foi bom conversar com você. É melhor me preparar para outro cliente. Adeus.}
+
+{270}{}{Você parece um pouco confuso. Meu nome é Jenny; posso ajudar?}
+{271}{}{Enny? Goo heh heh heh. (sorrir)}
+{272}{}{(inclinação) Hep}
+{273}{}{ perdy Enny}
+{274}{}{Mamãe?}
+
+{280}{}{Hmm, acho que você é melhor sair daqui antes que Big Nose Sally o encontre. Ela não
+ Leve gentilmente para idjits em seu lugar.}
+
+{290}{}{O que você gostaria de saber?}
+{291}{}{Conte-me sobre caçadores.}
+{292}{}{Estou à procura de um comerciante. Conheça algum deles que trate em itens antigos, como nos tempos anteriores?}
+{293}{}{Você sabe como chegar ao Den daqui?}
+{294}{}{Tchau.}
+{295}{}{Jenny, você já ouviu falar de algo chamado GECK?}
+
+{300}{}{Bem, não há muito para contar sobre os caçadores, na verdade. Eles pegam algumas peles gecko ... ou obtêm
+ sortudo com alguns geckos dourados ... e então eles entraram para soprar um pouco de vapor. Rápido e não muito
+ exigente - do jeito que eu os gosto.}
+{301}{}{Acho que é tudo o que preciso saber por enquanto.}
+{302}{}{Interessante; Deixe-me perguntar-lhe sobre outra coisa.}
+
+{310}{}{Você está interessado em comerciantes, hein? Bem, na maior parte simplesmente trabalhei para um comerciante. Vic era o nome dele.
+ Ele sempre teve dinheiro extra para explodir, pelo menos quando ele trabalhou ele fez. Veja, ele se especializou em coisas realmente antigas. Você sabe,
+ coisas técnicas.}
+{311}{}{Bem, obrigado pela informação. Acho que irei agora.}
+{312}{}{Conte-me mais sobre Vic.}
+{313}{}{Deixe-me perguntar-lhe sobre outra coisa.}
+
+{320}{}{Vic era um verdadeiro amor. Ele iria por semanas por vez e depois voltaria com todos
+ tipos anteriores de coisas. Mas ele sempre teve que viajar para o Den para vendê-los. Não há muito pedido para
+ esse tipo de coisa por aqui.}
+{321}{}{Onde está Vic agora?}
+{322}{}{Onde está o Den?}
+{323}{}{Vic já teve alguma coisa que fosse rotulada como 'Vault-Tek'?}
+{324}{}{Diga-me outra coisa.}
+{325}{}{Eu acho que é tudo o que preciso saber.}
+
+{330}{}{O Den é uma colméia de escória e vilão no sudeste de aqui. Acho que cerca de uma semana ou mais? Não faça
+ lembre-se muito claramente. De qualquer forma, é um lugar excitante. Perigoso, mas excitante. Desculpe sair daqui,
+ de certa forma.}
+{331}{}{Deixe-me perguntar-lhe outra coisa.}
+{332}{}{Acho que vou sair agora, obrigado.}
+
+{340}{}{Eu não sei exatamente onde é Vic. Eu sei que ele tem uma casa na nossa rua, para o
+ leste. Ele poderia estar negociando com tribos ou mesmo no Den, por tudo que eu conheço. Espero que esteja bem. Ele era
+ chegando a ser mais do que apenas um cliente constante para mim.}
+{341}{}{Espero que esteja bem, por sua causa. Deixe-me fazer-lhe outra pergunta.}
+{342}{}{Espero que ele volte para você. Acho que irei agora. Adeus.}
+
+{350}{}{Olá, senhor. Meu nome é Jenny. À procura de um bom esfregaço?}
+{351}{}{Uh, não, obrigado; Eu estava apenas olhando ao redor.}
+{352}{}{Na verdade, eu poderia usar um pouco de esfregar (cutucar, cutucar, piscar, piscar).}
+{353}{}{Bem, na verdade, eu só tinha algumas perguntas que queria perguntar se você não se importasse.}
+{354}{}{Estou à procura de informações sobre um comerciante de material anterior.}
+
+{360}{}{Olá, senhorita. Meu nome é Jenny. Posso ajudar?}
+{361}{}{Uh, não; Eu só queria ver o que estava aqui. Mas acho melhor ir.}
+{362}{}{Na verdade, eu poderia pegar algumas dicas de beleza pessoal de uma bela como você.}
+{363}{}{Eu só tinha algumas perguntas que eu queria lhe perguntar.}
+{364}{}{Estou à procura de informações sobre um determinado comerciante de coisas anteriores.}
+
+{370}{}{Bem, então, é melhor falar com Big Nose Sally. Ela faz todos os arranjos comerciais para nós
+ e ela não aceita gentilmente qualquer trabalho freelance.}
+
+{380}{}{Olá, coisas fofas. Meu nome é Jenny. Você está procurando trabalho aqui? Se você se mudar tão bem quanto você
+ Olha, você poderia realmente ganhar algum dinheiro aqui.}
+{381}{}{Eu realmente não estou interessado em um trabalho aqui.}
+{382}{}{Mmm, eu adoraria mostrar-lhe, pessoalmente, o quão bom eu posso mover.}
+{383}{}{Obrigado, mas acho que só preciso fazer algumas perguntas.}
+{384}{}{Estou à procura de informações sobre um comerciante. Ele lida com as coisas anteriores.}
+
+{390}{}{Vault-tek? Ele pode ter tido algo assim. Não tenho certeza. Eu sei que ele teve um monte de
+ coisas realmente antigas.}
+{391}{}{Thanks, Jenny. Deixe-me perguntar-lhe outra coisa.}
+{392}{}{Bem, acho que é tudo que preciso por enquanto.}
+
+{400}{}{Um Geck? O que é isso? Algum tipo de gecko pequeno, eu acho. Desculpe, não sei o que mais
+ seria.}
+{401}{}{Thanks, Jenny. Deixe-me perguntar-lhe outra coisa.}
+{402}{}{Bem, acho que é tudo o que preciso por enquanto.}
+
+{500}{}{[Jenny taço você] Por favor, não me agrada assim!}

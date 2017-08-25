@@ -1,0 +1,53 @@
+{100}{}{Você vê uma pessoa em uma armadilha.}
+{101}{}{Você vê um cidadão do Enclave.}
+{102}{}{Você vê um cidadão pálido, mas saudável.}
+{103}{}{Poderia também descansar um pouco.}
+{104}{}{Imagina qual é o filme de segurança esta noite?}
+{105}{}{O que você é?}
+{106}{}{O clima sempre é o mesmo aqui.}
+{107}{}{O Projeto está em bom estado.}
+{108}{}{É uma pena sobre o vice-presidente Bird.}
+{109}{}{Minha próxima turnê ainda não é há algumas horas.}
+{110}{}{Deus abençoe a America.}
+{111}{}{O Projeto é a nossa salvação.}
+{112}{}{Tenho certeza de que não estou no continente.}
+{113}{}{Apenas mais uma broca.}
+{114}{}{O que é essa raquete?}
+{115}{}{Esse é o alarme do reator.}
+{116}{}{Uh, oh.}
+{117}{}{Melhor encontrar algum Rad-X, novamente.}
+{118}{}{Essa coisa está sempre quebrando.}
+{119}{}{Sinto-me queimado de sol.}
+{120}{}{Está ficando mais quente aqui?}
+{121}{}{Isso não é bom.}
+{122}{}{Merda, merda, merda.}
+{123}{}{Onde está minha máscara de respiro?}
+{124}{}{Algo cheira engraçado.}
+{125}{}{Não me sinto muito bem.}
+{126}{}{O ar queima minha garganta.}
+{127}{}{Cara, tenho alguma azia desagradável.}
+{128}{}{Meus pulmões estão em chamas.}
+{129}{}{Acho que preciso de um respiro de ar fresco.}
+{130}{}{Está ficando mais escuro aqui?}
+{131}{}{Então, com sono, deve descansar.}
+{132}{}{Acho que vou me sentar um pouco.}
+{133}{}{Outra broca?}
+{134}{}{Achei que ouvi tiros.}
+{135}{}{Ei, quem é você?}
+{136}{}{Pare! Quem vai lá?}
+{137}{}{Fico tão cansado dessas brocas o tempo todo.}
+{138}{}{Sim, como reconhecer um intruso.}
+{139}{}{Não se preocupe com isso.}
+{140}{}{Os soldados vão cuidar de nós.}
+{141}{}{Onde é um soldado quando você precisa de um?}
+{142}{}{Eu só preciso ficar calmo - fique calmo.}
+{143}{}{Nunca vou terminar isso.}
+{144}{}{Eu certamente estaria em outro lugar.}
+{145}{}{Aquele operador do terminal era um pouco fofo.}
+{146}{}{Isso não faz sentido.}
+{147}{}{Eu estou mal pago por isso.}
+{148}{}{Estou fazendo o trabalho de todos os outros.}
+{149}{}{Por que as pessoas não fazem o que deveriam?}
+{150}{}{Basta acertar um terminal se não funcionar - corrige-os sempre.}
+{151}{}{Este jogo de pong é legal. Espero que ninguém me pegue.}
+{152}{}{Preciso de cafeína.}

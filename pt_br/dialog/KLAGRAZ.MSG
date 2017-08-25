@@ -1,0 +1,4 @@
+{100}{}{Você entrou em uma área de pastagem para brahmin.}
+
+{200}{}{Você protegeu com sucesso o brahmin.}
+{202}{}{Você não conseguiu ajudar o Torr a proteger todo o brahmin.}

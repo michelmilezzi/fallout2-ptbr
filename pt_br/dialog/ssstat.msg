@@ -1,0 +1,1 @@
+{100}{}{Há uma placa na base. Lê: "Ao Estranho e Vault 13: O que não existe, devemos às vezes sonhar e deixar nossos sonhos inspirar-nos em alturas maiores. Então foi com o Estranho e sua crença na lenda do Vault 13.}

@@ -1,0 +1,35 @@
+{100}{}{Você vê um cão grande, mangy, buff colorido com um olhar selvagem para ele.}
+{101}{}{Você vê um cão empoeirado, de cor amarelada.}
+
+{110}{}{Grrrrrr. Woof! Woof! Grrrrrr ....}
+{111}{}{Woof, Arf, Arf?}
+{112}{}{(Olhando nos olhos do cachorro) Grrrr! Arrrrrgh! Grrrrrrrr!}
+{113}{}{Hmm, eu aposto que você parece irritado porque quer algo.}
+{114}{}{Você está com fome, não é, garoto? Deixe-me ver se eu tenho uma deliciosa carne seca para
+ Dar-lhe.}
+
+{120}{}{Woof! (O cão pula para a frente com os dentes descobertos - arruma bruscamente da mão estendida - come
+ Balbuciante ruidosamente)}
+{121}{}{Woof! (O mestiço agarra-se feliz da carne seca saborosa, deixando cair uma chave que ele deve ter tido na sua
+ Boca - você pega a chave)}
+{122}{}{Mmm, brusco}
+{123}{}{Ah, pobrezinho, você deve estar com fome. (Patting dog on head)}
+
+{130}{}{Grrr. Woof! Woof!}
+{131}{}{Arf-arf doggy. Heh heh.}
+{132}{}{Tchau, doggy.}
+{133}{}{Desculpe, nenhum doggy trata para você hoje.}
+{134}{}{Shoo! Saia daqui, maldito vira-lata.}
+
+{140}{}{Woof, woof. Woof-woof!}
+{141}{}{Woof, woof? Eru?}
+{142}{}{Bom cachorrinho, bom garoto.}
+{143}{}{Você está com fome, não é, garoto? Aposto que você gostaria de uma deliciosa carne seca, não é?
+ Vamos ver se eu tenho alguns.}
+
+{200}{}{Woof! (Calças, calças, calças - Slurp!)}
+{201}{}{Woof-woof}
+{202}{}{Arf}
+{203}{}{Arf, arf, arf}
+{204}{}{(Olha para você com amor)}
+{205}{}{Woof!}

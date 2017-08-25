@@ -1,0 +1,184 @@
+{100}{}{Você vê um homem de olhos curtos. Apesar de seus cabelos desordenados e barba desalinhada, suas roupas parecem limpas e
+ Bem cuidada.}
+{101}{}{Você vê Thomas Moore.}
+{102}{}{Você vê Thomas Moore. Despite his unkempt hair and scruffy beard, his clothes look clean and
+ well-cared for.}
+{103}{}{Olá e bem-vindo, viajante! Você já ouviu a palavra hoje?}
+{104}{}{Uurmph}
+{105}{}{Ecch}
+{106}{}{Portzebie}
+{107}{}{Shamble off}
+{108}{}{Por que, não ... eu não.}
+{109}{}{E você é...?}
+{110}{}{Uh, não, e eu não quero. Adeus.}
+{111}{}{A palavra, meu amigo ... a palavra é SELFISHNESS. Misturar em um matado
+ De arrogância, e o que você tem? Vault City ... em todos os seus auto-justos,
+ Glória da escravidão.}
+{112}{}{Por que você mora aqui se otestras tanto?}
+{113}{}{Amém, irmão!}
+{114}{}{Eu acho que já ouvi o suficiente. Adeus.}
+{115}{}{Vá vender loucura em outro lugar, amigo ... estamos todos estocados aqui.}
+{116}{}{Sim!}
+{117}{}{É TEMPO ouvir os lamentos dos nossos parentes fora dessas paredes e deixá-los entrar! Temos mais
+ Do que o suficiente para alimentar e proteger nossos irmãos ... não precisamos ser ricos quando MAIS são pobres.}
+{118}{}{Eu te escuto!}
+{119}{}{Por fim, alguém que fala sensato! Por que os outros devem sofrer quando a ajuda está dentro dessas paredes?}
+{120}{}{Já ouvi o suficiente. Adeus.}
+{121}{}{Amigo ... quando te vejo hoje, vejo FORÇA. Entendo
+ FÉ. Meus olhos me enganam? Ou eles vêem uma alma afins que compartilha minha causa?}
+{122}{}{Maldição, certo!}
+{123}{}{Sim!Know that it is TIME... time for this city, built on sin and slavery, to open its gates
+ to everyone! }
+{124}{}{Eu tenho que sair. Boa conversa ... er, ouvindo você.}
+{125}{}{Então deixe-me perguntar-lhe isso, meu amigo -
+ Para que LONGITUDES você vá para espalhar a palavra?}
+{126}{}{Bem, isso depende da quantidade de dinheiro que você tem em você ... "amigo".}
+{127}{}{Sem extensões são muito longas ... sem distância demais, quando a causa é justa e a palavra é verdadeira.
+ Seja o que for necessário, farei isso!}
+{128}{}{Eu não gosto da direção que esta conversa está indo. Dia bom.}
+{129}{}{Mesmo que isso possa significar banimento deste oásis?}
+{130}{}{Este não é oásis, meu irmão. É uma cidade, construída sobre egoísmo e ganância. Precisa ser
+ Salvo de si mesmo ... nessa luz, o banimento é um preço muito elevado? Eu acho que não.}
+{131}{}{Qualquer coisa para libertar o meu companheiro de seus laços!}
+{132}{}{Eu não sei ... o que você está me pedindo para fazer?}
+{133}{}{Hmmm. Bem, já que você disse assim, não, acho que não. Dia bom.}
+{134}{}{(Leans in.) Tenho uma maleta ... com informações vitais para a nossa causa.
+ Você enviará para New Reno para mim? Eu faria isso, mas os Cidadãos aqui estão me observando ...}
+{135}{}{Então, você admite que tem laços com o New Reno, hein? Isso vai te custar ... "amigo".}
+{136}{}{Certo. Me dê isto.}
+{137}{}{Não, obrigado ... isso é um pouco perigoso para mim. Não conte comigo.}
+{138}{}{Aqui é ... entregar
+ Isso para um homem, John Bishop, em New Reno. Pegue com cuidado, meu filho, e leve a palavra com você.}
+{139}{}{Entregue esta pasta a John Bishop? Sem problemas.}
+{140}{}{O meu nome? Eu sou Thomas Moore, pregador da palavra e da verdade. E o que o traz para mim
+ Hoje amigo VOCÊ busca a palavra?}
+{141}{}{A palavra?}
+{142}{}{Não, não hoje, obrigado. Adeus.}
+{143}{}{Mesmo aqueles que parecem os mais inocentes podem enganar um mensageiro da palavra ...
+ Como eu sei que você é um verdadeiro crente?}
+{144}{}{Você será um verdadeiro crente quando eu empurrar meu pé na sua bunda!}
+{145}{}{EU SOU um verdadeiro crente, irmão. Como posso provar minha devoção?}
+{146}{}{Eu sei que esta cidade construiu seus fundamentos sobre o pecado e a escravidão, e que somente os justos
+ Pode corrigi-lo!}
+{147}{}{Sabe, talvez possamos conversar mais tarde.}
+{148}{}{Papagaios ignorantes! Você tem ouvidos, mas você não escuta! Você tem olhos,
+ Mas você é cego! Saia da minha vista, sujo suíno!}
+{149}{}{Sujo ... uh ... sw ... o que? Ninguém fala comigo assim! Espero que você não tenha nenhuma familia que vai perder
+ Você, homem morto ...}
+{150}{}{Ninguém fala comigo assim, e, pelo menos, com um wanna de dois bits, seja um pregador de soapbox. eu acho que
+ É hora de você aprender uma lição, homem morto.}
+{151}{}{Acalme-se. Estou indo embora.}
+{152}{}{Hmmmmmm. É preciso cuidar das serpentes que ecoam as palavras da verdade, ainda assim
+ Abrigue falsidade dentro de seus corações.}
+{153}{}{Amém, irmão! }
+{154}{}{Se não houver confiança entre nós, eu vou sair. Adeus.}
+{155}{}{Uh ... claro. Talvez falemos mais tarde.}
+{156}{}{O que?! Como DARE você me chantageia, você ... você ... (Frowns.) ... você tem toda minha atenção.}
+{157}{}{Vamos discutir o pagamento, devemos?}
+{158}{}{Por que ... onde melhor pregar do que aqueles que precisam ouvir mais?}
+{159}{}{Suponho que você está certo. Quem é Você?}
+{160}{}{Testifique, irmão! Fale a palavra!}
+{161}{}{Exatamente! Esta cidade é construída sobre o pecado e a escravidão e precisa da força dos justos para
+ Defina certo!}
+{162}{}{Uh ... certo. Bem, bom falar com você. Adeus.}
+{163}{}{Aqui ... esta pasta tem meu
+ Números de conta nela. Entregue-o a John Bishop em New Reno, e ele lhe dará acesso ao meu
+ Contas.}
+{164}{}{Esqueça. Estou mudando você de qualquer jeito.}
+{165}{}{Aperte o pagamento, então. Eu não vou para Reno.}
+{166}{}{Ótimo! Mas é melhor que valha a pena o meu tempo.}
+{167}{}{Parece que a natureza já o puniu, escravidão. Talvez um dia você se redimule.}
+{168}{}{Eh ... não é isso. Caminha com cuidado nos resíduos, meu simples
+ amigos.}
+{169}{}{Urf}
+{170}{}{Então, amigo, você reconsiderou?}
+{171}{}{Eu considerei que pode valer muito dinheiro para eu manter seu segredo. Compreendo?}
+{172}{}{Eu vi a luz, irmão ... o que devo fazer?}
+{173}{}{Não, desculpe. Dia bom.}
+{174}{}{Eh? O que você está fazendo aqui? Você não entregou ...}
+{175}{}{... o caso para Bishop? Bem, eu tentei, exceto que ele leia essa pequena nota que você deixou no caso
+ E tentei me matar. Muito engraçado, hein? Espero que esteja pronto para morrer, Moore.}
+{176}{}{Eu fiz, mas voltei para preenchê-lo cheio de buracos, em seguida, cobrir seu corpo com uma fina camada de sujeira.}
+{177}{}{Apenas mantendo você nos dedos dos pés. Tchau.}
+{178}{}{Ah! Bem-vindo novamente, investigador da verdade! Como posso ajudá-lo neste dia?}
+{179}{}{O que você sabe sobre a NCR?}
+{180}{}{Tive uma pergunta: por que Vault City tem escravos? Ouvi dizer que era uma cidade livre.}
+{181}{}{Quero ouvir a palavra, irmão!}
+{182}{}{Esta cidade é construída sobre o pecado e a escravidão e eu vim para corrigi-lo!}
+{183}{}{Nada hoje, obrigado.}
+{184}{}{Eu sei que eles estão se esforçando para reviver a verdade e a justiça, e não iremos levantar
+ Uma mão para ajudar.}
+{185}{}{O que podemos fazer?}
+{186}{}{Isso parece muito à traição.}
+{187}{}{Isso é uma vergonha. Bem, adeus.}
+{188}{}{Nós podemos jogar nossos portões de largura e recebê-los! Eles precisam da nossa ajuda, ainda
+ AINDA nós fechamos os olhos!}
+{189}{}{Um homem! A tecnologia avançada da Vault City deve ser compartilhada, não horded.}
+{190}{}{Hmm ... eu não sei. Nós temos muito bom aqui. Nós realmente precisamos deles? Afinal, eles teriam
+ Derrubar nosso padrão de vida ... contaminar-nos, mesmo.}
+{191}{}{Hmmm. Bem, é algo para pensar. Adeus.}
+{192}{}{Não posso responder a isso, pois uma cidade construída sobre a escravidão nunca pode ser verdadeiramente gratuita.}
+{193}{}{Sim, mas eles podem se enriquecer, hein?}
+{194}{}{Suas palavras ... eles acertam comigo. Talvez libertar os escravos, recebê-los, é melhor
+ Para Vault City.}
+{195}{}{Devemos libertar os escravos e abraçá-los como irmãos!}
+{196}{}{Ah, não me dê essa merda brahmin. Escravidão ... e Vault City ... vai estar por muito tempo.}
+{197}{}{Palavras interessantes. Talvez possamos falar novamente.}
+{198}{}{Vejo que você é comerciante em carne humana. Não tenho NADA para dizer a um
+ Como você mesmo.}
+{199}{}{Uurmph}
+{200}{}{Ecch}
+{201}{}{Portzebie}
+{202}{}{Shamble off}
+{203}{}{Ei, eu só agi como um escravo para obter informações.}
+{204}{}{Bem, eu tinha algo a dizer-lhe: por que Vault City tem escravos? Eu pensei que isso era um
+ Cidade grátis.}
+{205}{}{Ei, mesmo os meios mais baixos justificam um fim nobre.}
+{206}{}{Tudo bem então. Tchau.}
+{207}{}{É bom ver a intolerância viva e bem. Dia bom.}
+{208}{}{O ato é o mesmo que a escritura. Begone, slaver.}
+{209}{}{Mas eu aprendi o erro dos meus caminhos!}
+{210}{}{Isso faz isso. Hora de cortar você aberto e ver o que você é feito ...}
+{211}{}{Tudo bem então.}
+{212}{}{Não tenho nada a dizer a uma disposição tão ruim. Sair.}
+{213}{}{Você quer uma disposição ruim? Eu vou mostrar-lhe disposição ruim ...}
+{214}{}{Eu vi o erro dos meus caminhos. Eu vim me arrepender e ouvir a palavra!}
+{215}{}{Meu coração estava rasgado devido ao pensamento da desumanidade do homem para o homem!}
+{216}{}{Tudo bem então. }
+{217}{}{Olá novamente, companheiro peregrino! Você entregou as informações quando perguntei?}
+{218}{}{Olá novamente, companheiro peregrino! Como posso ajudá-lo neste dia?}
+{219}{}{Vamos cortar a porcaria, "Tomcat". Eu sei tudo sobre você e seus "amigos" na NCR.}
+{220}{}{Por que você trabalharia para a NCR? Achei que você era um homem honrado.}
+{221}{}{Sim ... olha, Bishop disse que você trabalhou para a NCR. Isso é verdade?}
+{222}{}{Sim, eu só queria deixar você saber que eu tinha cuidado.}
+{223}{}{Isso me agrada ouvir que minhas palavras tomaram sementes em seu coração. Talvez nossos caminhos
+ Irá cruzar novamente.}
+{224}{}{Talvez por isso. Mantenha a fé, irmão.}
+{225}{}{Adeus.}
+{226}{}{A NCR está tentando trazer honra e governo a toda a Califórnia,
+ E Vault City tem o poder de fazer acontecer! Pense no bem que podemos fazer com o acesso ao Vault
+ Tecnologia da cidade!}
+{227}{}{Eu não compro. Eu acho que eu deveria transformá-lo - a menos que, é claro, você quer comprar meu silêncio.}
+{228}{}{Mas é a tecnologia da Vault City. Outros não têm direito a isso.}
+{229}{}{Nada de bom vem de mentiras e traições, Moore. Vault City tem mentido para si mesmo
+ Anos ... não desça essa estrada, tudo bem?}
+{230}{}{Hmm. Eu vou ter que pensar sobre isso.}
+{231}{}{Você está certo. Desculpe, eu duvidava de você.}
+{232}{}{Todos os homens têm direito aos frutos do mundo antigo. A tecnologia deve ser compartilhada, não
+ Acumulado.}
+{233}{}{Você não consegue, Moore? Talvez um bom passado à moda assalto golpeie alguns
+ Sentido em você.}
+{234}{}{Sim, sim, corte a porcaria "mais santa do que você". Entrega algum dinheiro, ou eu sou
+ Transformando você.}
+{235}{}{Eu vou ter que pensar sobre isso. Tchau.}
+{236}{}{Entregue o caso para New Reno, amigo. Tempo é essencial!}
+{237}{}{O que fazer? Por que, espalhe a palavra, e isso deve ser suficiente.
+ Caminhe com cuidado e com propósito nos resíduos, meu amigo. Com a palavra como sua luz, você não deve
+ Desviar-se.}
+{238}{}{Obrigado irmão. Eu farei o que você disse.}
+{239}{}{Você já ouviu a palavra hoje?}
+{240}{}{Ouça a palavra! A palavra deve libertar você!}
+{241}{}{A escravidão condenará essa cidade!}
+{242}{}{Devemos abrir os portões de Vault City e abraçar o mundo exterior!}
+{243}{}{Por que não podemos compartilhar nossa riqueza ?!}
+{244}{}{Você não consegue ouvir os gritos daqueles que sofrem fora das nossas paredes ?!}

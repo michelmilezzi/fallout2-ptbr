@@ -1,0 +1,15 @@
+{100}{}{Você vê um mafioso.}
+{101}{}{Bem, bem - o que temos aqui?}
+{102}{}{Viajantes simples, hein?Não existe tal coisa. Você precisa de ajuda com algum de seus objetos de valor?}
+{103}{}{Veja onde você está caminhando por Reno, ou você vai se machucar. Fique fora do meu caminho.}
+{104}{}{Olá,}
+{105}{}{.}
+{106}{}{O que você está fazendo aqui fora,}
+{107}{}{?}
+{108}{}{Nós estávamos apenas saindo para verificar você,}
+{109}{}{. Bom dia hoje, eh,}
+{110}{}{?}
+{111}{}{Você veio aqui para se afastar de tudo,}
+{112}{}{?}
+{113}{}{ Estava pensando o que você estava fazendo,}
+{114}{}{.}

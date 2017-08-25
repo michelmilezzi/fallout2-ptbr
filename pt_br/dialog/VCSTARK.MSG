@@ -1,0 +1,292 @@
+{100}{}{Você vê o cidadão sargento Stark.}
+{101}{}{Você vê um enorme homem negro com armadura pesada. Ele está observando você com atenção.}
+{102}{}{Você vê o cidadão sargento Stark.}
+{103}{}{Você vê um enorme homem negro com armadura pesada. Ele está observando você com atenção.}
+{104}{}{Bom trabalho no sul. Viu os fogos de artifício todo o caminho até aqui.}
+{105}{}{Bom Dia senhor.}
+{106}{}{Vault City prevalece ... senhor.}
+{107}{}{Bom dia, cidadão.}
+{108}{}{Vault City prevalece, Citizen.}
+{109}{}{Você quer que você fique fora da cidade ... Guardas!}
+{110}{}{Um mutante! Guardas!}
+{111}{}{Um ghoul! Guardas!}
+{112}{}{Precisa compilar essas listas de munições ...}
+{113}{}{Precisa verificar os armários das armas no Vault amanhã ...}
+{114}{}{Talvez estar nessas células irá ensinar você a comportar-se.}
+{115}{}{E você ficará nessas células até o primeiro cidadão perdoar você.}
+{116}{}{Desculpe-me, cidadão, mas ninguém é permitido no Centro de Correções depois do anoitecer. Volte pela manhã.}
+{117}{}{É passado o toque de recolher. O que você ainda está fazendo na cidade?}
+{118}{}{Yah!}
+{119}{}{Uh, como cidadão, tenho permissão para estar na cidade depois do anoitecer.}
+{120}{}{Eu só tinha algum negócio para cuidar antes de sair.}
+{121}{}{Estou a sair agora mesmo.}
+{122}{}{É assim mesmo? Bem, eu conheço CADA Cidadão em Vault City, e não reconheço você. Onde estão seus papéis?}
+{123}{}{Você os quer? Venha buscá-los.}
+{124}{}{Eu não os tenho em mim.}
+{125}{}{Aqui está.}
+{126}{}{Então pare de desperdiçar meu tempo, "Cidadão". Vamos, vamos movê-lo.}
+{127}{}{Seu negócio acabou para o dia. Vamos, vamos movê-lo.}
+{128}{}{Eu não estou indo a lugar nenhum. Você tenta me mover, você vai se arrepender.}
+{129}{}{Tudo bem, vou.}
+{130}{}{Capitão. Posso te ajudar senhor?}
+{131}{}{Posso ajudá-lo, cidadão?}
+{132}{}{O que você quer?}
+{133}{}{Yah!}
+{134}{}{Shamble off}
+{135}{}{Quem é Você?}
+{136}{}{Nada, desculpe incomodá-lo.}
+{137}{}{Venha comigo, garoto. AGORA.}
+{138}{}{Venha comigo, senhora. AGORA.}
+{139}{}{Eu vou embora? Me deixa!}
+{140}{}{ME NO GO. AGORA.}
+{141}{}{Você vai querer que você saia.}
+{142}{}{NÃO ESTOU À ESQUERDA.}
+{143}{}{Sargento Stark ... senhor. Você precisava de algo?}
+{144}{}{Eu sou o Citizen SERGEANT Stark, Citizen. Havia alguma coisa com que eu pudesse ajudá-lo?}
+{145}{}{I am Citizen SERGEANT Stark, Outsider. O que você quer?}
+{146}{}{O que você faz aqui?}
+{147}{}{Você pode me dizer onde é o Vault?}
+{148}{}{Nada, desculpe incomodá-lo.}
+{149}{}{Eu faço o seu trabalho, senhor.}
+{150}{}{Executo o Centro de correções. E obedecer suas ordens, senhor.}
+{151}{}{Executo o Centro de correções. Mantenha os Outworlders em linha. Certifique-se de que os Servos se comportam. Organize patrulhas. Tente e proteja a cidade dos incursores.}
+{152}{}{Você tem um problema, sargento?}
+{153}{}{Você quem roubou o bar Cassidy?}
+{154}{}{Você já ouviu falar de um servo chamado Joshua?}
+{155}{}{Patrulhas?}
+{156}{}{Raiders?}
+{157}{}{Sobre aqueles Raiders ...}
+{158}{}{Posso fazer-te algumas perguntas?}
+{159}{}{Obrigado. Adeus.}
+{160}{}{Permissão para falar livremente, senhor.}
+{161}{}{Concedido.}
+{162}{}{Não. Eu tinha algumas outras perguntas para você, primeiro.}
+{163}{}{Não hoje, sargento.}
+{164}{}{Você NÃO MERECE a sua postagem. Eu vivi em Vault City toda a minha vida. Os homens e as mulheres sob meu comando confiam em mim e me respeitam, não você ... senhor.}
+{165}{}{É por isso que eu preciso de você na sua postagem, Sargento. Não há dúvida de que você é capaz e conhece o Vault City melhor do que eu. No entanto, eu mostrei RESULTADOS onde você NÃO TEM. Nunca esqueça disso.}
+{166}{}{Observado, sargento. Agora tenho algumas perguntas para você.}
+{167}{}{Observado, sargento. Eu sugiro que você engula sua atitude e continue com o seu trabalho. Dia bom.}
+{168}{}{Entendido, senhor.}
+{169}{}{Agora tenho algumas perguntas para você.}
+{170}{}{Continue então, sargento.}
+{171}{}{Sim senhor. Realizei uma incursão autorizada no estabelecimento do Sr. Cassidy.}
+{172}{}{Talvez seu amigo Cassidy não lhe tenha dito que ele tinha substâncias ilegais nas instalações e sua licença para distribuição de álcool havia expirado. Você esqueceu de contar seu amigo aqui, Cassidy?}
+{173}{}{Cassidy diz que foi pago e você invadiu seu lugar de qualquer maneira.}
+{174}{}{Esqueça. Tive algumas outras questões ...}
+{175}{}{Deixa pra lá então. Adeus.}
+{176}{}{Não senhor. O Sr. Cassidy não havia pago sua taxa de licenciamento por álcool no mês, mas ainda estava vendendo nas instalações. Sua lista de pagamentos está registrada no computador.}
+{177}{}{Cassidy foi culpado de posse sem licença. Ele não gosta, ele pode deixar Vault City. Que simples.}
+{178}{}{Eu acredito em você, sargento. Bem feito. Agora ouça-me: eu quero que você perdoe o Sr. Cassidy, limpe seu registro limpo e pague-lhe restituição pelos danos que causou seu estabelecimento.}
+{179}{}{Você sabe, acho que meu punho e seu rosto estão prestes a conversar.}
+{180}{}{Esqueça. Tive algumas outras questões ...}
+{181}{}{Deixa pra lá então. Adeus.}
+{182}{}{Obrigado por cuidar de mim, amigo. O sonuvabitch teimoso de Stark.}
+{183}{}{Apenas tente. Espero ansiosamente colocar o lixo como você e Cassidy em seu lugar.}
+{184}{}{Bem. Eu estava ansioso para chutar sua bunda mesmo assim.}
+{185}{}{Esqueça. Tive algumas outras questões ...}
+{186}{}{Deixa pra lá então. Adeus.}
+{187}{}{Sim senhor.}
+{188}{}{AGORA, Sargento.}
+{189}{}{Vamos, Sargento. Chop-chop.}
+{190}{}{Aqui está Senhor.}
+{191}{}{Agora tenho algumas perguntas para você, Sargento.}
+{192}{}{Muito bom, Sargento. Continue.}
+{193}{}{Sim, ele era aquele Outworlder bêbado que atingiu um dos meus guardas naquela briga no Spittoon. Ele acabou no Centro de Atribuição de Servas ficando ... quebrou. É apenas descendo a rua.}
+{194}{}{Eu tive outra pergunta ...}
+{195}{}{Hmmm. Eu vou lá agora.}
+{196}{}{A Abóbada está bem à porta ... senhor.}
+{197}{}{A Abóbada está bem da porta. Apenas diga aos guardas que você é um cidadão, e eles vão deixar você passar.}
+{198}{}{A Abóbada está bem da porta. Apenas cidadãos são permitidos lá, então eu não quero atrapalhar você incomodando os guardas.}
+{199}{}{Posso pedir-lhe outra coisa?}
+{200}{}{Mas eu sou um cidadão.}
+{201}{}{Como você se torna um cidadão?}
+{202}{}{Obrigado. Adeus.}
+{203}{}{É assim? Eu não reconheço você, e eu conheço todos os cidadãos em Vault City.}
+{204}{}{Aqui estão os meus papéis. Acho que você encontrará tudo em ordem.}
+{205}{}{Uh, não importa. Tive algumas outras questões ...}
+{206}{}{É melhor eu ir.}
+{207}{}{Bem, bem, se não são os papéis que foram roubados no mês passado. Parece que finalmente encontrei o culpado. Venha comigo, Outsider.}
+{208}{}{Toque-me e você se arrependerá.}
+{209}{}{Eu vou, vou. Pare de empurrar.}
+{210}{}{Eu estava NASCIDO um cidadão. Interessado em se tornar um cidadão? Encontre um membro do conselho.}
+{211}{}{Posso pedir-lhe outra coisa?}
+{212}{}{Eu vou, obrigado. Adeus.}
+{213}{}{Sim, e os mesmos?}
+{214}{}{Encontrei sua base.}
+{215}{}{Limpei-os.}
+{216}{}{Alguma idéia de onde esses incursores estão atingindo?}
+{217}{}{Deixa pra lá. Eu tive algumas perguntas ...}
+{218}{}{Esqueça. Talvez falemos mais uma vez.}
+{219}{}{Você fez? Cadê?}
+{220}{}{Sim, você disse isso antes. Você deve dizer ao First Citizen se você ainda não o fez.}
+{221}{}{No sul, em uma série de cavernas nas montanhas. Aqui, deixe-me apontar ...}
+{222}{}{Eu tive algumas perguntas para você.}
+{223}{}{Tudo certo. Eu vou falar com ela.}
+{224}{}{Você os apagou?}
+{225}{}{Sim, você disse isso antes. Você deve dizer ao First Citizen se você ainda não o fez.}
+{226}{}{Sim, Vault City não deveria mais se preocupar com eles.}
+{227}{}{Eu tive algumas perguntas para você.}
+{228}{}{Tudo certo. Eu vou falar com ela.}
+{229}{}{Diga ao Primeiro Cidadão de uma só vez. Ela vai querer saber disso imediatamente.}
+{230}{}{Primeiro tive algumas perguntas.}
+{231}{}{Tudo certo. Eu vou falar com ela.}
+{232}{}{Sim, incursores. Eles nos deram bastante dificuldade ultimamente. (Frowns.) Por que você quer saber sobre eles?}
+{233}{}{Gostaria de tentar encontrar sua base, talvez pare os ataques, se puder.}
+{234}{}{Eu só estava curioso.}
+{235}{}{Deixa pra lá. Eu tive algumas perguntas ...}
+{236}{}{Esqueça. Talvez falemos mais uma vez.}
+{237}{}{O que, você é algum bom samaritano? Eu não compro.}
+{238}{}{Eu não sou um samaritano. Na verdade, sou nativo de Arroyo - é uma aldeia a oeste.}
+{239}{}{Gostaria de ajudar se pudesse.}
+{240}{}{Olhe, eu vi o suficiente do mundo para saber que ajudar as pessoas parece voltar e me ajudar no final.}
+{241}{}{Deixa pra lá. Eu tive algumas perguntas ...}
+{242}{}{Esqueça. Talvez falemos mais uma vez.}
+{243}{}{O que, você vem aqui para ser um smartass? Que é isso?}
+{244}{}{Oh sim? Bem, abordar essa banda de invasores pode ser mais do que você pode lidar.}
+{245}{}{Não, mas se você precisar de ajuda, estou disposto a ajudá-lo.}
+{246}{}{Eu ainda gostaria de tentar e ajudar.}
+{247}{}{Deixa pra lá então. Eu tive algumas perguntas ...}
+{248}{}{Esqueça. Talvez falemos mais uma vez.}
+{249}{}{Hmmm. Bem, não vou desistir de ajuda neste momento. Você encontra sua base, ou melhor ainda, limpe-os, vá diga ao primeiro cidadão.}
+{250}{}{Na verdade, eu já encontrei sua base.}
+{251}{}{Na verdade, eu os extirparei já.}
+{252}{}{Alguma idéia de onde esses incursores estão atingindo?}
+{253}{}{Tudo certo. Tive algumas outras questões ...}
+{254}{}{Eu farei isso.}
+{255}{}{Curioso, hein? Eu também. Agora, o que você sabe sobre os incursores?}
+{256}{}{Gostaria de tentar encontrar sua base, talvez pare os ataques, se puder.}
+{257}{}{Eu não conheço nada. É por isso que estou lhe perguntando.}
+{258}{}{Deixa pra lá. Eu tive algumas perguntas ...}
+{259}{}{Esqueça. Talvez falemos mais uma vez.}
+{260}{}{Não sabe nada? Talvez eu o mantenha aqui no Centro de Correções até você lembrar algo.}
+{261}{}{Gostaria de tentar encontrar sua base, talvez pare os ataques, se puder.}
+{262}{}{Você me pegou. Estou obviamente em aliança com os incursores. Me prenda.}
+{263}{}{Olha, estou saindo daqui agora. Se você tentar e me parar, haverá problemas.}
+{264}{}{Você já está com problemas. Você está procurando piorar?}
+{265}{}{No, Gostaria de tentar encontrar sua base, talvez pare os ataques, se puder.}
+{266}{}{Você me pegou. Estou obviamente em aliança com os incursores. Me prenda.}
+{267}{}{Estou indo embora. Você quer me parar? Continue.}
+{268}{}{Tudo bem então...}
+{269}{}{Uau! Uau! Eu não fiz -}
+{270}{}{Traga-o, homem morto.}
+{271}{}{Eu não acho que vamos deixar o assunto tão facilmente. Agora ... o que você sabe sobre os incursores?}
+{272}{}{Gostaria de tentar encontrar sua base, talvez pare os ataques, se puder.}
+{273}{}{Eu só estava curioso.}
+{274}{}{Olha, estou saindo daqui agora. Se você tentar e me parar, haverá problemas.}
+{275}{}{Eu não sei. Esses invasores não têm muito sentido. Se eles são incursores.}
+{276}{}{O que você quer dizer?}
+{277}{}{Tive algumas outras questões ...}
+{278}{}{Eu tenho que ir.}
+{279}{}{Eles têm força de fogo pesada. Poder de fogo caro. Eles conhecem táticas militares. Eles permanecem em formação. Eles nunca cruzam suas linhas de fogo. E eles sempre param de percorrer nossas defesas.}
+{280}{}{Uh ... eles param de percorrer as defesas?}
+{281}{}{Tive algumas outras questões ...}
+{282}{}{Eu tenho que ir.}
+{283}{}{Eu vi que eles fazem isso. O último ataque, eles desativaram uma torre laser no perímetro ocidental. Eles tiveram um tiro claro na cidade. Então eu vi um de seus "capitães" pede-lhes que recuassem. Não faz sentido.}
+{284}{}{Alguma idéia de onde eles estão vindo?}
+{285}{}{Hmmm. Tive algumas outras questões ...}
+{286}{}{Interesting. Eu tenho que ir.}
+{287}{}{Não. Essa é a parte mais frustrante. Eles continuam recuando para o sul. Não posso poupar nenhum homem para ir e explorar a área. Eu acho que os incursores têm algum guia nativo que os leva através dos canyons do sul.}
+{288}{}{Qual é o problema com o sul?}
+{289}{}{Hmmm. Tive algumas outras questões ...}
+{290}{}{Interesting. Eu tenho que ir.}
+{291}{}{Muitos lugares para esconder se você não sabe onde procurar. O lugar está cheio de cavernas.}
+{292}{}{Provavelmente eu poderia encontrá-los.}
+{293}{}{Tive algumas outras questões ...}
+{294}{}{Hmmm. Eu vou manter isso em mente. Adeus.}
+{295}{}{Vá em frente e tente. Estou apostando que a única maneira que eles nos deixariam encontrá-los é nos dando um mapa.}
+{296}{}{Tive algumas outras questões ...}
+{297}{}{Se é isso que é preciso ... obrigado pela informação.}
+{298}{}{Sim, temos um pequeno grupo de patrulhas. Mal posso poupar os homens para proteger a Vault City, e muito menos fazer todo o reconhecimento que precisa ser feito.}
+{299}{}{Recon-o-what?}
+{300}{}{Eu faço muitas viagens. Tudo o que posso ajudar?}
+{301}{}{Sorry to hear that. Tive algumas outras questões ...}
+{302}{}{Deixa pra lá então. Adeus.}
+{303}{}{Escotismo.}
+{304}{}{O que você quer dizer?}
+{305}{}{Eu poderia fazer algum reconhecimento para você, se você for curto.}
+{306}{}{Esqueça. Tive algumas outras questões ...}
+{307}{}{Deixa pra lá então. Adeus.}
+{308}{}{Não, você precisaria de um Pip Boy para fazer o trabalho corretamente, e não posso poupar um agora.}
+{309}{}{Eu já tenho um Pip Boy. É velho ... e irritadiço ... e parece ter fios e botões arrancados em todos os lugares ... mas funciona.}
+{310}{}{Well, all right. Tive algumas outras questões ...}
+{311}{}{Deixa pra lá então. Adeus.}
+{312}{}{Sim? Terá um mapa mundial do norte da Califórnia instalado?}
+{313}{}{Sim. Bem, pelo menos pelo que posso ver através da névoa da guerra na maldita coisa.}
+{314}{}{Eu consegui um emprego para você, então. Eu preciso de alguém para explorar o terreno ao redor de Gecko ... esse acampamento de ghoul para o nordeste. Pegue os oito setores no mapa do mundo em torno da cidade, então informe de volta.}
+{315}{}{Por quê?}
+{316}{}{Sem problemas. Já observei a área.}
+{317}{}{Tudo certo. Eu voltarei quando eu pesquisar a área.}
+{318}{}{Pensando bem, conte-me. Adeus.}
+{319}{}{Se eles continuem envenenando nossas águas subterrâneas, podemos ser forçados a tomar medidas militares.}
+{320}{}{Quero ver a quantidade de danos causados   pela fusão da planta na área.}
+{321}{}{Podemos ser forçados a tomar medidas militares contra eles no futuro, especialmente se eles começam a envenenar a água subterrânea novamente.}
+{322}{}{Agora você quer o trabalho ou não?}
+{323}{}{Sim. Eu já observei a área, no entanto.}
+{324}{}{Vou pegar o emprego. Eu informarei quando terminar.}
+{325}{}{Vou pegar o emprego. Primeiro tive algumas perguntas ...}
+{326}{}{Não, obrigado. Talvez outra hora.}
+{327}{}{É assim? Heh. Bem ... tudo bem então.}
+{328}{}{Bom trabalho. Faça o download da informação no meu Pip Boy, e eu vou logar nos computadores de patrulha.}
+{329}{}{Tudo certo...}
+{330}{}{Essa inteligência parece ser boa. Bem feito. Aqui está o seu pagamento ... trezentos dólares.}
+{331}{}{Tudo bem então...you got any more work for me?}
+{332}{}{Great. Tive algumas outras questões ...}
+{333}{}{Obrigado. Prazer em fazer negócios com você.}
+{334}{}{Sim, na verdade ... Preciso de alguém para viajar para a NCR. Ultimamente, tenho ouvido relatos de que
+ A República pode estar construindo força militar. Verdadeiro ou não, preciso de alguém para traçar uma rota para a NCR e informar de volta.}
+{335}{}{Sem problemas. Já feito.}
+{336}{}{Apenas viaje para a NCR, então volte?}
+{337}{}{Esqueça. Tive algumas outras questões ...}
+{338}{}{Não, obrigado. Adeus.}
+{339}{}{Isso é tudo que preciso. Estou mais interessado na rota que a própria República, mas ainda preciso de você para entrar na cidade, uma vez que você chegar lá.}
+{340}{}{Sem problemas. Já feito.}
+{341}{}{Vou pegar o emprego. Eu informarei quando terminar.}
+{342}{}{Vou pegar o emprego. Eu tive algumas perguntas antes de eu sair, no entanto ...}
+{343}{}{Não, obrigado. No entanto, tive algumas outras perguntas ...}
+{344}{}{Eu não acho que eu quero esse trabalho. Talvez outra hora.}
+{345}{}{É assim? Heh.}
+{346}{}{Tudo bem então. Faça o download da informação no meu Pip Boy, e eu vou logar nos computadores de patrulha.}
+{347}{}{Tudo certo.}
+{348}{}{Essa inteligência parece ser boa. Bem feito. Aqui está o pagamento por seus serviços, quinhentos dólares ... mais, você pode achar isso útil.}
+{349}{}{O que é isso?}
+{350}{}{É um sensor de movimento Vault-Tec. Nós a tiramos por partes, já que é muito velho para os nossos Pip Boys, mas parece que é compatível com o seu modelo.}
+{351}{}{Como funciona?}
+{352}{}{Mantenha-o em sua mão e identifique os hostis na sua área imediata quando você o usa. Ou você pode chamar o automap Pip Boy como normal, então basta clicar no botão "scanner" e eles estão iluminados como um sinal de néon.}
+{353}{}{Obrigado, isso pode ser útil. Posso fazer algumas outras perguntas?}
+{354}{}{Muito apreciado. Eu vou tentar.}
+{355}{}{Olá ... Capitão. Você queria alguma coisa?}
+{356}{}{Olá novamente, cidadão. Alguma coisa eu posso ajudá-lo?}
+{357}{}{Você está de volta? Você perdeu ou precisa de alguma coisa?}
+{358}{}{Como o que ... senhor?}
+{359}{}{Sim, cidadão. O que você queria saber?}
+{360}{}{Como o quê?}
+{361}{}{Hep-Hep Schlep-Bep}
+{362}{}{Shamble off}
+{363}{}{Você tem algum tipo de problema, sargento?}
+{364}{}{Você quem roubou o bar Cassidy?}
+{365}{}{Você já ouviu falar de um Servo chamado Joshua?}
+{366}{}{O que você faz aqui?}
+{367}{}{Você pode me dizer onde é o Vault?}
+{368}{}{Eu examinei a área em torno de Gecko para você.}
+{369}{}{Mais um trabalho de recon para mim?}
+{370}{}{Tracei essa rota para a NCR para você.}
+{371}{}{Sobre aqueles Raiders ...}
+{372}{}{Deixa pra lá. Adeus.}
+{373}{}{Bom dia ... senhora.}
+{374}{}{Vault City prevalece ... senhora.}
+{375}{}{Capitão. Posso ajudá-lo ... senhora?}
+{376}{}{Sargento Stark ... senhora. Você precisava de algo?}
+{377}{}{Eu faço o seu trabalho, senhora.}
+{378}{}{Executo o Centro de correções. E obedecer suas ordens, senhora.}
+{379}{}{Permissão para falar livremente, senhora.}
+{380}{}{Você NÃO MERECE a sua postagem. Eu vivi em Vault City toda a minha vida. Os homens e as mulheres sob meu comando confiam em mim e me respeitam, não você ... senhora.}
+{381}{}{Entendida, senhora.}
+{382}{}{Sim, senhora. Realizei uma incursão autorizada no estabelecimento do Sr. Cassidy.}
+{383}{}{Não Senhora. O Sr. Cassidy não havia pago sua taxa de licenciamento por álcool no mês, mas ainda estava vendendo nas instalações. Sua lista de pagamentos está registrada no computador.}
+{384}{}{Sim, senhora.}
+{385}{}{Aqui está você, MA'AM.}
+{386}{}{Você ganhou posição na Stark para ajudar seu amigo Cassidy.}
+{387}{}{A Abóbada está bem da porta ... senhora.}
+{388}{}{Você observou o Gecko para a Vault City.}
+{389}{}{Você scouted NCR para Vault City.}
+{390}{}{Como o que ... senhora?}

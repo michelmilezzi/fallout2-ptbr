@@ -1,0 +1,20 @@
+{100}{}{Você vê uma pessoa que carrega uma arma poderosa.}
+{101}{}{Você vê um membro do corpo de comércio e proteção de Broken Hills.}
+{102}{}{Você vê uma pessoa carregando uma arma poderosa e coberta pelo pó da trilha.}
+{103}{}{Eu te contai, mais um grupo de bandolim e estou usando dinamite na próxima viagem.}
+{104}{}{Claro que poderia usar mais ajuda nas caravanas.}
+{105}{}{Homem ... O trabalho da Unidade de Patrulha realmente é realmente antigo.}
+{106}{}{Então, eu vi essa reunião tribal e ... não importa.}
+{107}{}{Mais uma "Rainbow Patrol" crack e eu vou matar alguém.}
+{108}{}{Eu juro que se os bandidos se agravarem, todos morreremos no próximo ano.}
+{109}{}{De que aldeia podunk você é?}
+{110}{}{Comprar uma pessoa que trabalha com uma bebida?}
+{111}{}{Estou muito cansado daquela caravana trabalhar para conversar.}
+{112}{}{Você precisa de algo, você fala com Bill, o Outfitter.}
+{113}{}{Você pensaria depois de todo esse tempo tentando civilizar o pouso, estaríamos um pouco mais perto do nosso objetivo.}
+{114}{}{Estou cansado de toda essa disputa humana / mutante. Não é suposto ser um exemplo?}
+{115}{}{Whaddya quer? Você não vê que eu estou descansando?}
+{116}{}{Quando é a próxima caravana sair?}
+{117}{}{Patrulha, patrulha, patrulha ... tudo o que já fiz por aqui.}
+{118}{}{Acho que preciso de uma soneca.}
+{119}{}{Eu mereço um aumento. Este é um dever perigoso.}

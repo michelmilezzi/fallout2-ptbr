@@ -1,0 +1,59 @@
+{100}{}{Você vê um homem alto com uma barriga enorme e deformada.}
+{101}{}{Você vê Hakeswill, um trabalhador Morningstar Mine.}
+{102}{}{Você vê um homem com pele ictérica, uma cicatriz tocando seu pescoço e um enorme intestino.}
+{103}{}{Aqui agora. O que você pensa que está fazendo?}
+{104}{}{Hakeswill irá ensinar-lhe uma lição, 'e will.}
+{105}{}{Sangrento, todos vocês.}
+{106}{}{Mostre o devido respeito pelos seus melhores.}
+{107}{}{Você ama sua mãe?}
+{108}{}{Limpe, você.}
+{109}{}{Não há espaço para quem gosta de você.}
+{110}{}{Sabemos como lidar com o seu tipo aqui.}
+{111}{}{Whatcha Gawkin?}
+{112}{}{Mova-se, você, antes de perder meu temperamento.}
+{113}{}{Algum dia, eu vou pegar você quando você não está olhando}
+{114}{}{Você não pode me matar. Já foi tentado antes.}
+{115}{}{Vou sair daqui. Você verá.}
+{116}{}{Aquela cadela tinha chegado a 'er.}
+{117}{}{Essa prostituta não será nada comparada ao que eu faço com você.}
+{118}{}{Estou guardando um prego de cabeça lisa para você, guv.}
+{119}{}{Sou maldito, invencível, eu sou. Este lugar não vai demorar muito.}
+{120}{}{Você fez o que é inteligente.}
+{121}{}{A mãe de Obidiah ama 'eu.}
+{122}{}{Eu também vou cuidar de Lou.}
+{123}{}{Você é mais esperto do que parece.}
+{124}{}{Damn putas; eles são todos iguais. Onde está minha navalha?}
+{125}{}{Eu ouço que alguém possa querer falar com o velho Hakeswill. Alguém se ofereceu para trazer
+ Obidiah à justiça. Isso é você?}
+{126}{}{Estou à procura do mineiro que cortou a galera de Lou. Parece que você acabou de fazer uma confissão para mim.}
+{127}{}{Estou trazendo justiça para você pessoalmente. Justiça de 10mm, isto é.}
+{128}{}{Pode ser. O que você conhece sobre o assunto?}
+{129}{}{Não, senhor, heh, heh. Eu não faria isso. G'goodbye ... senhor.}
+{130}{}{Eu cortei a cadela. Ela cometeu um erro, ela fez.}
+{131}{}{Um erro?}
+{132}{}{Eu não me importo com o que ela fez com você. Você é um cão louco, e eu sou o único que o derruba.}
+{133}{}{Você cometeu o erro, sua louca foda. Estou levando você até a prisão até que você seja tentado e pendurado.}
+{134}{}{Levando-me para a prisão? Eu irei em paz. Não faz sentido fazer mais problemas. A cadela ainda conseguiu
+ o que ela mereceu. Você não pode me matar. Sou invencível, mas você certamente pode irritar os outros mineiros. Obteve
+ Olhos na parte de trás da cabeça, não é?}
+{135}{}{Eu posso cuidar de mim mesmo. Agora eu sou o xerife nestas partes aqui, e eu estou levando você.}
+{136}{}{Pensando bem, tenho uma idéia melhor. Por que eu não salvar as pessoas boas de Redding algum tempo
+ e problemas apenas matando você aqui e agora?}
+{137}{}{Não tenho certeza de que eu queira chatear todos os outros mineiros da Morningstar. Desta vez, eu vou deixar você sair
+ com um aviso. Mas, se você fizer isso novamente ...}
+{138}{}{Oh, obrigado, senhor. Sim senhor. Obidiah terá cuidado, senhor. Obrigado.}
+{139}{}{Obrigada, senhora. Sim, senhora, Obidiah terá cuidado, senhora. Obrigado.}
+{140}{}{Você apenas se certifica de que você é cuidadoso. Eu não quero ouvir mais sobre esse tipo de coisa.
+ Adeus.}
+{141}{}{Ela se divertiu com a mãe. Ninguém se diverte com a mãe de Hakeswill. Ela é a única coisa boa nisso
+ Todo mundo apodrecendo.}
+{142}{}{Não me importo por que você fez isso. Você está entrando na prisão comigo. Agora mesmo.}
+{143}{}{Sua mãe deveria ter usado controle de natalidade mais confiável.}
+{144}{}{Ela se divertiu com sua mãe? Bem, isso não está correto. Mas você exagerou.}
+{145}{}{Bem, que eu fiz. Mas os rapazes e eu aqui no Morningstar não pensamos que o que ela fez foi certo,
+ não é certo. Mas eu prometo não fazê-lo novamente.}
+{146}{}{Bem, eu deveria levá-lo para cortar metade do rosto daquela menina - mas enquanto você não fizer
+ Um hábito disso ... Eu vou deixar você ir, desta vez.}
+{147}{}{Tenho certeza de que o júri tomará isso em consideração. Eu ainda estou levando você.}
+{148}{}{Se os outros mineiros tiverem as mesmas inclinações brutais que você faz, então eles podem se beneficiar de
+ o exemplo doloroso que vou fazer com você.}

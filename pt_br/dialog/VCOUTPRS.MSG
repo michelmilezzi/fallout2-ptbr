@@ -1,0 +1,9 @@
+{100}{}{Você vê um prisioneiro.}
+{101}{}{Você vê um preso de fora.}
+{102}{}{Bem, essa é a última vez que eu saltei o toque de recolher.}
+{103}{}{Outra semana e volta ao Centro de Alocação ...}
+{104}{}{Melhor continuar em movimento, amigo. Eles nos vêem conversando, nós dois
+ Pegue o inferno.}
+{105}{}{Damn Barkus, me pegando aqui. Quando eu coloco minhas mãos sobre ele ...}
+{106}{}{Gostaria de nunca chegar a Vault City. Cidade "livre" ... que brincadeira.}
+{107}{}{Pelo menos a comida não é ruim.}

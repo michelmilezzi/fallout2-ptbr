@@ -1,0 +1,13 @@
+{100}{}{Você vê uma criança gritando slogans carny.}
+{101}{}{Esta criança suja parece ser empregada para anunciar uma atração turística de algum tipo.}
+
+// Hawking floats
+{500}{}{Veja a Múmia Múmia!}
+{501}{}{Veja o Ancient Wonder!}
+{502}{}{Uma mamãe Jan-u-wine, aqui agora!}
+{503}{}{Veja o Príncipe egípcio!}
+{504}{}{Veja a Rainha do Nilo!}
+{505}{}{Entre na casa assombrada do janeiro-u-vinho!}
+{506}{}{Mistérios do Netherworld revelaram!}
+{507}{}{Venha um, venha tudo!}
+{508}{}{A oportunidade educacional de toda a vida!}

@@ -1,0 +1,134 @@
+#############################################################
+#  Message File: kchild.msg                                 #
+#                                                           #
+#       Body Type: CHILD                                    #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP: 20                                              #
+#       Skills to note: None                                #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: January 13, 1998                                #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+{100}{}{Você vê uma das crianças de Klamath.}
+{101}{}{Você vê uma das crianças de Klamath.}
+
+#############################################################
+#  The following lines are floaters for children            #
+#############################################################
+
+{150}{}{Não me coma!}
+{151}{}{Eeeee! O boogy-monster!}
+{152}{}{Papai diz que você é uma pessoa má.}
+{153}{}{Aieeee! Fugir!}
+{154}{}{Você está me assustando.}
+{155}{}{Pare de olhar para mim.}
+{156}{}{Não devo conversar com tribais.}
+{157}{}{Você é como os Duntons.}
+{158}{}{Minha mãe disse que você vai me comer se eu estiver mal.}
+{159}{}{Eu não tenho medo de você!}
+{160}{}{Me ajude!}
+{161}{}{Está atrás de mim!}
+{162}{}{Por favor, não me machuque!}
+{163}{}{Fique longe de mim!}
+{164}{}{Eeeeeeeee!}
+{165}{}{Eu te odeio!}
+{166}{}{Mamãe, mamãe, mamãe!}
+{167}{}{Me deixe em paz!}
+{168}{}{Você fede!}
+
+{170}{}{Olá.}
+{171}{}{Quer jogar casa?}
+{172}{}{Você realmente puxa um osso pelo nariz?}
+{173}{}{Por que você é tão engraçado?}
+{174}{}{Minha mãe diz que você é primitiva.}
+{175}{}{A sua tribo deixou de comer pessoas?}
+{176}{}{Quem te vestiu tão engraçado?}
+{177}{}{Aposto que você é melhor do que parece.}
+{178}{}{Vamos jogar tag. Você é isso.}
+{179}{}{Você não cheira tão mal.}
+{180}{}{Você viu meu amigo invisível?}
+{181}{}{Eu quero viajar pelo mundo quando sou tão velho quanto você.}
+{182}{}{Você é um bom tribal, não como os outros.}
+{183}{}{Aposto que você faça para se banhar.}
+{184}{}{Você é mais esperto do que Torr.}
+{185}{}{Essa lâmina é realmente afiada?}
+{186}{}{Eu quero ser como você quando cresço.}
+{187}{}{Meu cachorro ama a carne seca.}
+{188}{}{Eu tenho um seixo brilhante.}
+{189}{}{Você viu meu amigo invisível?}
+
+{190}{}{Posso me juntar à sua tribo?}
+{191}{}{Você é legal.}
+{192}{}{Você parece engraçado.}
+{193}{}{O que está vestindo?}
+{194}{}{Eu quero um passeio brahmin!}
+{195}{}{Você é de longe?}
+{196}{}{Weeee! Ha Ha Ha!}
+{197}{}{Não deixe!}
+{198}{}{Você tem algum alimento?}
+{199}{}{Estou incomodando você?}
+{200}{}{Onde você está indo?}
+{201}{}{Posso ir com você?}
+{202}{}{Quantos anos você tem?}
+{203}{}{Qual o seu nome?}
+{204}{}{Você gosta de crianças?}
+{205}{}{O que é isso?}
+{206}{}{Você quer jogar um jogo?}
+{207}{}{O que está fazendo?}
+{208}{}{Você já viu algum erro?}
+{209}{}{Onde você conseguiu isso?}
+{210}{}{Eu posso ter aquilo?}
+{211}{}{O que você faz?}
+{212}{}{Eu posso correr rápido. Quero ver?}
+{213}{}{Me veja! Me veja!}
+{214}{}{Mamãe diz que eu falo muito.}
+{215}{}{Onde está sua casa?}
+{216}{}{Heeee! Heeee!}
+{217}{}{Você vai ficar aqui?}
+{218}{}{Você tem filhos?}
+{219}{}{Por que você veio aqui?}
+{220}{}{Eu gosto de você.}
+{221}{}{Você gosta de mim?}
+{222}{}{Você é casado?}
+{223}{}{One, two, three-weee!}
+
+#############################################################
+#  TELL ME ABOUTS WILL BE REMOVED                           #
+#############################################################
+{1000}{}{Mais velho}
+{1001}{}{Fundador}
+{1002}{}{Cofre Dweller}
+{1003}{}{Arroyo}
+{1004}{}{Klamath}
+{1005}{}{Cofre}
+{1006}{}{Escolhido}
+{1007}{}{Xamã}
+{1008}{}{Hakunin}
+{1009}{}{Pó de cura}
+{1010}{}{Ponte}
+{1011}{}{Mynoc}
+
+{1100}{}{The Mais velho is your mother and our leader.}
+{1101}{}{Nosso grande antepassado que nos deu conhecimento.}
+{1102}{}{O primeiro a lutar e vencer o caos.}
+{1103}{}{Essa seria a nossa bela aldeia.}
+{1104}{}{Isso é comercializado em alguns dias a leste daqui.}
+{1105}{}{The Cofre is heaven.}
+{1106}{}{You are the Escolhido.}
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está na parte norte
+ da nossa aldeia.}
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está na parte norte
+ da nossa aldeia.}
+{1109}{}{É um pó mágico que irá curá-lo, mas irá fazer você
+ sonolento.}
+{1110}{}{The Great Ponte exits our village in the south.}
+{1111}{}{Ele guarda a ponte que conduz à nossa aldeia.}

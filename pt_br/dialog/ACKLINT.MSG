@@ -1,0 +1,25 @@
+{100}{}{Você vê Klint, um colega de tribos.}
+{101}{}{Você vê Klint.}
+{102}{}{Você vê um jovem com músculos abaulentos e um ar muito confiante sobre ele.}
+{103}{}{Bom dia para você,}
+{104}{}{. Você não completou o julgamento do Élder e não pode passar.}
+{105}{}{Uh ...}
+{106}{}{Preciso voltar para a aldeia.}
+{107}{}{Tenho algumas perguntas sobre você.}
+{108}{}{Tudo bem, vou fazer o teste.}
+{109}{}{(suspiro)}
+{110}{}{. Você vai ao templo. Você faz um teste. Você não volta aqui até testar. Obey Elder. Ir!}
+{111}{}{Eu vou.}
+{112}{}{Me perdoe,}
+{113}{}{, Mas não posso permitir que você passe. Se você deseja retornar à aldeia, você pode fazê-lo apenas passando o conjunto de testes antes de você.}
+{114}{}{Entendo. Acho que irei então.}
+{115}{}{Posso fazer algumas perguntas então?}
+{116}{}{Eu poderia chutar sua bunda e sair daqui.}
+{117}{}{Me perdoe,but I have no answers to your questions. Take the trial set before you by the Elder and prove yourself worthy to lead our people.}
+{118}{}{Muito bem.}
+{119}{}{Duas pessoas trabalhando juntas podem mover o obelisco que bloqueia o caminho. Sozinho, você falharia. Não tenho intenção de ajudá-lo até que você passe o julgamento do Ancião.}
+{120}{}{Uh-huh. Eu recebo a foto.}
+{121}{}{Saudações, Escolhido! Que bom ver você. Como posso atendê-lo?}
+{122}{}{Eu disse oi. Isso tudo.}
+{123}{}{Pensava que eu diria olá. Eu vou sair na minha missão em breve.}
+{124}{}{Que os espíritos de nossos antepassados   o protejam, Escolhido. Desejo-lhe bem na sua jornada.}

@@ -1,0 +1,55 @@
+{100}{}{Você vê uma mulher muito rígida. Parece que ela não se relaxou nos anos.}
+{101}{}{Você vê Melinda, a Diretora de Saudação.}
+{102}{}{Olá. Eu não acho que já o vi antes. Bem-vindo ao Vault
+ Cidade. Existe algo com o que posso ajudá-lo?}
+{103}{}{Sim, com o que mais posso ajudá-lo?}
+{104}{}{Essa área é cercada pela cidade?}
+{105}{}{Estou procurando o Vault.}
+{106}{}{Quem é Você?}
+{107}{}{Não, obrigado. Adeus.}
+{108}{}{Thizz Valt Citeee?}
+{109}{}{Não, não ... não deixe que os arredores confundam você. Você é
+ atualmente em pé no pátio. A cidade atual fica no Norte.}
+{110}{}{Qual a diferença entre as duas áreas?}
+{111}{}{Posso pedir-lhe outra coisa?}
+{112}{}{Obrigado pela ajuda. Adeus.}
+{113}{}{Thankee}
+{114}{}{Nosso Vault? Está localizado dentro da cidade. No entanto, devo dizer-lhe apenas
+ Os cidadãos são permitidos no Vault.}
+{115}{}{Eu preciso entrar no Vault.}
+{116}{}{Posso pedir-lhe outra coisa?}
+{117}{}{Obrigado pela ajuda. Adeus.}
+{118}{}{O meu nome? Por que, é Melinda. Sou o diretor de cumprimentos da Vault City.}
+{119}{}{Parece um trabalho difícil.}
+{120}{}{Posso pedir-lhe outra coisa?}
+{121}{}{Obrigado pela ajuda.}
+{122}{}{O pátio é uma área onde nós protegemos os Outworlders menos afortunados. Muitos
+ viva dentro de nossa proteção e adicione ao esplendor da Cidade do Vault. A Cidade Interior é
+ onde vivem os cidadãos da cidade.}
+{123}{}{Por que apenas os cidadãos vivem na cidade interna?}
+{124}{}{Posso pedir-lhe outra coisa?}
+{125}{}{Obrigado pela ajuda.}
+{126}{}{Me desculpe, mas, como eu disse, apenas os cidadãos são permitidos no Vault. Eu não posso
+ conceder-lhe acesso. Fale com Wallace, nosso funcionário da alfândega. Ele pode ser capaz de ajudar.
+ Você encontrará seu escritório na extremidade norte do pátio.}
+{127}{}{Posso pedir-lhe outra coisa?}
+{128}{}{Obrigado pela ajuda. Adeus.}
+{129}{}{Meu trabalho beneficia a Vault City, e eu tenho o privilégio de poder conversar
+ aos viajantes sobre a grandeza da cidade.}
+{130}{}{Oh, vamos, tem que ser um * pouco * chato às vezes.}
+{131}{}{Posso pedir-lhe outra coisa?}
+{132}{}{Obrigado pela ajuda.}
+{133}{}{Para construir uma vida melhor para todos, devemos estar vigilantes para nos proteger
+ de influências externas.}
+{134}{}{E isso significa separar-se?}
+{135}{}{Tenho grande orgulho no trabalho que faço para a Vault City. Você terá
+ para me desculpar, mas tenho um negócio muito urgente para atender. Dia bom.}
+{136}{}{Nós não o fazemos por * nós mesmos. * Nós o fazemos para o melhoramento de todos.}
+{137}{}{Sim, claro que você faz. Parece melhor assim.}
+{138}{}{Posso pedir-lhe outra coisa?}
+{139}{}{Obrigado pela ajuda.}
+{140}{}{Você não parece capaz de entender o que estamos fazendo aqui.}
+{141}{}{Você está certo. Não consigo entender porque não faz nenhum * sentido. *}
+{142}{}{I was just curious. Obrigado pela ajuda.}
+{143}{}{Estou muito ocupado no momento. Fale com o Sub-Oficial de Saudação se você
+ requer assistência.}

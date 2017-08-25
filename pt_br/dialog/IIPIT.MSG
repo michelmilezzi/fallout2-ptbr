@@ -1,0 +1,4 @@
+{100}{}{Você caiu num poço nas cavernas abaixo.}
+{101}{}{Você vê um poço no chão da caverna.}
+{102}{}{ Vê um poço no chão da caverna.}
+{103}{}{Você vê um poço no chão da caverna.}

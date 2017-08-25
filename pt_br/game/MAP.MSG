@@ -1,0 +1,750 @@
+
+#
+# Messages for Maps
+#
+
+
+
+#
+# Map Names for (Automap) Descriptions
+#	Note: This order must *NOT* change!
+#
+#	Note: The maximum description width is approximately:
+#	  "fraternidade of Steel (Lower Levels)" -- about 34 characters,
+#	  but it's proportional, so you need to double-check it by
+#	  going into mapper/game and going to the automap for that map.
+#
+#	Note: Descriptions *MUST* *NOT* be empty, and so temporary
+#	  descriptions are just the map name itself (this also helps
+#	  pinpoint unfinished ones when you go through here).
+#
+{100}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                           // DESERT1.MAP
+{101}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                           // DESERT2.MAP
+{102}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                           // DESERT3.MAP
+{103}{}{Arroyo}                           // arcaves.MAP
+{104}{}{Arroyo}                           // arvillag.MAP
+{105}{}{Arroyo}                           // arbridge.MAP
+{106}{}{Den}                              // denbus1.MAP
+{107}{}{Den}                              // denbus2.MAP
+{108}{}{Den}                              // denres1.MAP
+{109}{}{Klamath}                          // .MAP  ;Centro da cidade
+{110}{}{Klamath}                          // .MAP  ;Centro comercial
+{111}{}{Klamath}                          // .MAP  ;Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas de ratos
+{112}{}{Klamath}                          // .MAP  ;Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas tóxicas
+{113}{}{Klamath}                          // .MAP  ;Trapping Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas
+{114}{}{Klamath}                          // .MAP  ;Área de pastoreio
+{115}{}{Vault Cidade}                       // vctyctyd.MAP
+{116}{}{Vault Cidade}                       // vctydwtn.MAP
+{117}{}{Vault Cidade}                       // vctycocl.MAP
+{118}{}{erro: nome do mapa}                        // .MAP
+{119}{}{Ruínas da cidade}                            // CITY1.MAP
+{120}{}{Costa}                                 // COAST1.MAP
+{121}{}{Costa}                                 // COAST2.MAP
+{122}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                                // COLATRUK.MAP
+{123}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                                // FSAUSER.MAP
+{124}{}{erro: nome do mapa}                              // RAIDERS.MAP
+{125}{}{erro: nome do mapa}                          // SHADYE.MAP
+{126}{}{erro: nome do mapa}                          // SHADYW.MAP
+{127}{}{erro: nome do mapa}                                 // GLOWENT.MAP
+{128}{}{erro: nome do mapa}                             // LAADYTUM.MAP
+{129}{}{erro: nome do mapa}                             // LAFOLLWR.MAP
+{130}{}{erro: nome do mapa}                        // MBENT.MAP
+{131}{}{erro: nome do mapa}                        // MBSTRG12.MAP
+{132}{}{erro: nome do mapa}                        // MBVATS12.MAP
+{133}{}{erro: nome do mapa}                        // MSTRLR12.MAP
+{134}{}{erro: nome do mapa}                        // MSTRLR34.MAP
+{135}{}{erro: nome do mapa}                             // V13ENT.MAP
+{136}{}{erro: nome do mapa}                                  // HUBENT.MAP
+{137}{}{Cubo}                                  // DETHCLAW.MAP
+{138}{}{Cubo}                                  // HUBDWNTN.MAP
+{139}{}{Cubo}                                  // HUBHEIGT.MAP
+{140}{}{Cubo}                                  // HUBOLDTN.MAP
+{141}{}{Cubo}                                  // HUBWATER.MAP
+{142}{}{Brilho}                                 // GLOW1.MAP
+{143}{}{Brilho}                                 // GLOW2.MAP
+{144}{}{Boneyard}                             // LABLADES.MAP
+{145}{}{Boneyard}                             // LARIPPER.MAP
+{146}{}{Boneyard}                             // LAGUNRUN.MAP
+{147}{}{Catedral}                            // CHILDEAD.MAP
+{148}{}{Militares}                             // MBDEAD.MAP
+{149}{}{Montanhas}                            // MOUNTN1.MAP
+{150}{}{Montanhas}                            // MOUNTN2.MAP
+{151}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                               // FOOT.MAP
+{152}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                               // TARDIS.MAP
+{153}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                               // TALKCOW.MAP
+{154}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                               // USEDCAR.MAP
+{155}{}{fraternidade}                          // BRODEAD.MAP
+{156}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                               // DESCRVN1.MAP
+{157}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}                               // DESCRVN2.MAP
+{158}{}{Montanhas}                            // MNTCRVN1.MAP
+{159}{}{Montanhas}                            // MNTCRVN2.MAP
+{160}{}{Viper Camp}
+{161}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{162}{}{Montanhas}
+{163}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{164}{}{Montanhas}
+
+
+#
+# Cidade elevation names -- AUTOMAP Names!
+#
+# Format: 3 (max elevations), by city
+#
+# 00: Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, DESERT1.MAP
+{200}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{201}{}{}
+{202}{}{}
+# 01: Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, DESERT2.MAP
+{203}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{204}{}{}
+{205}{}{}
+# 02: Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, DESERT3.MAP
+{206}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{207}{}{}
+{208}{}{}
+# 03: Arroyo Temple, ARCAVES.MAP
+{209}{}{Templo: Foyer}
+{210}{}{Templo: corredor}
+{211}{}{Templo: Sanctum interno}
+# 04: Arroyo Aldeia, .MAP
+{212}{}{Aldeia}
+{213}{}{}
+{214}{}{}
+# 05: Arroyo Ponte, .MAP
+{215}{}{Ponte}
+{216}{}{Destroyed Ponte}
+{217}{}{}
+# 06: Den, denbus1.MAP
+{218}{}{Empresas}
+{219}{}{}
+{220}{}{}
+# 07: Den, denbus2.MAP
+{221}{}{Empresas}
+{222}{}{}
+{223}{}{}
+# 08: Den, denres1.MAP
+{224}{}{residencial}
+{225}{}{}
+{226}{}{}
+# 09: , .MAP ;Klamath Centro da cidade
+{227}{}{Centro da cidade}
+{228}{}{Centro da cidade}
+{229}{}{Centro da cidade}
+# 10: , .MAP ;Klamath Centro comercial
+{230}{}{Centro comercial}
+{231}{}{Centro comercial}
+{232}{}{}
+# 11: , .MAP ;Klamath Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas de ratos
+{233}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas de ratos}
+{234}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas de ratos}
+{235}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas de ratos}
+# 12: , .MAP ;Klamath Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas tóxicas
+{236}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas tóxicas}
+{237}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas tóxicas}
+{238}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas tóxicas}
+# 13: , .MAP ;Klamath Trapping Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas
+{239}{}{Trapping Grounds}
+{240}{}{Trapping Grounds}
+{241}{}{Trapping Grounds}
+# 14: , .MAP ;Klamath Área de pastoreio
+{242}{}{Área de pastoreio}
+{243}{}{Área de pastoreio}
+{244}{}{}
+# 15: , .MAP ; Vault Cidade Pátio
+{245}{}{Pátio}
+{246}{}{}
+{247}{}{}
+# 16: , .MAP ; Vault Cidade Centro da cidade
+{248}{}{Centro da cidade}
+{249}{}{}
+{250}{}{}
+# 17: , .MAP ; Vault Cidade Council
+{251}{}{Área do Conselho}
+{252}{}{}
+{253}{}{}
+# 18: , .MAP ; Modoc Rua principal
+{254}{}{Rua principal}
+{255}{}{}
+{256}{}{}
+# 19: , .MAP ; Modoc Bed and Breakfast
+{257}{}{Bed and Breakfast}
+{258}{}{}
+{259}{}{}
+# 20: , .MAP ; Modoc brahmin Pastagens
+{260}{}{brahmin Pastagens}
+{261}{}{}
+{262}{}{}
+# 21: , .MAP ; Modoc Jardim de Farrel
+{263}{}{Jardim de Farrel}
+{264}{}{}
+{265}{}{}
+# 22: , .MAP ; Modoc Down the Shitter
+{266}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas}
+{267}{}{}
+{268}{}{}
+# 23: , .MAP ; Modoc Town Hall
+{269}{}{Cidade Bem}
+{270}{}{}
+{271}{}{}
+# 24: , .MAP ; Modoc Ghost Town: The Ghost Fazenda
+{272}{}{Fazenda}
+{273}{}{}
+{274}{}{}
+# 25: , .MAP ; Modoc Ghost Town: Main Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa
+{275}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{276}{}{}
+{277}{}{}
+# 26: , .MAP ; Modoc Ghost Town: Lago subterrâneo
+{278}{}{Lago subterrâneo}
+{279}{}{}
+{280}{}{}
+# 27: , .MAP ; Sierra Army Depot: The Campo de batalha
+{281}{}{Campo de batalha}
+{282}{}{}
+{283}{}{}
+# 28: , .MAP ; Sierra Army Depot: Levels 1-3
+{284}{}{Pessoal}
+{285}{}{Baía de armazenamento}
+{286}{}{Laboratóriooratório de robótica}
+# 29: , .MAP ; Sierra Army Depot: Nível 4
+{287}{}{Laboratóriooratório de Pesquisa Biológica}
+{288}{}{}
+{289}{}{}
+# 30: Vault Cidade Vault, .MAP
+{290}{}{Vault: Nível 1}
+{291}{}{Vault: nível 2}
+{292}{}{Vault: Nível 3}
+# 31: Gecko Assentamento
+{293}{}{Assentamento}
+{294}{}{Assentamento}
+{295}{}{Assentamento}
+# 32: Gecko Usina elétrica, .MAP
+{296}{}{Usina elétrica}
+{297}{}{Usina elétrica}
+{298}{}{}
+# 33: Gecko Junkyard, .MAP
+{299}{}{Junkyard}
+{300}{}{Junkyard}
+{301}{}{Junkyard}
+# 34: Gecko Túneis de acesso, .MAP
+{302}{}{Túneis de acesso}
+{303}{}{Túneis de acesso}
+{304}{}{Túneis de acesso}
+# 35: Arroyo Região selvagem, .MAP
+{305}{}{Região selvagem}
+{306}{}{}
+{307}{}{}
+# 36: Vault 15, .MAP
+{308}{}{Vault 15: Nível 1}
+{309}{}{Vault 15: Nível 2}
+{310}{}{Vault 15: Nível 3}
+# 37: Vault 15, .MAP
+{311}{}{Squatters}
+{312}{}{}
+{313}{}{}
+# 38: Vault 15, .MAP
+{314}{}{Squatters}
+{315}{}{}
+{316}{}{}
+# 39: Vault 15, .MAP
+{317}{}{Entrada do Leste}
+{318}{}{}
+{319}{}{}
+# 40: Vault 13, .MAP
+{320}{}{Nível 1}
+{321}{}{Nível 2}
+{322}{}{Nível 3}
+# 41: Vault 13, .MAP
+{323}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{324}{}{}
+{325}{}{}
+# 42: NCR, .MAP
+{326}{}{Centro da cidade}
+{327}{}{}
+{328}{}{}
+# 43: NCR, .MAP
+{329}{}{Salão do Conselho}
+{330}{}{}
+{331}{}{}
+# 44: NCR, .MAP
+{332}{}{Westin Ranch}
+{333}{}{}
+{334}{}{}
+# 45: NCR, .MAP
+{335}{}{Terras de pastagem}
+{336}{}{}
+{337}{}{}
+# 46: NCR, .MAP
+{338}{}{Bazar}
+{339}{}{}
+{340}{}{}
+# 47: NCR, .MAP
+{341}{}{Salão do Conselho}
+{342}{}{}
+{343}{}{}
+# 48: Klamath, klacanyn.MAP
+{344}{}{Canyon}
+{345}{}{Canyon}
+{346}{}{Canyon}
+# 49: Militares Base, mbase12.MAP
+{347}{}{Nível 1}
+{348}{}{Nível 2}
+{349}{}{}
+# 50: Militares Base, mbase34.MAP
+{350}{}{Nível 3}
+{351}{}{Nível 4}
+{352}{}{}
+# 51: Militares Base, mbclose.MAP
+{353}{}{Entrada}
+{354}{}{}
+{355}{}{}
+# 52: Den Slave Run dnslvrun.MAP
+{356}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{357}{}{Aldeia}
+{358}{}{Acampamento}
+# 53: Car Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo out-of-gas, CarDesrt.MAP
+{359}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{360}{}{}
+{361}{}{}
+# 54: Novo Reno 1 newr1.MAP
+{362}{}{Virgin Street}
+{363}{}{Porão Desperado}
+{364}{}{Desperado 2 º andar}
+# 55: Novo Reno 2 newr2.MAP
+{365}{}{Rua 2}
+{366}{}{2 º andar}
+{367}{}{Shark Club 3rd Floor}
+# 56: Novo Reno 3 newr3.MAP
+{368}{}{Fila Comercial}
+{369}{}{Novo Reno Arms Porão}
+{370}{}{}
+# 57: Novo Reno 4 newr4.MAP
+{371}{}{zona leste}
+{372}{}{Estação de trem}
+{373}{}{}
+# 58: Novo Reno Chop Shop newrcs.MAP
+{374}{}{Chop Shop}
+{375}{}{}
+{376}{}{}
+# 59: Novo Reno GO newrgo.MAP
+{377}{}{Cemitério}
+{378}{}{Shelter Fallout}
+{379}{}{}
+# 60: Novo Reno ST newrst.MAP
+{380}{}{}
+{381}{}{Laboratório}
+{382}{}{}
+# 61: Novo Reno Arena de boxe newrba.MAP
+{383}{}{Arena de boxe}
+{384}{}{Arena de boxe}
+{385}{}{Arena de boxe}
+# 62: Redding Wanamingo Meu Entrada  RedWame.Map
+{386}{}{Meu Entrada}
+{387}{}{Meu Entrada}
+{388}{}{Meu Entrada}
+# 63: Great Wanamingo Meu, Nível 1 and 2  RedWan1.MAP
+{389}{}{Meu Nível 1}
+{390}{}{Meu Nível 2}
+{391}{}{}
+# 64: Redding Centro da cidade  RedDown.MAP
+{392}{}{Centro da cidade}
+{393}{}{Centro da cidade}
+{394}{}{Centro da cidade}
+# 65: Redding Meu Entrada   RedMEnt.MAP
+{395}{}{Meu Entrada}
+{396}{}{Meu Entrada}
+{397}{}{Meu Entrada}
+# 66: Redding Centro da cidade Túneis  RedDTun.MAP
+{398}{}{Túneis}
+{399}{}{Túneis}
+{400}{}{Túneis}
+# 67: Redding Meu Entrada Túneis
+{401}{}{Túneis}
+{402}{}{Túneis}
+{403}{}{Túneis}
+# 68: Encontro Aleatório Cidade 1
+{404}{}{Cidade}
+{405}{}{Cidade}
+{406}{}{Cidade}
+# 69: Encontro Aleatório Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa 0
+{407}{}{Montanha}
+{408}{}{Montanha}
+{409}{}{Montanha}
+# 70: Encontro Aleatório Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa 1
+{410}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaas}
+{411}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{412}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+# 71: Encontro Aleatório Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa 2
+{413}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{414}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{415}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+# 72: Encontro Aleatório Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa 3
+{416}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{417}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{418}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+# 73: Encontro Aleatório Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa 4
+{419}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{420}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{421}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+# 74: Encontro Aleatório Montanha 1
+{422}{}{Montanha}
+{423}{}{Montanha}
+{424}{}{Montanha}
+# 75: Encontro Aleatório Montanha 2
+{425}{}{Montanha}
+{426}{}{Montanha}
+{427}{}{Montanha}
+# 76: Encontro Aleatório Costa 1
+{428}{}{Costa}
+{429}{}{Costa}
+{430}{}{Costa}
+# 77: Encontro Aleatório Costa 2
+{431}{}{Costa}
+{432}{}{Costa}
+{433}{}{Costa}
+# 78: Broken Hills 1  broken1.map
+{434}{}{Centro da cidade}
+{435}{}{Porão}
+{436}{}{Não utilizado}
+# 79: Broken Hills 2 broken2.map
+{437}{}{residencial}
+{438}{}{Undeground}
+{439}{}{Meu}
+# 80: Encontro Aleatório Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa 5
+{440}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{441}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{442}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+# 81: Encontro Aleatório Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo 4
+{443}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{444}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{445}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 82. Encontro Aleatório Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo 5
+{446}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{447}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{448}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 83. Encontro Aleatório Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo 6
+{449}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{450}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{451}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 84. Encontro Aleatório Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo 7
+{452}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{453}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{454}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 85. Encontro Aleatório Costa 3
+{455}{}{Costa}
+{456}{}{Costa}
+{457}{}{Costa}
+# 86. Encontro Aleatório Costa 4
+{458}{}{Costa}
+{459}{}{Costa}
+{460}{}{Costa}
+# 87. Encontro Aleatório Costa 5
+{461}{}{Costa}
+{462}{}{Costa}
+{463}{}{Costa}
+# 88. Encontro Aleatório Costa 6
+{464}{}{Costa}
+{465}{}{Costa}
+{466}{}{Costa}
+# 89. Encontro Aleatório Costa 7
+{467}{}{Costa}
+{468}{}{Costa}
+{469}{}{Costa}
+# 90. Encontro Aleatório Costa 8
+{470}{}{Costa}
+{471}{}{Costa}
+{472}{}{Costa}
+# 91. Encontro Aleatório Costa 9
+{473}{}{Costa}
+{474}{}{Costa}
+{475}{}{Costa}
+# 92. Incursores Camp 1
+{476}{}{Raider Camp}
+{477}{}{Raider Camp}
+{478}{}{Raider Camp}
+# 93. Raider Camp 2
+{479}{}{Cave Entrada}
+{480}{}{Ninho Escorpião}
+{481}{}{Casernas}
+# 94. Broken Hills Encontro Aleatório Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+{482}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{483}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{484}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 95. Broken Hills Encontro Aleatório Montanha
+{485}{}{Montanha}
+{486}{}{Montanha}
+{487}{}{Montanha}
+# 96. Special Encounter: Whale
+{488}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{489}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{490}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 97. Special Encounter: Tin Woodsman
+{491}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{492}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{493}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 98. Special Encounter: Cabeça de conversa
+{494}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{495}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{496}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 99. Special Encounter: Shuttle da Federação
+{497}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{498}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{499}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 100. Special Encounter: Unwashed Aldeiars
+{500}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{501}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{502}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 101. Special Encounter: Ponte
+{503}{}{Ponte of Death}
+{504}{}{Ponte of Death}
+{505}{}{Ponte of Death}
+# 102. Special Encounter: Cafe of Broken Dreams
+{506}{}{Cafe of Broken Dreams}
+{507}{}{Cafe of Broken Dreams}
+{508}{}{Cafe of Broken Dreams}
+# 103. Special Encounter: Holy Hand Grenade 1
+{509}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{510}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{511}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 104. Special Encounter: Holy Hand Grenade 2
+{512}{}{Montanha}
+{513}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{514}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+# 105. Special Encounter: Guardião of Forever
+{515}{}{Guardião}
+{516}{}{Vault 13}
+{517}{}{Vault 13}
+# 106. Special Encounter: Descarga de resíduos tóxicos
+{518}{}{Descarga de resíduos tóxicos}
+{519}{}{Descarga de resíduos tóxicos}
+{520}{}{Descarga de resíduos tóxicos}
+# 107. Special Encounter: Pahiahs
+{521}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{522}{}{Deset}
+{523}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 108. Special Encounter: Brahmin louco
+{524}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{525}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{526}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 109. Navarro Entrada
+{527}{}{Posto de gasolina}
+{528}{}{Subterrâneo}
+{529}{}{Base Vertibird}
+# 110. Costa Encounter 10
+{530}{}{Costaline}
+{531}{}{Costaline}
+{532}{}{Costaline}
+# 111. Costa Encounter 11
+{533}{}{Costaline}
+{534}{}{Costaline}
+{535}{}{Costaline}
+# 112. Costa Encounter 12
+{536}{}{Costaline}
+{537}{}{Costaline}
+{538}{}{Costaline}
+# 113. Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo Encounter 8
+{539}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{540}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{541}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 114. Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo Encounter 9
+{542}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{543}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{544}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 115. Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo Encounter 10
+{545}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{546}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{547}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 116. Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo Encounter 11
+{548}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{549}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{550}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 117. Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo Encounter 12
+{551}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{552}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{553}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 118. Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa Encounter 5
+{554}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{555}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{556}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+# 119. Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa Encounter 6
+{557}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{558}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{559}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+# 120. Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa Encounter 7
+{560}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{561}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+{562}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaa}
+# 121. Montanha Encounter 3
+{563}{}{Montanha}
+{564}{}{Montanha}
+{565}{}{Montanha}
+# 122. Montanha Encounter 4
+{566}{}{Montanha}
+{567}{}{Montanha}
+{568}{}{Montanha}
+# 123. Montanha Encounter 5
+{569}{}{Montanha}
+{570}{}{Montanha}
+{571}{}{Montanha}
+# 124. Montanha Encounter 6
+{572}{}{Montanha}
+{573}{}{Montanha}
+{574}{}{Montanha}
+# 125. Cidade Encounter
+{575}{}{Abandoned Cidade}
+{576}{}{Ruined Cidade}
+{577}{}{Ruined Cidade}
+# 126. Arroyo Temple
+{578}{}{Temple Entrada}
+{579}{}{Temple Entrada}
+{580}{}{Temple Entrada}
+# 127. Destroyed Arroyo
+{581}{}{Destroyed Ponte}
+{582}{}{Destroyed Ponte}
+{583}{}{Destroyed Ponte}
+# [Map 128] lookup_name=Enclave Detention
+{584}{}{Células de Detenção}
+{585}{}{Células de Detenção}
+{586}{}{Células de Detenção}
+# [Map 129] lookup_name=Enclave Doca
+{587}{}{Doca}
+{588}{}{Doca}
+{589}{}{Doca}
+# [Map 130] lookup_name=Enclave End Fight
+{590}{}{Enclave}
+{591}{}{Enclave}
+{592}{}{Enclave}
+# [Map 131] lookup_name=Enclave Guard Casernas
+{593}{}{Guard Casernas}
+{594}{}{Guard Casernas}
+{595}{}{Guard Casernas}
+# [Map 132] lookup_name=Enclave Presidential
+{596}{}{Área Presidencial}
+{597}{}{Área Presidencial}
+{598}{}{Área Presidencial}
+# [Map 133] lookup_name=Enclave Reator
+{599}{}{Reator}
+{600}{}{Reator}
+{601}{}{Reator}
+# [Map 134] lookup_name=Enclave Trap Room
+{602}{}{Corredor de acesso}
+{603}{}{Corredor de acesso}
+{604}{}{Corredor de acesso}
+# [Map 135] lookup_name=San Fran Tanker
+{605}{}{Tanque de óleo}
+{606}{}{Tanque de óleo}
+{607}{}{Tanque de óleo}
+# [Map 136] lookup_name=San Fran Doca
+{608}{}{Doca}
+{609}{}{Doca}
+{610}{}{Doca}
+# [Map 137] lookup_name=San Fran China
+{611}{}{Chinatown}
+{612}{}{Chinatown}
+{613}{}{Chinatown}
+# 138. Shuttle Exterior
+{614}{}{Shuttle Doca}
+{615}{}{Shuttle Doca}
+{616}{}{Shuttle Doca}
+# 139. Shuttle Interior
+{617}{}{Shuttle Interior}
+{618}{}{Shuttle Interior}
+{619}{}{Shuttle Interior}
+# 140. Cuboologist Base
+{620}{}{Cuboologist Base}
+{621}{}{Cuboologist Base}
+{622}{}{Cuboologist Base}
+# 141. Cidade Encounter 3
+{623}{}{Destroyed Cidade}
+{624}{}{Destroyed Cidade}
+{625}{}{Destroyed Cidade}
+# 142. Cidade Encounter 4
+{626}{}{Destroyed Cidade}
+{627}{}{Destroyed Cidade}
+{628}{}{Destroyed Cidade}
+# 143. Cidade Encounter 5
+{629}{}{Destroyed Cidade}
+{630}{}{Destroyed Cidade}
+{631}{}{Destroyed Cidade}
+# 144. Cidade Encounter 6
+{632}{}{Destroyed Cidade}
+{633}{}{Destroyed Cidade}
+{634}{}{Destroyed Cidade}
+# 145. Cidade Encounter 7
+{635}{}{Destroyed Cidade}
+{636}{}{Destroyed Cidade}
+{637}{}{Destroyed Cidade}
+# 146. Cidade Encounter 8
+{638}{}{Destroyed Cidade}
+{639}{}{Destroyed Cidade}
+{640}{}{Destroyed Cidade}
+# 147. Novo Reno VB  newrvb.MAP
+{641}{}{Área Vertibird}
+{642}{}{Área Vertibird}
+{643}{}{Área Vertibird}
+# 148. Templo de Shi
+{644}{}{Templo de Shi}
+{645}{}{Templo de Shi}
+{646}{}{Templo de Shi}
+# 149. In Game Movie
+{647}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{648}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{649}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+# 150. RndBess
+{650}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{651}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{652}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+
+
+#
+#	Short Cidade names
+#
+{1500}{}{Arroyo}
+{1501}{}{Den}
+{1502}{}{Klamath}
+{1503}{}{Modoc}
+{1504}{}{Vault Cidade}
+{1505}{}{Gecko}
+{1506}{}{Broken Hills}
+{1507}{}{Novo Reno}
+{1508}{}{Sierra Army Depot}
+{1509}{}{Vault 15}
+{1510}{}{Nova República da Califórnia}
+{1511}{}{Vault 13}
+{1512}{}{Militares Base}
+{1513}{}{Redding}
+{1514}{}{São Francisco}
+{1515}{}{Navarro}
+{1516}{}{O Enclave}
+{1517}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}           # Abbey
+{1518}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}           # Primitive Tribe
+{1519}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}           # EPA
+{1520}{}{Ghost Fazenda}
+{1521}{}{Car Outta Power}
+{1522}{}{Arroyo}
+{1523}{}{Cavernaaaaaaaaaaaaaaaaaaaaaaaaaaaas tóxicas}
+{1524}{}{Den Slave Run}
+{1525}{}{Incursores}
+{1526}{}{Desertooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo}
+{1527}{}{Montanha}
+{1528}{}{Ruined Cidade}
+{1529}{}{Costa}
+{1530}{}{Gólgota}
+{1531}{}{Baleia acidentada}
+{1532}{}{Tin Woodsman}
+{1533}{}{Cabeça de conversa}
+{1534}{}{Shuttle da Federação}
+{1535}{}{Unwashed Aldeiars}
+{1536}{}{Ponte}
+{1537}{}{Cafe of Broken Dreams}
+{1538}{}{Paladinos}
+{1539}{}{Caverna do rato de Vorpal}
+{1540}{}{Guardião of Forever}
+{1541}{}{Descarga de resíduos tóxicos}
+{1542}{}{Pariahs}
+{1543}{}{Brahmin louco}
+{1544}{}{Caravana}
+{1545}{}{Vault 13}
+{1546}{}{Fake Vault 13}
+{1547}{}{Encontro Aleatório}
+{1548}{}{Estábulos}

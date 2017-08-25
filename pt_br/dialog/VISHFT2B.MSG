@@ -1,0 +1,16 @@
+{100}{}{Um respiradouro, fornecendo ar processado e limpo para todo o complexo do vault. Você pode ouvir um desmaio
+ chocalho do interior do respiradouro.}
+{101}{}{Você vê um respiradouro.}
+{102}{}{Um respiradouro, fornecendo ar processado e limpo para todo o complexo do vault. Você pode ouvir um desmaio
+ chocalho do interior do respiradouro.}
+{103}{}{Um respiradouro, fornecendo ar processado e limpo para todo o complexo do vault.}
+{104}{}{Você vê um respiradouro.}
+{105}{}{Um respiradouro, fornecendo ar processado e limpo para todo o complexo do vault.}
+{106}{}{::Chocalho::}
+{107}{}{Não parece haver nada de errado com este respiradouro que você pode dizer.}
+{108}{}{Você abre o respiradouro e procura a fonte do chocalho. Você localiza algo alojado dentro e
+ retire-o.}
+{109}{}{Parece que alguém escondeu isso no respiradouro.}
+{110}{}{Você abre o respiradouro e procura a fonte do bloqueio. Você localiza algo alojado dentro e
+ retire-o.}
+{111}{}{Parece que alguém escondeu isso no respiradouro.}

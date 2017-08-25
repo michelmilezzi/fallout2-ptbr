@@ -1,0 +1,166 @@
+{100}{}{Você vê um homem de aparência desalinhada com uma barba grande.}
+{101}{}{Você vê Athabaska Dick.}
+{102}{}{Esse homem parece um mineiro que conhecia seu caminho em torno de um poço.}
+{103}{}{Você é muito burro pelo meu trabalho.}
+{104}{}{Bem-vindo à grande cidade.}
+{105}{}{Sua clarabóia escapa um pouco, não é?}
+{106}{}{Você é tão inteligente quanto isca.}
+{107}{}{Eu usei pás com mais cérebros e você.}
+{108}{}{O mesmo antigo, principalmente. Todos nós, mineiros, trabalhamos o suficiente para obter o nosso próximo voo no Jet.}
+{109}{}{Deixe-me perguntar-lhe outra coisa.}
+{110}{}{Jato? O que é Jet?}
+{111}{}{Entendo. Adeus.}
+{112}{}{Bem, a maioria de nós está trabalhando no nosso culto para obter Jet suficiente. Damn price está subindo todos os
+ Agora, agora. Odeie o jeito que eu sinto quando não estou voando Jet.}
+{113}{}{Deixe-me perguntar-lhe outra coisa.}
+{114}{}{Jato? O que é Jet?}
+{115}{}{Entendo. Adeus.}
+{116}{}{Não basta trabalhar o suficiente para obter o Jet. Eu preciso me sentir bem. Mebbe 'podemos trabalhar algo fora
+ com New Reno, direto como. Ouvi dizer que Ascorti poderia estar trabalhando nisso.}
+{117}{}{Deixe-me perguntar-lhe outra coisa.}
+{118}{}{Asctorti? Quem é aquele?}
+{119}{}{Jato? O que é Jet?}
+{120}{}{Entendo. Adeus.}
+{121}{}{Eu não me sinto tão bem ultimamente, e parece que eu também não estou sozinho. Eu tentei voar mais Jet
+ Mas a costa não parece ajudar nada. Eu acho que está me fazendo sentir pior do que nunca. Eu me sinto mais baixo na barriga de uma cobra como a maioria dos mineiros.}
+{122}{}{Deixe-me perguntar-lhe outra coisa.}
+{123}{}{Jato? O que é Jet?}
+{124}{}{Entendo. Adeus.}
+{125}{}{Não sei o que aconteceu, mas a maioria desistiu do Jet depois desse último lote. eu me sentia como
+ Nós íamos pilotar Jet para aquele grande aeroporto no céu. Ninguém tem muito interesse em não tomar mais nada.
+ Jist a idéia nos deixa doentes.}
+{126}{}{Deixe-me perguntar-lhe outra coisa.}
+{127}{}{Jato? O que é Jet?}
+{128}{}{Entendo. Adeus.}
+{129}{}{Howdy. Meu nome é Athabaska Dick. Principalmente as pessoas me chamam de Dick. "Claro, há algum
+ me chama Athabaska. Principalmente eles apenas me chamam Dick, no entanto.}
+{130}{}{Olá. O que o velho Athabaska Dick pode fazer?}
+{131}{}{Tenho que apressar-se. Rápido rápido! Bem? O que você está esperando? Se você quiser falar com Athabaska
+ Dick você precisa falar mais rápido disso.}
+{132}{}{Wha ', o que você quer? Cain'tcha vê que estou ocupada. (murmuração para si mesmo) deve permanecer ocupado
+ Tempo ... ocupado ... ocupado ...}
+{133}{}{(gemidos) O que você quer do velho Athabaska Dick? (para si) Eu sinto que fui chutado no
+ cabeça por uma mula.}
+{134}{}{Estou com pouca dificuldade. O que você quer incomodar o Dick com?}
+{135}{}{Olá, meu nome é Athabaska Dick. Eu costumava passar todo meu tempo tomando Jet. Mas não estou fazendo isso
+ mais merda.}
+{136}{}{Nunca mais me sinto tão encharcado e esfarrapado em todos os meus dias de nascimento.}
+{137}{}{Dick, o que você faz aqui?}
+{138}{}{Hey Dick ... o que está acontecendo na cidade ultimamente?}
+{139}{}{Ouça rumores interessantes?}
+{140}{}{O que significa "At-the-basket"?}
+{141}{}{Qual o problema com você?}
+{142}{}{O que aconteceu com você?}
+{143}{}{Eu trabalho um feitiço de vez em quando aqui no Morningstar. Eles sempre podem usar ajuda experiente.}
+{144}{}{Deixe-me perguntar-lhe outra coisa, então.}
+{145}{}{Compreendo. Bem, era tudo o que eu precisava saber. Adeus.}
+{146}{}{Bem, não muito ultimamente, exceto sobre eles goll-dang Wanamingos.}
+{147}{}{Want-a-mongols? Que raio é aquilo?}
+{148}{}{Claro. Deixe-me perguntar-lhe sobre outra coisa.}
+{149}{}{Bem, era tudo o que eu precisava saber. Adeus.}
+{150}{}{Atha-baska, Athabaska. Isso não é tão difícil dizer, não é? Criminoso. Esse é apenas o meu apelido.
+ Você realmente quer saber como consegui meu apelido?}
+{151}{}{Uh, not really. Deixe-me perguntar-lhe outra coisa.}
+{152}{}{Eu acho que é tudo o que preciso saber. Adeus.}
+{153}{}{Key-rist! Estou mais doente e é um cachorro e gritei aos meus pés por dias agora ... desde que eu tive
+ aquele último hit de Jet. Algo deve ter ficado ruim com esse lote. Se eu sobreviver a isso, eu não sou nunca
+ Vai ter Jet novamente.}
+{154}{}{Sounds bad. Deixe-me perguntar-lhe outra coisa, então.}
+{155}{}{Compreendo. Bem, era tudo o que eu precisava saber. Adeus.}
+{156}{}{Eu fiz isso. Ainda não se sente muito bem com isso. Mas eu acho que vou ficar melhor por isso.}
+{157}{}{O que você quer dizer? O que aconteceu?}
+{158}{}{Você está me dizendo que você nunca ouviu falar dos Wanamingos?}
+{159}{}{Uh, well, um. Sure I've heard about the Wanamingos. Deixe-me perguntar-lhe outra coisa.}
+{160}{}{Jamais, nunca ouvi falar de nada assim. Diga me sobre eles.}
+{161}{}{Nunca ouvi falar de Wana-whatchamacallits, e não tenho tempo para desperdiçar seu conto de fadas
+ agora. Adeus.}
+{162}{}{Eu chutei o hábito - foi o que aconteceu. Eu nunca mais estou tendo Jet novamente. Esse último lote
+ quase me matou. Descobri que não queria tanto depois disso. Eu não queria nenhum deles desde então.}
+{163}{}{Bem, bom para você, eu acho. Deixe me perguntar algo.}
+{164}{}{Interessante. Bem, vou deixar você para sua recuperação. Adeus.}
+{165}{}{Bem, alguns dizem que estavam aqui antes das bombas A, das bombas H e de todos os outros. Outros dizem
+ eles eram jean-eti-cally sintonizados como armas. Um 'então há algum o que diz que eles são de um
+ Todo mundo diferente.}
+{166}{}{O que eles são*? Quem se importa de onde vieram, apenas me diga o que eles são *.}
+{167}{}{Sim claro. Já ouvi o suficiente, antigo. Adeus.}
+{168}{}{Bem, eu não sei exatamente o que são "zactly". Mas eu parento dizer-lhe isso: eles desligaram o
+ Wanamingo Mine, apenas a oeste da cidade há alguns anos atrás.}
+{169}{}{A mina de Wanamingo?}
+{170}{}{Isso é bom. Bem, é melhor eu ir, antigo. Obrigado pela história. Adeus.}
+{171}{}{Sim. E o Grande Wanamingo também foi o ataque mais rico nestas partes. Mas agora,
+ Ninguém se aproximará. Heck, você poderia comprá-lo da Ascorti se quisesse. Mas ninguém vai.}
+{172}{}{Como estava dizendo. O Grande Wanamingo costumava ser a mina mais rica, mas agora você poderia comprar
+ é para uma música.}
+{173}{}{Eu poderia comprá-lo? Vale a pena?}
+{174}{}{Quem é o Ascorti?}
+{175}{}{Parece muito perigoso para mim. Adeus.}
+{176}{}{Bem, não agora não é. Você não ouviu nada que eu disse? Está cheio de condenação
+ Wanamingos. Mas se alguém estivesse para limpar o lugar - bem, isso seria um brâmane de um diferente
+ cor. Heck, você nem teria que matá-los.}
+{177}{}{O que você quer dizer?}
+{178}{}{brahmin de uma cor diferente? Isso é como um pachyderm rosa? Eu vou deixar você e seu
+ o delírio sozinho agora. Adeus.}
+{179}{}{Bem, há coisas lá que os proprietários da Morningstar e as minas Kokoweef aqui
+ Na cidade, certamente pagaria um belo centavo.}
+{180}{}{Que tipo de coisa?}
+{181}{}{Dinheiro. Hmm. Bem, eu tenho que ir. Adeus.}
+{182}{}{Bem, veja, as minas costumavam ser escavadas por grandes máquinas. Heck, essas máquinas estão construídas para durar.
+ Ambas as minas adquiriram grandes escavadeiras. Mas - e 'aqui é a questão do dinheiro - os pequenos chips de controle dang não foram
+ tornou tão difícil. Nem o meu tem um chip que funciona. Heh-hee.}
+{183}{}{Não tenho a certeza de entender o que você está recebendo aqui.}
+{184}{}{Quanto mais partes há, mais há para quebrar. Obrigado pela informação. Adeus.}
+{185}{}{Bem, o que estou dizendo é que o dono da mina pagaria por um desses chips de controle de escavação.
+ Heck, se eles tivessem uma máquina de trabalho e a outra não, eles fechariam a outra minada - ou
+ compre-os para fora - em nenhum momento.}
+{186}{}{Muito ruim, ninguém sabe onde conseguir uma dessas fichas, então.}
+{187}{}{Eu vou ter que ver o quanto eles pagariam por um chip como esse. Obrigado. Adeus.}
+{188}{}{Squee-gee fora seus ouvidos dang! Eu disse-lhe onde procurar o maldito chip. Você não esteve
+ Ouvindo uma palavra que eu disse? A mina de Wanamingo tinha máquinas, e eles estavam trabalhando até o momento em que
+ O meu foi desligado. Prolly ainda chips lá embaixo. Jist esperando que alguém venha "pegá-los".}
+{189}{}{Hmm, talvez assim. Deixe-me perguntar-lhe sobre outra coisa.}
+{190}{}{Conte-me sobre aqueles Want-to-mangles, então.}
+{191}{}{Obrigado. Eu vou ter que olhar para isso. Adeus.}
+{192}{}{Bem, você vê - aqui está a verdade honesta do deus - eu conheço alguém que viu um parecido, era ...
+(o tempo passa) ... Com grandes colmilhos que ele usa para ... (mais tempo passa) ...}
+{193}{}{Eu tive um amigo uma vez que eu estava trabalhando com uma reivindicação e um dia ... (o tempo passa) ... grande como um brahmin
+ e cheirava pior ... (mais tempo passa) ...}
+{194}{}{Você vai se adormecer de qualquer maneira, mas aqui vai nuthin. Era tarde da noite, veja, e então ...
+(o tempo passa) ... pistas como uma cruz entre um Radscorpion e um Gecko ... (mais tempo passa) ... Veja, eu disse a você
+ você adormeceu.}
+{195}{}{Huh, wha? (sua cabeça se encaixa, você deve ter dormido).}
+{196}{}{É melhor eu encontrar algo para me ajudar a ficar acordado. Adeus.}
+{197}{}{... Então, agora você sabe. Os escravos que costumavam trabalhar na mina explodiram as lojas de dinamite e
+ escapou, em vez de enfrentar aqueles Wanamingos. Apague a mina logo depois e ninguém voltou.}
+{198}{}{Onde você disse que o Great Wanamingo Mine é?}
+{199}{}{Parece suficientemente sensível. Bem, adeus por enquanto.}
+{200}{}{Jist a oeste da cidade. Mas eu ouvi que alguns dos Wanamingos estavam vindo para a cidade tarde da noite.
+ Então, mebbe 'você não terá que ir lá para vê-los. Heh-hee.}
+{201}{}{I think I've heard all I need to about Wanamingos. Deixe-me perguntar-lhe outra coisa.}
+{202}{}{Eu vou manter um olho para qualquer um querendo querer se misturar. Adeus.}
+{203}{}{Ascorti é o prefeito. Ele dirige o centro da Ascorti's Ace. Ele cuida de comprar e vender muito
+ de coisas. Ele está no meio de todos os tipos de thangs.}
+{204}{}{Ascorti é o prefeito de Redding. Mas eu não sei exatamente onde ele está. Não o vi ao redor
+ por um trecho.}
+{205}{}{Deixe-me perguntar-lhe sobre outra coisa.}
+{206}{}{Oh, está bem. Bem, continue com o resto da sua história, então.}
+{207}{}{Eu acho que o escutei o suficiente. Adeus.}
+{208}{}{Jet é jist um pouco de New Reno. Eu preciso tomar o suficiente para suavizar as bordas ásperas.}
+{209}{}{Deixe-me perguntar-lhe outra coisa.}
+{210}{}{Interessante. Obrigado e adeus.}
+{211}{}{Jet é o caminho a seguir, cara. Se eu não estiver voando para o Jet, eu simplesmente não sinto nada mais. Você tem que
+ pegue algum.}
+{212}{}{Deixe-me perguntar-lhe outra coisa.}
+{213}{}{Interessante. Obrigado e adeus.}
+{214}{}{Eu não conseguiria tomar alguns Jet. Todo mundo está navegando ultimamente. Tenho que ter vontade de obter
+ de. Heck, eu não me sinto tão bem com isso, como eu sinto uma merda sem ele.}
+{215}{}{Deixe-me perguntar-lhe outra coisa.}
+{216}{}{Interessante. Obrigado e adeus.}
+{217}{}{O Jet é ruim, cara. Todo mundo que está usando ficou doente, como se eles morressem. Acho melhor ...
+(Inclina-se e seca acende um pouco) ... desculpe. Diga pardner, podemos falar sobre outra coisa?}
+{218}{}{Sure, sorry. Deixe-me perguntar-lhe outra coisa.}
+{219}{}{Interessante. Obrigado e adeus.}
+{220}{}{Eu nunca quero ouvir sobre esse jorrão de Deus novamente. Aquilo matará você. Damn-sight
+ pior 'Radscorp venom. Eu não acredito que eu já gostei disso. Aquela última vez ... eu
+ pensei que estava perdido.}
+{221}{}{Deixe-me perguntar-lhe outra coisa.}
+{222}{}{Interessante. Obrigado e adeus.}

@@ -1,0 +1,72 @@
+{100}{}{Você vê um homem com cabelos gordurosos. Ele está coberto de poeira.}
+{101}{}{Você vê Savinelli, o cara encarregado das novas caravanas Reno-a-Redding.}
+{102}{}{Você vê um cara curto e nervoso com cabelos lisos.}
+{103}{}{Se você vir aqui novamente, é possível que você tenha um acidente.}
+{104}{}{Voce foi avisado. Agora, saia daqui.}
+{105}{}{Transforme-os em cachorrinhos!}
+{106}{}{Uh, cachorrinhos? Ok, seja o que for. Vamos.}
+{107}{}{Olá. Eu sou Enrico Savinelli. Eu corro a caravana entre New Reno e Redding. Podemos usar um
+ guarda extra, se você estiver disposto a sair agora.}
+{108}{}{Olá. Eu sou Savinelli. Eu corro a caravana entre New Reno e Redding. Sempre procurando um
+ guarda confiável ou dois. Saímos da cidade no dia 21 de cada mês. Se você quiser entrar conosco, certifique-se
+ você está aqui no dia 21.}
+{109}{}{O que você quer?}
+{110}{}{Moo-Moos?}
+{111}{}{Você precisa de um guarda, hein?}
+{112}{}{O que você troca?}
+{113}{}{Por que você espera até o 21?}
+{114}{}{Não acho que seja para mim. Adeus.}
+{115}{}{Eles certamente escolheram a caravana errada para mexer.}
+{116}{}{Foda com minha caravana, eles vão?}
+{117}{}{Os filhos da puta devem saber melhor do que tentar isso com a minha caravana.}
+{118}{}{Bem, eles estão dormindo com os peixes agora. Vamos sair.}
+{119}{}{Mais do que esses calcanhares o tempo todo.}
+{120}{}{Você abandona minha caravana, e depois volta a implorar pelo trabalho? Saia daqui.}
+{121}{}{Eu disse sair. Você é surdo e amarelo?}
+{122}{}{Eu respeito os ladrões ... mas apenas os bons. Você não é nada além de um punk. Saia daqui antes que eu
+ tem que te machucar.}
+{123}{}{Um ladrão? Parece-me a essa observação, você admira a sua ingrate. Estou indo embora. Adeus.}
+{200}{}{Pode vir!}
+{124}{}{Você vai se arrepender de me cruzar. Adeus.}
+{125}{}{Essa foi uma das piores caravanas que tive nos anos. Eu não estou ganhando dinheiro com isso, então adivinhe
+ o que? Você também não está. Saia da minha frente.}
+{126}{}{Sim? Eu gostaria de ver você tentar isso, seu bastardo barato. Adeus.}
+{127}{}{Bem, às vezes você só tem mais sorte do que outros. Este foi um dos momentos infelizes. Adeus.}
+{128}{}{Porra. Minha bunda está realmente em um estilingue aqui. Perdemos tanta coisa. Eu sabia que deveria "
+ Prós contratados. Aqui estão US $ 500 para o seu tempo, você vale sem dinheiro.}
+{129}{}{Bem, algo é melhor do que nada, acho. Adeus.}
+{130}{}{Maldito bastardo! Ninguém poderia ter feito um trabalho melhor. Adeus.}
+{131}{}{Esse é o bilhete. Essa corrida foi suave como uma merda através de um ganso. Aqui está o seu $ 1500, amigo.}
+{132}{}{Eu não acho que eu sempre queira passar tanto tempo olhando o culo de um brahmin novamente. Adeus.}
+{133}{}{Obrigado. Até logo. Adeus.}
+{134}{}{É assim que uma corrida de caravana deve ir. Liso como o fundo sedoso de um bebê. Aqui estão os seus $ 1500, e
+ Eu mesmo vou jogar um extra de US $ 200 para o bom atendimento.}
+{135}{}{É bom encontrar alguém que aprecie a qualidade quando o vê. Te vejo, talvez. Adeus.}
+{136}{}{Obrigado pela mudança extra, Savinelli. Adeus.}
+{137}{}{Eu não tenho certeza de quanto tempo vai levar esses malditos sujeira-grubbers para obter meu frete de ouro
+ juntos. Estaremos prontos para ir no dia 21, não importa o que. Verifique comigo se você ainda quer um emprego.}
+{138}{}{Ei, estou juntando um pacote de coisas delicadas. Coisas que levam tempo. Não pode apressar-se
+ Qualidade, você sabe. Deve estar pronto para entrar no 21º. Volte, então, se você ainda quer um emprego.}
+{139}{}{O que você costuma transportar?}
+{140}{}{Deixe-me perguntar-lhe outra coisa.}
+{141}{}{Obrigado, vou fazer isso. Adeus.}
+{142}{}{Nós geralmente estamos procurando por guardas de caravanas, mas ainda não estou pronto para ir. Estarei pronto para
+ Participe no dia 21. Volte, então, se você quer um emprego.}
+{143}{}{Quando no dia 21?}
+{144}{}{O que esse caravana transporta?}
+{145}{}{Ok, obrigado. Adeus.}
+{146}{}{Ei, amigo, você precisa saber quando dizer não. E eu faço. Então não!}
+{147}{}{Oh, está bem.}
+{148}{}{Bem, nós pegamos principalmente, uh, suprimentos médicos - sim, é isso - em New Reno, e troque para
+ Redding para minério de ouro.}
+{149}{}{Isso é interessante. Você disse que está procurando guardas?}
+{150}{}{Deixe-me perguntar-lhe outra coisa.}
+{151}{}{Oh, está bem. Goodbye.}
+{153}{}{Você veio em um bom momento. Estamos prontos para ir agora. O trabalho paga $ 1500. Pronto para se juntar a nós?}
+{152}{}{Você veio em um bom momento. Estamos prontos para ir agora. O trabalho paga $ 1500, mas eu só pago
+ você para o trabalho, já que eu só preciso de um guarda mais. Pronto para se juntar a nós?}
+{154}{}{Parece bom. Estou pronto. Vamos.}
+{155}{}{Eu não acho que eu quero ser um guarda de caravanas. Eu te vejo por aí. Adeus.}
+{156}{}{Você era um pequeno macaco divertido, mas agora estou cansado de você. Saia daqui, seu idiota.}
+{157}{}{Numb-ass? Tchau tchau.}
+{158}{}{Grrr! Eu mato!}

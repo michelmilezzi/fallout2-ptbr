@@ -1,0 +1,73 @@
+{100}{}{Você vê alguém cuja pele foi muito queimada. Parece estar de guarda aqui.}
+{101}{}{Você vê um ghoul agindo como um guarda.}
+{102}{}{Você vê alguém cuja pele parece ter sido queimada com radiação. Essa radiação parece muita radiação
+ como se devesse ter matado eles, mas eles parecem suficientemente bons. Parecem como se estivessem
+ ficando de guarda aqui.}
+
+{110}{}{É melhor não tentar roubar novamente.}
+{111}{}{All you smoothskins are alike. É melhor não tentar roubar novamente.}
+{112}{}{Achei que você poderia ter deixado alguma coisa no meu bolso?}
+{113}{}{Corte isso, ou eu vou cortar você.}
+{114}{}{Eu não faria isso de novo, se eu fosse você.}
+{115}{}{Desligar as mãos só seria um começo.}
+{116}{}{Você não é o amigável?}
+{117}{}{Estou apenas procurando uma razão. Vou me dar uma?}
+
+{120}{}{Por que diabos você está se esgueirando?}
+{121}{}{Se você se esgueirar, você terá que ser muito mais silencioso do que isso.}
+{122}{}{Oh, você não é o sigiloso.}
+{123}{}{Você é bom no seu trabalho. Uh hein.}
+{124}{}{Dumbass, apenas ande normalmente.}
+{125}{}{Outro fugitivo do Ministério de Silly Walkks.}
+{126}{}{Eu posso ver você. Na verdade, estou esmagando sua cabeça.}
+{127}{}{Isso significa que você também não pode me ver?}
+{128}{}{O que é que foi isso? Esta não é uma charada. Isso requer concentração total.}
+{129}{}{Uh, você está realmente tentando ficar quieto?}
+
+{130}{}{Esta porta leva a uma área restrita. Você precisa de um cartão amarelo para passar.}
+{131}{}{Você precisa de Autorização Amarela para passar por aqui.}
+{132}{}{Você deve falar com Harold se quiser um cartão amarelo.}
+{133}{}{Sem chave, sem entrada.}
+{134}{}{Não pode atravessar esta porta sem um Keycard Amarelo, cara.}
+
+{140}{}{Fico feliz em ver que você tem autorização.}
+{141}{}{Olá, pele suave.}
+{142}{}{Se alguma coisa der errado, saberemos quem é culpado.}
+{143}{}{É melhor vê-lo lá. É um pouco quente para o seu tipo.}
+{144}{}{Bem, essa chave parece ser a certa.}
+
+{150}{}{Sem chave, sem entrada.}
+{151}{}{Esta é uma área restrita.}
+{152}{}{Melhor não estar tentando nada engraçado aqui.}
+{153}{}{Você precisa de um Keycard vermelho para entrar nesta porta.}
+{154}{}{É melhor perguntar a Harold por um Keycard vermelho se quiser entrar aqui.}
+
+{160}{}{Você melhor vê-lo aqui.}
+{161}{}{Bem-vindo à área de controle.}
+{162}{}{Não toque em nada lá.}
+{163}{}{Se algo der errado, eu vou, buscamos você.}
+{164}{}{Qualquer problema - estamos culpando você.}
+
+{170}{}{Um pouco surpreso ao ver um liso como você aqui.}
+{171}{}{Parece que você está começando a bronzear um pouco aqui.}
+{172}{}{Mmm, adoro esse vazamento de fundo - não é?}
+{173}{}{Não toque nada aqui.}
+{174}{}{Mantenha suas mãos para você e nós faremos tudo bem.}
+
+{180}{}{Não obtém suprimentos sem autorização.}
+{181}{}{Você não pode tirar nada daqui sem uma requisição.}
+{182}{}{Fale com Jeremy ou Harold se quiser alguma coisa.}
+{183}{}{Nada sai daqui sem uma requisição.}
+{184}{}{Nenhuma requisição, nenhuma parte.}
+
+{190}{}{Veja seu passo aqui, pele suave.}
+{191}{}{Você não está preocupado com a radiação aqui?}
+{192}{}{Basta assistir seu passo aqui.}
+{193}{}{Se alguma coisa der errado, estamos vindo para você primeiro.}
+{194}{}{Sorria pelas câmeras de segurança.}
+
+{200}{}{Que diabos você está fazendo com essa porta?}
+{201}{}{Bata fora e saia daqui.}
+{202}{}{Gee, isso certamente não parece um cartão-chave.}
+{203}{}{Se você tentar isso novamente, vamos ter que matá-lo.}
+{204}{}{Você tem que ser mais fofo do que parece tentar exatamente na nossa frente.}

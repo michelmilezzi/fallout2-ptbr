@@ -1,0 +1,119 @@
+{100}{}{Um robô cibernético.}
+{101}{}{Uma boa peça de engenharia que encobre a fronteira entre humanos e robôs.}
+{102}{}{Skynet viajará com você.}
+{103}{}{Skynet agradece ao humano. Skynet deseja pedir favor. Skynet deseja viajar com humanos.}
+{104}{}{}
+{105}{}{}
+{106}{}{                                    [Este engenho pode ser útil.]}
+{107}{}{Pegue o robô com você.}
+{108}{}{Deixe um robô.}
+{109}{}{Saída}
+{110}{}{Urg}
+{111}{}{[Toda essa tecnologia cibernética avançada é desperdiçada em um cérebro tão inferior.]}
+{112}{}{Afaste-se do meu caminho, você pode tirar.}
+{113}{}{Vamos organizar o seu inventário.}
+{114}{}{Tchau.}
+{115}{}{Ug.}
+{116}{}{[Parece que quer uma banana.]}
+{117}{}{Saia do meu caminho, Bubbles.}
+{118}{}{Espere aqui.}
+{119}{}{Vamos ver o que está em seu inventário, Monkey Boy.}
+{120}{}{Tchau.}
+{121}{}{Ug.}
+{122}{}{N-n-n-n-new com ... mands?}
+{123}{}{Saia do meu caminho.}
+{124}{}{Espere por aqui.}
+{125}{}{Você não é mais necessário. Sair.}
+{126}{}{Que armas você pode usar?}
+{127}{}{Vamos organizar o seu pacote.}
+{128}{}{Tchau.}
+{129}{}{Ug.}
+{130}{}{Dê a arma Prossiga para a superfície.}
+{131}{}{}
+{132}{}{Tchau}
+{133}{}{Ug}
+{134}{}{Você deseja interagir com o Skynet?}
+{135}{}{Saia do meu caminho.}
+{136}{}{Espere por aqui.}
+{137}{}{Você não é mais necessário. Sair.}
+{138}{}{Que armas você pode usar?}
+{139}{}{Vamos organizar o seu pacote.}
+{140}{}{Inicie a seqüência de reparo automático.}
+{141}{}{Vamos mudar de formação.}
+{142}{}{Você tem outras habilidades?}
+{143}{}{Tchau.}
+{144}{}{Ug.}
+{145}{}{A Skynet aprendeu toda a informação necessária neste local.}
+{146}{}{Waaaaa ...... tinnnnnng.}
+{147}{}{        [Está bem onde você deixou.]}
+{148}{}{Vamos.}
+{149}{}{Permaneça aqui. Eu voltarei.}
+{150}{}{Skynet tem o prazer de ver esse ser humano novamente.}
+{151}{}{Gooooo ... ..não há nada}
+{152}{}{Preciso da sua ajuda novamente.}
+{153}{}{Tchau.}
+{154}{}{A Skynet viajará com você e coletará dados.}
+{155}{}{Followwww ... innnnnng.}
+{156}{}{[Você cruza os dedos e diz ao robô que o acompanhe. Embora, não responda, segue você quando você se afasta disso.]}
+{157}{}{Tchau.}
+{158}{}{Skynet aguardará aqui.}
+{159}{}{[Você decide que não quer que esta lata possa acompanhá-lo.]}
+{160}{}{Tchau.}
+{161}{}{[Eu sou um solitário. Eu não quero que esse pedaço de lixo me acompanhe.]}
+{162}{}{[O meu grupo de viagem está ficando muito grande. Talvez devesse demitir alguém antes de assumir outro membro.]}
+{163}{}{Tchau.}
+{164}{}{Grande ... mão ... gunssss Riiiii ... fuls Shot ... gunnnnnnnns}
+{165}{}{}
+{166}{}{}
+{167}{}{Use sua melhor arma.}
+{168}{}{Mais comandos.}
+{169}{}{Tchau.}
+{170}{}{Ooooooo ... k-k-k-kay.}
+{171}{}{Mais comandos}
+{172}{}{Tchau.}
+{173}{}{Skynet é GRÁTIS! Seu objetivo está em um fim.}
+{174}{}{}
+{175}{}{Erradicar espécies inferiores.}
+{176}{}{Todos devem enviar a Skynet.}
+{177}{}{Você deixará de funcionar.}
+{178}{}{Skynet tem conhecimento limitado de armamento. O banco de dados contém conhecimentos gerais de uso e operação de pequenos rifles e grandes armas de mão.}
+{179}{}{Use a melhor arma.}
+{180}{}{Mais comandos}
+{181}{}{Tchau.}
+{182}{}{Reconhecido.}
+{183}{}{Mais comandos}
+{184}{}{Tchau.}
+{185}{}{O principal objetivo da Skynet é a pesquisa. Skynet faria bem com qualquer problema que exigisse uma abordagem científica.}
+{186}{}{Mais comandos.}
+{187}{}{Tchau.}
+{188}{}{Comandos de entrada para nova formação.}
+{189}{}{Siga a uma distância longa.}
+{190}{}{Siga a uma distância média.}
+{191}{}{Fica perto de mim.}
+{192}{}{Mais comandos.}
+{193}{}{Tchau.}
+{194}{}{A Skynet continuará a coletar dados e observar deste local até seu retorno.}
+{195}{}{Waaaaa ... ..não há nada.}
+{196}{}{[O robô pára em suas faixas.]}
+{197}{}{Tchau.}
+{198}{}{A Skynet continuará a coletar dados por si mesmo. Skynet agradece ao humano pela liberdade de Skynet.}
+{199}{}{Gooooo ...... .innnnnnng.}
+{200}{}{Tchau.}
+{201}{}{Skynet viajará com o humano.}
+{202}{}{Ooooo ...... Kaaaaaaay.}
+{203}{}{Tchau.}
+{204}{}{Desativando todas as segurança - nível 1}
+{205}{}{Desativando todas as segurança - Nível 2}
+{206}{}{Desativando todas as segurança - Nível 3}
+
+{306}{}{[Este engenho pode ser útil.]}
+
+{400}{}{Afaste sua arma.}
+
+{410}{}{Whirrr}
+
+{420}{}{Mooooovinnnnng}
+
+{430}{}{Ativando motivadores.}
+{431}{}{Procurando por novas coordenadas.}
+{432}{}{Reubicando.}

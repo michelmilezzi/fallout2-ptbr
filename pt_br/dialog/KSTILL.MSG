@@ -1,0 +1,8 @@
+{100}{}{Você vê um dispositivo de destilação.}
+{101}{}{Você vê um dispositivo de destilação. It looks operational.}
+
+{110}{}{Parece que o acúmulo está destilando bem agora. Você ganha}
+{111}{}{exp. pontos para reabastecer o imóvel.}
+{120}{}{Isso não faz nada.}
+{130}{}{Você inicia o silêncio, mas o whisky sabe que está mal.}
+{140}{}{Não há mais espaço no imóvel para a madeira.}

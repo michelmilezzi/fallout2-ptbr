@@ -1,0 +1,53 @@
+{100}{}{Você vê um viajante empoeirado.}
+{101}{}{Você vê um patrono do bar.}
+{102}{}{Você vê um viajante empoeirado.}
+{103}{}{Ei! Todo mundo! É o único que chutou a bunda do Enclave!}
+{104}{}{Parabéns, herói!}
+{105}{}{Ei, herói! Lemote, compre uma bebida, está bem?}
+{106}{}{Parece que o bastão do Capitão ...}
+{107}{}{Bem, se não é a toadie favorita do primeiro cidadão ...}
+{108}{}{Bem, se não é o "Capitão ..."}
+{109}{}{Todos estão atentos. A lei simplesmente entrou.}
+{110}{}{Você está morrendo, Citizen?}
+{111}{}{Você não pertence à cidade, "Cidadão?"}
+{112}{}{Damn Citizens apenas passeie sempre que quiserem ...}
+{113}{}{Whoa ... que um mutante ?!}
+{114}{}{Desmarque, meninos. Há um mutante na casa.}
+{115}{}{Vai ter problemas se os guardas vejam aquele mutante ...}
+{116}{}{Eles estão deixando * mutantes * aqui agora?}
+{117}{}{Esse mutante vai encontrar-se no Centro de Detenção ...}
+{118}{}{Diga-me que não é um ghoul.}
+{119}{}{O que é isso? Fedor?! * Obtenha esse ghoul fora daqui!}
+{120}{}{Tire esse goulet imundo do bar!}
+{121}{}{Se esse ghoul derramar algumas partes do corpo aqui, eu vou afugentá-lo.}
+{122}{}{Esse ghoul vai ser alvo de prática se os guardas o veem.}
+{123}{}{Mal pode ter uma passagem de dia hoje em dia ...}
+{124}{}{Os preços do brahmin continuam ...}
+{125}{}{Vai ser uma estação ruim se a seca continuar ...}
+{126}{}{Slumming, capitão?}
+{127}{}{Olha, não acabei nada, capitão. Estou apenas me ocupando do meu próprio negócio.}
+{128}{}{Não sei nada, capitão. Agora me deixa em paz.}
+{129}{}{Faça uma caminhada, "Capitão".}
+{130}{}{Parece que Lynette vai fazer alguém um cidadão hoje em dia.}
+{131}{}{Já paguei aos guardas o dinheiro da sua proteção. Agora me deixa em paz.}
+{132}{}{Slumming, Citizen?}
+{133}{}{Talvez seja melhor entrar nas paredes, Citizen.}
+{134}{}{Bata, cidadão.}
+{135}{}{Faça uma caminhada, Citizen.}
+{136}{}{Parece que Lynette vai fazer alguém um cidadão hoje em dia.}
+{137}{}{Que Smith é um bom amigo.}
+{138}{}{Não creio que possamos conseguir uma passagem de dia.}
+{139}{}{Não beba a água por aqui. Isso faz com que os contadores geiger sejam marcados.}
+{140}{}{Sempre que os Cidadãos caminham, eles não fazem contato visual ou dizem olá.}
+{141}{}{Vault City pode não nos amar, mas pelo menos eles nos protegem.}
+{142}{}{Cuidado com o Autodoc. Cura você ... na maioria das vezes. Apenas não pressione sua sorte.}
+{143}{}{Ed, o negociante brahmin, teve que elevar seus preços novamente para atender o pagamento da guarda mensal.}
+{144}{}{Que Skeev me deixou deslizar um pouco para a cidade por uma porcentagem.}
+{145}{}{Estive na estrada na semana passada. Veio da NCR, caminho para o sul.}
+{146}{}{Alguns amigos meus foram para Reno ... não são vistos desde então.}
+{147}{}{Ouço que Reno está ficando tenso novamente. As famílias se odiam.}
+{148}{}{Eu ouço aqueles ghouls em Gecko estão planejando atacar a cidade.}
+{149}{}{Não atravesse nenhum dos Cidadãos ou eles vão tapá-lo no Centro de Detenção.}
+{150}{}{Que Lynette é fria.}
+{151}{}{Vault City não é exatamente uma cidade "gratuita". Ainda não é ruim.}
+{152}{}{Vault City é melhor que o Den. Não é tão divertido, no entanto.}

@@ -1,0 +1,14 @@
+{100}{}{Você vê um menino pequeno.}
+{101}{}{Você vê uma garotinha.}
+
+
+{200}{}{Já estamos lá?}
+{201}{}{Estou cansado.}
+{202}{}{Você vai me levar?}
+{203}{}{Não devo falar com estranhos.}
+{204}{}{Mamãe e papai saíram aqui.}
+{205}{}{Veja minha rocha brilhante?}
+{206}{}{Você vai jogar comigo?}
+{207}{}{La la la la la. Não consigo ouvir você.}
+{208}{}{Por que não posso jogar agora?}
+{209}{}{Você quer jogar?}

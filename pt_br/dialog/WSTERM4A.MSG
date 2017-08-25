@@ -1,0 +1,17 @@
+{100}{}{Um terminal de computador.}
+{101}{}{Parece ser um terminal de segurança.}
+{102}{}{Você não consegue ler o que está no monitor.}
+{103}{}{Skynet Security Systems
+                                             Acesso negado}
+{104}{}{}
+{105}{}{Saída}
+{106}{}{Erro!
+                                                                 Nenhum arquivo de programa está presente
+                                      Por favor reinicie}
+{107}{}{}
+{108}{}{}
+{109}{}{Saída}
+
+
+{200}{}{ É incapaz de ler o que está no monitor.}
+{300}{}{O computador parece ter algum tipo de mecanismo de defesa.}

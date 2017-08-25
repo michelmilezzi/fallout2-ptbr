@@ -1,0 +1,182 @@
+{100}{}{Você vê um homem velho.}
+{101}{}{Você vê Chris, o atendente da posse de gasolina.}
+{102}{}{Você vê um homem idoso desprezível com um manto roxo.}
+{103}{}{Howdy, estranho. Whoa baby! Confira esse conjunto de rodas. Não é visto um
+ de anos em anos. O que o velho Chris pode fazer por você?}
+{104}{}{Howdy, estranho. Não foi visto por essas peças antes. O que pode ser antigo
+ Chris faz por você?}
+{105}{}{Qual é esse lugar?}
+{106}{}{Eu busco Navarro. É isso?}
+{107}{}{Você vê o pássaro de metal voar aqui?}
+{108}{}{Você ouve Enclave? Eles estão aqui?}
+{109}{}{Eu apenas olho em volta.}
+{110}{}{O que é este lugar?}
+{111}{}{Estou procurando Navarro. É isso?}
+{112}{}{Você viu alguns vertibirds voarem aqui?}
+{113}{}{Já ouviu falar do Enclave? Eles estão por aqui?}
+{114}{}{Estou só dando uma olhada.}
+{115}{}{Este é o meu lugar, Chris's. É uma estação de serviço - você nunca mais?
+ visto um desses, em revistas antigas e outras? Isso é o que eu cheguei aqui - um serviço
+ estação.}
+{116}{}{Eu busco Navarro. É isso?}
+{117}{}{Você vê o pássaro de metal voar aqui?}
+{118}{}{Você ouve Enclave? Eles estão aqui?}
+{119}{}{Uh ... eu consegui ir.}
+{120}{}{Estou procurando Navarro. É isso?}
+{121}{}{Você viu alguns vertibirds voarem aqui?}
+{122}{}{Já ouviu falar do Enclave? Eles estão por aqui?}
+{123}{}{Desculpe, tenho que ir.}
+{124}{}{Navarro? Não é ouvido esse nome em idades. Antiga base militar ao sudeste de
+ San Fran, e esse é um caminho ao sul daqui.}
+{125}{}{Eu estava lá. Não é Navarro.}
+{126}{}{OK. Obrigada. Eu olho lá.}
+{127}{}{Você mente para mim. Eu conheço Navarro aqui. Você diz a verdade ou eu faz você se arrepender!}
+{128}{}{Estive lá e não é Navarro.}
+{129}{}{OK. Vou dar uma olhada lá. Obrigado.}
+{130}{}{Você está mentindo. Eu sei que Navarro está aqui. Diga-me a verdade ou você vai
+ desculpe!}
+{131}{}{Hã? Uh ... Certeza de que sim. Ouvi dizer que há um tempo atrás! Navarro
+ base militar, a sudeste de São Francisco.}
+{132}{}{Você mente para mim. Eu não tenho paciência. Você diz a verdade ou eu faz você se arrepender!}
+{133}{}{Você mente. Eu não tenho paciência para isso. Diga-me a verdade ou
+ você vai se arrepender.}
+{134}{}{Foda-se! (tira um rádio da túnica) Quer ver desculpa? eu tenho
+ alguns meninos que lhe mostrarão um novo significado para a palavra! (começa a ligar o rádio)}
+{135}{}{Eu te mato morto!}
+{136}{}{O que você faz agora?}
+{137}{}{Eu fui embora.}
+{138}{}{Isso é um movimento ruim, parceiro.}
+{139}{}{O que você pensa que está fazendo?}
+{140}{}{Ei, estou fora daqui.}
+{141}{}{(falando no rádio) Alerta! Nós temos um intruso na estação! Alerta!}
+{142}{}{Feito.}
+{143}{}{Bem, conversa bem com você. Aqui está um conselho - não é nada
+ nessas partes, exceto terrenos baldios e radiações. O sul da civilização daqui. Eu estava indo assim se eu fosse você.}
+{144}{}{Obrigado.}
+{145}{}{Pássaros de metal? Oh, você deve significar vertibirds. Agora, por que você seria
+ perguntando sobre eles aqui?}
+{146}{}{Vertibirds? Esse é um assunto interessante. Agora, por que você seria
+ perguntando sobre eles aqui?}
+{147}{}{Shaman diz que o pássaro de metal leva vila, voa Navarro. Eu tente encontrar.}
+{148}{}{Pessoas interessadas. Eu tente achar por eles.}
+{149}{}{Você sabe? O que você sabe?}
+{150}{}{O xamã da minha tribo contou-me que esses pássaros torundos roubaram nosso povo.
+ Estou aqui para encontrá-los.}
+{151}{}{Conheço algumas pessoas que estão interessadas em vertipados. Estou tentando
+ para localizá-los para eles.}
+{152}{}{Então você sabe sobre vertibirds. Diga-me o que você sabe.}
+{153}{}{Xamã? Olhe aqui; Se o xamã diz que vê as coisas voarem ao redor
+ e pegando pessoas, ele está cheirando muitas ervas. Consegui?}
+{154}{}{Hakunin, grande xamã. Se ele diz que ele vê, então ele vê.}
+{155}{}{Hakunin era um grande xamã. Se ele diz ter visto pássaros, então ele
+ vi eles!}
+{156}{}{Bem, isso não significa nada para mim, mas no caso de eu ver um dos
+ Esses vertibirds, a quem devo contar?}
+{157}{}{Diz-me tu. Eu esteja por perto.}
+{158}{}{Diga Shi.}
+{159}{}{Diga Brotherhood of Steel.}
+{160}{}{Diga aos Hubologists.}
+{161}{}{Pegue a escolha. Você diz a Shi ou à Brotherhood of Steel ou Hubologists.
+ Todos estão interessados.}
+{162}{}{Diz-me tu. Estarei por perto.}
+{163}{}{Você pode dizer ao Shi.}
+{164}{}{Você pode contar a Brotherhood of Steel.}
+{165}{}{Você pode contar aos Hubologists.}
+{166}{}{Faça sua escolha. Você pode dizer ao Shi ou à Irmandade do Aço
+ ou os Hubologists. Todo mundo parece estar interessado em vertibirds.}
+{167}{}{O Shi, hein? Bem, se você diz. Vou enviar-lhes as palavras para dentro
+ Cidade de Chiny. Enquanto isso, eu tenho coisas para fazer.}
+{168}{}{Esperar. Eu tenho amigos fortes. Eles dizem Navarro aqui. Você conta
+ Onde ou coisas ficam bagunçantes!}
+{169}{}{Aguarde um minuto, amigo. Obviamente, eu tenho alguns amigos poderosos e
+ Eles me contam que Navarro está aqui. Agora você me diz onde ou as coisas ficarão bagunçadas!}
+{170}{}{A Irmandade ... Uh, sim, bem, vou fazer exatamente isso. Enquanto isso,
+ Eu tenho coisas para fazer.}
+{171}{}{Esperar. Eu tenho amigos fortes. Eles dizem Navarro aqui. Você conta
+ Onde ou coisas ficam bagunçantes!}
+{172}{}{Aguarde um minuto, amigo. Obviamente, eu tenho alguns amigos poderosos e
+ Eles me contam que Navarro está aqui. Agora você me diz onde ou as coisas ficarão bagunçadas!}
+{173}{}{Os Hubs? Sim, claro, vou enviar uma mensagem se algo surgir.
+ Enquanto isso, eu tenho coisas para fazer.}
+{174}{}{Esperar. Eu tenho amigos fortes. Eles dizem Navarro aqui. Você conta
+ Onde ou coisas ficam bagunçantes!}
+{175}{}{Aguarde um minuto, amigo. Obviamente, eu tenho alguns amigos poderosos e
+ Eles me contam que Navarro está aqui. Agora você me diz onde ou as coisas ficarão bagunçadas!}
+{176}{}{Maldita seja, é uma lista ... Uh, bem, se algo aparecer
+ Eu ... Sim, bem, eu tenho algumas coisas para fazer.}
+{177}{}{Esperar. Eu tenho amigos fortes. Eles dizem Navarro aqui. Você diz onde
+ ou as coisas ficam bagunçantes!}
+{178}{}{Aguarde um minuto, amigo. Obviamente, eu tenho alguns amigos poderosos e eles
+ Diga-me que Navarro está aqui. Agora você me diz onde ou as coisas ficarão bagunçadas!}
+{179}{}{Uh ... Ei, acabei me dizendo para evitar visitantes e outros. Eu não quero
+ o tipo de problema que você está falando.}
+{180}{}{Então diga melhor caminho na base ... agora!}
+{181}{}{Então eu sugiro que você me diga o melhor caminho para a base ... agora!}
+{182}{}{Suponho que seria através da porta da armadilha no chão do meu quarto.
+ Apenas vá e deixe-me estar.}
+{183}{}{Ok, eu vou.}
+{184}{}{Tudo certo. Eu farei isso.}
+{185}{}{Eu sei que eles voam aqui de vez em quando. Eles geralmente estão indo
+ Sul em direção a San Fran. Se você estiver interessado em vertibirds, eu irei lá.}
+{186}{}{Ok, eu tento lá.}
+{187}{}{Eu tenho amigos que querem que eu encontre vertibirds. Os amigos dizem vertibirds
+ venha aqui.}
+{188}{}{Ok, eu vou por aí.}
+{189}{}{Olha, tenho alguns amigos que querem que eu encontre vertibirds. Eles dizem
+ eles vieram daqui.}
+{190}{}{Enclave? Que um grupo ou algo assim? Isso não soa sem carrilhões
+ comigo. O que você quer com eles?}
+{191}{}{Eu quero me juntar.}
+{192}{}{Eu quero me juntar.}
+{193}{}{Juntar-se? Você é um tribal! O que faz você pensar que eles querem uma tribal?}
+{194}{}{Juntar-se? Você é um tribal! O que faz você pensar que eles querem uma tribal,
+ e sua posse nada menos?}
+{195}{}{Eu sério. Eu me junto ao Enclave.}
+{196}{}{Eu sério. Eu Participe do Enclave.}
+{197}{}{Estou falando sério. Estou procurando se juntar ao Enclave.}
+{198}{}{Estou falando sério. Estou olhando para participar do Enclave}
+{199}{}{Aguarde um pouco, manequim. Você está tentando dizer que você é um dos Enclave
+ substituições?}
+{200}{}{Espere um minuto. Você está tentando dizer que você é um dos Enclave
+ substituições?}
+{201}{}{Uh ... sim.}
+{202}{}{Está certo.}
+{203}{}{Droga. Desculpe os aborrecimentos. Eu deveria limpar um grupo de iniciantes
+ Chegando aqui, mas eu consegui descartar o lixo. De qualquer forma, basta ir até o portão,
+ através da floresta lá, e dê-lhes a senha. É "cabeça de carneiro". Ah, e fique no caminho!}
+{204}{}{Obrigado!}
+{205}{}{Aguarde um pouco, manequim. Você está tentando dizer que você é um dos Enclave
+ substituições? Se for esse o caso, então, por que você não está sozinho?}
+{206}{}{Espere um minuto. Você está tentando dizer que você é um dos Enclave
+ substituições? If that's the case, then why aren't you alone?}
+{207}{}{Uh ... escolta?}
+{208}{}{Contratou uma escolta!}
+{209}{}{Bem, eu não quero ser rude ou nada, mas isso aqui é propriedade privada.
+ Se você estiver indo por algum lado, não faça isso aqui.}
+{210}{}{Feito.}
+{211}{}{Você voltou. O que o velho Chris pode ajudá-lo?}
+{212}{}{Você me conta Navarro sul. Você mente! Eu aqui para a verdade.}
+{213}{}{Você me disse que Navarro estava no sul, velho. Agora eu quero saber a verdade.}
+{214}{}{Você parece familiar. O velho Chris acha que ele já viu você antes ... Não, não pode ser.}
+{215}{}{Intruso na estação! Envie ajuda!}
+{216}{}{Toque o alarme!}
+{217}{}{Alerta de intrusão! Alerta de intrusão!}
+{218}{}{Morra, escória!}
+{219}{}{O Enclave vai me promover por te matar!}
+{220}{}{Morra, estranho!}
+{221}{}{O que...?!}
+{222}{}{Você usa rádio e eu sinto você desculpe!}
+{223}{}{Você usa esse rádio e eu vou fazer você se arrepender!}
+{224}{}{Foda-se! Você quer ver desculpa? Eu tenho alguns meninos que vão te mostrar uma
+ novo significado para a palavra! (começa a ligar o rádio)}
+{225}{}{Eu te mato morto!}
+{226}{}{O que você faz agora?}
+{227}{}{Eu fui embora.}
+{228}{}{Isso é um movimento ruim, parceiro.}
+{229}{}{O que você pensa que está fazendo?}
+{230}{}{Ei, estou fora daqui.}
+{231}{}{Okay, certo.}
+{232}{}{Ele está tirando um rádio. Ele vai alertar toda a base! Eu tenho que lidar com ele rapidamente.}
+
+{800}{}{Você enganou Chris para lhe dar a senha.}
+{810}{}{Você matou Chris antes que ele pudesse avisar a base.}

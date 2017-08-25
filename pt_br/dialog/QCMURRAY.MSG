@@ -1,0 +1,65 @@
+{100}{}{Você vê um homem calvo em um bata de laboratório.}
+{101}{}{Você vê Tom Murray, o chefe da Comissão de Energia Atômica.}
+{102}{}{Você vê um homem muito nervoso com um casaco de laboratório pristine.}
+{103}{}{Minha máquina! Minha linda máquina desapareceu. (Sob, soluço.)}
+{104}{}{Estamos condenados.}
+{105}{}{Sem o computador on-line, o reator entrará em colapso!}
+{106}{}{Eu não posso nem nadar.}
+{107}{}{Talvez eu possa corrigi-lo ...}
+{108}{}{Sobre o que soa o alarme?}
+{109}{}{Oque esta acontecendo aqui?}
+{110}{}{Não entre em pânico, ninguém. NÃO PÁRICO !!!!!!!!!!!!}
+{111}{}{Certo, fique calmo.}
+{112}{}{Talvez isso seja apenas uma broca.}
+{113}{}{Volte para o nível de detenção.}
+{114}{}{Você realmente pode dizer a diferença.}
+{115}{}{A sua testa é bastante espartilhando.}
+{116}{}{Sua capacidade craniana não é suficiente para o tabaco, não é?}
+{117}{}{Se você estiver bem, eu me certificarei de ter um biscoito quando voltar para sua cela.}
+{118}{}{Você está lá, você não deveria usar essas coisas aqui.}
+{119}{}{Vou usar minha armadura onde quer que eu queira.}
+{120}{}{Oh, desculpa, senhor. Eu irei então.}
+{121}{}{Você vai, hein? Bem, vou ter que denunciá-lo então.}
+{122}{}{Continue. Faz o meu dia.}
+{123}{}{Oh, por favor, não faça isso. Estou partindo agora. Adeus.}
+{124}{}{Sou Tom Murray, chefe da Comissão de Energia Atômica. Eu controlo o nosso motor atômico aqui. Quem diabos você e o que você está fazendo aqui?}
+{125}{}{Que diabos você quer agora?}
+{126}{}{Preciso desligar o seu reator atômico.}
+{127}{}{Eu estava curioso sobre o funcionamento do seu reator.}
+{128}{}{Preciso exterminar você.}
+{129}{}{Socorro! Ajude-me! Socorro!}
+{130}{}{Intrusos! Alerta!}
+{131}{}{Corra por suas vidas! Os primitivos estão soltos!}
+{132}{}{Guardas! Heeeeeeelllllp!}
+{133}{}{Alerta de intrusão! Alerta de intrusão!}
+{134}{}{Desligue isso? Você está louco? Você não vai desligar * meu * reator.}
+{135}{}{Sim eu estou. É melhor me dizer como, ou eu vou fechá-lo, permanentemente.}
+{136}{}{Eu disse desligar? Desculpe, eu só queria saber como o seu reator funciona.}
+{137}{}{Oh, é seu? Desculpe, não percebi isso. Bem, adeus então.}
+{138}{}{Aqui, eu digo o que. Eu vou fazer isso por você. Mas se você tentar desligá-lo rapidamente, ele superaquecerá.}
+{139}{}{Não me importo com isso. Apenas desligue o reator, ou eu vou cortar você como um peixe.}
+{140}{}{Isso parece perigoso. Bem, ok, basta esquecer. Adeus.}
+{141}{}{Você está blefando. Você não ousaria.}
+{142}{}{Sim eu iria. Se você não me ajuda, você é um homem morto.}
+{143}{}{Eu tentei deixar você cooperar, mas você não faria isso. Bem, não consigo deixar você soar o alarme.}
+{144}{}{Ei, eu estava brincando. Como o seu reator funciona de qualquer maneira?}
+{145}{}{Sim, acho que você está certo. É melhor ficar quieto por um tempo depois de ir embora. Adeus.}
+{146}{}{Está bem, está bem. Eu vou fazer isso. Basta aproveitar agora. Mas eu estou lhe dizendo - vai superaquecer assim que eu colocar as barras de contenção para baixo. Se realizarmos um desligamento como este, teremos que arrumar todo o reator - ou melhor aprender a falar chinês.}
+{147}{}{Tanto faz. Apenas feche a maldita coisa agora mesmo!}
+{148}{}{Isso parece perigoso. Talvez seja melhor eu procurar outra maneira. Eu certamente não quero machucar nada aqui. Adeus.}
+{149}{}{Não vou arriscar a vida de todos aqui. De jeito nenhum.}
+{150}{}{Sinto muito por ouvir isso. Acho que vou ter que te matar então. Nada pessoal.}
+{151}{}{Como isso arriscaria a vida de todos? Como o seu reator funciona de qualquer maneira?}
+{152}{}{Eu acho que vou ter que encontrar outra maneira de desligar o poder. É melhor não fazer nenhum barulho depois que eu for embora. Adeus.}
+{153}{}{Você entendeu. Ok, uh, deslize isto para verde. (Ele brincadeira com um painel de controle por alguns minutos enquanto ele murmura para si mesmo.) Ok, você conseguiu, mas com certeza não vai ficar estável por muito tempo.}
+{154}{}{Você fez a coisa certa. Agora, eu tenho que ir. É melhor ficar aqui por um momento.}
+{155}{}{Bom trabalho. Agora, eu tenho que matá-lo. Desculpe, mas não posso deixar nenhuma testemunha.}
+{156}{}{Eu tenho que ir. Adeus.}
+{157}{}{Eu não controlo muito da operação do reator. O computador central, ao norte do reator, controla a maioria das funções do powerplant. Se não estivesse lá, não teríamos nenhum poder.}
+{158}{}{Sem poder?}
+{159}{}{Bem, não é o suficiente para muito. As luzes, o suporte vital e as defesas funcionariam por um tempo, mas os campos de força e outros dispositivos intensivos em energia seriam desligados imediatamente.}
+{160}{}{Parece que você realmente seria aleijado.}
+{161}{}{Bem, não seria bom. Todos os tipos de portas de segurança à prova d'água fecham quando isso acontece. De nenhuma maneira no mundo para abri-los uma vez que eles estão fechados pelo desligamento de energia. Essa é uma característica de segurança.}
+{162}{}{Interessante. Há algo mais que eu queria saber.}
+{163}{}{Isso é tudo o que preciso saber. Obrigado, você foi uma grande ajuda. Você deve ficar quieto depois que eu sair.}
+{164}{}{Obrigado. Muito ruim, você não vai viver para ver isso. Adeus.}

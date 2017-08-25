@@ -1,0 +1,52 @@
+{100}{}{Você vê um cavalheiro curto e rápido.}
+{101}{}{Você vê Micky, o caçador de tesouros.}
+{102}{}{Este homem muito curto parece amigável e corajoso. Seu olhar gira como se estivesse procurando objetos brilhantes.}
+{103}{}{Ei, amigo! Não vi jóias ou metais preciosos em qualquer lugar, já?}
+{104}{}{Mais uma vez, você generosamente me agradou com sua presença. Qualquer tesouro escondido esconde a mentira sobre isso que eu deveria estar ciente?}
+{105}{}{Então, alguma riqueza que você precisa rastreada? Eu sou o melhor dos melhores!}
+{106}{}{No trezhuur tooday.}
+{107}{}{Yah. Precisa de sua ajuda.}
+{108}{}{Quem U?}
+{109}{}{Tchau.}
+{110}{}{Não, hoje não. Se eu corro em qualquer um, eu vou deixar você saber, no entanto.}
+{111}{}{Bem, sim, na verdade. Eu acho que você seria o parceiro perfeito para um, deveríamos dizer, "joint venture".}
+{112}{}{Qual o seu nome?}
+{113}{}{Deixa pra lá.}
+{114}{}{Eu? Eu sou Micky, suave e debonaire Treasure Hunter of Broken Hills.}
+{115}{}{Hunnterr?}
+{116}{}{Tchau tchau.}
+{117}{}{Caçador de tesouros?}
+{118}{}{Quão legal. Dia bom.}
+{119}{}{Não me diga que você não ouviu falar de mim! Você nunca foi informado sobre os contos do Fast Micky? Dele
+ executando batalhas de armas, ação de dois punhos e pilhagens perniciosas?}
+{120}{}{Nup.}
+{121}{}{Receio que nunca tenha tido o prazer.}
+{122}{}{Bem, você está perdendo, amigo. Um desses dias, eu vou ter que preenchê-lo com os detalhes sangrentos.}
+{123}{}{Goodeee.}
+{124}{}{Estarei esperando com a respiração abafada.}
+{125}{}{Ah bem. Acho que não deveria me surpreender. O mercado de caçadores de tesouros realmente caiu no recente
+ anos. Toda a morte e a fome e a luta por sobrevivência realmente prejudicam a sensação de aventura das pessoas. Mantenha me
+ em mente, no entanto, se surgir alguma coisa.}
+{126}{}{Okee-dokee.}
+{127}{}{Você será o primeiro na minha lista.}
+{128}{}{Mesmo?! Isso é ótimo! O que será? Ouro? Jóias? Artefatos sagrados?}
+{129}{}{Lotsa em dinheiro.}
+{130}{}{Nebbermind.}
+{131}{}{Aparentemente, um bom dinheiro. O suficiente para viver confortavelmente por um longo tempo.}
+{132}{}{Bem, na verdade, acho que vou trabalhar sozinho por um tempo mais.}
+{133}{}{Uau! Este é o intervalo que eu estava esperando. Whadda 'ya say? Somos parceiros 50/50?}
+{134}{}{Yahh!}
+{135}{}{Nup. Tchau}
+{136}{}{Oh, você aposta.}
+{137}{}{Pensando bem, acho que vou ver se não consigo entendê-lo. Até logo.}
+{138}{}{Excelente! Então, qual é a história? Onde estão os bandidos? Whadda 'ya quer que eu faça?}
+{139}{}{Venha me vencer! Vá em um lugar escuro.}
+{140}{}{Digamos, você vai passar algum tempo nas "cavernas" locais.}
+{141}{}{Doce! Basta me apontar na direção certa!}
+{142}{}{Onde trezhur? Downtown?}
+{143}{}{Bem, ainda não tenho certeza. Foi-me dito que eu poderia encontrar algum tesouro por aqui.}
+{144}{}{O que? No centro da cidade? Ha! Quem lhe disse que está mentindo ou insano. Com
+ à exceção de algumas das localidades mais sujas e úmidas de Broken Hills, eu fui tudo
+ através desta cidade inteira e eu não encontrei nada. Estou realmente pensando em seguir em frente.}
+{145}{}{Too baadd. Bye-Tchau.}
+{146}{}{Isso é ruim. Eu realmente estava esperando por algumas dicas. Bem, tchau.}

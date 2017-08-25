@@ -1,0 +1,72 @@
+{100}{}{Você vê uma pessoa ruim em um terno de abóbada.}
+{101}{}{Você vê um prisioneiro do Vault 13.}
+{102}{}{Você vê uma pessoa muito pálida vestindo um terno do cofre Vault 13.}
+{103}{}{Você vê um membro da sua tribo.}
+{104}{}{Você vê um membro da tribo.}
+{105}{}{Você vê um membro da sua tribo, eles não ficam bem.}
+{106}{}{Este lugar é muito oxidado para ser um cofre.}
+{107}{}{Eu acho que posso ouvir o oceano.}
+{108}{}{Você falou com Martin Frobisher?}
+{109}{}{Você deveria conversar com Martin.}
+{110}{}{O nosso porta-voz de Martin, você deve conversar com ele.}
+{111}{}{O Sr. Frobisher está na primeira célula.}
+{112}{}{Eles nem sequer possuem fitas de entretenimento aqui.}
+{113}{}{Exijo falar com alguém sobre a qualidade dos alimentos.}
+{114}{}{Ótimo, agora eles nos ameaçam com selvagens estranhos.}
+{115}{}{Você escapou?}
+{116}{}{Como você saiu?}
+{117}{}{Você soa como o Escolhido.}
+{118}{}{Você é o Escolhido?}
+{119}{}{Você deveria conversar com o Ancião.}
+{120}{}{O Ancião disse que você nos salvaria!}
+{121}{}{Você já conversou com o Elder?}
+{122}{}{O Ancião na primeira célula. Você deveria conversar com ela.}
+{123}{}{Fale com o Ancião.}
+{124}{}{Nos livre!}
+{125}{}{Retire-nos daqui.}
+{126}{}{Eu não posso mais tirar essas paredes.}
+{127}{}{Eu anseio sentir o vento no meu rosto mais uma vez.}
+{128}{}{Livre-nos, Escolhido!}
+{129}{}{O Escolhido está aqui!}
+{130}{}{Nos liberte!}
+{131}{}{Faça o que o Ancião disse para você.}
+{132}{}{Retire-nos antes que os espíritos do mal voltem novamente!}
+{133}{}{Por favor, ajude-nos, escolhido.}
+{134}{}{Agradeça aos deuses, o Escolhido chegou finalmente.}
+{135}{}{Ajude-nos}
+{136}{}{Nos livre}
+{137}{}{Você está aqui,}
+{138}{}{Você sabe o que fazer, então vá fazê-lo!}
+{139}{}{Continue!}
+{140}{}{Retire-nos daqui.}
+{141}{}{Desligue o poder!}
+{142}{}{Liberte-nos.}
+{143}{}{Vá, tire-nos daqui!}
+{144}{}{Por favor nos ajude!}
+{145}{}{Você é a nossa única esperança!}
+{146}{}{Por favor, não aguento mais isso.}
+{147}{}{Não quero mais remédio. Não não. Nooooooo!}
+{148}{}{Espíritos nos protegem!}
+{149}{}{Onde estão os espíritos quando você precisa deles?}
+{150}{}{Ajude-nos!}
+{151}{}{Nos livre!}
+{152}{}{Eu quero ir para casa.}
+{153}{}{Primeira seca e agora isso.}
+{154}{}{Não há mais agulhas, não mais!}
+{155}{}{Não consigo aceitar! As paredes estão se fechando em mim!}
+{156}{}{(Sob, soluço)}
+{157}{}{Deixe meu povo ir!}
+{158}{}{Elder nos guia.}
+{159}{}{Como ofendemos esses espíritos malignos?}
+{160}{}{Eu não me importo muito com isso.}
+{161}{}{Onde está Martin?}
+{162}{}{Este não é um cofre algum.}
+{163}{}{Retire-nos daqui!}
+{164}{}{Olá? Olá!}
+{165}{}{Insisto em ser libertado.}
+{166}{}{Sou cidadão dos Estados Unidos e exijo ver quem está no comando.}
+{167}{}{Deixe-me sair.}
+{168}{}{Isso é tão chato.}
+{169}{}{Não há mais remédio. Não consigo aguentar mais.}
+{170}{}{Eles não podem nos manter aqui para sempre.}
+{171}{}{A guerra não terminou?}

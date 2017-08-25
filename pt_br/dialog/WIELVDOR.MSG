@@ -1,0 +1,4 @@
+{100}{}{Você não consegue abrir essas portas. Eles parecem ser abertos de algum outro lugar.}
+{101}{}{Não parece haver nenhum mecanismo de bloqueio convencional nesta porta.}
+{102}{}{Você vê as portas do elevador.}
+{103}{}{Estas portas de elevadores parecem ser abertas a partir de outra fonte.}

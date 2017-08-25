@@ -1,0 +1,78 @@
+{100}{}{Você vê um patrono do bar olhando para você.}
+{101}{}{Você vê um patrono do bar comendo um pouco.}
+{102}{}{Você vê um patrono do bar tomando uma caneca de cerveja.}
+{103}{}{Você vê um patrono do bar.}
+
+{104}{}{Você vê um patron de bar desprezível. Possivelmente um caçador.}
+{105}{}{Você vê um patrono resistente. Provavelmente um caçador.}
+{106}{}{Você vê um patron de bar resistido. Provavelmente, seja um caçador ou um fazendeiro.}
+{107}{}{Você vê um goer de barra em forma. Eles poderiam ser um pastor brahmin ou um fazendeiro.}
+
+{110}{}{Você vai se encaixar bem aqui.}
+{111}{}{Compre uma rodada de bebidas, por que não?}
+{112}{}{Vai lutar contra os Duntons?}
+{113}{}{Parece que você veio para o norte do Den.}
+{114}{}{Wadda você está olhando?}
+{115}{}{Você obteve uma pele purty, querida. Heh, heh, heh.}
+{116}{}{Urp, eu poderia usar outra caneca de erva gecko.}
+{117}{}{Se você precisar de dinheiro, os Duntons estão procurando alguma ajuda.}
+{118}{}{Você não é meio ruim para um tribal.}
+{119}{}{96 canecas de mijo na parede, 96 canecas de odor ...}
+{120}{}{Eu vou para o sul até o Den; Muitos trabalham lá.}
+{121}{}{Mais gecko ora aqui, Salvadore!}
+{122}{}{Trapping está mal ultimamente; Deve ser uma maneira mais fácil de ganhar dinheiro.}
+{123}{}{Eu não sou tão bebendo quanto você, eu sou.}
+{124}{}{Ei amigo, esses dados parecem carregados para você? (Chocalho, chocalho)}
+{125}{}{Fale com o Duntons ou o barman para trabalhar, amigo.}
+{126}{}{Você escolheu o lugar certo para beber, amigo.}
+{127}{}{Não, bispo, não o objeto da faca novamente!}
+{128}{}{Qualquer um para um jogo de dados?}
+{129}{}{É bom não ter Aldo cheirando o lugar.}
+{130}{}{Já tomou algum brahmin do que não é seu?}
+{131}{}{Cuidado com o Espírito que anda!}
+{132}{}{Há um espírito em um cânion a leste daqui.}
+{133}{}{Trapping é perigoso; Perdeu um bom caçador algumas semanas atrás.}
+{134}{}{Apenas amo enganar aquele Torr.}
+
+{140}{}{Veja quem veio visitar.}
+{141}{}{(Mumble, mumble) ... goody dois tipos de sapatos aqui ... (mumble)}
+{142}{}{Você não está na parte errada da cidade?}
+{143}{}{Não precisa do seu tipo aqui, tribal.}
+{144}{}{Talvez se você nos comprar uma bebida, vamos deixar você ficar.}
+{145}{}{Impulso, tribal.}
+{146}{}{O que você está procurando tão difícil?}
+{147}{}{O Dunton irá consertá-lo, tribal.}
+{148}{}{Você escolheu o lugar errado para uma bebida.}
+{149}{}{Sua mãe não está aqui garota; Experimente o Bathhouse.}
+{150}{}{Por que você não vai jogar em outro lugar?}
+{151}{}{Há um bom desfiladeiro para você, ao leste daqui.}
+{152}{}{O que você quer?}
+{153}{}{Melhor se preocupar com o seu próprio negócio.}
+{154}{}{Seu nome Torr? (Heh, heh, heh)}
+{155}{}{Vá beber com Aldo, por que não?}
+{156}{}{Este não é o seu tipo de lugar, o punk.}
+{157}{}{Você não é meu amigo tipo de bebida.}
+{158}{}{Humph. (Cuspir no chão)}
+{159}{}{Você não tem muito a ver.}
+{160}{}{Sentindo-se indesejável ... ainda?}
+
+{162}{}{'Bout time, tribal.}
+{163}{}{Obrigado.}
+{164}{}{Nee!}
+{165}{}{Ecky, ecky, p'tang!}
+{166}{}{Eu vou ficar chateado.}
+{167}{}{Nada como Gecko Piss.}
+{168}{}{Obrigado pelo Piss.}
+{169}{}{Huzzah!}
+{170}{}{Os tribais sabem o que é melhor na vida.}
+{171}{}{Obrigado.}
+{172}{}{Mais Piss para todos!}
+{173}{}{Eu certamente precisava disso; obrigado.}
+{174}{}{Agradeço um milhão!}
+{175}{}{Mais uma lobotomia frontal ...}
+{176}{}{Golden Piss!}
+{177}{}{Bem!}
+{178}{}{Amor que mija.}
+{179}{}{Você é um bom Tribal.}
+{180}{}{Jogada inteligente.}
+{181}{}{sim!}

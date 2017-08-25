@@ -1,0 +1,145 @@
+{100}{}{Você vê um humano muito escandaloso.}
+{101}{}{Você vê Lumpy, amigo e assistente da Skeeter.}
+{102}{}{Você vê um humano muito magro, de olhos caídos e de aparência infeliz.}
+
+{110}{}{Você está em pior forma do que eu. Pobre imbecil.}
+{111}{}{Não tenho tempo suficiente para conversar com idiotas.}
+{112}{}{Você não é muito mais inteligente do que o brahmin que assisto.}
+{113}{}{Você não tem um deck completo, não é?}
+{114}{}{Por Deus, você é tão burro quanto você parece.}
+
+{120}{}{Olá. Meu nome é Lumpy.}
+{121}{}{Essa é uma espécie de nome incomum. Como você veio por isso?}
+{122}{}{O que você faz aqui?}
+{123}{}{Isso é bom, Lumpy. Uh, tenho que ir agora.}
+
+{130}{}{Bem, meu nome real é John - mas todos aqui só me chamam de Lumpy.}
+{131}{}{Por que Lumpy?}
+{132}{}{Bem, quem pode culpá-los. Adeus.}
+
+{140}{}{Olá. Já notou que cada brahmin tem sua própria personalidade? Bem, se você vê-los como
+ Enquanto eu tiver, você com certeza observa.}
+{141}{}{Sim. Simplesmente fascinante. Isso é o que são.}
+{142}{}{Moo moos.}
+{143}{}{O que você faz aqui?}
+{144}{}{Isso é realmente interessante. Quem é Você?}
+{145}{}{Estou curioso sobre algumas coisas.}
+{146}{}{Prazer em conhecê-lo, Lumpy. Adeus.}
+
+{150}{}{Olá. Você provavelmente está aqui para ver o Skeeter. Eu realmente não cuido do técnico
+ coisa. Estou aqui para ajudar.}
+{151}{}{Keeter. Heh, heh, heh.}
+{152}{}{Quem é você?}
+{153}{}{O que você faz aqui?}
+{154}{}{Eu tenho algumas perguntas para você.}
+{155}{}{Oh, está bem. Eu vou falar com a Skeeter então. Obrigado.}
+
+{160}{}{Olá. Como você já se convidou - o que posso fazer por você?}
+{161}{}{Estou com fome.}
+{162}{}{Uh, eu estava pensando onde é Skeeter?}
+{163}{}{Eu tenho algumas perguntas para você.}
+{164}{}{Oh, desculpe. Eu não queria entrar. Adeus.}
+
+{170}{}{Guardo o brâmane ou ajudo a Skeeter em sua oficina.}
+{171}{}{Quem é o Skeeter?}
+{172}{}{Deixe-me perguntar-lhe outra coisa.}
+{173}{}{Acho que é tudo o que preciso saber por enquanto. Adeus, Lumpy.}
+
+{180}{}{Bem, é uma piada. Você vê, eles costumam chamar pessoas como você e eu, lisos. Mas eu
+ foi tratado tão mal por outros Smoothskins em Vault City que todos aqui achavam que eu devo
+ seja mais irregular do que eles.}
+{181}{}{Por que você foi tratado mal em Vault City?}
+{182}{}{Isso explica muita coisa. Adeus.}
+
+{190}{}{Bem, o tipo de mecânico de Skeeter. Ele vai desarmar quase qualquer coisa que você o traga. Obtém
+ A maioria deles volta juntos também, mais cedo ou mais tarde. Às vezes, as coisas acabam funcionando melhor do que as
+ antes.}
+{191}{}{Onde posso encontrar o Skeeter?}
+{192}{}{Interesting. Deixe-me perguntar-lhe outra coisa.}
+{193}{}{Acho que é tudo o que preciso saber por enquanto. Adeus.}
+
+{200}{}{Bem, eles disseram que eu não era suficientemente humano para eles. Sou resistente a radiação sorta - perfeito para
+ Aqui. Mas eles não gostaram. Me tratou como sujeira.}
+{201}{}{Mesmo?}
+
+{210}{}{Um dia eu simplesmente não aguento mais. Achei que morrer nos Desperdícios era melhor do que
+ vivendo com esses idiotas em Vault City.}
+{211}{}{Como você acabou aqui, então?}
+
+{220}{}{Bem, uma caravana de Broken Hills me encontrou e me trouxe aqui. Eu já estive aqui desde então. 1
+ A coisa sobre os ghouls aqui é que eles se preocupam mais com o tipo de pessoa que você está dentro. É como
+ uma grande familia.}
+{221}{}{Broken Hills? Onde estão esses?}
+{222}{}{Interessante. Permitam-me perguntar-lhe outra coisa, no entanto.}
+{223}{}{É ótimo que você esteja feliz aqui. Adeus.}
+{224}{}{Uma família de loucos. Eu não acho que eu quero ouvir mais nada de você. Adeus.}
+
+{230}{}{Broken Hills é onde obtemos todo o urânio de que precisamos para o reator atômico. De que
+ Eu entendo, o urânio é minado por mutantes lá embaixo. Mas eles têm os seres humanos trocam as coisas para
+ eles.}
+{231}{}{Por que eles têm seres humanos trocam essas coisas por elas?}
+
+{240}{}{O que você quer saber?}
+{241}{}{Aren’t you the curious one? Well, okay. O que você quer saber?}
+{242}{}{O que você quer saber agora?}
+{243}{}{O que é todo esse lixo no quintal?}
+{244}{}{O que você faz aqui?}
+{245}{}{Quem é o Skeeter?}
+{246}{}{Alguma coisa incomum por aqui?}
+
+{250}{}{Bem, porque eles trocam urânio com Vault City, também. Vault City trata alguém que não seja puro
+ esticar humanos, como leprosos. Então, Broken Hills usa comerciantes humanos. Algum cara chamado Chad, eu acho.}
+{251}{}{Chad, huh? I’ll keep that in mind. Deixe-me perguntar-lhe outra coisa.}
+{252}{}{Acho que é tudo o que preciso saber por enquanto. Adeus.}
+
+{260}{}{Bem, alguma dessas sucatas é deixada quando foram construindo o reator - antes da guerra.
+ O resto dessas coisas? Eu simplesmente não sei. A Skeeter cobra todos os tipos de coisas.}
+{261}{}{Quem é o Skeeter?}
+{262}{}{Interessante. Eu tenho outra pergunta para você.}
+{263}{}{Acho que é tudo o que preciso saber. Adeus.}
+
+{270}{}{Bem, ele está bem aqui. Apenas abra seus olhos e olhe ao redor um pouco. Sheesh.}
+{271}{}{Bem, a Skeeter geralmente está em sua oficina. Apenas ao sul do reator inacabado. Não pode quase
+ Nunca o arraste para fora de lá.}
+{272}{}{Obrigado. Adeus.}
+{273}{}{Não sei onde a Skeeter foi recentemente.}
+
+{280}{}{Bem, principalmente na minha empresa, mas às vezes acho que ouço coisas tarde da noite.}
+{281}{}{Ouve coisas? Como o quê?}
+{282}{}{Ah, vamos lá. Você pode me dizer o que você ouviu. Não vou contar a ninguém.}
+{283}{}{Eu também, mas acho que eles são apenas vozes dentro da minha cabeça.}
+
+{290}{}{Bem, não tenho certeza, pense em você. Mas acho que ouvi pessoas, pelo menos eu pensei que fosse gente.
+ Vindo e indo do poço do reator tarde da noite.}
+{291}{}{Pessoas? Toda noite?}
+{292}{}{Interesting. Deixe-me perguntar-lhe outra coisa.}
+
+{300}{}{Eu não posso te dizer. As pessoas pensariam que eu sou louco. Provavelmente apenas o vento soprando através da sucata,
+ de qualquer forma.}
+{301}{}{Eu lhe digo que não ouvi nada. Agora pare de me incomodar sobre isso.}
+{302}{}{OK. Deixe-me perguntar-lhe outra coisa, então.}
+
+{310}{}{(Olha de perto em seus olhos) Você ouve vozes dentro de sua cabeça? Eles dizem o quanto
+ melhor do que todos os outros? Eles dizem que algum dia as pessoas se ajoelharão antes da sua
+ grandeza? (sorrisos e acenos de cabeça)}
+{311}{}{Uh, não. Na verdade não.}
+{312}{}{Uh, sim. Claro que sim. Não todos?}
+
+{320}{}{Coisa boa. Eu realmente estava começando a me preocupar com você.}
+{321}{}{Bem, obrigado pela sua preocupação. Deixe-me fazer algumas perguntas.}
+{322}{}{Uh, sim. Bem, acho que preciso seguir em frente. Adeus.}
+
+{330}{}{Eu meio que tinha identificado esse tipo quando vi pela primeira vez, mas eu não tinha certeza. Saia daqui,
+ Você está se sentindo maluco!}
+{331}{}{Uh, sim. Tanto faz. Adeus.}
+{332}{}{Bem, um de nós é um maluco - eu só acho que você está confuso quanto a qual de nós é.}
+
+{340}{}{Bem, eu não sei se eles eram pessoas ou o que, mas geralmente são apenas algumas noites.
+ Ruídos vindo e vindo do poço do reator. Eu não sei o que está acontecendo, e eu não quero saber,
+ ou.}
+{341}{}{Acho que não posso culpá-lo. Não sei o que poderia estar lá.}
+{342}{}{Obrigado pela informação. Adeus.}
+{343}{}{O poço do reator também não é radioativo para qualquer coisa para viver nele?}
+
+{350}{}{Não, esta parte do reator não foi concluída quando a guerra começou.}
+{351}{}{Oh, eu vejo. Hmm, diga-me outra coisa, então.}

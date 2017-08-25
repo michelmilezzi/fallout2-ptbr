@@ -1,0 +1,196 @@
+{100}{}{Você vê um terminal de computador. Está envolvido em algum tipo de rotina de diagnóstico.}
+{101}{}{Você vê o computador central do Vault City.}
+{102}{}{Você vê um terminal de computador. Está envolvido em algum tipo de rotina de diagnóstico.}
+{103}{}{Você vê uma caixa de metal que está falando sozinha na voz de uma mulher.}
+{104}{}{Você vê uma caixa de metal falando.}
+{105}{}{Você vê uma caixa de metal que está falando sozinha na voz de uma mulher.}
+{106}{}{O terminal do computador desligou.}
+{107}{}{Início do Diagnóstico do Sistema.}
+{108}{}{Uma vez iniciado, o System Diagnostic pode ser cancelado em qualquer ponto pelo operador do sistema.}
+{109}{}{A Vault-Tec recomenda a manutenção e o diagnóstico regulares do sistema para garantir um bom funcionamento.}
+{110}{}{Vault-Tec: o primeiro e último nome na tecnologia Vault.}
+{111}{}{Início do Diagnóstico do Sistema.}
+{112}{}{Sistemas de segurança...}
+{113}{}{Terminal de Entrada: Offline.}
+{114}{}{Câmeras de segurança ... 1A ... 1B ... 1C estão operando com a melhor eficiência.}
+{115}{}{Sistema de segurança ... 2A ... 2B ... 2C estão operando com a melhor eficiência.}
+{116}{}{Sistema de segurança ... 3A ... 3B ... 3C estão operando com a melhor eficiência.}
+{117}{}{Sistemas ambientais ...}
+{118}{}{Ventilação 1A ... 1B ... estão operando com eficiência ótima.}
+{119}{}{Ventilação 2A ... 2B ...}
+{120}{}{2B ...}
+{121}{}{Confirmando ...}
+{122}{}{Atenção: a obstrução foi detectada na Ventilação 2B.}
+{123}{}{Controle cruzado de sistemas ambientais ...}
+{124}{}{A obstrução foi registrada no relatório de manutenção de engenharia e um operador foi notificado.}
+{125}{}{Verificação contínua ...}
+{126}{}{Ventilação 2C ... 2D ... estão funcionando com a eficiência ideal.}
+{127}{}{Ventilação 3A ... 3B ... 3C ... 3D ... 3E ... estão operando com a melhor eficiência.}
+{128}{}{Temperatura e umidade dentro do Vault estão dentro das especificações exigidas.}
+{129}{}{Fonte de energia...}
+{130}{}{Todos os níveis de energia estão dentro das especificações exigidas.}
+{131}{}{O modo de economia de energia para os níveis dois e três permanece em vigor.}
+{132}{}{Atenção: A porta para o Vault está aberta. Em caso de emergência, a porta irá selar.}
+{133}{}{Todas as leituras são normais. O diagnóstico do sistema concluiu. Preparando-se para escrever no disco ...}
+{134}{}{As leituras foram salvas no holodisk.}
+{135}{}{A lista de leituras foi transferida para o principal List Office.}
+{136}{}{Três listas de backup agora estão sendo inseridas no Source Safe.}
+{137}{}{O backup de listas Failsafe agora está sendo enviado para o servidor da lista principal para distribuição em todos os outros terminais na Cidade do Vault.}
+{138}{}{Agora é seguro desligar o terminal.}
+{139}{}{Obrigado.}
+{140}{}{Início do Diagnóstico do Sistema.}
+{141}{}{Uma vez iniciado, o System Diagnostic pode ser cancelado em qualquer ponto pelo operador do sistema.}
+{142}{}{A Vault-Tec recomenda a manutenção e o diagnóstico regulares do sistema para garantir um bom funcionamento.}
+{143}{}{Vault-Tec: o primeiro e último nome na tecnologia Vault.}
+{144}{}{Início do Diagnóstico do Sistema.}
+{145}{}{Sistemas de segurança...}
+{146}{}{Terminal de Entrada: Offline.}
+{147}{}{Câmeras de segurança ... 1A ... 1B ... 1C estão operando com a melhor eficiência.}
+{148}{}{Sistema de segurança ... 2A ... 2B ... 2C estão operando com a melhor eficiência.}
+{149}{}{Sistema de segurança ... 3A ... 3B ... 3C estão operando com a melhor eficiência.}
+{150}{}{Sistemas ambientais ... }
+{151}{}{Ventilação 1A ... 1B ... estão operando com eficiência ótima.}
+{152}{}{Ventilação 2A ... 2B ... 2C... 2D... are operating at optimum efficiency.}
+{153}{}{Ventilação 3A ... 3B ... 3C ... 3D ... 3E ... estão operando com a melhor eficiência.}
+{154}{}{Temperatura e umidade dentro do Vault estão dentro das especificações exigidas.}
+{155}{}{Fonte de energia...}
+{156}{}{Todos os níveis de energia estão dentro das especificações exigidas.}
+{157}{}{O modo de economia de energia para os níveis dois e três permanece em vigor.}
+{158}{}{Atenção: A porta para o Vault está aberta. Em caso de emergência, a porta irá selar.}
+{159}{}{Todas as leituras são normais. O diagnóstico do sistema concluiu. Preparando-se para escrever no disco ...}
+{160}{}{As leituras foram salvas no holodisk.}
+{161}{}{A lista de leituras foi transferida para o principal List Office.}
+{162}{}{Três listas de backup agora estão sendo inseridas no Source Safe.}
+{163}{}{O backup de listas Failsafe agora está sendo enviado para o servidor da lista principal para distribuição em todos os outros terminais na Cidade do Vault.}
+{164}{}{Agora é seguro desligar o terminal.}
+{165}{}{Obrigado.}
+{166}{}{Você vê uma caixa de metal falando com o ar na voz de uma mulher. A mulher deve estar dentro da caixa! Ela deve ser realmente, muito apertado lá.}
+{167}{}{Você fez logon no computador central da Cidade do Vault. A interface parece relativamente fácil de entender; Tudo parece ser dividido em arquivos.}
+{168}{}{Hewllo? Hewllo?}
+{169}{}{Tente e abra a caixa para que a mulher possa sair.}
+{170}{}{Shamble off}
+{171}{}{Procure nos arquivos a localização do Vault 13.}
+{172}{}{Procure arquivos para qualquer menção do Kit de Criação do Jardim do Éden.}
+{173}{}{Insira o disco da planta de energia Gecko no computador.}
+{174}{}{Abra o computador e procure um módulo de reconhecimento de voz.}
+{175}{}{Insira o Pip Boy no slot que você notou antes.}
+{176}{}{Insira o Pip Boy no slot que você notou antes.}
+{177}{}{Feche o terminal.}
+{178}{}{A caixa de metal não responde.}
+{179}{}{Tente e abra a caixa para que a mulher possa sair.}
+{180}{}{Shamble off}
+{181}{}{Você se ajoelha abaixo da caixa de metal. Você cavou os dedos em uma das placas abaixo da caixa
+ E arranca-o. Não há uma mulher lá! Apenas um monte de cobras mortas e luzes cintilantes.}
+{182}{}{Alcance as cobras, sinta-se ao redor.}
+{183}{}{Shamble off}
+{184}{}{Existe um GZZZZTTTTTT e, em seguida, ...}
+{185}{}{...você acorda.}
+{186}{}{Shamble off}
+{187}{}{Você abrirá o painel abaixo da máquina e procurará um módulo de reconhecimento de voz. Você não
+ Veja um ... as placas de circuito neste computador parecem muito diferentes das do Vault 13
+ computador.}
+{188}{}{Substitua o painel e veja os arquivos do computador.}
+{189}{}{Valeu a pena. É melhor procurar outro lugar.}
+{190}{}{Conforme você substitui o painel, no entanto, de repente você percebe uma pequena foto do Pip Boy localizado
+ Abaixo do terminal. Ao lado da imagem é um slot que se parece com o tamanho do seu Pip Boy.}
+{191}{}{Insira o seu Pip Boy no espaço vazio.}
+{192}{}{Deixe o terminal.}
+{193}{}{À medida que você está prestes a se afastar, você vê a pequena pessoa sorridente do seu pequeno blinky Pip
+ Menino embaixo da caixa de metal! Ele está apontando para um espaço vazio ao lado dele. Talvez ele queira conversar com o seu
+ Pip Boy little person.}
+{194}{}{Como você está prestes a se afastar, de repente você percebe uma pequena foto do Pip Boy localizado
+ Abaixo do terminal. Ao lado da imagem é um slot que se parece com o tamanho do seu Pip Boy.}
+{195}{}{Empurre o seu personagem Hand-held do seu personagem Pip Boy para o slot para que eles possam conversar.}
+{196}{}{Insira o seu Pip Boy no espaço vazio.}
+{197}{}{Deixe o terminal.}
+{198}{}{Garoto! Os dois parecem ter muita coisa para falar! Eles falam em palavras engraçadas que soam como
+ Moagem, beeping e mantis-chirping. Eventualmente, há um sinal sonoro, e seu Pip Boy desliza para fora.}
+{199}{}{Pegue o seu Pip Boyeee e vá embora}
+{200}{}{Uma pequena janela se abre na tela do terminal com um Pip Boy sorrindo ao lado. Como você assiste, o
+ Pip Boy começa a assobiar silenciosamente e tocar os pés. Uma luz vermelha está piscando ao lado da ranhura do computador.}
+{201}{}{Esperar...}
+{202}{}{Cancelar o procedimento e sair do terminal.}
+{203}{}{Um ruído de moagem não saudável vem do slot do Pip Boy. O Pip Boy continua a assobiar
+ Silenciosamente e toque seus pés.}
+{204}{}{Esperar...}
+{205}{}{Cancelar o procedimento e sair do terminal.}
+{206}{}{O Pip Boy de repente pára e franziu a testa. Um ponto de exclamação aparece acima de sua cabeça, e ele
+ Começa a abanar o dedo para você.}
+{207}{}{Dê ao pequeno bastardo o dedo de volta!}
+{208}{}{Tente determinar o que está errado.}
+{209}{}{Cancelar o procedimento e sair do terminal.}
+{210}{}{Uma pequena exibição abaixo do Pip Boy afirma que sua última manutenção agendada foi de 50,352 anos
+ atrás. Os arquivos estão corrompidos e precisam ser "re-formatados". Você deseja continuar?}
+{211}{}{Uh ... claro.}
+{212}{}{Wha ... não! De jeito nenhum!}
+{213}{}{Cancelar o procedimento e sair do terminal.}
+{214}{}{Procedimento de inicialização começando ... Reformatando Pip Boy ...}
+{215}{}{}
+{216}{}{Esperar...}
+{217}{}{Cancelar o procedimento e sair do terminal.}
+{218}{}{Início do procedimento de inicialização ...}
+{219}{}{                             Reformatando Pip Boy ...}
+{220}{}{Ei! Me dê meu maldito Pip Boy de volta!}
+{221}{}{Cancelar! Cancelar!}
+{222}{}{O Arquivo Geográfico do Norte da Califórnia está sendo copiado para o banco de dados do Pip Boy.}
+{223}{}{Copiando o arquivo ... Broken Hills ... Gecko ... New California Republic ... New Reno ... Redding ... Vault City ... Download completo.}
+{224}{}{Continue pesquisando nos arquivos para obter mais informações.}
+{225}{}{Feche o terminal.}
+{226}{}{Você retornou ao menu principal. Uma série de arquivos e programas de pesquisa estão listados no
+ Tela do terminal.}
+{227}{}{Procure qualquer menção do Vault 13 nos arquivos.}
+{228}{}{Procure qualquer referência ao Kit de Criação do Jardim do Éden.}
+{229}{}{Ligue os relatórios no gerador de energia do Vault City.}
+{230}{}{Feche o terminal.}
+{231}{}{De acordo com os relatórios de saída, parece que Gordon estava correto. O gerador da Vault City é
+ Já está se aproximando do seu limite. Sem uma nova fonte de energia, a Vault City não poderá se expandir.}
+{232}{}{Continue pesquisando nos arquivos.}
+{233}{}{Feche o terminal.}
+{234}{}{Os arquivos apenas listam dois abóbadas: o Vault 8 (este Vault) e o Vault 15, localizados muito ao sul.
+ Curiosamente, não há menção ao Vault 13.}
+{235}{}{Você entra na localização do Vault 15 em seu Pip Boy.}
+{236}{}{Continue pesquisando nos arquivos para obter mais informações.}
+{237}{}{Feche o terminal.}
+{238}{}{De acordo com os arquivos, não existe nenhum GECK atualmente em estoque no escritório de instalações da Vault City.
+ O povo de Vault City parece ter usado o único que eles tiveram para ajudar a estabelecer o lugar quando eles
+ Veio à superfície.}
+{239}{}{Percorra a informação restante.}
+{240}{}{Pelo que você pode distinguir nos arquivos, dois GECKs faziam parte do padrão de cada Vault
+ Pacote de inventário. Apenas um foi enviado para o Vault 8, no entanto.}
+{241}{}{Referência cruzada das informações de embarque GECK.}
+{242}{}{Retorne ao menu principal.}
+{243}{}{Feche o terminal.}
+{244}{}{Devido a um erro de envio, parece que o Vault 8 recebeu uma caixa de pedaços de água excedentes destinados a
+ Outro Vault. O outro Vault provavelmente recebeu o segundo GECK da Vault 8.}
+{245}{}{Retorne ao menu principal.}
+{246}{}{Feche o terminal.}
+{247}{}{Uma pequena janela se abre na tela do terminal com um Pip Boy sorrindo ao lado. Como você assiste, o
+ Pip Boy olha diretamente para você, pisca, então dá-lhe um polegar para cima. Uma luz vermelha está piscando ao lado da
+ Slot para computador}
+{248}{}{Dê uma olhadinha ao Pip Boy.}
+{249}{}{Dê ao dedo o dedo do Pip Boy.}
+{250}{}{A informação de desenvolvimento do Fallout 2 está sendo inserida no banco de dados do Pip Boy. Copiando arquivos ...
+ Vault City Developement Credits ... Download completo.}
+{251}{}{Danke.}
+{252}{}{Este tempo-gasto melhor vale a pena alguns pontos de habilidade extras, ou eu vou ficar chateado.}
+{253}{}{O Pip Boy na tela acena adeus e então a tela fica preta. O terminal fechou
+ baixa.}
+{254}{}{Sair.}
+{255}{}{Sim, é melhor você correr, sua pequena merda.}
+{256}{}{O terminal desligou. Você não tem idéia de como voltar a ligar o sistema.}
+{257}{}{Sair.}
+{258}{}{Leitura de disco ... Dados do reator: energia atômica ... Eficiência: 43% / 75% ... Erro: Calibração da planta - MD4 / gh1 ... Você deseja otimizar?}
+{259}{}{}
+{260}{}{}
+{261}{}{}
+{262}{}{}
+{263}{}{Comece o procedimento de otimização.}
+{264}{}{Cancelar a operação e pesquisar os arquivos.}
+{265}{}{Feche o terminal.}
+{266}{}{Procedimento de otimização de início ... Otimizando ... Otimização completa. Remova o disco.}
+{267}{}{}
+{268}{}{}
+{269}{}{}
+{270}{}{Procure nos arquivos.}
+{271}{}{Feche o terminal.}
+{272}{}{Oooooooh. Dat tynglzzz.}

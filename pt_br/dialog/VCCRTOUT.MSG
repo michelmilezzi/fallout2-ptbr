@@ -1,0 +1,21 @@
+{100}{}{Você vê um dos moradores sujos do Courtyard.}
+{101}{}{A vida não parece muito próspera para essa pessoa.}
+{102}{}{Sim, whaddya está olhando?}
+{103}{}{Bom dia ... para alguém.}
+{104}{}{Eu não ficaria aqui se eu fosse você.}
+{105}{}{Gostaria de entrar na cidade.}
+{106}{}{Onde está esse dinheiro que eu tinha ...?}
+{107}{}{Falhas agradáveis.}
+{108}{}{Lugar agradável ... se você pode lidar com a lei.}
+{109}{}{Pelo menos não estou fora dos resíduos ...}
+{110}{}{Continue se movendo'.}
+{111}{}{Dinheiro curto ...}
+{112}{}{Você se afastou daqui, yeah?}
+{113}{}{Saia do meu rosto.}
+{114}{}{Você é tão ruim quanto eles.}
+{115}{}{Recuar.}
+{116}{}{Continue mexendo.}
+{117}{}{Mantenha-se para si mesmo.}
+{118}{}{Não precisamos do seu tipo por aqui.}
+{119}{}{O portão está bem ali. Faça-se escasso.}
+{120}{}{Deserto do lixo ...}

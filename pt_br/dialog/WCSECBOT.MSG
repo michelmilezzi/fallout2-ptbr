@@ -1,0 +1,9 @@
+{103}{}{Este bot parece desinteressado em falar com você.}
+{104}{}{Este bot parece estar desativado.}
+{105}{}{Intruder Alert! Intruder Alert!}
+{106}{}{Destrua Target!}
+{107}{}{Sistema falso no sistema de segurança!}
+{108}{}{Erro no sistema!}
+
+{150}{}{Você parece ter desativado o robô.}
+{151}{}{Você parece ter reparado o robô completamente.}

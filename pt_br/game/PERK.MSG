@@ -1,0 +1,248 @@
+#
+#   Messages from perk.c
+#
+#
+#   PERK NAMES
+#
+{101}{}{Consciência}
+{102}{}{Bônus HtH Ataques}
+{103}{}{Bônus HtH Dano}
+{104}{}{Bônus Mover}
+{105}{}{Bônus Ranged Dano}
+{106}{}{Taxa de Falsificação de Bônus}
+{107}{}{Seqüência anterior}
+{108}{}{Cura mais rápida}
+{109}{}{Mais críticos}
+{110}{}{Visão noturna}
+{111}{}{Presença}
+{112}{}{Rad resistência}
+{113}{}{Dureza}
+{114}{}{Forte volta}
+{115}{}{Atirador afiado}
+{116}{}{Corrida silenciosa}
+{117}{}{Survivalista}
+{118}{}{Master Trader}
+{119}{}{Educado}
+{120}{}{Curador}
+{121}{}{Fortune Finder}
+{122}{}{Criticas melhores}
+{123}{}{Empatia}
+{124}{}{Assassino}
+{125}{}{Atirador de elite}
+{126}{}{Morte silenciosa}
+{127}{}{Ação Menino}
+{128}{}{Bloqueio mental}
+{129}{}{Lifegiver}
+{130}{}{Trapaceiro}
+{131}{}{Snakeater}
+{132}{}{Sr. Fixit}
+{133}{}{Médico}
+{134}{}{Ladrão Mestre}
+{135}{}{Alto falante}
+{136}{}{Heave Ho!}
+{137}{}{ERROR - UNIMPED}  # was -- Friendly Foe
+{138}{}{Pickpocket}
+{139}{}{Fantasma}
+{140}{}{Culto de personalidade}
+{141}{}{Scrounger}
+{142}{}{Explorador}
+{143}{}{Flor criança}
+{144}{}{Pathfinder}
+{145}{}{Amigo animal}
+{146}{}{Escoteiro}
+{147}{}{Misterioso estranho}
+{148}{}{guarda}
+{149}{}{Bolsos rápidos}
+{150}{}{Liso Talker}
+{151}{}{Swift Learner}
+{152}{}{Tag!}
+{153}{}{Mutate!}
+{154}{}{Nuka-Cola Reliance}
+{155}{}{Buffout Reliance}
+{156}{}{Mentats Reliance}
+{157}{}{Psycho Reliance}
+{158}{}{Radaway Reliance}
+{159}{}{Weapon Long Range}
+{160}{}{Arma Precisa}
+{161}{}{Penetração de armas}
+{162}{}{Knockback de armas}
+{163}{}{Armadura Alimentada}
+{164}{}{Armadura de combate}
+{165}{}{Escala de alcance da arma}
+{166}{}{Weapon Fast Reload}
+{167}{}{Vista da noite da arma}
+{168}{}{Arma Flameboy}
+{169}{}{Armadura Avançada I}
+{170}{}{Armadura Avançada II}
+{171}{}{Jet Reliance}
+{172}{}{Relic trágico}
+{173}{}{Carisma de armadura}
+{174}{}{Gecko Skinning}
+{175}{}{Armadura de Impacto Dermal}
+{176}{}{Dermal Impact Asslt. Realçar.}
+{177}{}{Implantes de armadura de Phoenix}
+{178}{}{Phoenix Assault Enhancement}
+{179}{}{Inoculações da Cidade do Vault}
+{180}{}{Pico de adrenalina}
+{181}{}{Natureza Cautelosa}
+{182}{}{Compreensão}
+{183}{}{Especialista em Demolição}
+{184}{}{Jogador}
+{185}{}{Ganhar força}
+{186}{}{Ganho de Percepção}
+{187}{}{Ganhar resistência}
+{188}{}{Ganha Carisma}
+{189}{}{Ganha Inteligência}
+{190}{}{Ganhar Agilidade}
+{191}{}{Ganhe Sorte}
+{192}{}{Inofensivo}
+{193}{}{Aqui e agora}
+{194}{}{HtH Evade}
+{195}{}{Kama Sutra Master}
+{196}{}{Karma Beacon}
+{197}{}{Passo leve}
+{198}{}{Anatomia viva}
+{199}{}{Personalidade magnética}
+{200}{}{Negociador}
+{201}{}{Pack Rat}
+{202}{}{Piromaníaco}
+{203}{}{Rapida recuperação}
+{204}{}{Vendedor}
+{205}{}{Parede de pedra}
+{206}{}{Ladrao}
+{207}{}{Manipulação de armas}
+{208}{}{Vault City Training}
+{209}{}{Pontos de golpe aumentados de álcool}
+{210}{}{Pontos de golpe aumentados de álcool II}
+{211}{}{Álcool Derrubado pontos de vida}
+{212}{}{Álcool Derrubado pontos de vida II}
+{213}{}{Autodocria pontos de golpe aumentados}
+{214}{}{Autodocria pontos de golpe aumentados II}
+{215}{}{Autodoc Diminuição dos pontos de vida}
+{216}{}{Autodoc Diminuição dos pontos de vida II}
+{217}{}{Expert Excrement Expeditor}
+{218}{}{Knockout melhorado pela arma}
+{219}{}{Jinxed}
+
+#
+#   PERK DESCRIPTIONS
+#
+{1101}{}{With Consciência, you are given detailed information about any critter you examine.  You see their exact hit points and information about any weapon they are equipped with.}
+{1102}{}{Você aprendeu as artes secretas do Oriente, ou você apenas socou mais rápido. Em qualquer caso, seus ataques mão a mão custam 1 AP menos para executar.}
+{1103}{}{A experiência em combate desarmado deu-lhe a vantagem quando se trata de danos. Você causa +2 pontos de dano com ataques corpo a corpo e corpo a corpo por cada nível desse Perk.}
+{1104}{}{For each level of Bônus Mover, you get 2 free APs each turn that can only be used for movement.  In other words, you can move 2 free hexes each turn for each level of this Perk.}
+{1105}{}{Seu treinamento em armas de fogo e outras armas à distância tornou-se mais mortal no combate à distância. Para cada nível deste Perk, você faz +2 pontos de dano com armas à distância.}
+{1106}{}{Este Perk permite que você puxe o gatilho um pouco mais rápido e ainda permaneça tão preciso quanto antes. Cada ataque de armas à distância custa 1 AP menos para executar.}
+{1107}{}{Você é mais provável que se mova antes de seus adversários em combate, já que sua seqüência é +2 para cada nível desse Perk.}
+{1108}{}{Com cada nível deste Perk, você recebe um bônus de +2 para sua Taxa de Cura. Isto é além da sua taxa de cicatrização normal, assim você cura mais rápido.}
+{1109}{}{You are more likely to cause critical hits in combat if you have this Perk.  Each level of Mais críticos gets you an additional +5% chance to cause a critical hit.}
+{1110}{}{With the Visão noturna Perk, you can see in the dark better.  This will reduce the overall darkness level by 20%.}
+{1111}{}{Você manda atenção apenas entrando em uma sala. A reação inicial de outra pessoa é melhorada em 10% para cada nível desse Perk.}
+{1112}{}{Você é mais capaz de evitar a radiação e os efeitos negativos causados   pela radiação. Cada nível deste Perk melhora sua resistência à radiação em 15%.}
+{1113}{}{Quando você é difícil, você tira menos dano. Cada nível deste Perk adiciona + 10% à sua resistência geral ao dano.}
+{1114}{}{AKA Mule. Você pode transportar mais 50 quilos de equipamentos para cada nível desse Perk.}
+{1115}{}{Você tem um talento para bater em distâncias mais longas. Para cada nível deste Perk, você obtém um bônus de +2 para a Percepção para determinar os modificadores de alcance. É mais fácil do que nunca matar a longo alcance!}
+{1116}{}{Com este Perk, você agora tem a capacidade de se mover rapidamente e ainda permanecer calado. Você pode fugir e correr ao mesmo tempo. Sem este Perk, você automaticamente iria parar Sneaking se você correu.}
+{1117}{}{Você é mestre do ar livre. Este Perk confere a capacidade de sobreviver em ambientes hostis. Você obtém um bônus de + 25% para o Outdoorsman.}
+{1118}{}{Você dominou um aspecto do trueque - comprando bens muito mais baratos do que o normal. Com este Perk, você obtém um desconto de 25% ao comprar itens de uma loja ou outro comerciante.}
+{1119}{}{Each level of Educado adds +2 skill points when you gain a new experience level. This Perk works best when purchased early in your adventure.}
+{1120}{}{A cura dos corpos é mais fácil para você com este Perk. Cada nível deste Perk cura 4-10 pontos de golpe adicionais ao usar as habilidades de Primeiros Socorros ou Doutor.}
+{1121}{}{Você tem o talento de encontrar dinheiro. Você encontra dinheiro adicional em encontros aleatórios no deserto.}
+{1122}{}{Os ataques críticos que você causa no combate são mais devastadores. Você ganha um bônus de 20% na tabela de sucesso crítico, quase garantindo que mais danos serão feitos. Isso não afeta a chance de causar um golpe crítico.}
+{1123}{}{Você estudou outros seres humanos, dando-lhe conhecimento interno de sua reação emocional para você. Você verá o nível de reação da pessoa com quem você está falando quando participou de uma conversa em profundidade.}
+{1124}{}{The Assassino walks the earth!  In hand-to-hand combat all of your hits are upgraded to critical hits, causing destruction and mayhem.}
+{1125}{}{Você dominou a arma de fogo como fonte de dor. Com este Perk, qualquer sucesso em combate com uma arma de alcance será atualizado para um golpe crítico, se você também fizer um rolo de sorte.}
+{1126}{}{While Sneaking, if you hit a critter in the back, you will cause double damage using a hand-to-hand attack.  Morte silenciosa is that kind of Perk.}
+{1127}{}{Each level of Ação Menino (insert Girl if you wish) gives you an additional AP to spend every combat turn.  You can use these generic APs on any task.}
+{1128}{}{Bloqueio mental is the ability to tune out any outside mental interference.  You must have learned this talent from a passing guru, or from a really late night at a bar.}
+{1129}{}{Com cada nível deste Perk, você ganha 4 pontos de vida adicionais cada vez que você avançar um nível. Isto é, além dos pontos de sucesso que você já ganhou por nível com base na sua resistência.}
+{1130}{}{Você é menos propenso a ser atingido em combate se você tiver esse Perk. Você ganha um +5 para sua classe de armadura, além do bônus AC de qualquer armadura usada.}
+{1131}{}{Yum! Tem gosto de galinha. Para cada nível deste Perk, você ganha + 25% para sua resistência ao veneno.}
+{1132}{}{Este Perk lhe dará um bônus único de + 10% para as habilidades de Reparação e Ciência. Um pouco de coitada tarde da noite nunca machucou ninguém, especialmente você.}
+{1133}{}{The Médico Perk gives you a one-time bonus of +10% to the First Aid and Doctor skills.  Healing skills are a good thing.}
+{1134}{}{A Ladrão Mestre is proficient at stealing and picking locks. You gain +15 to Stealing and Lockpicking.  Steal from the rich, and give to you.}
+{1135}{}{Being a Alto falante means you have a one-time bonus of +20% to Speech.  From the mouth of babes and all that.}
+{1136}{}{Cada nível do Heave Ho! Perk dá-lhe um +2 adicional para Força (até 10,) para fins de determinação de alcance apenas com armas jogadas. Este Perk não excederá o alcance máximo de uma arma.}
+{1137}{}{ERROR.UNIMPED!}
+{1138}{}{Você é muito mais hábil em roubar do que o criminoso normal. Você pode roubar com o melhor deles, porque com este Perk, você ignora o tamanho e enfrenta modificadores ao roubar de uma pessoa.}
+{1139}{}{Quando o sol se põe ou você está em uma área mal iluminada, você se move como um fantasma com este Perk. Sua habilidade Sneak é aprimorada + 20% em condições escuras.}
+{1140}{}{Sua reputação é sempre positiva para as pessoas. Sem este Perk, uma grande reputação negativa teria um efeito ruim sobre pessoas de bom humor. Isso também funciona no reverso. As pessoas malignas até tratam o Sr. Goodie Good como uma das gangues.}
+{1141}{}{Você pode encontrar mais munição do que o sobrevivente normal pós-holocausto. Este Perk duplica a quantidade de munição encontrada em encontros aleatórios.}
+{1142}{}{The mark of the Explorador is to search out new and interesting locations.  With this Perk, you have a greater chance of finding special places and people.}
+{1143}{}{Com este Perk, você é menos provável que seja dependente de chems (50% menos provável, na verdade), e você sofre metade do tempo de retirada de uma pessoa normal.}
+{1144}{}{O Pathfinder é mais capaz de encontrar a rota mais curta. Com este Perk, seu tempo de viagem no Mapa Mundial é reduzido em 25% para cada nível.}
+{1145}{}{Os animais não atacarão um de seus amigos, a menos que o animal seja ameaçado ou atacado primeiro. Exatamente o que um animal é neste mundo está aberto ao debate.}
+{1146}{}{Você melhorou sua capacidade de ver locais distantes, aumentando o tamanho das explorações no Mapa Mundial por um quadrado em cada direção. Você também tem melhores chances de encontrar encontros especiais.}
+{1147}{}{With this Perk, you have gained the attention of a Misterioso estranho, who will appear to help you from time to time.  If your ally is lost in combat, do not expect him (or her) to be replaced.}
+{1148}{}{Você ganha + 15% em direção à sua habilidade Outdoorsman. Você é mais provável que evite encontros aleatórios se você escolher e tende a encontrar esses encontros "especiais" mais do que a maioria.}
+{1149}{}{Você aprendeu a empacotar melhor seu equipamento. O acesso ao seu inventário só lhe custa 2 Pontos de Ação em Combate em vez de 4.}
+{1150}{}{Você aprendeu a aumentar suas opções de diálogo sem entender o que está falando. Cada nível deste Perk aumentará sua inteligência por um, até 10, apenas para fins de diálogo.}
+{1151}{}{Você é realmente um Aprendiz Swift com este Perk, pois cada nível oferece um bônus adicional + 5% sempre que você ganha pontos de experiência. Isto é melhor levado cedo.}
+{1152}{}{Suas habilidades melhoraram até o ponto em que você pode escolher uma habilidade Tag adicional. Tag habilidades aumentar duas vezes mais rápido.}
+{1153}{}{A radiação do terremoto mudou você! Um dos seus traços mudou para outra coisa ...}
+{1154}{}{Você anseia outra Nuka-Cola.}
+{1155}{}{Você tem as batidas.}
+{1156}{}{Você sente grogue.}
+{1157}{}{Você se sente de cabeça clara.}
+{1158}{}{Você sente náuseas.}
+{1159}{}{Weapon Long Range}
+{1160}{}{Arma Precisa}
+{1161}{}{Penetração de armas}
+{1162}{}{Knockback de armas}
+{1163}{}{Armadura Alimentada}
+{1164}{}{Armadura de combate}
+{1165}{}{Escala de alcance da arma}
+{1166}{}{Weapon Fast Reload}
+{1167}{}{Vista da noite da arma}
+{1168}{}{Arma Flameboy}
+{1169}{}{Armadura Avançada I}
+{1170}{}{Armadura Avançada II}
+{1171}{}{Tudo está se movendo tão devagar ... você precisa obter mais Jet, agora mesmo!}
+{1172}{}{Você sente um ardente desejo de abrir outra caixa de cartas trágicas.}
+{1173}{}{Carisma de armadura}
+{1174}{}{Você tem o conhecimento de como fazer os geckos da pele corretamente para obter suas peles.}
+{1175}{}{Você tem proteção inerente contra ataques físicos.}     # Armadura de Impacto Dermal
+{1176}{}{Você possui proteção extra inerente contra ataques físicos.}  # Dermal Impact Assault Enhancement
+{1177}{}{Você possui proteção inerente contra ataques de energia.}     # Implantes de armadura de Phoenix
+{1178}{}{Você possui proteção extra inerente contra ataques de energia.}  # Phoenix Assault Enhancement
+{1179}{}{Você ganhou + 10% de resistência ao veneno e à radiação.}  # Inoculações da Cidade do Vault
+{1180}{}{Com este Perk, você gera +1 para sua Força quando você cai abaixo de 1/2 dos seus pontos de vida máximos.}  # Pico de adrenalina
+{1181}{}{Você está mais alerta ao ar livre e os inimigos são menos propensos a espreitar você. Com este Perk você recebe um +3 para sua percepção em encontros aleatórios ao determinar a colocação.}  # Natureza Cautelosa
+{1182}{}{Você paga muito mais atenção aos detalhes menores ao ler. Você ganha 50% mais pontos de habilidade ao ler livros.}  # Compreensão
+{1183}{}{Você é um perito quando se trata de belas artes de manipulação de explosivos. Eles sempre sai quando são supostos, além de causar danos extras.}  # Especialista em Demolição
+{1184}{}{Você pode rolar com o melhor deles. Você ganha + 20% na sua habilidade de jogo.}  # Jogador
+{1185}{}{Com este Perk você ganha +1 para sua Força.}     # Ganhar força
+{1186}{}{Com este Perk você ganha +1 para sua Percepção.}   # Ganho de Percepção
+{1187}{}{Com este Perk você ganha +1 para seu Endurance.}    # Ganhar resistência
+{1188}{}{Com este Perk você ganha +1 para o seu Carisma.}     # Ganha Carisma
+{1189}{}{Com este Perk você ganha +1 para sua Inteligência.} # Ganha Inteligência
+{1190}{}{Com este Perk você gera +1 para sua agilidade.}      # Ganhar Agilidade
+{1191}{}{Com este Perk você ganha +1 para sua sorte.}         # Ganhe Sorte
+{1192}{}{Seu comportamento inocente torna o roubo das pessoas um pouco mais fácil. Você ganha 20% com sua habilidade de roubar.}  # Inofensivo
+{1193}{}{Com este Perk você ganha imediatamente um nível de experiência.}  # Aqui e agora
+{1194}{}{Se ambos os slots dos itens estiverem vazios, cada ponto de ação não utilizado dá-lhe um +2 em vez de +1 para sua classe de armadura no final do seu turno, mais 1/12 de sua habilidade desarmada.}  # HtH Evade
+{1195}{}{Quando se trata de agradar sexualmente, você escreveu o livro.}  # Kama Sutra Master
+{1196}{}{Seu Karma brilha duas vezes mais brilhante. Seja bom ou ruim, seu Karma é duplicado para qualquer tipo de reação ou modificadores.}  # Karma Beacon
+{1197}{}{Você é ágil, sortudo e sempre cuidadoso. Esta vantagem reduz a metade suas chances de iniciar uma armadilha.}  # Passo leve
+{1198}{}{Você tem uma melhor compreensão das criaturas vivas e seus pontos fortes e fracos. Você recebe um bônus único de + 10% para Médico, e você faz +5 de dano por ataque a criaturas vivas.}  # Anatomia viva
+{1199}{}{Você ganha 1 slot extra em seu limite de companheiro, mas não esqueça que mais de 5 é sempre uma multidão.}  # Personalidade magnética
+{1200}{}{Você é um negociador muito qualificado. Não só você pode trocar com o melhor deles, mas você pode entrar ou sair de quase qualquer coisa. Com este Perk você ganha + 10% tanto para Trocar e Discurso.}  # Negociador
+{1201}{}{Você é eficiente em organizar seu inventário em geral. Isso torna muito mais fácil transportar esse pequeno extra que você sempre precisou.}  # Pack Rat
+{1202}{}{Você faz dano extra com armas à base de fogo, e os inimigos sempre parecem morrer da forma de fogo mais dolorosa.}  # Piromaníaco
+{1203}{}{Você é rápido em recuperar-se de ser derrubado.}  # Rapida recuperação
+{1204}{}{Você é um vendedor adepto. Com este Perk você ganha + 20% em relação à sua habilidade de troca.}  # Vendedor
+{1205}{}{Você é muito menos propenso a ser derrubado no combate.}  # Parede de pedra
+{1206}{}{The blood of a thief runs through your veins. With the Ladrao Perk, you get a one-time bonus of +10% to your Sneak, Lockpick, Steal, and Traps skills.  A well rounded thief is a live thief.}  # Ladrao
+{1207}{}{Você pode usar armas muito maiores do que normalmente permitido. Você ganha um +3 para sua força para fins de verificações de força ao tentar usar armas.}  # Manipulação de armas
+{1208}{}{Você recebeu o treinamento médico da Vault City.}  # Vault City Training
+{1209}{}{Seus pontos de vida foram aumentados um pouco por um drunkeness repetido.}  # Alcohol Enhanced hit points
+{1210}{}{Seus pontos de vida foram aprimorados um pouco mais por um drunkeness repetido.}  # Alcohol Enhanced hit points II
+{1211}{}{Seus pontos de acerto foram reduzidos ligeiramente pelo drunkeness repetido.}  # Álcool Derrubado pontos de vida
+{1212}{}{Seus pontos de acerto foram reduzidos ligeiramente pelo drunkeness repetido.}  # Álcool Derrubado pontos de vida II
+{1209}{}{Seus pontos de acerto foram aprimorados um pouco pelo uso repetido do autodoc.}  # Autodoc Enhanced hit points
+{1210}{}{Seus pontos de vida foram aprimorados um pouco mais pelo uso repetido do autodoc.}  # Autodoc Enhanced hit points II
+{1211}{}{Seus pontos de acerto foram reduzidos ligeiramente pelo uso repetido do autodoc.}  # Autodoc Diminuição dos pontos de vida
+{1212}{}{Seus pontos de acerto foram reduzidos ligeiramente pelo uso repetido do autodoc.}  # Autodoc Diminuição dos pontos de vida II
+{1217}{}{Você pode arder o touro com o melhor deles.}
+{1218}{}{Knockout melhorado pela arma}
+{1219}{}{O bom é que todos a sua volta têm mais falhas críticas em combate. O mau é que você também!}

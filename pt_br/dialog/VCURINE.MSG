@@ -1,0 +1,30 @@
+{100}{}{Você vê um Cidadão do Vault.}
+{101}{}{Você vê um Cidadão em um macacão azul brilhante que se alivia.}
+{102}{}{Eu tagarela agora, mas minhas mãos estão ocupadas.}
+{103}{}{Uh, parabéns por derrotar o Enclave. Você também os pegou todos no banheiro?}
+{104}{}{Eu prefiro ouvir sobre suas façanhas quando não estou fazendo xixi, obrigado.}
+{105}{}{Fora! Fora, xixi xixi! Fora!}
+{106}{}{Sabia que não deveria ter tido tanto álcool sintético.}
+{107}{}{Sinto que já estive aqui para sempre.}
+{108}{}{Ahhhhhhhh.}
+{109}{}{Eu me sinto exposto. Como se alguém me observando de cima.}
+{110}{}{Nada como uma experiência de urinar satisfatória.}
+{111}{}{Não distraia m ... dammint! Minha perna da calça!}
+{112}{}{Não fale. Isso o faz rastejar de volta.}
+{113}{}{Olhe, "Escolhido", estou tentando me concentrar aqui, ok?}
+{114}{}{Desejo que este lugar tivesse uma barraca.}
+{115}{}{As pessoas que falam no banheiro têm muito a aprender sobre a etiqueta de evacuação.}
+{116}{}{Eu acho que você me confundi com alguém que NÃO PENA!}
+{117}{}{Essa é uma dessas entrevistas de banheiro Kevin e Bean?}
+{118}{}{Para quem trabalha o número dois?!?!}
+{119}{}{Eu sabia que banheiros comuns não eram uma boa idéia.}
+{120}{}{Não agora, querido. No caso de você não ter notado, estou urinando.}
+{121}{}{Desculpe querida. Os banheiros não fazem isso para mim.}
+{122}{}{Esta não é uma área de descanso, amigo. Mova-se, ok?}
+{123}{}{Eu acho que você me confundi com alguém que quer conhecer homens como você nos banheiros.}
+{124}{}{Não, não vou lhe dar instruções sobre como usar o banheiro.}
+{125}{}{Um mutante! Guardas! Guardas!}
+{126}{}{Um ghoul! Guardas! Guardas!}
+{127}{}{Ei! Pare de empurrar! Espere sua vez!}
+{128}{}{Há outro banheiro! Use esse!}
+{129}{}{Empurre-me novamente, e eu vou fazer xixi com você. Compreendo? Não mesmo!}

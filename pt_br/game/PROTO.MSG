@@ -1,0 +1,317 @@
+#
+# Messages for Prototypes
+#
+# strings
+#
+{10}{}{<Nenhum>}
+
+#
+# Material Types
+#
+{100}{}{Vidro}
+{101}{}{Metal}
+{102}{}{Plástico}
+{103}{}{Madeira}
+{104}{}{Sujeira}
+{105}{}{Pedra}
+{106}{}{Cimento}
+{107}{}{Couro}
+
+#
+# Item Types
+#
+{150}{}{armaduras}
+{151}{}{Recipiente}
+{152}{}{Droga}
+{153}{}{Arma}
+{154}{}{Munição}
+{155}{}{Item diverso}
+{156}{}{Chave}
+
+#
+# Scenery Types
+#
+{200}{}{Portal}
+{201}{}{Escadas}
+{202}{}{Elevador}
+{203}{}{Ladder Bottom}
+{204}{}{Ladder Top}
+{205}{}{Cenário genérico}
+
+#
+# Damage Code Types
+#
+{250}{}{normal_dam}
+{251}{}{laser}
+{252}{}{fogo}
+{253}{}{plasma}
+{254}{}{elétrico}
+{255}{}{emp}
+{256}{}{explosão}
+
+#
+# Caliber Types for weapons
+#
+{300}{}{Nenhum}
+{301}{}{Foguete}
+{302}{}{Combustível de lança-chamas}
+{303}{}{Célula de energia C}
+{304}{}{Célula de energia D}
+{305}{}{.223}
+{306}{}{5mm}
+{307}{}{.40 cal}
+{308}{}{10mm}
+{309}{}{.44 cal}
+{310}{}{14mm}
+{311}{}{Calibre 12}
+{312}{}{9mm}
+{313}{}{BB}
+{314}{}{.45 cal}
+{315}{}{2mm}
+{316}{}{4.7mm sem manchas}
+{317}{}{Needler HN}
+{318}{}{7.62mm}
+
+#
+# Race Types
+#
+{350}{}{caucasiano}
+{351}{}{africano}
+
+#
+# Body Types
+#
+{400}{}{Bípede}
+{401}{}{Quadrúpede}
+{402}{}{Robótico}
+#
+# Kill Types names
+#
+# Note: These were moved to 1450+ to handle new ones!
+{450}{}{Homens}
+{451}{}{Mulheres}
+{452}{}{Crianças}
+{453}{}{Super mutantes}
+{454}{}{Ghouls}
+{455}{}{brâmane}
+{456}{}{Radscorpions}
+{457}{}{Ratos}
+{458}{}{Flutuadores}
+{459}{}{Centauros}
+{460}{}{Robôs}
+{461}{}{Cães}
+{462}{}{Manti}
+{463}{}{DeathClaws}
+{464}{}{Plantar}
+#{465}{}{}
+#
+# Kill type info descriptions
+#
+{465}{}{Esta linha mostra o número de humanos do sexo masculino que você matou durante o curso de suas aventuras.}
+{466}{}{Esta linha mostra o número de humanos do sexo feminino que você matou durante o curso de suas aventuras.}
+{467}{}{Esta linha mostra o número de crianças humanas jovens que você matou durante o curso de suas aventuras. Você cad.}
+{468}{}{The number of Super mutantes you have slain during the course of your adventures.}
+{469}{}{Esta linha mostra o número de mutantes ghoul masculino e feminino que você matou durante o curso de suas aventuras.}
+{470}{}{This line shows the number of brâmane (mutated cows) you have chopped up during your travels.}
+{471}{}{O número de Radscorpions mutados que você morreu durante sua aventura.}
+{472}{}{O número de ratos que você matou. Inclui todos os membros da família dos ratos.}
+{473}{}{This is the number of mutant Flutuadores that you have put to death.}
+{474}{}{Your tally of dead mutant Centauros.}
+{475}{}{Este é o número de robôs que você destruiu ou desmantelou.}
+{476}{}{O número total de cães que você enviou para o grande canil no céu.}
+{477}{}{Esta linha mostra o número total de Manti morto,ou grandes insetos tipo mantis mutantes,que você esmagou até agora.}
+{478}{}{Esta linha mostra que você matou o Deathclaw,e qualquer um dos seus filhos.}
+{479}{}{O número de plantas cuja busca pela luz solar você terminou.}
+
+#
+# Use text
+#
+{480}{}{Você vê:% s.}
+
+#
+# Use Recipiente text
+#
+{485}{}{Você procura o% s.}
+{486}{}{Você fecha o% s.}
+{487}{}{Está fechado.} # new
+
+#
+# Look text
+#
+{490}{}{Você vê:% s.}
+{491}{}{Você vê um morto:% s.}
+{492}{}{Você vê os restos de:% s.}
+{493}{}{Você não vê nada fora do comum.}
+
+#
+# Examine text
+#
+{500}{}{Morto}
+{501}{}{Almost Morto}
+{502}{}{Severamente ferido}
+{503}{}{Ferido}
+{504}{}{Ileso}
+
+#
+# Examine text messages
+#
+{510}{}{Mod. AC:% d}
+{511}{}{DR Mod:% d}
+{512}{}{Dmg Mod:% d /% d}
+{518}{}{Você olha:% s}
+{519}{}{% s% s}
+{520}{}{Você olha:% s.}
+{521}{}{% s% s.}
+{522}{}{Ele olha:% s}
+{523}{}{Ela olha:% s}
+{524}{}{Parece:% s}
+# (note: hps are short for hit-points)
+{525}{}{% s tem% d /% d hps.}
+# (note: this is for guns that have ammo)
+{526}{}{Tem% d /% d tiros de% s.}
+{530}{}{e tem membros aleijados.}  # These append to lines 500-504
+{531}{}{mas tem membros incapacitados.}
+{532}{}{e tem membros aleijados.}
+{533}{}{mas têm membros aleijados.}
+# (note: hps are short for hit-points)
+{535}{}{Ele tem% d /% d hps}
+{536}{}{Ela tem% d /% d hps}
+{537}{}{Tem% d /% d hps}
+{540}{}{Pesa% d libras.}
+{541}{}{Pesa% d libra.}
+{544}{}{,}
+{545}{}{.}
+{546}{}{ e está empunhando a% s.}
+{547}{}{ e está empunhando um% s com% d /% d tiros de% s.}
+{548}{}{O carro não parece estar funcionando agora.}
+{549}{}{O carro está funcionando em% d %% poder.}
+
+#
+# Examine text error messages
+#
+{550}{}{\ nError: lookup_val fora do alcance!}
+{551}{}{\ nError: obj_examine: proto_ptr falhou!}
+
+#
+# Use text messages
+#
+{580}{}{Você usa o% s.}
+{581}{}{Você usa o% s em% s.}
+{582}{}{Isso não faz nada.}
+{583}{}{To your dismay,you realize that it is already dead.}
+{584}{}{As you reach down,you realize that it is already dead.}
+{585}{}{Alas,you are too late.} # This is relating to a critter being dead.
+{586}{}{Isso não vai funcionar com os mortos.}
+{587}{}{Você acende o flare.}
+{588}{}{O alargamento já está aceso.}
+{589}{}{Você define o temporizador.}
+{590}{}{O temporizador já está marcando!}
+{595}{}{Você carrega o carro com mais energia.}
+{596}{}{O carro já está cheio de poder.}
+{597}{}{A porta parece estar bloqueada.}
+
+#
+# Experience-Point messages
+#
+{620}{}{Você ganha% d pontos de experiência para matar:% s.}
+{621}{}{% s você ganha% d exp. pontos.}
+{622}{}{For defeating your enemies,}  # 622-626 prepend to line 621
+{623}{}{For slaying your opponents,}
+{624}{}{You are victorious in combat,}
+{625}{}{For crushing your enemies,}
+{626}{}{For destroying your enemies without taking a scratch,}
+
+#
+# Dialog messages
+#
+{650}{}{[Feito]}
+{651}{}{[Mais]}
+{652}{}{Mais}
+{653}{}{[Costas]}
+{654}{}{Costas}     # changed number from 653
+{655}{}{Continue}    # new
+{656}{}{Errar...}   # new
+{660}{}{Você não pode ver lá.}
+{661}{}{Muito longe.}
+{670}{}{OK.}    # F2: Used in PM: CombatAI settings
+{671}{}{Certo.}    # F2: Used in PM: CombatAI settings
+{672}{}{Como quiser.}       # F2: Used in PM: CombatAI settings
+{673}{}{Qualquer coisa que você diga.}  # F2: Used in PM: CombatAI settings
+{674}{}{Vou tentar.}          # F2: Used in PM: CombatAI settings
+{675}{}{Não posso fazer isso.}   # F2: Used in PM: CombatAI settings
+{676}{}{Eu não acho que posso fazer isso.}   # F2: Used in PM: CombatAI settings
+{677}{}{Arf!}   # F2: Used in PM: CombatAI settings -- RoboDog
+{678}{}{Woof!}  # F2: Used in PM: CombatAI settings -- RoboDog
+
+#
+# Not Enough AP message
+#
+{700}{}{Você não tem pontos de ação suficientes.}
+#
+# Book messages
+#
+{800}{}{Você leu o livro.}
+{801}{}{Você não aprende nada de novo.}
+{802}{}{Você aprende novas informações científicas.}
+{803}{}{Você aprende muito sobre reparar eletrônicos quebrados.}
+{804}{}{Você aprende novas maneiras de curar lesões.}
+{805}{}{Você aprende como lidar melhor com suas armas.}
+{806}{}{Você aprende muito sobre a sobrevivência da região selvagem.}
+#
+# Use on messages (and some extra stuff that Jesse needed)
+#
+{900}{}{Os suprimentos no bolso do médico acabaram.}
+{901}{}{Os suprimentos no Kit de primeiros socorros acabaram.}
+{902}{}{Você não pode fazer isso em combate.}
+{903}{}{Essa pessoa não trocaria com você.}
+{904}{}{Esta pessoa não tem nada para contar sobre você.}
+{905}{}{Você não pode pegar esse item. Você está na sua capacidade máxima de peso.}
+{910}{}{Os suprimentos no saco do paramédico acabaram.}
+{911}{}{Os suprimentos no Field Medic First Aid Kit ficaram para fora.}
+{913}{}{Este bicho não pode carregar nada.}
+
+
+#
+# Kill Types names
+#
+{1450}{}{Homens}
+{1451}{}{Mulheres}
+{1452}{}{Crianças}
+{1453}{}{Super mutantes}
+{1454}{}{Ghouls}
+{1455}{}{brâmane}
+{1456}{}{Radscorpions}
+{1457}{}{Ratos}
+{1458}{}{Flutuadores}
+{1459}{}{Centauros}
+{1460}{}{Robôs}
+{1461}{}{Cães}
+{1462}{}{Manti}
+{1463}{}{DeathClaws}
+{1464}{}{Plantars}
+{1465}{}{Geckos}
+{1466}{}{Estrangeiros}
+{1467}{}{Formigas gigantes}
+{1468}{}{Big Bad Boss}
+#
+# Kill type info descriptions
+#
+{1469}{}{Esta linha mostra o número de humanos do sexo masculino que você matou durante o curso de suas aventuras.}
+{1470}{}{Esta linha mostra o número de humanos do sexo feminino que você matou durante o curso de suas aventuras.}
+{1471}{}{Esta linha mostra o número de crianças humanas jovens que você matou durante o curso de suas aventuras. Você cad.}
+{1472}{}{The number of Super mutantes you have slain during the course of your adventures.}
+{1473}{}{Esta linha mostra o número de mutantes ghoul masculino e feminino que você matou durante o curso de suas aventuras.}
+{1474}{}{This line shows the number of brâmane (mutated cows) you have chopped up during your travels.}
+{1475}{}{O número de Radscorpions mutados que você morreu durante sua aventura.}
+{1476}{}{O número de ratos que você matou. Inclui todos os membros da família dos ratos.}
+{1477}{}{This is the number of mutant Flutuadores that you have put to death.}
+{1478}{}{Your tally of dead mutant Centauros.}
+{1479}{}{Este é o número de robôs que você destruiu ou desmantelou.}
+{1480}{}{O número total de cães que você enviou para o grande canil no céu.}
+{1481}{}{Esta linha mostra o número total de Manti morto,ou grandes insetos tipo mantis mutantes,que você esmagou até agora.}
+{1482}{}{Esta linha mostra que você matou o Deathclaw,e qualquer um dos seus filhos.}
+{1483}{}{Esta linha mostra o número de plantas que você eliminou do mundo.}
+{1484}{}{O número de lagartos bonitos que você limpou da face do planeta.}
+{1485}{}{Uma contagem de coisas alienígenas mortas por sua mão.}
+{1486}{}{O número de insectoides que você exterminou na terra desolada.}
+{1487}{}{A contagem de guarda-costas de cyborg maníaco homicida total geneticamente modificados que você desperdiçou.}

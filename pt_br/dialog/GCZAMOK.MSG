@@ -1,0 +1,76 @@
+{100}{}{Você vê um Ghoul maior que a média.}
+{101}{}{Você vê Zomak, conhecido por alguns como o Destroyer.}
+{102}{}{Você vê uma grande, corpulenta, Ghoul cujo rosto, sob uma testa agudamente inclinada, reflete vastas reservas de superioridade simples.}
+
+{110}{}{Renovar Camarada! Eu sou Zomak. Alguns me chamam de Zomak the Destroyer. Qual é o seu negócio aqui?}
+{111}{}{Renovar Camarada! O que você está fazendo aqui? Indique seu negócio para Zomak the Destroyer.}
+{112}{}{Renu!}
+{113}{}{Ook?}
+{114}{}{Estou só dando uma olhada.}
+{115}{}{Eu desejo renovar.}
+{116}{}{Eu tomei uma curva errada.}
+
+{120}{}{Você deveria procurar outro lugar. Ou Zomak irá mostrar-lhe as estrelas.}
+
+{130}{}{Então você deve vê-lo.}
+{131}{}{Ele? Onde está ele, quero dizer, ele?}
+{132}{}{Não sou digno de vê-lo. Adeus.}
+
+{140}{}{Ele é o autor da iluminação. É ele quem promete Renovação a todos os que o seguem.}
+{141}{}{Bem, estou quase por vencer a renovação. Onde ele está?}
+{142}{}{Parece um outro maluco para mim. Estou aqui.}
+
+{150}{}{Bem, ele já voltou ... Ei, quem é você de qualquer maneira?}
+{151}{}{Eu sou apenas um Wanderer.}
+{152}{}{Eu sou o Escolhido.}
+{153}{}{Estou aqui apenas para minha renovação anual.}
+{154}{}{Ficará bem. Eu só tenho que lhe fazer algumas perguntas.}
+
+{160}{}{Bem, vá embora daqui então.}
+{161}{}{Uh, ok. Adeus.}
+
+{170}{}{Bem, nesse caso. Entre. Ele está na próxima sala. Não o aguarde.}
+{171}{}{Não eu, vou entrar. Adeus.}
+{172}{}{Posso voltar mais tarde. Adeus.}
+
+{180}{}{Bem, você deve escolher sair. Saia daqui.}
+{181}{}{ESTÁ BEM.}
+
+{200}{}{Sim, você pode renovar dentro.}
+{201}{}{ESTÁ BEM.}
+
+{210}{}{Ook? O que você quer dizer com isso? Você é burro?}
+{211}{}{Gosma?}
+
+{220}{}{Saia daqui. O cérebro não tem tempo para os gostos de você.}
+{221}{}{ESTÁ BEM. I’ll be going now.}
+
+{230}{}{Não há nada mais aqui, mas o cofre do cérebro. Menino, você é burro.}
+{231}{}{O cérebro?}
+{232}{}{Eu estava apenas testando você. Você passou. Agora me deixe entrar.}
+{233}{}{Eu acho que fiquei confuso. Deve ser toda essa radiação. Adeus.}
+
+{240}{}{Oops. Uh, não há nada aqui. Nada mesmo. Apenas vá embora agora.}
+{241}{}{Você tem certeza de que não há nada aqui?}
+{242}{}{ESTÁ BEM. Goodbye.}
+
+{250}{}{Sim. Tenho certeza. Agora saia.}
+{251}{}{Bem, se você diz. Adeus.}
+
+{260}{}{Oh, heh, heh, sim. Eu sabia. Umm, bem, errado, eu passei?}
+{261}{}{Você com certeza fez. Agora me deixe entrar.}
+{262}{}{Não, você falhou, e agora tenho que denunciá-lo.}
+
+{270}{}{OK então. Você pode entrar.}
+{271}{}{ESTÁ BEM. Goodbye.}
+
+{280}{}{Você tem o sinal. Vá para dentro.}
+{281}{}{Gooo.}
+{282}{}{O sinal?}
+{283}{}{Tem medo do sinal. Adeus.}
+
+{290}{}{Sim, o sagrado talismã da renovação. Renovar Camarada! Renovar!}
+{291}{}{Sim, Reno para você também. Adeus.}
+
+{300}{}{Renova o Irmão. Você pode passar.}
+{301}{}{Renovar Irmã. Você pode passar.}

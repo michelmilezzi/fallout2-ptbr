@@ -1,0 +1,23 @@
+{100}{}{Você vê uma pessoa áspera.}
+{101}{}{Você vê um incursor.}
+
+{200}{}{Você se aproxima de nossas terras. Agora você morre!}
+{201}{}{Como você ousa vir aqui sem ser convidado!}
+{202}{}{Morra, caminhante da cidade!}
+{203}{}{Sua morte deve me trazer algum dinheiro.}
+{204}{}{Fuga diante de mim, insignificante!}
+{205}{}{Você conhece a broca, cavalheiros.}
+{206}{}{Não há testemunhas.}
+{207}{}{Me proteja.}
+{208}{}{Sem piedade!}
+{209}{}{O homem não diz sobreviventes.}
+{210}{}{Bispo diz que não há invasão.}
+{211}{}{Vamos receber o pagamento!}
+
+
+{300}{}{Você vê Frog Morton.}
+{301}{}{Você vê Toad Morton.}
+{302}{}{Você vê Newt Morton.}
+{303}{}{Você vê Snake Morton.}
+
+{305}{}{Você matou meu irmão! Agora eu mato você!}

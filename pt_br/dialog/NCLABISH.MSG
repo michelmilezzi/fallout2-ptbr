@@ -1,0 +1,615 @@
+# 0.QUICK LOOK
+{100}{}{Você vê a Sra.Bishop.}
+{101}{}{Você vê uma gritaria Sra.Bishop.}
+
+# 0.LOOK (WTG)
+{150}{}{Você vê uma atraente mulher de meia idade.Ela parece entediado.}
+{151}{}{Você vê a Sra.Bishop.She looks distracted, and she is staring off into the distance.}
+
+# 1.INTIAL (WTG)
+{200}{}{(A mulher se virou para você.Ela é bastante atraente, com um vestido baixo cortado feito de Gold Gecko
+ pele.Ela estuda você por um momento, depois franziu a testa.) Sim, o que é isso?}
+{201}{}{(Frowns ligeiramente.) Sim? O que é desta vez?}
+{203}{}{TOC Toc}
+{204}{}{(Olhe para os seios e a baboa.)}
+{205}{}{Afastar-se}
+{206}{}{Quem é Você?}
+{207}{}{Queria fazer algumas perguntas, Sra.Bishop.}
+{208}{}{Desculpe, pensei que você fosse outra pessoa.Adeus.}
+
+# 2.KNOCK-KNOCK (1)
+{210}{}{*O que?*}
+{211}{}{TOC Toc!}
+{212}{}{(Olhe para os seios e a baboa.)}
+
+# 3.KNOCK-KNOCK! (2)
+{215}{}{(Pisca.) Quem está aí?}
+{216}{}{Vaia}
+{217}{}{Eu esqueço}
+{218}{}{Quem onde?}
+
+# 4.BOO (3)
+{220}{}{(She seems puzzled.) Vaia who?}
+{221}{}{Vaia hoo? No cry, pretty lady! HA HA HA HA HA HA HA Hah Hahhh…hoooo…u get it?}
+
+# 5.ME FORGET/WHO WHERE?/BOO HOO? NO CRY PRETTY LADY! (3, 4)
+{225}{}{(Ela olha as adagas para você.) Deixa-se de uma só vez antes de voce tiro, inseto insípido.}
+{226}{}{Vaia…HOO…hee-hee-hee-hee…Vaia who? Vaia HOO! HA HA HA HA HA...}
+{227}{}{Eu não instooppid incesto ...* snfff * ...me funneee ...MOM sayz so ...* snfff * ...}
+
+# 6.STARE AT HER BREASTS AND DROOL (STR) (1, 2)
+{230}{}{(Ela segue seus olhos até seus seios.Ela escorre com raiva, abre a boca ...então faz uma pausa.) Você é
+ Não muito brilhante ...(Estuda seu quadro.) No entanto, você é bastante ...forte.Venha comigo um momento.}
+{231}{}{(Ela segue seus olhos até seus seios.Ela escorre com raiva, abre a boca ...então faz uma pausa.) Você é
+ Não muito brilhante ...(Estuda seu rosto.) No entanto, você tem um certo ...charme.Venha comigo um momento.}
+{232}{}{(Ela segue seus olhos até a curvatura de seus seios.Seu tom torna-se glacial.) Sutileza não é
+ Seu terno forte, não é? (Ela olha para você com desgosto.) Deixe antes de ter voce tirado.}
+{233}{}{(Siga-a.)}
+{234}{}{Nós vamos um bom lugar?}
+{235}{}{Você vai.Eu fico}
+{236}{}{Shamble off}
+
+# 7.WE GO GOOD PLACE? (6)
+{240}{}{(Ela sorri fracamente.) Sim.* Muito * bom lugar.Agora venha.}
+
+# 8.YOU GO, ME STAY (6, 7)
+{245}{}{(Ela franziu a testa, e o rosto dela enrubesce.) Saia daqui antes de você ter atirado.}
+{246}{}{Sorreee ...eu vou}
+
+# 9.WHO ARE YOU? (1)
+{250}{}{(Ela levanta uma sobrancelha.) Eu acho que * Eu * deveria ser aquele que fazia essa pergunta.(Ela cruza os braços.)
+ Eu sou Leslie Anne Bishop.}
+{251}{}{Meu marido é o chefe da família Bishop aqui em New Reno.E você é…?}
+{252}{}{Meu falecido marido era o chefe da família Bishop aqui em New Reno.E você é…?}
+{253}{}{Meu nome é}
+{1253}{}{.}
+{254}{}{Eu sou um viajante simples.}
+{255}{}{Eu sou um viajante, procurando por Vault 13.Você já ouviu falar disso?}
+{256}{}{Eu sou um viajante ...você sabe onde eu poderia encontrar algo chamado 'Kit de Criação do Jardim do Éden?'}
+{257}{}{Olha, talvez seja melhor eu ir.Adeus.}
+
+# 10.QUESTION NODE (1, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 32, 34, 35, 36, 38)
+{260}{}{Sim?}
+{261}{}{Você pode me falar sobre o Sr.Bishop?}
+{262}{}{Você pode me falar sobre a Família do Bispo?}
+{263}{}{Você já ouviu falar de um lugar chamado Vault 13?}
+{264}{}{Você sabe onde eu poderia encontrar algo chamado 'Kit de Criação do Jardim do Éden?'}
+{265}{}{Deixa pra lá.É melhor eu ir.}
+
+# 11.BISHOP (10, 16)
+{270}{}{Meu marido? Isso é simples.Ele está falecido.É uma tragédia.Ainda estou me recuperando de todos os
+ Champanhe eu bebi quando ouvi.}
+{271}{}{Meu marido? Ele é o chefe da família Bishop.Em matéria de diplomacia, negócios e criminal
+ Perseguições, ele possui uma certa astúcia animal que não pode deixar de admirar, por mais desprezível que seja.
+ Suas outras qualidades.}
+{272}{}{Sim, sua tática de contratação desses "incursores" para se apoiar em Vault City parece ser bastante eficaz.}
+{273}{}{Outras qualidades?}
+{275}{}{Desculpe, perguntei.É melhor eu ir.}
+{276}{}{Desculpe, Sra.Bishop.Eu não queria pegar.Eu irei embora.}
+
+# 12.OTHER QUALITIES (11)
+{280}{}{(Ela franziu a testa.) Vou deixar isso para sua imaginação.(Olha irritado.) Isso é * tudo? *}
+{281}{}{Na verdade, tive algumas outras perguntas ...}
+
+# 13.TELL ME ABOUT THE BISHOP FAMILY (10, 16)
+{285}{}{Não há nada a dizer sobre a Família do Bispo.Ah ...há a família extensa
+ De bandidos contratados, mercenários, prostitutas, empurradores e escravos, mas isso é realmente tudo o que a família do bispo
+ Equivale a.}
+{286}{}{Parece que sua vida conjugal não é tão saudável quanto poderia ser.}
+{287}{}{Bem, também há essa "família" de mercenários que contratou para atacar a Cidade de Vault.}
+{288}{}{Oh.Tive algumas outras questões ...}
+
+# 14.MARRIAGE (13)
+{295}{}{(Ela lança uma olhada divertida em seu cônjuge.) E o seu é? (Ela franziu a testa novamente.)}
+{296}{}{Não ...meu falecido marido estava no negócio da acumulação de poder.Isso raramente deixa espaço para ...
+ algo mais.}
+{297}{}{Não ...meu marido está no negócio da acumulação de poder.Isso raramente deixa espaço para ...qualquer coisa
+ outro.}
+{298}{}{Além disso, minha preciosa filha rapidamente aprendeu o que significa ser uma mulher em New Reno.}
+{299}{}{Sua filha?}
+{300}{}{Sua filha Angela?}
+{301}{}{Tive algumas outras questões ...}
+
+# 15.DAUGHTER? (14)
+{305}{}{Sim, a Angela com quem você dormiu *.Certamente, você se lembra? (Ela lhe dá um olhar minguante.) Eu * espero * você
+ Usou uma profilática.Seus hormônios estão tão fora de controle que mesmo a mera menção de esperma a faria
+ grávida.}
+{306}{}{Sim, minha filha, Angela.Ela se tornou muito pequena.(Sorria tristemente.) Como a mãe, como
+ Filha ...(Sussura em irritação.) Agora, isso é tudo? *}
+{308}{}{Uh, proph ...proph-o-lak ...? Bem, acho que nós usamos um ...o que quer que seja.Você sabe o que? eu acho que
+ Eu vou verificar agora.}
+{309}{}{Uh, preservativo? Claro que sim.Eu acho que.Quero dizer, tenho certeza.Talvez eu vá verificar agora.}
+
+# 16.I AM [X]./ [I AM A SIMPLE TRAVELER.] (9)
+{315}{}{'}
+{1315}{}{…' Assim…'}
+{2315}{}{'...o que, diga, você acha que posso fazer por você?}
+{316}{}{(Frowns.) Um viajante simples.Quão extraordinariamente aberto e confiante de você.E o que, reze
+ Diga, você acha que posso fazer por você, "viajante simples?"}
+{321}{}{Nada, obrigado.Eu realmente devo ir.}
+
+# 17.[CAN YOU TELL ME WHERE I COULD FIND THE GECK?] (9, 10)
+{325}{}{Eu sei onde você poderia encontrar * um * Kit de Criação ...mas isso vai fazer você um pouco bom.Tem
+ Já foi usado.}
+{326}{}{Onde está este Kit de Criação do Jardim do Éden?}
+{328}{}{Então não é útil para mim ...obrigado de qualquer maneira.}
+
+# 18.WHERE IS IT? (17)
+{330}{}{(Sorria fracamente, como se lembrasse de algo agradável.) Você já esteve em Vault City?
+ Está a nordeste de New Reno.Eles tinham um tal kit ...uma vez, há muito tempo, mas eles o usaram quando eles foram embora
+ Seu cofre para a superfície.}
+{331}{}{Você pode me falar sobre Vault City?}
+{332}{}{Posso fazer algumas outras perguntas?}
+{333}{}{Eu irei ver o Vault City então.Obrigado pela informação.}
+
+# 19.VAULT CITY (18)
+{335}{}{(Seu sorriso desaparece, e sua expressão torna-se dura e distante.) Não há muito a contar.
+ Eu acho que você encontrará o clima lá ...diferente.Agora, é tudo?}
+{336}{}{No, actually, Tive algumas outras questões ...}
+{337}{}{Sim.Desculpe incomodá-lo.}
+
+# 20.[HAVE YOU EVER HEARD OF VAULT 13?] (9, 10, 16)
+{340}{}{Como eu disse, há Vault City ao nordeste.Esse é o lugar para o qual você está se referindo?}
+{341}{}{Eu conheço o Vault * City * ao nordeste.Esse é o lugar para o qual você está se referindo?}
+{342}{}{Não.Lugar errado.}
+{343}{}{Poderia ser.}
+{345}{}{Poderia ser ...Eu vou verificá-lo.Obrigado.}
+
+# 21.[NO.WRONG PLACE.] (20)
+{350}{}{Hmnnn.Bem, eu tenho medo de não poder ajudá-lo.}
+{352}{}{Você conhece quem sabe?}
+{353}{}{Sim, bem ...obrigado mesmo assim.}
+{354}{}{Bem, obrigado pelo seu tempo, Sra.Bishop.Eu agradeço.}
+
+# 22.[IT COULD BE.] (20)
+{360}{}{Você pode querer ir para lá, então.}
+{362}{}{Tudo bem então, vou verificar.}
+{363}{}{Muito bem, obrigado pelo seu tempo.Eu agradeço.}
+
+# 23.[DO YOU KNOW ANYONE WHO MIGHT KNOW?] (21)
+{370}{}{Caro garoto ...}
+{371}{}{Querida menina ...}
+{372}{}{As pessoas de Reno têm dificuldade suficiente para lembrar qual prostituta eles deixaram suas
+ Quando eles acordam na manhã, muito menos sabem onde encontrar algo como o que
+ Você descreve.}
+{374}{}{Tudo bem ...Eu só estava perguntando.Mais tarde, então.}
+{375}{}{Muito bem.Obrigado pelo seu tempo.}
+
+# 24.[VERY WELL.THANKS FOR YOUR TIME.I WILL BE GOING.NAME TRUE] (9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 34, 35, 36, 38)
+{380}{}{Espere um momento.(Estudos você.) Você parece ser ...novo na cidade.Você gostaria de se juntar
+ Eu por uma bebida nas minhas câmaras? Podemos discutir New Reno; É um lugar perigoso para aqueles
+ Não familiarizado com as suas formas.}
+{381}{}{Um momento antes de sair.(Ela estuda você novamente.) Você tem tempo para isso
+ Beber agora? Ou você deve correr de novo?}
+{382}{}{Somente se as bebidas são apenas o começo.}
+{383}{}{Certo.Uma bebida seria bem-vinda.}
+{384}{}{Me desculpe, Sra.Bishop, mas sou casada.}
+{385}{}{Não, obrigado.Eu realmente tenho que ir.}
+{386}{}{De jeito nenhum.Eu não quero fazer seu marido ...chateado.}
+{387}{}{Eu trabalho para o seu marido, Sra.Bishop.Não seria certo.}
+
+# 25.[ONLY IF THIS IS A LEAD-IN TO SOME SORT OF SWEATY SEXUAL ACTIVITY.] (24)
+{390}{}{(Ela ergue uma sobrancelha.) Vamos ver.}
+{391}{}{Bem, é tudo o que preciso ouvir.Vamos.}
+{392}{}{Sra.Bishop, desculpe, mas tenho que recusar ...desta vez.}
+{393}{}{Me desculpe, mas não posso, Sra.Bishop.Eu realmente tenho que ir.}
+{394}{}{De jeito nenhum.Não tenho vontade de atravessar seu marido.}
+
+# 26.[NO WAY.I HAVE NO DESIRE TO CROSS YOUR HUSBAND.] (24, 25)
+{400}{}{(Ela ri.) Você se lisonjeia.É apenas uma bebida.}
+{401}{}{E se alguma coisa acontecesse, eu lhe asseguro, meu marido é QUAL e morto.}
+{402}{}{E se alguma coisa acontecesse, asseguro-lhe, meu marido NÃO é o tipo ciumento.}
+{404}{}{Sra.Bishop, desculpe, mas ainda tenho que recusar ...desta vez.}
+
+# 27.[MRS.BISHOP, I'M VERY FLATTERED, BUT I HAVE TO SAY NO.] (24, 25, 26, 33)
+{410}{}{(Ela levanta uma sobrancelha.) Meu marido pode estar morto, mas seus homens estão à minha disposição.
+ Eles podem se tornar bastante ...irados ...quando um recado da Sra.Bishop é recusado.Você está
+ * Bastante * certo de que você não vai se juntar a mim?}
+{411}{}{(Ela levanta uma sobrancelha.) Meu marido não é o tipo ciumento, mas ele pode se tornar
+ Bastante ...irado ...quando um convite gracioso de um membro da família Bishop é recusado.Você está
+ * Bastante * certo de que você não vai se juntar a mim?}
+{412}{}{Ainda tenho que dizer não.}
+{413}{}{OK.Apenas uma bebida, então.}
+{414}{}{Olha, tenho que ir, Sra.Bishop.}
+
+# 28.[I STILL HAVE TO SAY NO.] (27)
+{415}{}{(Ela franziu a testa.) Deixe então.Se nos cruzarmos novamente, tenha certeza de que não vou
+ Seja o mínimo interessado em falar com você.}
+{416}{}{Tudo bem, então, adeus.}
+
+# 29.[OKAY.JUST A DRINK, THEN.] (24, 25, 26, 27, 32, 33)
+{420}{}{(Ela assente e sorri.) Muito bem.Me siga.}
+
+# 30.[I REALLY HAVE TO GO.I HAVE BUSINESS ELSEWHERE.] (33)
+{425}{}{Volte em algum momento, então.A oferta é um convite permanente.}
+{426}{}{Uh ...ok.Adeus.}
+
+# 31.REJECTED TEXT (WTG)
+{430}{}{Não temos nada a dizer um ao outro.Saia antes de convocar os guardas.}
+
+# 32.SEX INTRO (WTG)
+{435}{}{(A Sra.Bishop sorri ligeiramente quando ela vê você.) Por que, olá, novamente.Existe
+ Algo que eu posso fazer por você?}
+{436}{}{Gostaria de me juntar a você para essa bebida agora, se você tiver tempo, Sra.Bishop.}
+{437}{}{Gostaria de me juntar a você para outro ...beber, se você tiver tempo, Sra.Bishop.}
+{438}{}{Eu tive algumas perguntas ...}
+{439}{}{Não no momento, obrigado.Eu tenho que ir.}
+
+# 33.I'M MARRIED (24)
+{440}{}{Assim? Eu também.O que você está sugerindo que seja meu convite? Algum tipo de prelúdio
+ Para adultério? Venha agora, não seja tolo.Agora, você está vindo?}
+{441}{}{Está bem então.Apenas uma bebida.}
+{443}{}{Me desculpe, mas não posso, Sra.Bishop.Eu realmente tenho que ir.}
+
+# 34.RAIDERS (11, 13)
+{445}{}{Ah, sim ...a tentativa bem pensada do meu marido de forçar os outros a aceitarem o seu
+ gesto de boa vontade.Eu preferia esperar que esses invasores tivessem sido incinerados pelo Vault
+ Canhões laser da cidade.}
+{446}{}{"Gesto de boa vontade?"}
+{447}{}{Entendo.Tive algumas outras questões ...}
+{448}{}{Interessante ...bem, obrigado pela informação.Adeus.}
+{449}{}{Hmmm ...interessante.Obrigado pelo seu tempo, Sra.Bishop.}
+
+# 35.GESTURE OF GOOD WILL (34)
+{450}{}{Sim.Sua oferta inicial de uma aliança foi recusada, então ele reiterou sua paz
+ Intenções usando a violência para conduzir a Cidade de Vault em submissão ...através de um intermediário,
+ claro.}
+{451}{}{Bem, eu estava pensando sobre isso.A Vault City não voltaria a outra pessoa para obter ajuda
+ Ao invés de concordar em se juntar com Bishop?}
+{452}{}{Bem, eu estava pensando sobre isso.A Vault City não voltou para outra pessoa
+ Ajudar ...como NCR ...em vez de concordar em se juntar com o Bishop?}
+{453}{}{Você tem alguma prova disso?}
+
+# 36.GESTURE OF GOOD WILL (35)
+{460}{}{(Ela sorri.) Bem, não são * você * um afiado ...}
+{461}{}{Assim? Você sabe o que o bispo planejou?}
+{462}{}{Bem, às vezes ...dependendo de quem você pergunta.Tive algumas outras questões ...}
+
+# 38.COURIERS (35, 36)
+{470}{}{(Frowns.) Não.Devo? (Estudos com cuidado, depois sorrisos.)}
+{471}{}{(Frowns.) Não.Devo? (Estudos com cuidado, depois sorri novamente).}
+{472}{}{Você certamente faz algumas perguntas perigosas sobre o negócio do meu marido.
+ Eu seria * muito * cuidadoso se eu fosse você.}
+{473}{}{Uh, obrigado pelo conselho.Tive algumas outras perguntas mais seguras ...}
+{474}{}{Eu vou.Adeus.}
+{475}{}{Obrigado pelo seu tempo ...e seu conselho, Sra.Bishop.}
+
+# 39.FLOAT (WTG)
+{480}{}{*Suspiro*}
+{481}{}{Outro BONITO dia de Reno.O diabo deve estar dançando um gabarito.}
+{482}{}{A julgar pela multidão no cassino, parece que mais esgoto humano lavou em Reno ...}
+{483}{}{Reno ..."o maior poço pequeno do mundo." Hmmmph.}
+
+# 100.LOOK (SEX) (WTG)
+{490}{}{Você vê a Sra.Bishop, que está dormindo.Ela está sorrindo satisfeita.}
+{491}{}{Você vê a Sra.Bishop, que está dormindo.Como você
+ Assista, ela suspira satisfeita e vira seu sono.}
+
+# 101.LOOK (NO SEX) (WTG)
+{500}{}{Você vê a Sra.Bishop.It's hard to concentrate on her appearance while she is
+ shouting for the guards.}
+
+# 102.FLOAT/CLICK HAD SEX WITH MRS.BISHOP (WTG)
+{510}{}{Mmmmm ...oh,}
+{1510}{}{Mmm mmmm ...mmmzmzrrm}
+{511}{}{Mmmzrrmnmn ....again,}
+{1511}{}{...oooh ...}
+{2511}{}{...mmm}
+{512}{}{Combinnnazion t'safe ...}
+{1512}{}{...mmm…}
+
+# 103.FLOAT/CLICK DID NOT HAVE SEX (MRS.BISHOP CALLS FOR GUARDS) (WTG)
+{515}{}{Intruso! Socorro!}
+{516}{}{Ladrao! Ladrao!}
+{517}{}{Intruso! Guardas! Guardas!}
+
+# 104.FOLLOW HER (WTG)
+{520}{}{(Ela leva você lá em cima para um quarto estranho e cheiroso.Uma vez lá, ela começa
+ Dando-lhe estranhas direções que fazem você se sentir feliz e desconfortável.) Você não
+ Quer me tocar?}
+{521}{}{Uh-huh}
+{522}{}{Nuh-uh}
+
+# 105.NO (104)
+{525}{}{Hmmmm.Muito bem.Basta deitar na cama e eu vou fazer o resto.}
+{526}{}{Eu recusar-me não QUER-ME quer ir para casa para Arroyo-yo}
+{527}{}{Faça o que ela diz para você.}
+
+# 106.YES/DO WHAT SHE TELLS YOU (105)
+{530}{}{(Ela toma um grande suspiro de ar, então ela começa a gritar tão alto que dói seus ouvidos!
+ Algo sobre 'gards' e 'theef', que você não pode entender porque está gritando tão alto.)}
+{531}{}{Shhhh! Se você não ficar quieto, George não me deixa jogar com o th'rabbitz! Shhhh!}
+{532}{}{O que há de errado com Yor Teef? Para o que você precisa?}
+{533}{}{Sem screem! Sem screem!}
+
+# 122.[MENTION SLEPT WITH HER DAUGHTER (124)
+{535}{}{Sim eu conheço; As fofocas viajam rapidamente em Reno.(Suspiros.) Não importa ...Eu acho que você vai
+ Ache que sou muito mais experiente nos modos de agradar um homem do que ela é.
+ (Pauses.) Você usou uma profilática, não é?}
+{536}{}{Um pro ...prof-o ...um preservativo?}
+{537}{}{Preservativo?}
+{538}{}{Sim, ele se usou do meu inventário.Eu não sabia o que aconteceu com ele em
+ Primeiro, mas descobri.}
+{539}{}{Um ...REALMENTE deveria ir, Sra.Bishop.}
+
+# 123.[YES, I DID USE A CONDOM.] (122)
+{540}{}{Sim, um * condom.* (Glares at you.) Ótimo.Ótimo.(Shrugs.) Oh,bem.Talvez
+ Eu vou ter um neto.Ah bem.Pare de falar e venha aqui.}
+{541}{}{Sim, não é tão óbvio quanto você pensaria.Humor de designer, eu aposto.(Shrugs.) Oh,
+ bem.Pare de falar e venha aqui.}
+{542}{}{Mais experiente do que Angela, você disse? Isso eu tenho que ver.}
+{543}{}{Eu tenho que ir.}
+
+# 124.OH, LESLIE.(123, 125, 127)
+{545}{}{(Você se junta à Sra.Bishop para tomar uma bebida em suas câmaras.Os dois falam por um
+ Enquanto, então, ela vem e começa a acariciá-lo.)}
+{546}{}{Vá.}
+{547}{}{Abrace-a ...}
+{548}{}{Uh, Sra.Bishop, eu dormi com sua filha.Talvez não devêssemos ...}
+{549}{}{Antes de "fazer", você não vai abrir sua parede segura como sua
+ - er, como é costume?}
+{550}{}{Olha, eu realmente deveria ir, Sra.Bishop.}
+
+# 125.OH, LESLIE.(124)
+{555}{}{Não.Agora venha aqui.}
+{556}{}{Vá.}
+{557}{}{Olha, eu realmente tenho que ir, Sra.Bishop.}
+
+# 126.[I JUST REMEMBERED I HAVE TO LEAVE.] (122, 123, 124, 125)
+{560}{}{Ah ?! Para onde você tem que ir agora?}
+{561}{}{Qualquer lugar.}
+{562}{}{Tenho que encontrar Jules pela frente para uma ...transação especial.}
+{563}{}{Eu tenho que ir ao encontro de um amigo e não posso chegar atrasado.}
+{564}{}{Os meus motivos são meus.Adeus, Sra.Bishop.}
+
+# 127.[ANYWHERE.] (126)
+{565}{}{Você tenta sair desta sala e eu vou gritar pelos guardas.}
+{566}{}{Em tudo, eu provavelmente estou mais seguro com os guardas.Adeus.}
+{567}{}{Eu tenho que conhecer Jules na frente da cidade para uma ...transação especial ...muito em breve.}
+{569}{}{Tudo bem, tudo bem.Eu só queria que você não jogasse tão difícil de conseguir.Venha aqui.}
+{570}{}{Eu só quero que você saiba que isso é errado, e se eu tivesse uma fibra moral mais forte, eu
+ Dê uma palestra severa.Agora venha aqui.}
+
+# 128.RUN LIKE HELL.(127)
+{575}{}{Guardas! Um intruso! Ladrao! Guardas! Intruso na cobertura!}
+{576}{}{Onde? Do que você está falando, Sra.Bishop?}
+{577}{}{Porra! Eu odeio esse jogo!}
+
+# 129.FINE.(126, 127)
+{580}{}{Bem.Se você não vai dormir comigo desta vez, quero que você saiba que você pode
+ Venha me ver quando quiser, e vamos fazer algum tipo de arranjo.Você
+ Entende o que eu disse?}
+{581}{}{Sim.Agora deixe-me sair.}
+{582}{}{Sim, eu entendo.}
+
+# 130.[FINE.] (129)
+{585}{}{(Ambos saem do quarto e a Sra.Bishop escolhe-o.Vocês dois descem
+ De volta ao segundo andar.)}
+{586}{}{Whew.}
+
+# 131.[PILLOW TALK.] (124)
+{590}{}{(Você faz amor.Não é o melhor.Não é o melhor.Mas, por um breve
+ Momento em suas vidas turbulentas, você e a Sra.Bishop esquecem as crueldades da
+ Mundo e perca-se um ao outro ...)}
+{591}{}{(Começa o amor apaixonado.No final da sua maratona sexual, Sra.
+ Bishop se encolhe contra você, sorrindo satisfeito.) Mmmmm,}
+{1591}{}{.}
+{592}{}{Você é o * homem. * (Shivers.) Essa coisa com sua língua era -}
+{593}{}{Você é a * mulher. * (Shivers.) Essa coisa com sua língua era -}
+{594}{}{So...what do you want to do now?}
+{595}{}{Mmmmm, Leslie.}
+{596}{}{Uh, look, just in CASE someone is watching us from above right now and listening
+ to everything we say and do, let's keep some secrets to ourselves.Instead, let's
+ indulge in some distracting pillow talk.}
+
+# 132.QUESTION NODE: [PILLOW TALK 2.] (131, 133,  134, 135, 136, 139, 140, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 159, 160, 161, 162, 163)
+{600}{}{(Mrs.Bishop sighs contentedly and stretches.)}
+{601}{}{Conte-me sobre o seu marido.}
+{602}{}{Conte-me sobre sua filha.}
+{603}{}{Me fale sobre sua familia.}
+{604}{}{You're not from New Reno, are you, Mrs.Bishop? You talk differently than
+ a lot of people around here.}
+{605}{}{Você é da Vault City?}
+{606}{}{Look, I better go, Mrs.Bishop.}
+
+# 133.QUESTION NODE: [PILLOW TALK 2.] (132, 136, 139, 140, 160)
+{610}{}{(Mrs.Bishop frowns slightly and pulls the sheets tighter around her body.)
+ MUST we talk about him? Let's not ruin the mood.}
+{611}{}{I really want to know.Tell me about him.}
+{612}{}{Ok, então, e o ...}
+
+# 134.BISHOP (133)
+{615}{}{(She laughs.) Who cares? John's dead.Long live John! The bastard…}
+{616}{}{Ha! I assure you John and I have no love for each other.What small fraction
+ existed has degenerated into a healthy amount of spite.He has his women, and I have
+ my...pleasures.}
+{617}{}{Certamente, vocês dois devem se amar, se até um pouco.}
+{618}{}{Qual é o acordo com ele e com a NCR?}
+{619}{}{Qual é o acordo com ele e com esses "invasores" dos quais eu ouvi falar?}
+{620}{}{Você sabe qual é a combinação com o cofre de Bishop?}
+{621}{}{Que tal falamos sobre outra coisa ...}
+
+# 135.OTHER QUALITIES (159)
+{625}{}{(Frowns.) I'll leave that to your imagination.Can we *please* drop it? Let's
+ talk about something else.}
+{630}{}{Quer que eu mate-o?}
+
+# 136.NCR (134, 135, 159)
+{635}{}{Oh…that.Well…*yawn*…I think John wants to get in good with themmmm...
+ (stretches) ...and then get their help to wipe out the other families.}
+{636}{}{Isso é tudo que Bishop quer da NCR?}
+{637}{}{Ok, então, vamos falar sobre outra coisa ...}
+{638}{}{Eu queria saber algumas outras coisas sobre o que John tem feito ...}
+
+# 137.RAIDERS (134, 135, 159)
+{645}{}{(Rolls over.) John sent some mercenaries East, near Vault City to 'lean'
+ on the city.Wants to try and apply pressure on 'em, make them beg NCR for help.}
+{646}{}{Beg * NCR * para obter ajuda? Por quê?}
+
+# 138.WHY RAIDERS? (137)
+{650}{}{Mmmmm ... oh ... bem ... (Retorna.) John prometeu a NCR que daria a Vault City para eles.
+ Então ele enviou alguns de seus homens, disse-lhes que agissem como incursores até que Vault City cedeu.}
+{651}{}{Você sabe onde esses invasores são?}
+{652}{}{Uh...is there any PROOF of this anywhere?}
+
+# 139.WHERE RAIDERS (138, 163)
+{655}{}{Não ... John provavelmente tem um mapa da sua localização em algum lugar por aqui ...
+ (Sniffs ligeiramente, esfrega o nariz.) Mmmmm ....}
+{657}{}{Vamos falar sobre outra coisa ...}
+
+# 140.COMBO SAFE (134, 135, 159)
+{660}{}{, Eu acho ... algo assim ...}
+{663}{}{Excellent…time to go crack a safe…sleep well, Mrs.Bishop.}
+
+# 141.END (140)
+{665}{}{Oh,}
+{1665}{}{… (Mrs.Bishop…Leslie…turns over and raises herself on her elbows.)
+ His safe is trapped.So be careful, all right? You are no good to me with no
+ fingers.(Smiles, rolls back over.)}
+{666}{}{Oh.Thanks.}
+
+# 142.DAUGHTER? (132)
+{670}{}{(Frowns.) O que * sobre * ela?}
+{671}{}{If you're going to talk about the two of you fornicating, I *don't* want
+ to hear it.For your sake, I hope you used a condom.}
+{672}{}{Little tramp vai dormir com qualquer tribo que sacode seu cachimbo de paz para ela ...}
+{673}{}{Uh...well...let's talk about something else…}
+
+# 143.TELL ME ABOUT YOUR FAMILY? (132)
+{675}{}{(Shrugs slightly.) Nothing to say.Bunch of hired thugs, mercenaries,
+ whores, pushers, and slaves…(Rolls over.) …that's the Bishop 'family.' Wish
+ I'd never hooked up with John…}
+{677}{}{Hmmmm.Tive algumas outras questões ...}
+
+# 144.MARRIAGE (143)
+{680}{}{And yours is? Hmmmph.}
+{681}{}{No, my 'marriage' was not a healthy one.My late husband was in the business
+ of accumulating power, and that seldom leaves any room for…anything else.}
+{682}{}{No, my 'marriage' is not a healthy one.My husband is in the business of power,
+ and that seldom leaves any room for…anything else.}
+{683}{}{You sound unhappy.You should leave here, go somewhere else.}
+{684}{}{Hmmm.Tive algumas outras questões ...}
+
+# 145.WHY DON'T YOU LEAVE? (144)
+{690}{}{Por que, que idéia BRILHANTE! E onde eu irei? Nos desperdícios para viver
+ Entre os selvagens? Sul, para a NCR? Noroeste, para Redding, para alugar meu corpo para mineiros?}
+{691}{}{Why is leaving Reno so impossible? You're not a stupid woman.I would think
+ that you could pick up any trade you put your mind to.}
+{692}{}{Nevermind then.Look, Tive algumas outras questões ...}
+
+# 146.WHY IMPOSSIBLE? (145)
+{700}{}{I leave, and my husband will bring me back.The Family watches out for their
+ own, whether they want to be watched or not.}
+{701}{}{Hmmm.Perhaps I will…now that John had his much-deserved accident.
+ (Smiles ruefully.) Maybe I will at that.Reno has become…tiresome.(Thinks.)
+ Or maybe it just needs new management…}
+{702}{}{Say, Tive algumas outras questões ...}
+
+# 147.WANT ME TO KILL HIM? (135)
+{705}{}{No.(She rolls over, mumbles in her sleep.) Don't be an idiot.Soon as people
+ find out, you'll be on the run for the rest of your short life.}
+{706}{}{E se as pessoas não soubessem que era eu?}
+
+# 148.ACCIDENT (147)
+{710}{}{(Ela se agita, pisca.) Sobre o que você está falando? Não fale tolice.}
+{711}{}{Não sei, talvez uma armadilha? Ou algo que parece um acidente?}
+{712}{}{All right.Look, Tive algumas outras questões ...}
+
+# 149.ACCIDENT (148)
+{715}{}{(Her eyes snap open.) His safe…he has explosives set up to it if it's tampered
+ with.Only if you enter a certain combination is it safe.Of course, if that combination
+ was changed..."fixed"...without his knowledge…}
+{716}{}{Hmmmm.Maybe if I "repaired" the lock on his safe...It's something to keep in mind.
+ Say, Tive algumas outras questões ...}
+
+# 150.WHERE ARE YOU FROM? (132)
+{720}{}{No, I *don't* talk like everyone around here.It's called an 'education.' (She
+ rolls over.) Go to sleep.}
+{721}{}{Onde eu poderia obter uma educação?}
+
+# 151.EDUCATION? (150)
+{725}{}{*Yawn*… You're already as smart as I want you to be…now go to sleep.If you're
+ pumping me for information, then you're creating a deficit.}
+{726}{}{Déficit? Aqui na cama? Eu não!}
+
+# 152.VAULT CITY? (132)
+{730}{}{(Rachaduras abre um olho.) Quem te disse isso?}
+{731}{}{I guessed after I heard you talk about Vault City.You got this nostalgic look
+ in your eye.}
+
+# 153.VAULT CITY? (152)
+{735}{}{(Sua expressão se desmorona por um momento, então ela rola para que você não possa vê-la.)
+ Não mencione esse lugar.}
+{736}{}{O que aconteceu?}
+
+# 154.WHAT HAPPENED (153)
+{740}{}{JOHN happened.I used to live there.He visited once, I was pleasantly charmed
+ because he was so…rough, I guess.Different from most Vault Citizens.(Sighs.) Of
+ course, he let me try this little thing called 'Jet'...}
+{741}{}{Uh-oh ...}
+
+# 155.EDUCATION: VAULT CITY (161)
+{745}{}{They had memory enhancers for the Pip Boys there.Had dictionaries
+ and encyclopedias stored on them.Took one of the lingual enhancers when I left, though I don't know why.}
+{746}{}{Onde é esse amplificador?}
+
+# 156.SORT OF (155)
+{750}{}{*Yawn*...(Curls up.) It's in my safe.Not much use without a Pip Boy, though.
+ Don't know why I still keep it.}
+{751}{}{Posso ter isso?}
+{752}{}{Hmmmnn.Tive algumas outras questões ...}
+
+# 157.SORT OF (156)
+{760}{}{(Shrugs.) Sure, if you want them.Combination is }
+{1760}{}{.The enhancer is in a compartment in the bottom of the safe…a thief isn't
+ going to find it unless they know what to look for.}
+{761}{}{Como eu uso isso?}
+{762}{}{Thanks.Say, Tive algumas outras questões ...}
+
+# 158.EXIT (131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 159, 160, 161, 162, 163)
+{770}{}{(Mrs.Bishop rolls over and closes her eyes.In a few seconds, she's asleep.)}
+{771}{}{Retire silenciosamente da cama e se cala.}
+
+# 159.BISHOP (134)
+{780}{}{The only 'love' we have consists of his forcing his way into my bedroom and
+ mounting me like a drunken brahmin.And that is perhaps his least contemptible
+ quality, considering his other pursuits.}
+{781}{}{Outras atividades?}
+
+# 160.NCR (136)
+{790}{}{He also probably wants a say in who controls the chem trade in the new California
+ Republic…him.He's been looking into rigging elections down soooouth… *yawn*}
+{791}{}{So he's actually planning to have Reno JOIN the Republic...hmmmm.Okay, then,
+ let's talk about something else…}
+{792}{}{Interesting.Eu queria saber algumas outras coisas sobre o que John tem feito ...}
+
+# 161.WHAT HAPPENED (154)
+{800}{}{Jet's illegal in Vault City, of course.The other Citizens found out and revoked
+ my Citizenship.John was the only one I could turn to...he knew that, of course.He'd
+ planned the whole thing.}
+{801}{}{Então você obteve sua educação em Vault City? É por isso que você parece diferente do
+ Todos os outros aqui em New Reno?}
+
+# 162.SORT OF (157)
+{810}{}{Just attach the headgear, place the optic sensor over your right eye, then connect
+ the other end...hmpphh… (Rolls over.) ..to the Pip Boy.You'll feel a slight rush,
+ some nausea, then your head will feel…clearer.}
+
+# 163.PROOF? (137)
+{815}{}{Mmmmmnnn...? I don't know.Maybe John's safe in his room...he prefers keeping
+ meticulous records for blackmail purposes.}
+
+# 164.COUNTER UP
+{820}{}{(Your question is met with silence...Mrs.Bishop has fallen asleep.She has
+ a wide smile on her face and is clutching her pillow tightly, mumbling your name.)}
+{821}{}{(Your question is met with silence...Mrs.Bishop has fallen asleep.You can't
+ help but wonder if she would've stayed awake longer if you'd been more...skilled,
+ but you quickly repress the thought before it hurts your ego.)}
+{822}{}{(Retire a cama silenciosamente.)}
+
+# 165.SEX = POOR
+{825}{}{(A few minutes into your love-making, Mrs.Bishop suddenly falls asleep.
+ Soft snores begin to emanate from her body.)}
+{826}{}{(Acabe, então deixe.)}
+
+{900}{}{You have convinced Mrs.Bishop that she can change her life...for the better.}

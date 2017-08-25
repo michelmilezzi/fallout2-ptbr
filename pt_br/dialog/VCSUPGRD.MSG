@@ -1,0 +1,90 @@
+{100}{}{Você vê Martin.}
+{101}{}{Você vê um homem magro que continua piscando rapidamente.}
+{102}{}{Você vê Martin.}
+{103}{}{Você vê um homem magro que continua piscando rapidamente.}
+{104}{}{Obrigado por suh-suh-salvando-nos. Ouvi falar sobre isso até duh-duh-down aqui.}
+{105}{}{Huh-help! Intruso!}
+{106}{}{Um muh-muh-muhtant! Socorro!}
+{107}{}{Um guh-guh-ghoul! Socorro!}
+{108}{}{:: Bum-ba-bum-ba ::}
+{109}{}{2 segundos}
+{110}{}{"Maaaay-beeee ..."}
+{111}{}{2 segundos}
+{112}{}{"Yoooou pensará em meee ... quando você estiver sozinho ..."}
+{113}{}{2 segundos}
+{114}{}{"Maaaay-beeee ... o whooo ... é waaaaah-ting para yooou ..."}
+{115}{}{2 segundos}
+{116}{}{"... vai provar un-truuuuue ..."}
+{117}{}{2 segundos}
+{118}{}{"... então, o que você vai fazer?"}
+{119}{}{2 segundos}
+{120}{}{:: Palmas das panquecas, rugindo da multidão ::}
+{121}{}{2 segundos}
+{122}{}{Th-th-thank you, th-th-thank you ... yuh-yuh-você é uma audiência maravilhosa.}
+{123}{}{2 segundos}
+{124}{}{Um aprimoramento? Ouh-okay!}
+{125}{}{* Snfff *}
+{126}{}{Wh- ?! Aighhh!}
+{127}{}{Aieeeee!}
+{128}{}{Whoa, fácil lá!}
+{129}{}{Qual é o problema do seu problema ?! Acalme-se!}
+{130}{}{Yuh-yuh - você quase sc-scairt a vida uh-outta-me.}
+{131}{}{Aieeeeee! Aieeeeee!}
+{132}{}{Desculpe, não quis assustar você.}
+{133}{}{Muh-Muh-MAYBE se você prestasse atenção ao que estava acontecendo ao seu redor, talvez você não nos dê AMBOS ataques cardíacos, amigo.}
+{134}{}{Isso está tudo bem.}
+{135}{}{Suh-suh-sorre.}
+{136}{}{É juhst nuh - não muh - muitas pessoas entram no Vault.}
+{137}{}{(Tudo está bem. Não é que muitas pessoas entram no Vault).}
+{138}{}{(Desculpe. Não é que muitas pessoas entram no Vault).}
+{139}{}{O que você faz aqui?}
+{140}{}{Você pode me dizer onde é o computador central do Vault?}
+{141}{}{Oh. Ótimo falar com você. Adeus.}
+{142}{}{Isso é bom depois de lá ... é o teu-tuh-tuh-talking cuh-cuh-compuhter.}
+{143}{}{(É só lá. É o computador falante.)}
+{144}{}{O que você faz aqui?}
+{145}{}{Obrigado. Adeus.}
+{146}{}{Agora mantenha um uh-uh-olho em coisas em stuh-storage aqui. Muh-Muh-Make shure todas as portas ficar luh-luh-trancadas.}
+{147}{}{(Apenas fique atento às coisas armazenadas aqui. Certifique-se de que todas as portas permaneçam bloqueadas.)}
+{148}{}{Você tem uma chave?}
+{149}{}{O que você armazena aqui?}
+{150}{}{Até a próxima. Tchau.}
+{151}{}{Uh-uh. Do not to mattuh, porquê muh-muh - a maioria das portas está presa de juh-juh shu-shut de qualquer maneira.}
+{152}{}{(Uh-uh. Não importa, porque a maioria das portas está bloqueada de qualquer jeito)}
+{153}{}{O que você armazena aqui?}
+{154}{}{Até a próxima. Tchau.}
+{155}{}{Spuh-spuh-peças sobressalentes ... suh-suh-supplies ... e uh-uh-ore ...}
+{156}{}{(Peças sobressalentes, suprimentos e minério).}
+{157}{}{Minério?}
+{158}{}{Oh. Obrigado pela informação.}
+{159}{}{Uh-uh-minério de Ruh-Ruh-Redding ... nuh-nuh - não tão muh-muh - muito mais.}
+{160}{}{(Ore de Redding. Não tanto mais.)}
+{161}{}{Muito pouco da Redding? Por que não?}
+{162}{}{Oh. Obrigado pela informação.}
+{163}{}{Duh-duh, não sabe. O Mic-Clure realmente está preocupado com isso.}
+{164}{}{(Não sabe. McClure está realmente preocupado com isso.)}
+{165}{}{Você pode me dizer onde é o computador central?}
+{166}{}{Talvez eu fale com ele então. Obrigado.}
+{167}{}{Huh-huh-oi, novamente. Yuh-yuh-you nuh-nuh-need summthing?}
+{168}{}{(Oi, novamente. Você precisa de algo?)}
+{169}{}{Geeechk}
+{170}{}{Você poderia parar esse maldito canto ?! Está me deixando louco.}
+{171}{}{Você tem uma excelente voz de canto. Você deve continuar a praticar.}
+{172}{}{O que você fez aqui novamente?}
+{173}{}{Deixa pra lá. Desculpe incomodá-lo.}
+{174}{}{Th-th-thanks! Isso é legal para você.}
+{175}{}{O que você fez aqui novamente?}
+{176}{}{Apenas pensei que você deveria saber. Cuidar.}
+{177}{}{Suh-suh-suh-sorreee. Eu vou parar.}
+{178}{}{(Desculpe. Parei.)}
+{179}{}{Agora ... o que você fez aqui novamente?}
+{180}{}{Boa. Faça um favor ao mundo e fique quieto.}
+{181}{}{Yuh-yuh-yuh-you guh-guh-tem que ser Kuh-Quiet! Shhhhhh!}
+{182}{}{Sorreeeee}
+{183}{}{Wuh-wuh-wuht são yuh-você está indo para baixo aqui ?!}
+{184}{}{GEK}
+{185}{}{Guh-guh-GECK? Você pode fazer o ch-ch-check do cuh-cuh-computer ... o tuh-tuh-talkie buh-buh-box.}
+{186}{}{Okeee. Fanks.}
+{187}{}{Zuh-zuh-zuh-Zzzzzzzzz}
+{188}{}{S-s-s-tay aw-w-w-ay de-m-m que d-d-oor!}
+{189}{}{Zzzzzzz.}

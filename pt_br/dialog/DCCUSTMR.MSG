@@ -1,0 +1,123 @@
+#0. Look
+{100}{}{Você vê um cliente.}
+{101}{}{Você vê um cidadão.}
+
+{150}{}{Parece que ele está indo para algum lugar.}
+{151}{}{Parece que ela está indo para algum lugar.}
+{152}{}{Ele está ocupado bebendo e conversando com outros clientes.}
+{153}{}{Ela parece estar ocupada falando.}
+{154}{}{Ele está olhando as prateleiras de Tubby.}
+{155}{}{Ela parece estar olhando pela loja de Tubby.}
+{156}{}{Você não vê nada incomum sobre ele.}
+{157}{}{Você não vê nada incomum sobre ela.}
+
+#1. Hostile
+{200}{}{Saia de perto de mim!}
+{201}{}{Me deixe em paz!}
+{202}{}{Não me toque!}
+{203}{}{Pare com isso!}
+{204}{}{O que você está fazendo?}
+
+#2. Else
+{300}{}{Desculpe, não posso falar agora.}
+{301}{}{Onde eu estava indo novamente?}
+{302}{}{Olá.}
+{303}{}{Com licença.}
+{304}{}{Oi.}
+
+# 3. Becky's
+{305}{}{O lugar de Becky é o melhor, e não apenas o preço dos preços.}
+{306}{}{Você está aqui para as bebidas ou as mesas?}
+{307}{}{Tudo o que precisamos agora são alguns trovadores.}
+{308}{}{Olá.}
+{309}{}{Você é um jogador?}
+{310}{}{Como é o mundo exterior?}
+{311}{}{Frankie é uma bolsa de escória. Ele é mau para Becky sem motivo.}
+{312}{}{Você é amigo de Becky?}
+{313}{}{Pegue uma bebida, amigo!}
+{314}{}{Beber! As bebidas são baratas!}
+{315}{}{Não há como isso é diluído.}
+{316}{}{Esse Dyer certamente conhece suas coisas.}
+{317}{}{Nada como boas bebidas e boa companhia.}
+{318}{}{Apenas problemas com as bebidas de Becky é que você costuma beber para muitos!}
+{319}{}{Becky ... quero dizer, Rebecca é um bom coração.}
+{320}{}{Se alguém tiver um dedo nela, eles se arrependerão.}
+{321}{}{Esta é uma coisa boa.}
+
+{340}{}{Devemos matá-lo pelo que você fez.}
+{341}{}{Eu não sei o que ela fez com você, mas ela não merecia morrer.}
+{342}{}{Talvez devêssemos nos dirigir para New Reno, já que a Becky está fechada.}
+{343}{}{Sinto falta do sorriso de Becky.}
+{344}{}{Não há mais bebidas alcoólicas baratas.}
+{345}{}{O Den não é o mesmo sem o Becky's.}
+
+# 4. Frankie's
+{360}{}{Frankie é realmente um buraco ... na parede, isso é.}
+{361}{}{Eu gosto do Buraco melhor que o de Becky.}
+{362}{}{Nós chamamos esse lugar do Buraco.}
+{363}{}{Sente-se. Oh espere. Talvez não.}
+{364}{}{Frankie tem ação. Becky's é apenas um poço de dinheiro.}
+{365}{}{Frankie não gosta de Becky.}
+{366}{}{Frankie diz que as bebidas de Becky são diluídas.}
+{367}{}{Como tá indo?}
+{368}{}{Frankie sabe fazer uma festa.}
+{369}{}{As mesas de Becky são manipuladas! Bem, é isso que Frankie diz.}
+{370}{}{Parte inferior!}
+
+{390}{}{Maldita seja, avisei Frankie sobre como ele tratava as pessoas.}
+{391}{}{Frankie deveria ter observado seu temperamento.}
+{392}{}{Agora, onde vamos sair?}
+{393}{}{Muito ruim, Frankie se foi. Ele sabia fazer uma festa.}
+{394}{}{Você tem bastante temperamento. O que Frankie fez com você?}
+{395}{}{Frankie insulta sua mãe ou algo assim?}
+
+# 5. Tubby's
+{410}{}{Estou só dando uma olhada.}
+{411}{}{Não tenho certeza do que estou procurando.}
+{412}{}{Tubby certamente passa por um monte de Jet.}
+{413}{}{Você vê algo de bom?}
+{414}{}{Não muito aqui.}
+{415}{}{A Tubby precisa obter alguns fornecedores melhores.}
+{416}{}{Você precisa de chems? Tubby está normalmente bem abastecido.}
+
+{430}{}{Por que você matou o Tubby?}
+{431}{}{Sem grande perda, mas Tubby era a única loja real na cidade.}
+{432}{}{O que Tubby fez para irritá-lo?}
+{433}{}{Tubby vendeu-lhe alguma merda ruim, não é?}
+{434}{}{O rumor é que você bateu Tubby por causa de um mau negócio ou algo assim.}
+{435}{}{Não está realmente surpreso. Muitas pessoas estiveram doloridas com Tubby ultimamente.}
+
+# 6. Flick
+{440}{}{Nada que eu esteja interessado hoje ...}
+{441}{}{Oh Olá. Apenas falando com o meu bom amigo Flick.}
+{442}{}{O que você esta fazendo aqui?}
+{443}{}{Você também é amigo de Flick?}
+{444}{}{Eu não fiz nada.}
+{445}{}{O que você está olhando?}
+{446}{}{Basta fingir que você não me vê.}
+{447}{}{Não me importe.}
+
+{460}{}{Droga. Você matou Flick.}
+{461}{}{Flick rip you off?}
+{462}{}{Flick está em algum trabalho perigoso.}
+{463}{}{Isso é uma merda sobre o Flick.}
+{464}{}{Imagina o que todas aquelas crianças vão fazer agora que o Flick está morto.}
+{465}{}{Surpreendido Flick durou tanto tempo.}
+
+# 7. Mom
+{480}{}{Chamamos essa casa.}
+{481}{}{A maioria de nós cresceu na culinária da mãe.}
+{482}{}{Conheço mamãe desde que eu era criança.}
+{483}{}{Mamãe cuida de todos no Den.}
+{484}{}{Mamãe pode fazer um sanduíche de qualquer coisa.}
+{485}{}{Espero que conheçam a mãe assim como nós.}
+{486}{}{Ótima companhia, ótima comida. O que mais você poderia pedir?}
+{487}{}{Felicidades!}
+{488}{}{Olá.}
+
+{500}{}{Como você pode ter prejudicado a velha e pobre mãe?}
+{501}{}{Eu sabia, quero dizer, conhecia minha mãe toda a minha vida.}
+{502}{}{O que ela sempre fez com você?}
+{503}{}{Assassino! Pobre Mãe ...}
+{504}{}{Por que você teve que fazer isso?}
+{505}{}{Seu monstro sem coração!}

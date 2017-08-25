@@ -1,0 +1,70 @@
+{100}{}{Você vê um cidadão com um macacão azul brilhante. Parece o terno do Habitante do Vault, mas lá
+ não há número na parte de trás.}
+{101}{}{Você vê um Cidadão da Cidade do Vault.}
+{102}{}{Você vê um cidadão com um macacão azul brilhante. Parece o terno do Habitante do Vault, mas lá
+ não há número na parte de trás.}
+{103}{}{:: aplausos ::}
+{104}{}{É o herói! Veja!}
+{105}{}{Minha palavra! É o herói, aqui, no Vault City!}
+{106}{}{Bom dia, capitão.}
+{107}{}{Vault City prevalece, capitão.}
+{108}{}{Bom dia, cidadão.}
+{109}{}{Vault City prevalece, Citizen.}
+{110}{}{Um mutante! Guardas! Guardas!}
+{111}{}{Um ghoul! Guardas! Guardas!}
+{112}{}{Como você entrou nas paredes?}
+{113}{}{Com licença, você tem uma passagem de dia?}
+{114}{}{Hmmmph. Outro Outsider.}
+{115}{}{Parece que mais e mais Estranhos estão encontrando o seu caminho dentro das paredes ...}
+{116}{}{Certamente espero que você tenha uma passagem de dia.}
+{117}{}{Parece que eles estão emitindo Passes de Dia para quase * qualquer * Outsider ultimamente ...}
+{118}{}{Ouvi falar de seus corajosos atos. Você fez um ótimo serviço para o Vault City ... e o mundo.}
+{119}{}{Sua batalha contra o Enclave impressionou até o Primeiro Cidadão.}
+{120}{}{Eu ouvi você viajar tão longe do sul como San ... Fran ... Cisco. Isso é verdade?}
+{121}{}{Talvez a Vault City * possa * receber Outsiders.}
+{122}{}{Era verdade? O governo do velho mundo ainda estava travando a guerra?}
+{123}{}{Você deve catalogar suas viagens no computador da Vault City para que outras pessoas possam ler sobre elas.}
+{124}{}{É possível ficar o tempo que desejar, herói.}
+{125}{}{Você deve catalogar suas façanhas heróicas contra o Enclave em uma lista agradável e arrumada.}
+{126}{}{* Yawn * ... hrmnnn? Sim? O que é isso?}
+{127}{}{Está um pouco atrasado para os visitantes.}
+{128}{}{A maioria dos cidadãos ficaria dormindo a esta hora.}
+{129}{}{Adormecido? Não, não mais.}
+{130}{}{Por favor ... volte pela manhã. Tenho um longo dia de fazer listas amanhã.}
+{131}{}{Bom dia, capitão.}
+{132}{}{Vault City prevalece, capitão.}
+{133}{}{Posso pegar uma doninha, capitão?}
+{134}{}{Qualquer coisa errada, capitão?}
+{135}{}{Espero que nenhum desses estranhos Outsiders esteja lhe dando problemas, capitão.}
+{136}{}{Você tem alguma história sobre o mundo exterior, Capitão?}
+{137}{}{Bom dia, cidadão.}
+{138}{}{Vault City prevalece, Citizen.}
+{139}{}{Estou me sentindo bem mais do que bem. Você?}
+{140}{}{Como cidadão, é parte do nosso dever cívico fazer e manter listas.}
+{141}{}{Passei a maior parte do dia fazendo essa lista para o Proconsul, depois verificando. Adoro fazer
+ listas.}
+{142}{}{Eu trabalho no Office de Lista. A maioria de nós faz. Nós aqui no Vault City * love * fazendo listas.}
+{143}{}{Passei a maior parte do dia hoje atualizando essa lista para o List Office. Foi bom, honesto,
+ trabalho produtivo.}
+{144}{}{Ouvi dizer que você realmente viajou pelo mundo exterior. Como você sobreviveu entre aqueles imundos
+ Outsiders?}
+{145}{}{Ah! Você é o novo cidadão. Bem-vindo ao Vault City.}
+{146}{}{Você precisa de um lugar para ficar enquanto você está na cidade?}
+{147}{}{O Conselho tem nossos interesses no coração.}
+{148}{}{Devemos ter cuidado para manter nossa bela cidade limpa.}
+{149}{}{Os criados? Oh, nós os usamos para tarefas menores.}
+{150}{}{A reunião do Conselho de ontem foi muito produtiva. Nós fizemos * lotes * de listas. Nós aqui no Vault
+ A cidade gosta de fazer listas.}
+{151}{}{Sim?}
+{152}{}{Algo que posso ajudá-lo com ... Outsider?}
+{153}{}{Me desculpe, você disse alguma coisa?}
+{154}{}{Eu? Eu vou sobre o meu negócio. Talvez você também devesse.}
+{155}{}{Posso ver seu Passo de Dia, por favor?}
+{156}{}{Oh, desculpe. Eu quase confundi você com um servo.}
+{157}{}{Eu realmente não tenho tempo para conversar com um Outsider agora. Por favor, avance.}
+{158}{}{Você poderia manter sua distância, por favor?}
+{159}{}{Por favor, fique ali.}
+{160}{}{Os servos liberam nosso tempo para assuntos mais importantes. Principalmente criação de lista.}
+{161}{}{Os criados? Oh, nós os usamos para tarefas menores.}
+{162}{}{Sim, eu posso cheirar ... er, veja, você é um Outsider.}
+{163}{}{Você é um estranho? Quão pitoresco.}

@@ -1,0 +1,56 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in LOADSAVE.C
+#
+# (These MUST match "text message" enumeration on the top of LOADSAVE.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+# System
+{100}{}{CARREGAR JOGO}              # Titles
+{101}{}{ESCOLHE UM ROTO DE CARGA RÁPIDA}
+{102}{}{SALVAR JOGO}
+{103}{}{ESCOLHA UMA MANUTENÇÃO RÁPIDA}
+{104}{}{FEITO}
+{105}{}{CANCELAR}
+{106}{}{Erro ao carregar a lista de jogos salvos!} # Line 1
+{107}{}{Salvar o diretório do jogo:}    # Line 2
+{108}{}{Não existe ou está corrompido.} # Line 3
+{109}{}{SALVAR JOGO}
+{110}{}{CARREGAR JOGO}
+{111}{}{- VAZIO -}
+{112}{}{- CORRUPT SAVE FILE -}
+{113}{}{- VERSÃO ANTIGA -}
+{114}{}{Vazio.}
+{115}{}{Erro!}
+{116}{}{Versão antiga.}
+{117}{}{JAN}                            # Months
+{118}{}{FEVEREIRO}
+{119}{}{MAR}
+{120}{}{APR}
+{121}{}{PODE}
+{122}{}{JUN}
+{123}{}{JUL}
+{124}{}{AUG}
+{125}{}{SEP}
+{126}{}{OCT}
+{127}{}{NOV}
+{128}{}{DEC}
+{129}{}{Nível}
+{130}{}{DESCRIÇÃO}
+{131}{}{O jogo Save já existe, sobrescreva?}
+{132}{}{Erro ao salvar o jogo!}             # Line 1
+{133}{}{Não é possível salvar o jogo.}           # Line 2
+{134}{}{Erro ao carregar o jogo!}            # Line 1
+{135}{}{Não é possível carregar o jogo.}           # Line 2
+{136}{}{Salvar arquivo do jogo é uma versão mais antiga.}
+{137}{}{Mapa}
+
+{140}{}{Jogo salvo.}
+{141}{}{Game Loaded.}
+#
+# Demo versions only
+#
+{200}{}{Desculpe, você não pode salvar ou carregar} # 1
+{201}{}{na versão demo.}         # 2

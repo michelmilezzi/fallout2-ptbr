@@ -1,0 +1,76 @@
+{100}{}{Um terminal de computador.}
+{101}{}{Este computador parece ter uma câmera montada nela.}
+{102}{}{Você não consegue ler o que está no monitor.}
+{103}{}{[Uma pequena câmera gira em sua direção.]
+                   Sistema de segurança Skynet
+                                  Terminal de segurança de substituição - nível 3
+                           Recuperando dados pessoais - Caporal Dixon
+                   Sem correspondência
+                                                           Quem é Você?}
+
+{104}{}{}
+{105}{}{}
+{106}{}{}
+{107}{}{}
+{108}{}{}
+{109}{}{O que ... Quem diabos é você?}
+{110}{}{Eu sou o cabo Dixon.}
+{111}{}{Eu estou}
+{112}{}{Urg!}
+{113}{}{[Você não consegue ler o que está no monitor.]}
+{114}{}{Erro!
+                                                                Nenhum arquivo de programa está presente
+                                            Por favor reinicie}
+{115}{}{}
+{116}{}{}
+{117}{}{Ug}
+{118}{}{Saída}
+{119}{}{Eu sou Skynet. Projeto de Inteligência Artificial número 59234.
+ Pesquisa primária e Desenvolvimento. Objectivo secundário Proteger
+ Sierra Army Depot de entidades hostis.
+    Por favor insira a identidade}
+{120}{}{}
+{121}{}{Eu sou o cabo Dixon.}
+{122}{}{Eu estou}
+{123}{}{Eu estoua friend.}
+{124}{}{Saída}
+{125}{}{A imagem não coincide com a do arquivo pessoal do cabo-Dixon.
+                                                                Conclusão: O assunto está mentindo.
+                                         Conclusão: Inimigo
+                                          Conclusão: Terminar.
+                                           -End Transmission-}
+{126}{}{}
+{127}{}{}
+{128}{}{}
+{129}{}{}
+{130}{}{Saída}
+{131}{}{Nenhuma gravação desse nome em arquivos de pessoal
+                      Digitalização
+                                                        Humano - Feminino
+                                               Proceda à sala de controle para análise posterior
+                   -End Transmission-}
+{132}{}{}
+{133}{}{}
+{134}{}{}
+{135}{}{Nenhuma gravação desse nome em arquivos pessoais.
+                      Digitalização
+                                                         Humano - Masculino
+                                                      Proceda à sala de controle para análise posterior
+                 -End Transmission-}
+{136}{}{}
+{137}{}{}
+{138}{}{}
+{139}{}{Saída}
+{140}{}{Definição: Amigo
+                                                    Noun - Um que não é hostil.
+                                     Proceda à sala de controle para análise posterior.
+                 -End Transmission-}
+{141}{}{}
+{142}{}{}
+{143}{}{Saída}
+
+{200}{}{ É incapaz de ler o que está no monitor.}
+{300}{}{O computador parece ter algum tipo de mecanismo de defesa.}
+{301}{}{Você está chocado com}
+{302}{}{ Está chocado por}
+{303}{}{ Pontos de dano.}

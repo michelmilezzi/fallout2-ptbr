@@ -1,0 +1,85 @@
+{100}{}{Um terminal de computador}
+{101}{}{Controla a unidade de extração de órgãos do Vault-Tec}
+{102}{}{Você não consegue ler o que está no monitor.}
+{103}{}{Bem-vindo ao aparelho de extração de órgãos state-of-the-art da Vault-Tec. Para operar, coloque o doador na sala de operação, gire o mostrador para as espécies apropriadas e selecione o órgão a ser extraído.}
+{104}{}{Selecione Espécies}
+{105}{}{Selecione Órgão}
+{106}{}{Saída}
+{107}{}{Arg!}
+{108}{}{O mostrador possui os seguintes animais listados:
+                         Canino
+                                                                   Felino
+                                                               Road Runner
+                                                        Roedor
+                                                                 Humanoos (arranhados no console)}
+{109}{}{}
+{110}{}{}
+{111}{}{}
+{112}{}{}
+{113}{}{}
+{114}{}{Selecione Canino}
+{115}{}{Selecione Felino}
+{116}{}{Selecione Road Runner}
+{117}{}{Selecione Roedor}
+{118}{}{Selecione Humano}
+{119}{}{Raspe um novo nome no console.}
+{120}{}{Saída}
+{121}{}{[Você pega um pedaço de metal e pondera sobre o que arranhar no console.]}
+{122}{}{Corte a palavra Mutante no console.}
+{123}{}{Esculpe a palavra Deathclaw no console.}
+{124}{}{Saída}
+{125}{}{Seleção atual:}
+{126}{}{Espécies:}
+{127}{}{Órgão:}
+{128}{}{Selecione Espécies}
+{129}{}{Selecione Órgão}
+{130}{}{Prossiga com a extração.}
+{131}{}{Saída}
+{132}{}{O mostrador possui os seguintes órgãos listados:
+                          Coração
+                                                                  Cérebro
+                                                                    Rim
+                                                                  Fígado
+                                                                 Pulmão
+                                                                 Apêndice
+                                                              Cólon (arranhado)}
+{133}{}{}
+{134}{}{}
+{135}{}{}
+{136}{}{}
+{137}{}{}
+{138}{}{}
+{139}{}{}
+{140}{}{Selecione Coração}
+{141}{}{Selecione Cérebro}
+{142}{}{Selecione Rim}
+{143}{}{Selecione Fígado}
+{144}{}{Selecione pulmão}
+{145}{}{Selecione o Apêndice}
+{146}{}{Selecione Cólon}
+{147}{}{Saída}
+{148}{}{O assunto do doador não está presente na sala de extração.}
+{149}{}{A extração falhou}
+{150}{}{Extração concluída}
+{151}{}{Extração concluída
+                                           Thank you for using Vault-Tec. Please see our catalog for our complete line of Vault-Tec products.}
+{152}{}{}
+{153}{}{Saída}
+
+{170}{}{Humano}
+{171}{}{Canino}
+{172}{}{Felino}
+{173}{}{Road Runner}
+{174}{}{Roedor}
+{175}{}{Mutante}
+{176}{}{Deathclaw}
+
+{180}{}{Cérebro}
+{181}{}{Coração}
+{182}{}{Rim}
+{183}{}{Fígado}
+{184}{}{Pulmão}
+{185}{}{Apêndice}
+{186}{}{Cólon}
+
+{200}{}{ É incapaz de ler o que está no monitor.}

@@ -1,0 +1,64 @@
+{100}{}{Você vê um soldado vestindo armadura de energia Enclave.}
+{101}{}{Você vê o Sargento Granito.}
+{102}{}{Você vê um soldado com os chevrons do sargento no ombro dele.}
+{103}{}{Vamos pegar aquele lunático.}
+{104}{}{Sim, lembre-se de 'eu!}
+{105}{}{Travar e carregar. Vamos!}
+{106}{}{Pronto para o rock.}
+{107}{}{Vamos tirar essa aberração!}
+{108}{}{Slag 'im.}
+{109}{}{Eu sou bom para ir.}
+{110}{}{Vamos arrasar!}
+{111}{}{Eu vou iluminar esse enrugamento!}
+{112}{}{Eu não levo para matar idjits.}
+{113}{}{Você pode ir.}
+{114}{}{Eu não vi ninhadas.}
+{115}{}{Estes não são os droides que estamos procurando.}
+{116}{}{Mova-se.}
+{117}{}{Estou cansado da morte.}
+{118}{}{Continue!}
+{119}{}{Fique fácil, rapazes.}
+{120}{}{Fique atento lá, mutie.}
+{121}{}{Boa sorte, mutante. Você vai precisar.}
+{122}{}{Pare! O que você está fazendo aqui?}
+{123}{}{Estou tentando voltar para o meu povo.}
+{124}{}{Não é da sua conta.}
+{125}{}{Não tenho tempo para suas perguntas.}
+{126}{}{Apenas quem é você?}
+{127}{}{Bem, você conhece essa aberração, o agente Horrigan, apenas atacado por aqui. Ele está esperando por alguém para tentar fazer uma pausa para isso.}
+{128}{}{Quem é aquele?}
+{129}{}{Eu acho que você está errado nessa. Digamos que estou fazendo o meu negócio. Agora, o que diabos você está fazendo aqui?}
+{130}{}{Estou tentando voltar ao barco para escapar com minha tribo.}
+{131}{}{Bem, é melhor você fazer o tempo.}
+{132}{}{Por quê? O que você quer dizer?}
+{133}{}{Não faço tempo. Eu faço cadáveres e você é o próximo.}
+{134}{}{Tenha o seu caminho, mas não diga que não tentamos avisá-lo.}
+{135}{}{Avise-me? Sobre o que?}
+{136}{}{Sim, estou bem avisado. Hora de morrer, Enclave scum.}
+{137}{}{Ele é um personagem gentilmente manipulado é o que ele é. Costumava ser o guarda-costas do presidente. O agente do serviço secreto Frank Horrigan. Agora ele é mais da metade da máquina.}
+{138}{}{Parece uma má notícia.}
+{139}{}{Eu matei pior do que isso. Ele será apenas uma outra mancha em alguns minutos.}
+{140}{}{Gee, você me fez tremer nas minhas botas. Cale-se.}
+{141}{}{Ah, que ele é, e pior. Ele vai esfregar o chão com você. Ele é difícil, rápido, e simplesmente normal. Eu vi o que ele gosta de fazer para mutantes e não é bonito.}
+{142}{}{Eu não sou um mutante e ... uh, o que ele fez?}
+{143}{}{Não gosto de falar sobre isso. Isso me dá pesadelos. Vamos apenas dizer que essas paredes não são cobertas com * ferrugem * exatamente.}
+{144}{}{Parece que vou ter dificuldade em superar ele.}
+{145}{}{Esse é o eufemismo do ano. Eu tenho pena de você, amigo, realmente sim.}
+{146}{}{Tenha pena de mim? Você deve se sentir mal por você mesmo. O computador de controle do seu powerplant ficou fritado e agora você está indo para um colapso. Você é todo homem morto a menos que ...}
+{147}{}{Não preciso da sua pena. Eu só preciso de você para morrer.}
+{148}{}{Eu tenho coisas para fazer. Você mesmo é todo homem morto. Tente aproveitar seus últimos minutos nesta terra. Fumá-los se você os pegou. Adeus.}
+{149}{}{A menos que?!?}
+{150}{}{A menos que você me ajude a superar Horrigan para chegar ao meu navio.}
+{151}{}{Deixa pra lá. Não tenho tempo para discutir isso. Adeus.}
+{152}{}{Oh sim. Diga-me outro. Se o reator se esgueirar como é que a luz ainda está ligada? Huh, smartie? Heh, heh, conte-me outro.}
+{153}{}{Isso é apenas a iluminação * * de emergência. Ei, eu vi onde o computador * estava. * Não está quebrado, está desaparecido. * Eu estou lhe dizendo que você está indo para o conto, a menos que ....}
+{154}{}{Não tenho tempo para discutir mais sobre isso. Espero que você seja um nadador forte. Adeus.}
+{155}{}{Você não conta uma linda história. Você me faz rir. Sabe, acho que você pode até durar a marca de um minuto com Horrigan. Esse seria um novo registro. Boa sorte, mutie.}
+{156}{}{Gee, você não é generoso. É melhor aquecer primeiro. Sobre você e seu time.}
+{157}{}{É melhor esperar que a armadura flua. Adeus.}
+{158}{}{Está bem, está bem. Eu não posso falar por todos, mas meu esquadrão e eu faremos o nosso melhor para ajudá-lo a deixar aquele horrível Horrigan para sempre. Eu não quero me afogar como nenhum rato.}
+{159}{}{Bem pensado. Vamos buscá-lo. Temos que sair daqui.}
+{160}{}{Sargento Granito da EC Company.}
+{161}{}{Empresa da CE?}
+{162}{}{Enclave Control Company. Somos responsáveis   pela defesa perimetral, * geralmente * que é.}
+{163}{}{Oh, eu vejo. O que você quer dizer * geralmente? *}

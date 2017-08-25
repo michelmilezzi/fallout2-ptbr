@@ -1,0 +1,11 @@
+#############################################################
+#  Message File: Geckpwpl.msg                               #
+#                                                           #
+#  Created: September 2, 1998                               #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+{100}{}{Você entrou na central nuclear de Gecko.}
+{200}{}{Você destruiu o reator.}
+{300}{}{O robô reparou a usina.}

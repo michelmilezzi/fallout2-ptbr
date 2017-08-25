@@ -1,0 +1,118 @@
+{100}{}{Você vê um dos guardas do portão da Cidade do Vault.}
+{101}{}{Você vê uma guarda de aspecto diligente. O guarda está vestindo armaduras de metal e carregando uma espingarda de aparência poderosa.}
+{102}{}{Ei! Afaste-se daí!}
+{103}{}{Nós avisamos você uma vez ...}
+{104}{}{Ei! É aquele que derrotou o Enclave. Abra o portão.}
+{105}{}{Bom dia, capitão.}
+{106}{}{Senhor. É bom vê-lo, senhor.}
+{107}{}{Senhor sim senhor!}
+{108}{}{Vault City prevalece, capitão.}
+{109}{}{Minhas desculpas, Citizen, mas os ghouls não são permitidos dentro da Vault City.}
+{110}{}{Minhas desculpas, Citizen, mas os mutantes não são permitidos dentro da Vault City.}
+{111}{}{Aquele ghoul teve melhor afastar-se do portão. Agora.}
+{112}{}{Esse mutante deveria se afastar do portão. Agora.}
+{113}{}{Bom dia, cidadão.}
+{114}{}{É bom te ver, cidadão.}
+{115}{}{Vault City prevalece, Citizen.}
+{116}{}{Saia daqui.}
+{117}{}{Dá o fora.}
+{118}{}{Tenho um problema? Ou você está procurando um?}
+{119}{}{Eu não quero ter que te machucar.}
+{120}{}{Você está desmarcado para entrar. Participe em.}
+{121}{}{Bom dia, viajante.}
+{122}{}{Bem vindo de volta.}
+{123}{}{Sua batalha contra o Enclave impressionou até o Primeiro Cidadão.}
+{124}{}{Ouvi dizer que você viajou até o sul de São Francisco. Isso é verdade?}
+{125}{}{É verdade que os EUA ainda estavam lutando contra a guerra?}
+{126}{}{Você deve catalogar suas viagens no computador do Vault City.}
+{127}{}{Você pode permanecer na Cidade do Vault enquanto quiser.}
+{128}{}{Você deve catalogar suas façanhas contra o Enclave e colocá-lo no Servidor de Lista.}
+{129}{}{Nenhum ghouls é permitido na cidade de Vault. Obtenha esse ... algo fora daqui. Agora.}
+{130}{}{Nenhum mutante é permitido na Cidade do Vault. Obtenha esse ... algo fora daqui. Agora.}
+{131}{}{Pare, amigo. Ninguém é permitido após este ponto sem a devida autorização.}
+{132}{}{Propa uh-zat-shun?}
+{133}{}{Shamble off}
+{134}{}{Autorização adequada?}
+{135}{}{Deixa pra lá então.}
+{136}{}{Parece que conseguimos outra vítima do endogamismo do Outworlder aqui ... olhe, dim, saia daqui antes de se machucar, está bem?}
+{137}{}{ME NENHUM GOH!}
+{138}{}{Shamble off}
+{139}{}{Sim, "autorização adequada".}
+{140}{}{Se você quiser entrar na Cidade do Vault, você precisa falar com Wallace, chefe de alfândega. Ele pode emitir-lhe um Passe de Dia.}
+{141}{}{Onde posso encontrar Wallace?}
+{142}{}{Uma passagem de dia? O que é isso?}
+{143}{}{Ok, obrigado.}
+{144}{}{Wallace está no prédio aduaneiro logo ali.}
+{145}{}{Agora, avance. Não tenho tempo para falar com Outworlders.}
+{146}{}{O que é um Passe de Dia?}
+{147}{}{Obrigado pelo seu tempo. Adeus.}
+{148}{}{A Day Pass irá levá-lo para a nossa cidade ... se você tiver negócios aqui.}
+{149}{}{Agora, avance. Não tenho tempo para falar com Outworlders.}
+{150}{}{Onde posso encontrar Wallace?}
+{151}{}{Obrigado pelo seu tempo. Adeus.}
+{152}{}{Você precisa de um Passe de Dia para entrar na cidade.}
+{153}{}{Obter uma passagem de dia e eu vou deixar você entrar.}
+{154}{}{Mantenha-se longe do Portão.}
+{155}{}{Nenhuma demora.}
+{156}{}{Você tem uma passagem de dia?}
+{157}{}{Não, eu não.}
+{158}{}{Não, mas eu sou cidadão.}
+{159}{}{Como * se atreve * você me questiona ?! Eu sou um cidadão! Aqui estão os meus papéis!}
+{160}{}{Um cidadão, hein? Deixe-me ver seus documentos.}
+{161}{}{Eh ... Eu não os tenho em mim.}
+{162}{}{Ok, aqui está você.}
+{163}{}{Uh, o que eu queria dizer, como faço para obter cidadania?}
+{164}{}{Minhas desculpas, Citizen. Não queria ofender você. Você tem autorização para entrar.}
+{165}{}{Muito bem.}
+{166}{}{Olhe, "Citizen", você precisa de um Passe de Dia para chegar aqui, está bem? Não tente enganar-me novamente.}
+{167}{}{(Sair.)}
+{168}{}{Hmmmnn ... estes parecem legítimos. Engraçado, não lembro de te ter visto antes.}
+{169}{}{Bem, talvez você seja mais atento. Tenho uma consulta com o First Citizen, e ele está me esperando.}
+{170}{}{Espero que você me lembre da próxima vez.}
+{171}{}{Por que, sim, mantenho cidadania em todos os cofres.}
+{172}{}{Nós devemos nos ter perdido. Tenho o prazer de conhecê-lo.}
+{173}{}{Oh, é assim? Olha, não sei quem você é, mas você não é cidadão. Me dê esses papéis e saia daqui. Você quer entrar, você terá que obter uma passagem de dia de Wallace como todos os outros.}
+{174}{}{Você quer esses papéis? Venha buscá-los!}
+{175}{}{Onde posso encontrar Wallace?}
+{176}{}{Tudo certo. Adeus.}
+{177}{}{Well, all right, you're cleared to enter. Vault City prevalece, Citizen.}
+{178}{}{Uh, yes... Vault City prevalece, Citizen.}
+{179}{}{Obrigado.}
+{180}{}{Passe de dia, por favor.}
+{181}{}{Aqui está.}
+{182}{}{Não preciso de uma passagem de dia. Eu sou um cidadão.}
+{183}{}{Eu estava apenas parando para ver como você estava fazendo.}
+{184}{}{Não tenho tempo para conversas pequenas, está bem? Agora sai daqui.}
+{185}{}{Tudo bem, tudo bem. Apenas tentando ser amigável ...}
+{186}{}{(Sair.)}
+{187}{}{Tudo certo. Antes de entrar, devemos procurar os seus pertences primeiro.}
+{188}{}{Ok, ok.}
+{189}{}{Pelo que?}
+{190}{}{Esqueça, então.}
+{191}{}{Pare ali mesmo. Não são permitidos Outworlders dentro da Vault City após o anoitecer.}
+{192}{}{Mas eu tenho um Passe.}
+{193}{}{Mas eu sou um cidadão.}
+{194}{}{Eu sinto Muito. Eu vou me mudar.}
+{195}{}{Ah, então, AGORA você é um cidadão, hein? Assim como a última vez? Me dê esses "papéis da cidadania" e saia daqui.}
+{196}{}{Você quer esses papéis? Venha buscá-los!}
+{197}{}{Tudo bem, tudo bem.}
+{198}{}{Vá falar com Wallace, chefe de alfândega. Agora me deixa em paz.}
+{199}{}{OK. Adeus.}
+{200}{}{Sim, você tem um DAY Pass. Parece dia para você? Mova-se.}
+{201}{}{Está bem, está bem.}
+{202}{}{Às vezes, os Outworlders tentam contrabandear álcool ou hábitos de formação de hábitos em Vault City: Buffout, Jet, Psycho,
+ Mentats ... esse tipo de coisa.}
+{203}{}{Oh, está bem. Sinta-se livre para me procurar.}
+{204}{}{Esqueça, então. I don't need to get into Vault City that badly.}
+{205}{}{Desculpe, não pode deixar você entrar com esses itens em sua posse. Chems e álcool não são permitidos no Vault
+ Cidade. Vire-os então volte, tudo bem?}
+{206}{}{OK.}
+{207}{}{Tudo bem, parece que você está limpo. Você pode seguir em frente.}
+{208}{}{Obrigado.}
+{209}{}{Sim. Heer}
+{210}{}{Byeeee}
+{211}{}{Uh ... (Estuda você por um momento, então encolhe os ombros.)}
+{212}{}{O-kae.}
+{213}{}{Nup. Byeeeee}
+{214}{}{Awl ritye}
+{215}{}{Sim.}

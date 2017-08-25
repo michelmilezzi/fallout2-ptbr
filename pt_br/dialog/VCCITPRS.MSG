@@ -1,0 +1,8 @@
+{100}{}{Você vê um prisioneiro.}
+{101}{}{Você vê um cidadão prisioneiro.}
+{102}{}{Não é uma boa idéia falar com Lynette.}
+{103}{}{Apenas durmecendo.}
+{104}{}{Não fiz o suficiente para que minha cidadania seja revogada.}
+{105}{}{Moore * disse * Eu seria pego ...}
+{106}{}{Estou aqui para o meu bem.}
+{107}{}{Eu precisava aprender esta lição.}

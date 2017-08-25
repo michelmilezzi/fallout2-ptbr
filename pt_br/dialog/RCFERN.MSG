@@ -1,0 +1,30 @@
+{100}{}{Você vê um companheiro de aspecto nervoso com um macacão.}
+{101}{}{Você vê Ferndown, o agente comercial da Vault City.}
+{102}{}{Você vê um sujeito frágil e nervoso em uma vaia suja.}
+{103}{}{Receio que não possamos pagar por abandonar a caravana. Tenho certeza de que o Ben matou.}
+{104}{}{Você realmente pensou que eu recompensaria um ladrão? Você tem sorte de não ter sido linchado no
+ trilha. Não vou pagar nada. Agora saia.}
+{105}{}{Um ladrão? Eu me pareço com essa observação, você está malditamente ingrato! Estou indo embora. Adeus.}
+{106}{}{Algum dia em breve, você vai se arrepender de me cruzar. Adeus.}
+{107}{}{Sua caravana teve tantas perdas que não consigo achar que você realmente fez seu trabalho. Não podemos recompensar isso
+ tipo de falha.}
+{108}{}{Você bastardo barato! Você pagará por me irritar. Adeus.}
+{109}{}{Bem, às vezes você só tem mais sorte do que outros. Este foi um dos momentos infelizes. Adeus.}
+{110}{}{Nós não perdemos tudo na caravana, mas perdemos mais, podemos pagar. Se você tivesse feito
+ seu trabalho, você estaria recebendo mais de US $ 500.}
+{111}{}{Bem, algo é melhor do que nada, acho. Adeus.}
+{112}{}{Você é péssimo bastardo. Ninguém poderia ter feito um trabalho melhor. Você vai se arrepender de me irritar. Adeus.}
+{113}{}{Isso não era muito ruim. Aqui estão os seus $ 1000. Vai demorar um pouco antes de conseguir outra caravana
+ mestre, então eu não sei quando vamos viajar de novo.}
+{114}{}{Eu não acho que eu sempre queira passar tanto tempo olhando o culo de um brahmin novamente. Adeus.}
+{115}{}{Isso não era muito ruim. Até logo. Adeus.}
+{116}{}{Foi uma boa corrida. Não poderia ter funcionado dessa maneira se você não estivesse junto. Aqui estão os seus $ 100,
+ além de um bônus de $ 50 para o excelente trabalho. Obrigado novamente. Se Ben tivesse vivido para vê-lo.}
+{117}{}{É bom encontrar alguém que aprecie a qualidade quando o vê. Te vejo, talvez. Adeus.}
+{118}{}{Sempre feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
+{119}{}{Não posso acreditar que Ben tomou um idiota como você. Bem, suponho que foi seu último trabalho de
+ caridade. Você teve a sorte de ter sobrevivido. Adeus.}
+{120}{}{Ook?}
+{121}{}{Desculpe-me perder Ben Wade. Ele era um bom homem e um difícil de substituir. Meu nome é Ferndown, e
+ Eu cuidarei do que lhe devemos.}
+{122}{}{Uh, obrigado.}

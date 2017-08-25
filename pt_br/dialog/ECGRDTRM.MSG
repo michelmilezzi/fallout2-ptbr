@@ -1,0 +1,8 @@
+{100}{}{Você vê um terminal com um chip de água em funcionamento.}
+{101}{}{Você vê um terminal com um chip de água com defeito.}
+{102}{}{Você quebrou o chip de água ... pode ser de 100 a 150 dias antes disso
+ Vault fica sem água. Por algum motivo, esse pensamento o conforta.}
+{103}{}{Oups.}
+{104}{}{*Bip*}
+{105}{}{* Bee-Oop *}
+{106}{}{*Bip* * Bee-Oop *}

@@ -1,0 +1,308 @@
+# 0.QUICK LOOK (WTG)
+{100}{}{Você vê uma "pessoa pequena" fofa.}
+{101}{}{Você vê Stuart Little.}
+
+# 0.LOOK (WTG)
+{150}{}{Você vê um anão em roupas infantis.Ele está mastigando um palito e estudando você.}
+{151}{}{Você vê Stuart Little, o agente de boxe anão.Ele está mastigando um palito e estudando você.}
+{152}{}{Você vê Stuart Little, o agente de boxe anão.Ele parece tão fofo.Como um ursinho de cabelo ruivo e ruivo.}
+
+# 1.FLOAT DIALOGUES (ENCLAVE_DESTROYED = TRUE + PRIZEFIGHTER) (WTG)
+{200}{}{Kid, eu sabia que você faria o bem, mas eu não sabia que você também salvaria o mundo.Bom trabalho.}
+{201}{}{Você me fez orgulhosa, criança.}
+{202}{}{Você foi pela distância, criança.Você fez Stuart orgulhoso.}
+
+# 2.FLOAT DIALOGUES (ENCLAVE_DESTROYED = TRUE) (WTG)
+{210}{}{Gostaria de poder ter visto você colocar o punho através do Enclave.}
+{211}{}{Essa batalha contra a musta Enclave foi outra coisa.Droga.}
+{212}{}{Ha! Já pensou em usar essa energia do seu no RING em vez de saborear o mundo?}
+
+# 3.FLOAT [MALE, PRIZEFIGHTER] (WTG)
+{220}{}{Como está pendurado, campeão?}
+{221}{}{Olhando bem, cara.}
+{222}{}{Os punhos gostam de ouro é o que você tem.}
+{223}{}{Ya come raio e cuspir trovão, criança.}
+{224}{}{Você deixou aquela cadela sonuva como um mau hábito.Bom trabalho.}
+{225}{}{Feliz eu aproveitei para você, querido.}
+{226}{}{Olhando bem, querida.}
+
+# 5.FLOAT DIALOGUES NORMAL (WTG)
+{230}{}{Precisa de algum talento novo ...}
+{231}{}{Desculpe assas chumbo ...}
+{232}{}{Se eu fosse um pouco mais alto ...}
+{233}{}{Esses caras lutam como vagabundos ...}
+
+# 6.INTRO (WTG)
+{240}{}{(O anão o estuda quando você caminha e tira o palito de dentes da boca).}
+{241}{}{Sim, o que você quer, cara grande?}
+{242}{}{O que posso fazer por você, querido?}
+{243}{}{Ei, herói.O que posso fazer para você?}
+{244}{}{Hunh?}
+{245}{}{Por que você é tão pequeno?}
+{246}{}{Afastar-se}
+{247}{}{Quem é Você?}
+{248}{}{Nada.Eu estava apenas olhando ao redor.}
+
+# 7.HUNH?/MIMNO LOOK PRETTY/WHY YOU SOOO SMALL? (6)
+{250}{}{(Faz um movimento de shooing.) Buzz off, asshead.Estou perdendo meu tempo.}
+{251}{}{Bzzzzzzz-bzzzzzz}
+
+# 8.HUNH? [EXCEPT THE PLAYER LOOKS LIKE A FIGHTER] (6)
+{260}{}{(Sighs, parece que ele está prestes a dizer alguma coisa, depois faz uma pausa enquanto estuda seu quadro.) Você luta? Você
+ parece muito adequado.}
+{261}{}{Eu lutar muito.Eu lutar contra você?}
+{262}{}{Eu não parece bonito.U como homens? Estou disposto}
+
+# 9.MIMFIGHT A LOT.MIMFIGHT YOU? (8)
+{270}{}{Não, não ...luta no RING! Você sabe, o anel? (Pontos no anel de boxe, faz movimentos rápidos no ar.)
+ Que algo que você possa estar interessado?}
+{271}{}{(Punha o homem minúsculo no rosto e toma o dinheiro do almoço)}
+{272}{}{Uh-huh}
+{273}{}{Posso obter sorvete se lutar?}
+{274}{}{Nuh-uh}
+{275}{}{Eu casado para me advenshure me sair}
+
+# 10.PUNCH HIM BACK (9)
+{280}{}{(Jumps back.) Whoa lá, asshead! Salve-o para o anel.Agora olhe: você está dentro ou você?}
+{281}{}{Eu sou uma inie}
+{283}{}{Eu sou um pior}
+
+# 11.UH-HUH (9, 10)
+{290}{}{(Sorrisos.) Tudo bem, é um acordo feito.O Stuart do nome, a maioria me liga Stuart Little, mas isso é só causa ...bem, tudo VOCÊ
+ Preciso saber se sou grande em todas as maneiras importantes.Você tem um nome, um título?}
+{291}{}{Eu}
+{292}{}{Eu ...uh ...eu ...}
+{293}{}{EuBig Stu}
+{296}{}{Vagueie em busca de aventura}
+
+# 12.ALL RIGHT NAMIM(11)
+{300}{}{Me-a-me, hein? "Miami ..." EU GOSTO.Eu gosto disso.Tudo bem então, vamos fazer algum dano.}
+{301}{}{(Frowns.) Wise-ass, hein? Hmmph ...não pode ter nenhum respeito nesta cidade.(Shrugs.) Tudo bem então, vamos fazer alguns
+ danificar.}
+{302}{}{, Hã? Tudo bem então,}
+{1302}{}{ Vamos fazer algum dano.}
+{305}{}{Corra e esconda}
+
+# 13.SEXY (22)
+{310}{}{(Puffs indignado.) Olha.Só porque não sou chamado de "altura média" não significa que eu tenho que receber minhas emoções
+ indiretamente.}
+{311}{}{É assim mesmo?}
+
+# 14.RETARD LOSE (WTG)
+{320}{}{Saia da minha vista, assume.Não há esperança para você nesta cidade.Cai fora!}
+{321}{}{NUNCA deveria ter tido um risco para você, o que é uma decepção.Agora saia daqui! Cai fora!}
+{322}{}{MIM}
+{1322}{}{ NOT ASS HEAD MIMKILL YOU KILL YOU KILL Y--}
+{323}{}{E quanto ao sorvete}
+{324}{}{Fugir do choro}
+{326}{}{(Sente calmamente, acene e depois ataque-o.)}
+{327}{}{Me dê outra chance, Stuart.Venha, apenas mais uma chance.Eu posso ir a distância!}
+{328}{}{(Sair.)}
+{329}{}{(Stuart parece desgostoso com você quando você é arrastado para fora do ringue).}
+
+# 15.ANOTHER CHANCE…HELL NO (14, 24)
+{330}{}{O que, o Masticador, morda suas orelhas, garoto ?!}
+{331}{}{O que, o Masticador morda os ouvidos, garota ?!}
+{332}{}{Eu disse BEAT-lo! Saia daqui!}
+{333}{}{Chute o homem ruivo vermelho}
+{334}{}{Tromp com raiva}
+{336}{}{(Pegue a estrada).}
+{337}{}{(Vire vermelho.)}
+
+# 16.ANOTHER CHANCE…HELL NO (14, 24)
+{340}{}{(Mais uma chance.Obtenho 75%, sem argumentos.}
+{341}{}{(Mais uma chance.Ainda tenho 75%, sem argumentos.}
+{342}{}{Feito.Estou pronto para lutar novamente agora.Ligue, Stuart.}
+{343}{}{Feito.Me dê um pouco de tempo para descansar e eu vou estar pronto para lutar de novo.}
+{344}{}{Nada vale muito pena.}
+{345}{}{(Stuart fica vermelho, parece que ele está prestes a começar a gritar, depois diminui.) Tão errado.}
+{346}{}{Aperte novamente, você está aqui.}
+
+# 17.RETARD/NORMAL WIN (WTG)
+{350}{}{(Stuart está sorrindo como um chacal).Ótima performance lá em cima,}
+{1350}{}{...você está bem, sentindo-se bem? Deixe-me saber quando estiver pronto para a sua próxima partida.}
+{351}{}{Euready now READY TO DO SOMIMDAMAGE NOW NOW}
+{352}{}{Eutake brief nap then me ready to fight again}
+{353}{}{Euwant some ice cream}
+{355}{}{Estou pronto.Vamos ao que interessa.}
+{356}{}{Deixe-me descansar um pouco, então vou estar pronto.}
+{357}{}{Acho que acabei com isso, Stuart ...Eu vi minha morte lá em cima nesse anel, e isso me deixou assustado.Estou pendurado as luvas.}
+
+# 18.ICE CREAM (9, 10, 17)
+{360}{}{(O anão pisca, depois franziu a testa.) Gelo ...o quê?}
+{361}{}{Eu gritei, você grita, todos gritam para sorvete}
+{362}{}{Uh-uh.Sorvete}
+{363}{}{Afastar-se in search of adventure}
+
+# 19.ICE CREAM (18)
+{370}{}{(O anão sorri de forma incômoda.)}
+{371}{}{Bem, eu posso te dar um pouco de creme, amigo ...principalmente da prostituta ou da variedade química ...mas isso é sobre isso.}
+{372}{}{Bem, posso te dar um pouco de creme, querida ...principalmente da prostituta masculina ou da variedade química ...mas isso é sobre isso.}
+{373}{}{Agora você quer lutar ou o quê?}
+{374}{}{OK}
+{375}{}{Euwant to rest a bit first.}
+{376}{}{Naw}
+
+# 20.NUH-UH/NAW (9, 10, 17, 19)
+{380}{}{Bem, eu não vou forçá-lo, mas poderia ter sido um bom negócio, um roteiro no topo, um bote no
+ céu ...volte se você mudar de idéia.Você é ouro, criança.}
+
+# 21.WIN, FIGHT AGAIN (17, 24, 30, 31)
+{390}{}{Tudo bem então! Vamos pegar esse circo na estrada!}
+{391}{}{Siga-o.}
+
+# 22.WHO ARE YOU? (6, 40)
+{400}{}{Wha ...você não está ouvindo de mim? Stuart, Stuart Little? Maior agente em todos os Reno?}
+{401}{}{Alguém fez você um desserviço sem lhe contar sobre mim, amigo.}
+{402}{}{Alguém fez você um desserviço sem lhe contar sobre mim, querido.}
+{404}{}{Hmmmph.Assim.Qual o seu nome?}
+{405}{}{Eu estou}
+{1405}{}{.}
+{1406}{}{, Eu estoulooking to box.Can you help me out?}
+{407}{}{Você já trabalhou em um circo, Stuart?}
+{408}{}{"Stuart Little?"}
+{409}{}{Há um pouco mais para mim do que as minhas pernas, Stuart.Então seja educado, ou então você terá mais problemas para obter
+ uma data nesta cidade, tudo bem?}
+{410}{}{Na verdade, eu só estava olhando ao redor.Pegue você mais tarde, Stuart.}
+{411}{}{(Pegue o palito de dente na boca, mastigue-o.) Tem um nome?}
+{412}{}{(Olha para cima e para baixo.) Tem um nome para ir com essas pernas?}
+
+# 23.I'M X (22, 33)
+{420}{}{(Stuart acena com a cabeça)}
+{421}{}{Assustado}
+{1421}{}{.Nice ta conhece você.}
+{422}{}{...}
+{1422}{}{...I like that.Pretty name.Well, it's a pleasure to meet you, }
+{3422}{}{.}
+{423}{}{O que posso fazer para você?}
+{424}{}{Eu estoulooking to box.Can you help me out?}
+
+# 24.BOXED BEFORE (WTG)
+{430}{}{(Stuart nods and smiles as you approach.) Hey, hero! Heard about what you did.Congratulations.What's up?}
+{431}{}{(Stuart acena com a cabeça enquanto se aproxima). Heeeey,}
+{1431}{}{(O que há? Pronto para voltar no ringue?}
+{432}{}{(Stuart zombou quando você se aproxima.) Bem, se não é "}
+{1432}{}{. "O que o traz de volta ao redor?}
+{433}{}{Euwanta fight more}
+{434}{}{Th'sky.Byeee}
+{435}{}{Eu estoureeeeeeady to rumble.}
+{436}{}{Give me another chance, Stuart.I can GO the distance! C'mon…}
+{437}{}{Nothing.Just looking around.}
+
+# 25.OFFER TO BOX, PC DOESN'T MATCH UP (23, 33)
+{440}{}{You wanna BOX? Uh…awright, let me level with you, kid.You just don't look like you
+ have the frame for it.}
+{441}{}{You wanna BOX? Assustadonow I've heard it all.Look, most job opportunities in Reno for women are…hmmm.
+ Well, from the looks of it, maybe those jobs weren't cut out for you.}
+{442}{}{You wanna BOX? Assustadonow I've heard it all.Look, not to be mean or nothing, it's just that boxing is an
+ UGLY sport…and it makes people in it ugly, too.In your case, that would be a damn shame.}
+{444}{}{Me dê uma chance, e eu vou esquecer que LITTLE crack que você acabou de fazer.}
+{445}{}{Me dê uma chance, Stuart.}
+{446}{}{Oh, forget this brahmin shit.Eu estouout of here.}
+
+# 26.CHANCE (FAIL) (25)
+{450}{}{No, sorry, honey, too much of a risk…chances are, they wouldn't even let you fight.Now get
+ on home, 'kay?}
+{451}{}{No, sorry, pal, too much of a risk…it'd be a massacre.Now get on home, 'kay?}
+{452}{}{There aren't any woman boxers, Stuart, and that's my point.You'll be the first agent sponsoring a woman boxer.People will
+ come in DROVES to see it.}
+{453}{}{But that's just it, Stu…I can call you Stu, can't I?…it WOULD be a massacre.Do you know how much attention that would
+ grab? It'd be like going to see an execution!}
+{454}{}{Oh, this is brahmin shit.Eu estouout of here.}
+
+# 27.CHANCE (FAIL AGAIN) (25, 26, 27)
+{460}{}{No, sorry, honey, too much of a risk…chances are, they wouldn't even let you fight.Now get
+ on home, 'kay?}
+{461}{}{No, sorry, pal, it wouldn't even be an entertaining massacre.Now get on home, 'kay?}
+{462}{}{It's a risk, sure…but you know, Stuart, I could *dress down* a little in the ring.Might draw more of a crowd than you're
+ used to…}
+{463}{}{Oh, this is brahmin shit.Eu estouout of here.}
+
+# 28.STRONG FELLA, AGREES (23, 25, 26, 27, 33)
+{470}{}{Hmmmmm…awright, I'll give you a chance…but I ain't promising anything.This hurts business,
+ even a little, and you're out.(Puts his hands on hips.) My take is half the winnings, no arguments.}
+{471}{}{Hmmmmm…I'll give you a chance…but I ain't promising anything; Eu estoudoing you a favor
+ taking some unknown under my wing.My take is half the winnings…no arguments.}
+{472}{}{Feito.}
+{473}{}{Corte o seu corte para 25%, e nós conseguimos um acordo.}
+{474}{}{Oh, this is brahmin shit.Eu estouout of here.}
+
+# 29.WE'VE REACHED AN AGREEMENT (28)
+{480}{}{(Stuart's frown deepens.He looks like he is about to protest, then he shakes his head with a smirk.) All right already!
+ Now if yer ALL done whittling away my livelihood, let's talk management.}
+{481}{}{OK…}
+
+# 30.YOU'RE GONNA NEED A HANDLE (28, 29, 32)
+{490}{}{Awright...(Stuart looks you over.) Yer gonna need a name, y'know, a handle.Something that sounds tough.Mean.Like }
+{1490}{}{ o Furacão,}
+{2490}{}{ o Brawler, você sabe.}
+
+# 31.SPECIAL HANDLE (30)
+{500}{}{(The midget frowns.) Didn't he die against that Russian guy way back when? Aw, whatever.Shall we hit the ring?}
+{501}{}{(The midget smirks.) Looks like you and th e "Masticator" will be getting along just fine.Just don't bite off too many
+ ears.Bem…shall we hit the ring?}
+{502}{}{(The midget smirks.) You don't look Russian.But whatever works for you…shall we hit the ring?}
+{503}{}{(The midget smirks.) "Pity the fo," huh? Well, okay…but let's hope YOUR career goes somewhere.Shall we head to the ring?}
+{504}{}{(The midget smirks.) Eye of the Tiger, huh? "Aaaydrian," "Aaaaydrian…" Heh-heh.I like it…lot of weight associated with it.
+ Shall we head to the ring?}
+{505}{}{(O ninhão acena com a cabeça.)}
+{2505}{}{...not bad, not bad.It fits.(Nods at the ring.) Shall we get to it, then? You ready?}
+{506}{}{Vamos fazer isso.}
+
+# 32.WE HAVE NOT REACHED AN AGREEMENT (28)
+{510}{}{No dice.Fifty-fifty or NOTHING.If you don't like that, walk.}
+{511}{}{Fine.Though I wasn't aware vampires came in your size.}
+{512}{}{OK.50/50.What's next?}
+{513}{}{Did I say 25/75? I MEANT 50/50.We'll split the profit right down the middle.No problems here.}
+{514}{}{Andar.}
+
+# 33.STUART LITTLE (22, 33, 39)
+{520}{}{Yeah, yeah, I know, "Stuart Little." My Mom used to read a lotta E.B.White.Now, you got a name?}
+{521}{}{Hmmpph.You got a name?}
+{526}{}{Nice meeting you, Stu.I don't have time to talk right now.Catch you later.}
+
+# 34.DONE MUCH CIRCUS WORK IN YOUR LIFE? (33)
+{530}{}{E o que faz você pensar que eu sempre spectated um circo, muito menos ser escravizado por um?}
+{531}{}{Uh ... bem, eu sei que muitos dos cidadãos de New Reno atuam como se fossem de um circo e pensei ...}
+
+# 35.DONE MUCH CIRCUS WORK IN YOUR LIFE? (34)
+{540}{}{YOU thought because Eu estoua person of short stature, the only career I could procure would be confined to the so-called 'big top.'}
+{541}{}{Uh ... bem, agora ...}
+
+# 36.DONE MUCH CIRCUS WORK IN YOUR LIFE? (35)
+{550}{}{You took one QUICK look at me and thought you could deduce my entire life.It would never have occurred to you that a
+ person of my height could have obtained a career in *Boxing Management.*}
+{551}{}{Eu estousorry, I meant no offense.}
+
+# 37.I MEANT NO OFFENSE ...(36)
+{560}{}{Por que eu deveria me ofender? Só porque parece ser o hábito de todos neste jogo fazerem julgamentos instantâneos
+ de outros NPCs baseados unicamente em sua aparência física?}
+{561}{}{Bem, eu não sei sobre um julgamento INSTANTANEO ...}
+
+# 38....(37)
+{570}{}{Por exemplo, por exemplo, fiz o mesmo.}
+{571}{}{Ah?}
+
+# 39....(42)
+{580}{}{(Olha para você com compaixão.) Mas você vê o TRAGEDY aqui? Eu erroneamente reduzi-lo para um estereótipo, uma caricatura,
+ um modelo genérico de Fallout, em vez de considerar você como um caractere específico e único.}
+{581}{}{Uh, but Stuart, I AM a typical hero model.In fact, I am the player character of this game.}
+
+# 40.UH (13)
+{590}{}{Not all women are attracted to barrel-chested, overly muscled male character models.You'd be surprised how many women
+ find my size intriguingly ALLURING.}
+{591}{}{E você ficaria surpreso com quantos homens também fizeram.}
+
+# 41....(38)
+{600}{}{Eu tomei seu físico ridiculamente excessivamente musculoso, seu ardil Mad Maxx quer ser um comportamento, o seu sem imaginação
+ alocação de pontos de personagem e concluiu que você é um munchkin mini-maxing.}
+{601}{}{Eu peguei seus seios sobre-pixelados, seu ridículo sashay quando você anda, seu ponto de caráter sem imaginação
+ alocação e concluiu que você é um mini-maxing Laura Kroft wannabe ... um "munchkin".}
+{602}{}{EU…}
+
+# 42....(41)
+{610}{}{Você não é mais do que um modelo de herói masculino RPG típico, se você quiser, um dos muitos modelos que parece preencher isso
+ mundo em massa.}
+{611}{}{Você não é mais do que um típico modelo de herói feminino RPG, se você quiser, um dos muitos modelos que parece preencher isso
+ mundo em massa.}
+{612}{}{Bem…}

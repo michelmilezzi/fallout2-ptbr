@@ -1,0 +1,15 @@
+{100}{}{Talvez você não configure o temporizador. Isso poderia ser perigoso.}
+{101}{}{Isso não parece ser um explosivo suficientemente poderoso para
+ limpe a abertura.}
+{102}{}{O carrinho de mineração parece funcional. Você provavelmente poderia empurrá-lo.}
+{103}{}{Anexar dinamite ao pólo metálico pode dar energia suficiente para abrir o
+ Entrada.}
+{104}{}{A dinamite é anexada a um pólo metálico no carrinho.}
+{105}{}{Um bom empurrão deve fazer esse rolamento.}
+{106}{}{Você se pressiona empurrando o carrinho.}
+{107}{}{Você empurra o carrinho pelas trilhas.}
+{108}{}{O carrinho por si só não será suficiente para abrir a mina.}
+{109}{}{Você não tem nada para anexar isso também.}
+{110}{}{Se ao menos você tivesse um poste de metal para prender na frente do carrinho de mineração.}
+{111}{}{Você anexa o pó de metal ao carrinho.}
+{112}{}{Você liga a dinamite ao pólo metálico.}

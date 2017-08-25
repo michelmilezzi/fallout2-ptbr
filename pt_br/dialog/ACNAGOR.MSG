@@ -1,0 +1,70 @@
+{100}{}{Você vê seu primo, Nagor. Você não vê seu cachorro, fumo, em qualquer lugar.}
+{101}{}{Você conheceu Nagor desde que ele era um bebê, e sempre o ajudou quando podia.}
+{102}{}{Primo, estou feliz em vê-lo! Preciso da tua ajuda.}
+{302}{}{Primo, estou feliz em vê-lo! Preciso da tua ajuda.}
+{103}{}{Desculpe, mas não tenho tempo.}
+{104}{}{Você precisa de ajuda com o que?}
+{105}{}{Então eu irei para fora na selva eu   mesmo!}
+{106}{}{Aguarde ... o que você precisou de ajuda?}
+{107}{}{Faça isso.}
+{108}{}{Smoke correu para o campo de caça e não voltou e agora Morlis
+ não me deixa ir encontrá-lo. Ela diz que é muito perigoso e ele é apenas um cachorro, mas eu estava
+ indo mesmo assim. Mas agora você está aqui e você poderia fazê-lo e eu não entraria
+ problema.}
+{109}{}{Certo. Mas onde estão os campos de caça?}
+{110}{}{Certo. Eu vou encontrá-lo agora mesmo.}
+{111}{}{Esqueça, não tenho tempo para isso.}
+{112}{}{O que você fez, ser atingido na cabeça com uma pedra? Eles estão do lado mais distante de
+ Tenda de Hakunin, ao norte da aldeia.}
+{113}{}{Volto com ele em breve.}
+{114}{}{Você já encontrou Smoke?}
+{115}{}{Não, ainda não. Onde você disse que os campos de caça eram?}
+{116}{}{Não, ainda não.}
+{117}{}{Você já encontrou Smoke?}
+{118}{}{Não, ainda não. I'll be back soon, though.}
+{119}{}{Me desculpe, mas ele está morto.}
+{120}{}{Você está apenas dizendo isso porque você não quer olhar! Eu não me importo o que
+ Morlis diz, eu vou encontrá-lo.}
+{121}{}{Nagor, e se algo acontecer com você? Morlis ficaria sozinho e isso seria
+ faça com que ela fique triste. Você não quer deixá-la triste, não é?}
+{122}{}{Faça isso.}
+{123}{}{Bem ... não, eu não quero fazer isso. Ok, não irei, mas não é justo!}
+{124}{}{Smoke ficará bem. Adeus.}
+{125}{}{Você encontrou Smoke! Obrigado! Fumo, você é um cão mau!}
+{126}{}{Seja bem-vindo. Adeus.}
+{127}{}{Obrigado novamente. Espero que você tenha uma viagem muito divertida!}
+{128}{}{Sinto falta de Smoke. Por que você não pode salvá-lo? Você é o Escolhido.}
+{129}{}{Estou ocupada, burra. Vá jogar em outro lugar.}
+{130}{}{Eu vou.}
+{131}{}{Eu vou depois do fumo.}
+
+# new nodes for time limit
+{200}{}{Olá primo ... eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi muito
+ Fale sobre tempos difíceis para vir.}
+{201}{}{Olá primo ... eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi muito
+ Fale sobre tempos difíceis para vir.}
+{202}{}{Eu ainda olho, Nagor.}
+{203}{}{Ainda estou olhando, sobrinho.}
+{204}{}{Bem-vindo ao lar, primo. As coisas estão ficando um pouco apertadas por aqui. Você encontrou o sagrado
+ Treze e o GECK?}
+{205}{}{Bem-vindo ao lar, primo. As coisas estão ficando um pouco apertadas por aqui. Você encontrou o sagrado
+ Treze e o GECK?}
+{206}{}{Não encontrarei. Desculpa.}
+{207}{}{Desculpe, Nagor. Ainda estou olhando.}
+{208}{}{Olá novamente, prima. Eu acho que você percebeu que as coisas realmente estão se derrubando aqui. Por favor
+ encontre o GECK. Estamos em necessidade desesperada!}
+{209}{}{Olá novamente, prima. Eu acho que você percebeu que as coisas realmente estão se derrubando aqui. Por favor
+ encontre o GECK. Estamos em necessidade desesperada!}
+{210}{}{Oi primo.}
+{211}{}{Oi primo.}
+{212}{}{Você não soa como auto usual.}
+{213}{}{Você não soa como seu eu habitual.}
+{214}{}{Me desculpe, primo. As coisas ficaram cada vez pior desde a última vez que você deixou. As pessoas são
+ doente, o brahmin está morrendo e ... eu ... meu cachorro, Smoke morreu - Morlis o cozinhou. Sinto muita falta dele. Desculpe, mas não posso
+ realmente falo mais ...}
+{215}{}{Me desculpe, primo. As coisas ficaram cada vez pior desde a última vez que você deixou. As pessoas estão doentes,
+ O brahmin está morrendo e ... eu ... meu cachorro Smoke morreu. Sinto muita falta dele. Desculpe, mas não posso realmente
+ falar mais ...}
+
+
+{300}{}{Você vê Nagor.}

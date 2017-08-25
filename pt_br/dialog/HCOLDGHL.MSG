@@ -1,0 +1,36 @@
+{100}{}{Você vê um velho ghoul secado.}
+{101}{}{Você vê um dos vários ghouls antigos que fazem desta casa sua residência.}
+{102}{}{Estou tão cansado.}
+{103}{}{Tão cansado, cansado de esperar, cansado de esperar por você.}
+{104}{}{Quando a hora de dormir?}
+{105}{}{Qual o horrível cheiro? Oh, sou eu.}
+{106}{}{Ainda é 4 horas? Eu quero jantar!}
+{107}{}{Uau, eu não quebrei meu quadril por quase uma hora!}
+{108}{}{Alguém viu meus dentes?}
+{109}{}{Onde está minha comida?}
+{110}{}{Morte! Eu sou o que você deseja! Por aqui!}
+{111}{}{Olá, Billy! Estou tão feliz que você voltou para me ver.}
+{112}{}{Envelhecer não é para mariquinhas.}
+{113}{}{Oooops! Minhas entranhas!}
+{114}{}{Alguém tem uma fralda?}
+{115}{}{Eu tenho muita sabedoria que eu poderia transmitir, mas não sinto isso.}
+{116}{}{Ghouls hoje em dia ... bah!}
+{117}{}{Sem respeito ... ninguém mais tem respeito.}
+{118}{}{Lembro-me do antigo Set ...}
+{119}{}{Imagina como ol 'Jed está em Gecko.}
+{120}{}{Você gosta de mutile? Eu gosto de mutile.}
+{121}{}{Eu gosto de potatahs! Eu gosto deles purê! Eu gosto deles fritos!}
+{122}{}{Eu estou com fome!}
+{123}{}{Gostaria que tivéssemos algumas plantas ao redor.}
+{124}{}{Não gosto de estar fora.}
+{125}{}{Essa mina de urânio deve ser distribuída em breve.}
+{126}{}{Você não é da Vault City, está?}
+{127}{}{Lembro-me de lutar contra os Glowin 'Ones sob Necropolis ... esses foram os dias ...}
+{128}{}{Deixe-me dizer-lhe sobre quando abrimos o Vault ...}
+{129}{}{... o que eu estava falando?}
+{130}{}{::bocejar::}
+{131}{}{:: pffffft ::}
+{132}{}{Não tenho nada para dizer a ninguém!}
+{133}{}{Eu preciso de uma soneca.}
+{134}{}{Está frio e há lobos depois de mim.}
+{135}{}{Os cães continuam a mexer suas caudas para as HORAS depois que elas morrem!}

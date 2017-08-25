@@ -1,0 +1,296 @@
+{100}{}{Você vê um ghoul especialmente pequeno e mais velho.}
+{101}{}{Você vê Lenny, assistente de Harold.}
+{102}{}{Você vê um ghoul curto e mais velho. Parece estar preocupado.}
+
+{110}{}{Olá, meu nome é Lenny. O que posso ajudar?}
+{111}{}{Olá agg. Como posso ajudá-lo?}
+{112}{}{Eu ouvi dizer que você é o Descendente do Vault Dweller. Sabe, conheci o Vault Dweller uma vez.}
+{113}{}{Olá. Eu não posso esperar por quanto você se parece com o Vault Dweller. Qual é o que
+ posso fazer por você?}
+{114}{}{Grenny? Heewo.}
+{115}{}{O que você faz aqui?}
+{116}{}{Estou ferido. Pode me ajudar?}
+{117}{}{Um dos meus amigos está ferido. Você pode ajudá-los?}
+{118}{}{Meus amigos estão feridos. Você pode ajudá-los?}
+{119}{}{Lenny, você já ouviu falar de algo chamado um Kit de Criação do Jardim do Éden?}
+{120}{}{Você encontrou meu antepassado?}
+{121}{}{Estou só dando uma olhada. Adeus.}
+{122}{}{Você pode fornecer cura.}
+
+{125}{}{Sim. O que você precisa?}
+{126}{}{Acho que não preciso de nada agora.}
+
+{130}{}{Você não deveria ter deixado sua aldeia. G'go casa agora.}
+{131}{}{Casa? Goobye.}
+
+{140}{}{Você deveria ir para casa.}
+{141}{}{Eu posso ter tempo para você.}
+{142}{}{Sh'shoo. Vá embora!}
+
+{150}{}{A G'garden of Eden C'creation K'kit? Ouvi dizer que Vault City tinha um desses. Esse é o único
+ um dos quais eu já ouvi falar.}
+{151}{}{Estou ferido. Pode me ajudar?}
+{152}{}{Um dos meus amigos está ferido. Você pode ajudá-los?}
+{153}{}{Bem, meu antepassado, o morador do Vault, disse que o Vault 13 nos deve um. Eu preciso encontrá-lo.}
+{154}{}{Acho que é tudo o que preciso saber. Adeus.}
+
+{160}{}{Bem, eu aceito H'harold na maior parte. Quando as pessoas se machucam, eu as acordo.}
+{161}{}{Ajude Harold a fazer o quê?}
+{162}{}{Deixe-me perguntar-lhe outra coisa.}
+{163}{}{Você pode curar pessoas?}
+{164}{}{Estou ferido. Pode me ajudar?}
+{165}{}{Um dos meus amigos está ferido. Você pode ajudá-los?}
+{166}{}{Eu vou ter que manter isso em mente, se eu me machucar. Obrigado. Adeus.}
+
+{170}{}{L', deixe-me dar uma olhada nisso. Eu acho que posso ajudá-lo.}
+{171}{}{Isso não vai me custar nada?}
+{172}{}{Thanks, Lenny. Deixe-me perguntar-lhe outra coisa.}
+{173}{}{Obrigado, Lenny. Adeus.}
+{174}{}{Eu posso ajudá-lo. B'but isso vai custar $ 30. F'for suprimentos.}
+{175}{}{Eu não acho que preciso da sua ajuda agora. Adeus.}
+
+{180}{}{Bem, seu amigo poderia usar um pouco de ajuda. Talvez eu possa ajudá-los.}
+{181}{}{A aparência parece que você encontrou algum tipo de problema para entrar. Posso corrigi-los, no entanto.}
+{182}{}{Isso não vai me custar nada?}
+{183}{}{Obrigado Lenny. Deixe-me perguntar-lhe outra coisa.}
+{184}{}{Obrigado Lenny. Adeus.}
+{185}{}{O seu amigo está ferido. Posso corrigi-los por US $ 30. Eu não tenho o dinheiro para s'supplies.}
+{186}{}{O que você fez? Parece que você poderia usar alguma cura. Eu
+ Não precisa cobrar US $ 60 para curar todos.}
+{187}{}{O seu amigo parece ser bom para mim.}
+
+{190}{}{Bem. Na verdade, eu não entendi o V'vault Dweller. Mas eu os vi. Uma vez.}
+{191}{}{Você viu o Vault Dweller? Onde?}
+{192}{}{Oh, eu vejo. Bem, tenho lugares para ir, coisas para matar. Adeus.}
+
+{200}{}{Bem, antes do W'war, eu era um médico.}
+{201}{}{Antes da guerra? Mas isso deve ter sido quase 160 anos atrás.}
+{202}{}{Ah Bem, isso explica isso. Obrigado. Adeus.}
+
+{210}{}{Isso é verdade. B'but a radiação parece ter g'given nós g'ghouls uma vida útil mais longa.
+ "Claro, tirou quase tudo mais.}
+{211}{}{Levou tudo?}
+{212}{}{Tudo parece ter o bem e o mal misturados. Adeus.}
+
+{220}{}{Bem, sim. Nós nos parecemos f'friggin 'f'freaks. Nós não temos nenhuma pele, para os Cristãos.}
+{221}{}{Bem, acho que você viu dias melhores.}
+{222}{}{Como grupo, você não é o grupo mais atraente do planeta. Adeus.}
+
+{230}{}{Você poderia dizer isso. Eu trocaria todos esses anos por ser uma pessoa anormal novamente.}
+{231}{}{Bem, não tenho muita esperança nisso, suponho.}
+{232}{}{Aposto que você faria. Adeus.}
+
+{240}{}{Se esses f'fools em Vault City compartilhassem sua tecnologia médica, tenho certeza que poderíamos
+ C'limine o excesso de radiação e cure-se.}
+{241}{}{Eles não vão te ajudar?}
+{242}{}{Eu acho que já ouvi o suficiente. Adeus.}
+
+{250}{}{Você foi a Vault City? Então você me pergunta o que você acha das chances de gwget
+ Hafa daqueles bandidos é. Além disso, observe que um cão do p'paper persegue um gato do asbesto pelo inferno.}
+{251}{}{Lamento ouvir isso, mas acho que você está certo. Deixe-me perguntar-lhe sobre outra coisa.}
+{252}{}{Sinto muito por ouvir isso. Adeus.}
+
+{260}{}{N'no. A vida é muito curta - heh, heh - bem, para as pessoas mais - para suar as pequenas coisas.
+ Sabe o que? É tudo pequeno. Isso é f'free.}
+{261}{}{Obrigado Lenny.}
+
+{270}{}{Eu já fazia muito tempo. Em um lugar chamado N'necropolis. Muitos de nós g'ghouls moravam lá.
+ Um dia, vi alguém atravessando a cidade.}
+{271}{}{Corrida?}
+{272}{}{Bem, acho que já tive o suficiente de suas lembranças turvas por enquanto. Adeus.}
+
+{280}{}{Sim, correndo. Você vê, nós ghouls já podemos correr muito. Então, eu sabia que era um estranho quando eu vi
+ eles. Eles correram tão perto que eu poderia ter tocado neles. Desejo que eu tenha ingressado no Vault Dweller ...}
+{281}{}{Você queria se juntar ao meu avô?}
+{282}{}{Sim, como se meu antepassado permitisse que um anormal sem carne como você fizesse alguma coisa com eles. Adeus.}
+{283}{}{Bem, eu adoraria ouvir toda a história, mas eu tenho coisas para fazer. Adeus.}
+
+{290}{}{Sim. Eu tinha a chance de uma vida inteira e eu explodi.}
+{291}{}{O que você quer dizer?}
+{292}{}{Bem, essas são as pausas. Adeus.}
+
+{300}{}{Mais tarde, eu percebi que o Vault Dweller havia consertado nosso sistema de água. O V'vault Dweller foi salvo
+ nós - todos nós. Voce entende? Não importava que fossemos ghouls. Por uma vez, não importava.
+ Nós voltaríamos a gente. W'worth de poupança.}
+{301}{}{Meu antepassado foi o fundador da nossa tribo. Essa memória é reverenciada entre meus povos.}
+{302}{}{Bem, só estou interessado em salvar minha tribo. O resto do mundo pode se defender. Adeus.}
+
+{310}{}{Mais tarde, ouvi dizer que o Vault Dweller destruiu a fonte do exército incomparável. O cofre
+ D'Dweller nos salvou a todos. Humano e ghoul ... Poderia ter sido parte disso, mas faltava
+ c'raira. Nunca me perdoei a mim mesmo.}
+{311}{}{Estou seguindo os passos do meu antepassado. Você gostaria de outra chance? Você se juntará a mim?}
+{312}{}{Tenho certeza de que o trabalho que você faz aqui entre os ghouls tem valor e significado. Foi bom para
+ Ouça sobre o meu antepassado. Deixe me perguntar algo.}
+{313}{}{Bem, muitas pessoas são covardes no fundo. Não há algo de que vergonha demais.
+ Você é apenas fraco. Adeus.}
+{314}{}{Muitas vezes, o caminho certo não é óbvio. Todos nós temos nosso propósito especial aqui. Obrigado por contar
+ eu do meu antepassado. Adeus.}
+
+{320}{}{Eu sou mais engraçado do que um touro b'brahmin em uma vaca cheia de pasto! Eu ficaria com honra de te contar.
+ Eu vou ser velho e eu não me espero muito rápido, pelo menos não por muito tempo, mas eu tenho certeza de que você vai pegar você quando precisar.}
+{321}{}{Fico feliz que você possa se juntar a mim. Tenho certeza de que suas habilidades de cura serão úteis.}
+{322}{}{Hmm, isso pode ser muito árduo para uma de suas idades avançadas. eu acho que
+ você deve ficar aqui. Eu sinto Muito. Adeus.}
+
+{330}{}{Tenho trabalho para fazer aqui. Eu não posso te acompanhar.}
+{331}{}{Você não está em absoluto como seu antepassado. Você desonra sua lembrança.}
+{332}{}{Você tem que aprender sobre a vida. Eu não gosto do que aprendeu até agora.}
+{333}{}{Estou triste ao ouvir que você não pode se juntar a mim.}
+{334}{}{Jeez, você pensaria que um pedaço de carne podre como você pularia na chance de sair desse
+ fogueira brilhante de uma cidade. Adeus.}
+
+{340}{}{Eu aceito que H'harold administre a cidade. Há sempre mais trabalho para fazer.}
+{341}{}{O que mais você disse que fez aqui?}
+{342}{}{Acho que é tudo o que preciso saber por enquanto. Adeus.}
+
+{350}{}{Você não tinha dinheiro suficiente ... mas eu ajudei você a sair de qualquer jeito. J'jist c'cant espera ver
+ p'people em p'pain.}
+{351}{}{Não posso te agradecer o suficiente, Lenny. Eu ainda preciso de mais informações de você.}
+{352}{}{Obrigado, Lenny. Eu definitivamente te devo um. Adeus.}
+
+{360}{}{Há muitos p'people aqui. Você não precisa mais do meu h'help. G'good-sorte para você.}
+
+{370}{}{Eu nunca pensei que viveria para ver o dia em que eu ficaria envergonhado de ser um p parte do que você é
+ fazendo. Você é uma desgraça para a lembrança do habitante do Vault. B'dee-ya, b'dee-ya, adeus.}
+{371}{}{Sabe, acho que seria bom conversar com você. Mas você é j'jist e
+ com ornery e c'cantankerous como um bull b'brahmin com um c'cactus acima é burro. E você não parece muito
+ também é melhor. B'dee-ya, b'dee-ya, adeus.}
+{372}{}{Lamento ver você ir, Lenny.}
+{373}{}{Você não consegue lidar com isso, hein? Bem, é melhor arrastar sua carcaça meio podre antes de eu fazer
+ Até a minha opinião sobre se você deve valer a pena um cartucho ou não.}
+{374}{}{* Burp * Sim, seja o que for. Eu acho que você tem outras coisas para fazer, como gastar todas as suas grátis
+ tempo tentando lembrar o que era ter uma pele que não parecia uma estrada de três meses
+ em julho. Saia daqui, sua louca cara.}
+{375}{}{OK.}
+
+{380}{}{Por que você quer que eu faça?}
+{381}{}{Lenny, eu sei que você está realmente tentando. Mas saia do meu caminho.}
+{382}{}{Preciso que você lute de maneira diferente, Lenny.}
+{383}{}{Preciso que você espere aqui.}
+{384}{}{Médico, cure-se.}
+{385}{}{Preciso de um cura Lenny.}
+{386}{}{Preciso de você para curar alguns dos nossos amigos aqui.}
+{387}{}{Preciso que você nos cure.}
+{388}{}{Como você está, veterano?}
+{389}{}{Eu não preciso de mais nada de você agora, Lenny.}
+
+{400}{}{Você quer que eu faça uma diferença diferente?}
+{401}{}{Quero que você mude sua distância.}
+{402}{}{Eu quero que você use sua melhor arma.}
+{403}{}{Eu quero que você use sua melhor armadura}
+{404}{}{Eu quero que você lute de forma diferente.}
+{405}{}{Deixa pra lá.}
+
+{410}{}{Até que você quer que me seja? Você sabe que é difícil para mim fazer isso.}
+{411}{}{Eu quero que você fique a uma curta distância de mim.}
+{412}{}{Eu quero que você fique a distância média.}
+{413}{}{Eu quero que você fique a longa distância.}
+{414}{}{Preciso que você explore a frente.}
+{415}{}{Deixa pra lá.}
+
+{420}{}{Qual é o que você quer que eu faça?}
+{421}{}{Eu quero que você lute defensivamente por enquanto.}
+{422}{}{Preciso que você lute normalmente.}
+{423}{}{Preciso que você lute de forma agressiva.}
+{424}{}{Deixa pra lá.}
+
+{430}{}{Eu não posso dizer que você possa ensinar um velho d'dog truques novos. O que é um k'kick.}
+{431}{}{Eu acho que eu posso parecer o que é, de alguma forma.}
+{432}{}{OK.}
+
+{440}{}{Oh, OK. I’ll w’wait right here until you g’get back. G’give me a chance to r’rest my aching
+ j’joints.}
+{441}{}{Você faz isso, Lenny. Adeus.}
+{442}{}{Você deve esperar aqui; oh, e outra coisa ...}
+{443}{}{Deixa pra lá.}
+
+{450}{}{Eu g'gotta g'get um b'bigger g'gun.}
+{451}{}{Use sua melhor arma, Lenny.}
+{461}{}{Coloque sua melhor armadura, Lenny.}
+{462}{}{Lenny, depois de colocar sua melhor armadura, há algo mais que eu preciso que você faça por mim.}
+{463}{}{Deixa pra lá.}
+
+{470}{}{Essa é uma boa idéia. Perguntei-me quando tínhamos um desafio para isso. Estou com certeza.}
+{471}{}{Você deveria me deixar olhar para aqueles que são seus.}
+{472}{}{Parece que me agrada a alguém para que os semeie.}
+{473}{}{Vá em frente e cure-se.}
+{474}{}{Cure-se, e então há outra coisa que eu preciso que você faça.}
+{475}{}{Vá em frente e me cure, por favor.}
+{476}{}{Cure-me, e então há outra coisa que eu preciso que você faça.}
+{477}{}{Vá em frente e nos cure.}
+{478}{}{Curar-nos, e então há outra coisa que eu preciso que você faça.}
+{479}{}{Deixa pra lá.}
+
+{480}{}{Eu não posso fazer isso. Eu não sou muito um escoteiro.}
+{481}{}{Oh, okay. Deixa pra lá.}
+
+{490}{}{Eu vou ficar pronto para você.}
+{491}{}{Fique perto agora, Lenny.}
+{492}{}{Fique perto, e há outra coisa que eu preciso que você faça para mim também.}
+{493}{}{Deixa pra lá.}
+
+{500}{}{Eu não tenho certeza de que não queremos fazer muito fácil um t'target hein?}
+{501}{}{Não fique tão perto, Lenny. Quero fazê-los trabalhar para nos atingir.}
+{502}{}{Não cale muito. Há outra coisa que eu preciso que você faça para mim, também.}
+{503}{}{Deixa pra lá.}
+
+{510}{}{Tudo bem, vou ficar com um b'bit mais longe. Parece que as pessoas na maioria querem k'kill você, de qualquer forma.}
+{511}{}{Preciso que você fique de volta para sua própria segurança. Não tem absolutamente nada a ver com a maneira como você
+ cheiro.}
+{512}{}{Antes de nos espalhar, preciso que você faça outra coisa para mim também.}
+{513}{}{Deixa pra lá.}
+
+{520}{}{Eu gwgotten bastante gwgo em olhar para fora f'fer eu mesmo os anos.}
+{521}{}{Eu só preciso de você para ter cuidado quando entramos em lutas.}
+{522}{}{Eu quero ter certeza de que nada lhe acontece. Heck, você é uma antiguidade. Mais uma coisa, no entanto ...}
+{523}{}{Deixa pra lá.}
+
+{530}{}{Somente para fazer isso.}
+{531}{}{Apenas lute da maneira que você faria normalmente, e nós deveríamos estar bem.}
+{532}{}{Apenas afrouxe e brigue normalmente. Mais uma coisa...}
+{533}{}{Deixa pra lá.}
+
+{540}{}{Eu posso fazer isso. A luta do J'jist em tudo é sobre todo esse antigo b'bones kin handle.}
+{541}{}{OK. Deixa pra lá.}
+
+{1000}{}{Por que você quer que eu faça?}
+
+{1100}{}{Eu estou indo bem.}
+{1200}{}{Eu tenho um menor w'wound, mas eu posso manter g'going.}
+{1300}{}{Essa é uma boa idéia. Perguntei-me quando tínhamos um desafio para isso. Estou com certeza.}
+{1400}{}{Preciso de cura agora ou vou morrer.}
+
+{1500}{}{Oh, está bem. Eu vou esperar aqui até você voltar. Dá-me uma chance de reter minhas mágoas
+ j'joints.}
+
+{1600}{}{OK.}
+
+{1700}{}{Eu vou ficar pronto para você.}
+{1800}{}{Eu não tenho certeza de que não queremos fazer muito fácil um t'target hein?}
+{1900}{}{Tudo bem, vou ficar com um b'bit mais longe. Parece que as pessoas na maioria querem k'kill você, de qualquer forma.}
+
+{2000}{}{Há muitos p'people aqui. Você não precisa mais do meu h'help. G'good-sorte para você.}
+{2100}{}{Eu nunca pensei que viveria para ver o dia em que eu ficaria envergonhado de ser um p parte do que você é
+ fazendo. Você é uma desgraça para a lembrança do habitante do Vault. B'dee-ya, b'dee-ya, adeus.}
+{2200}{}{Eu não tinha certeza de que você voltasse.}
+
+{2300}{}{O que é com a corrida o tempo todo?}
+{2301}{}{Oh, desculpe. Eu vou sair do seu caminho.}
+{2302}{}{Rush, rush, rush. Tudo bem, estou me movendo. Desculpe, não queria entrar no seu caminho.}
+{2303}{}{Desculpe, eu não posso mover-se mais rápido. Eu vou sair do seu caminho, então.}
+{2304}{}{Oh, ok, vou sair do caminho.}
+{2305}{}{Eu apenas vou cambalar por aqui então.}
+{2306}{}{Não quero ser um obstáculo.}
+{2307}{}{Oh, desculpe.}
+
+{3000}{}{Muitas coisas ruins acontecem ao seu redor. Eu vou embora antes que algo aconteça comigo.}
+{3001}{}{Eu não vou ajudar um filho da criança. Adeus.}
+{3002}{}{Você me assusta com sua sede de sangue. Não vou seguir mais você.}
+{3003}{}{Não quero nada com um escravo. Adeus.}
+{3004}{}{Você é um traidor! Você destruiu nossa usina. Eu não vou ajudá-lo.}
+{3005}{}{Eu não quero nada com você.}
+
+{4000}{}{Bem, tudo bem, mas com certeza não quero ficar sozinho aqui.}
+{4001}{}{Tudo bem, se você acha que é realmente uma boa idéia.}
+{4002}{}{Bem, eu não gosto de usar armas, a menos que eu realmente precise, mas acho que eu poderia usar uma faca, eu acho. Posso usar uma pistola, pelo menos eu costumava ser capaz. Se eu realmente tivesse que, acho que eu poderia lidar com uma metralhadora. Se não fossem tão barulhentos. Eu sou um curandeiro, não um lutador.}
+{4003}{}{Gosh, eu espero não precisar disso.}

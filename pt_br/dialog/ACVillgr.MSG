@@ -1,0 +1,113 @@
+#############################################################
+#  Message File: ACVillgr.msg                               #
+#                                                           #
+#       Body Type:  NAROBE                                  #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP: 20                                              #
+#       Skills to note: None                                #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: December 01, 1997                               #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+{100}{}{Você vê um aldeão masculino.}
+{101}{}{Você vê um aldeão feminino.}
+
+#############################################################
+#  The following lines are for the dialog which the NPC     #
+#  says. This will be disorganized because of the Design    #
+#  Tool.                                                    #
+#############################################################
+
+{150}{}{Um membro amável da sua aldeia.}
+{151}{}{[CONVERSA]}
+{152}{}{Olá! Ouvi dizer que você é o Escolhido. Agora, talvez, nossa aldeia possa ser salva.}
+{153}{}{Você pode me dizer onde posso encontrar mais pó de cura?}
+{154}{}{O que você pode me falar dos comerciantes que trocam conosco?}
+{155}{}{É bom vê-lo, mas devo ir.}
+{156}{}{Deus protege você em sua jornada.}
+{157}{}{Eu tenho uma pergunta para você.}
+{158}{}{Adeus meu amigo.}
+{159}{}{Vá ver Hakunin no canto norte da aldeia. Ele pode ajudá-lo.}
+{160}{}{Obrigado. Adeus.}
+{161}{}{Oh, não é o meu lugar para lidar com os comerciantes. Fale com Mynoc, o guardião do
+ grande ponte Ele os vê todos.}
+{162}{}{Obrigado. Adeus.}
+{163}{}{Você poderia me dizer onde a grande ponte está localizada?}
+{164}{}{Mais uma pergunta, se eu puder.}
+{165}{}{Boa brincadeira, Escolhido! Você sabe onde está. Dessa forma - para o sul.}
+{166}{}{Obrigado. Adeus.}
+{167}{}{Mais uma pergunta, se eu puder.}
+{168}{}{Claro, o que é isso?}
+{169}{}{Você poderia me dizer onde posso encontrar algumas ervas curativas?}
+{170}{}{O que você pode me falar dos comerciantes que trocam conosco?}
+{171}{}{Deixa pra lá.}
+{172}{}{Oh deus - que o espírito do Fundador o guie. Se você é o Escolhido, estamos
+ vai precisar disso.}
+{173}{}{Uun Ga.}
+{174}{}{Tenha uma viagem segura.}
+{175}{}{????}
+{176}{}{Estamos condenados! Você falhou em sua missão.}
+{177}{}{Você não pode continuar assim.}
+{180}{}{Você é um traidor para seu próprio povo.}
+{181}{}{Por que você faz isso?}
+{182}{}{Você é mau. O Escolhido é o mal!}
+{183}{}{Eles vêm para a nossa aldeia do leste, mas seus bens são pobres.}
+{184}{}{Você poderia me dizer onde posso encontrar algumas ervas curativas?}
+{185}{}{Obrigado. Adeus.}
+{186}{}{Mais uma pergunta, se eu puder.}
+
+# Starting Dialog after 1st Hakunin Movie
+{300}{}{Olá, Escolhido. É um prazer ver você de novo. Rezo para que sua santa missão esteja indo bem. Existe algo com o que posso ajudá-lo?}
+
+# Starting Dialog after 2nd Hakunin Movie
+{301}{}{Escolhido, nosso povo está morrendo. Você deve apressar sua busca pelo sagrado GECK. O que posso fazer para ajudá-lo nesta tão santa das missões?}
+
+# Starting Dialog after 3rd Hakunin Movie
+{302}{}{Estamos ficando sem tempo, Escolhido. Por favor, termine sua santa missão em breve. Nós podemos
+ não pode esperar muito mais. Se houver alguma coisa que eu possa fazer para ajudá-lo a nos salvar, me avise.}
+
+# Starting Dialog after 4th Hakunin Movie
+{303}{}{Escolhido, nossa aldeia está quase morta ... você é nossa única esperança. Há alguma coisa
+ Eu poderia dizer-lhe que o ajudaria em nossa salvação?}
+
+
+#############################################################
+#  TELL - ME - ABOUTS                                       #
+#############################################################
+{1000}{}{Mais velho}
+{1001}{}{Fundador}
+{1002}{}{Cofre Dweller}
+{1003}{}{Arroyo}
+{1004}{}{Klamath}
+{1005}{}{Cofre}
+{1006}{}{Escolhido}
+{1007}{}{Xamã}
+{1008}{}{Hakunin}
+{1009}{}{Pó de cura}
+{1010}{}{Ponte}
+{1011}{}{Mynoc}
+
+{1100}{}{The Mais velho is your mother and our leader.}
+{1101}{}{Nosso grande antepassado que nos deu conhecimento.}
+{1102}{}{O primeiro a lutar e vencer o caos.}
+{1103}{}{Essa seria a nossa bela aldeia.}
+{1104}{}{Esse é um posto comercial a poucos dias a leste daqui.}
+{1105}{}{The Cofre is heaven.}
+{1106}{}{You are the Escolhido.}
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está na parte norte
+ da nossa aldeia.}
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está na parte norte
+ da nossa aldeia.}
+{1109}{}{É um pó mágico que irá curá-lo, mas irá fazer você
+ sonolento.}
+{1110}{}{The Great Ponte exits our village in the south.}
+{1111}{}{Ele guarda a ponte que conduz à nossa aldeia.}

@@ -1,0 +1,168 @@
+# Brok Encounter Table
+{100}{}{Você encontra barrigas e lobos.}
+{101}{}{Você encontra roucos.}
+{102}{}{Você encontra lobos.}
+{103}{}{Você encontra escorpiões.}
+{104}{}{Você encontra plantas de esporos.}
+{105}{}{Você encontra um ladrão de luta da Unidade Patrulha.}
+{106}{}{Você encontra um lobisomem de luta da Patrulha da Unidade.}
+{107}{}{Você encontra uma Patrulha de Unidade.}
+
+# VPat Encounter Table
+{150}{}{Você encontra escravas e cães.}
+{151}{}{Você encontra escravas.}
+{152}{}{Você encontra geckos dourados.}
+{153}{}{Você encontra cachorros selvagens.}
+{154}{}{Você encontra uma patrulha e cães que combatem escravas.}
+{155}{}{Você encontra escravas lutando contra geckos dourados.}
+{156}{}{Você encontra uma escrava lutadora de patrulha.}
+{157}{}{Você encontra uma patrulha lutando com geckos dourados.}
+{158}{}{Você encontra uma patrulha lutando com cachorros selvagens.}
+{159}{}{Você encontra uma patrulha.}
+
+# RDRC Encounter Table
+{200}{}{Você está emboscada por incursores.}
+{201}{}{Você encontra lobos.}
+{202}{}{Você encontra uma caravana que protege os incursores.}
+{203}{}{Você encontra uma caravana que protege os incursores.}
+{204}{}{Você encontra uma caravana que protege os incursores}
+{205}{}{Você encontra uma caravana que protege os incursores.}
+{206}{}{Você encontra uma caravana.}
+{207}{}{Você encontra uma caravana.}
+{208}{}{Você encontra uma caravana.}
+{209}{}{Você encontra uma caravana.}
+
+# VNNB Encounter Table
+{250}{}{Você encontra arruinadores.}
+{251}{}{Você encontra lobos.}
+{252}{}{Você encontra escorpiões.}
+{253}{}{Você encontra uma caravana que afasta os mocassins.}
+{254}{}{Você encontra uma caravana que afasta os mocassins.}
+{255}{}{Você encontra uma caravana que afasta os lobos.}
+{256}{}{Você encontra uma caravana que protege os escorpiões.}
+{257}{}{Você encontra uma caravana.}
+{258}{}{Você encontra uma caravana.}
+{259}{}{Você encontra uma caravana.}
+{260}{}{Você encontra uma caravana.}
+{261}{}{Você encontra um viajante.}
+
+# NCR Encounter Table
+{300}{}{Você encontra restos do exército do Mestre.}
+{301}{}{Você encontra arruinadores.}
+{302}{}{Você encontra NCR Rangers lutando contra os restos do exército do Mestre.}
+{303}{}{Você encontra NCR Rangers lutando contra baleias.}
+{304}{}{Você encontra os agricultores que defendem os restos do exército do Mestre.}
+{305}{}{Você encontra famers defendendo os malditos.}
+{306}{}{Você encontra NCR Rangers.}
+{307}{}{Você encontra fazendeiros.}
+
+# DNRV Encounter Table
+{350}{}{Você encontra uma caravana escravidão.}
+{351}{}{Você encontra caminhantes e ladrões.}
+{352}{}{Você encontra caminhantes.}
+{353}{}{Você encontra ladrões.}
+{354}{}{Você encontra uma caravana que se afasta de bandolinhas.}
+{355}{}{Você encontra um assaltante de combate de caravanas.}
+{356}{}{Você encontra um bandolim de combate de caravanas.}
+{357}{}{Você encontra uma caravana sitiada por ladrões.}
+{358}{}{Você encontra uma caravana de escravos lutando contra uma caravana.}
+{359}{}{Você encontra bandidos de luta com ladrões.}
+{360}{}{Você encontra uma caravana.}
+{361}{}{Você encontra uma caravana.}
+
+# DMRV Encounter Table
+{400}{}{Você encontra caminhantes.}
+{401}{}{Você encontra ladrões.}
+{402}{}{Você encontra ladrões e salteadores.}
+{403}{}{Você encontra geckos dourados e escorpiões.}
+{404}{}{Você encontra geckos dourados.}
+{405}{}{Você encontra ratos de toupeira e ratos de porco.}
+{406}{}{Você encontra escorpiões.}
+{407}{}{Você encontra plantas de esporos.}
+{408}{}{Você encontra ladrões que lutam contra bandolinhas.}
+{409}{}{Você encontra uma caravana que se afasta de bandolinhas.}
+{410}{}{Você encontra uma caravana afastando ladrões.}
+{411}{}{Você encontra uma caravana que protege os escorpiões.}
+{412}{}{Você encontra geckos lutando escorpiões.}
+{413}{}{Você encontra uma caravana.}
+
+# Band Encounter Table
+{450}{}{Você encontra caminhantes e ladrões.}
+{451}{}{Você encontra caminhantes e geckos.}
+{452}{}{Você encontra geckos dourados.}
+{453}{}{Você encontra escorpiões e plantas de esporos.}
+{454}{}{Você encontra ladrões lutando contra escorpiões.}
+{455}{}{Você encontra escorpiões lutando ladrões.}
+{456}{}{Você encontra uma caravana que se afasta de bandolinhas.}
+{457}{}{Você encontra uma caravana afastando ladrões.}
+{458}{}{Você encontra alguns salteadores que eliminam algumas plantas de esporos.}
+{459}{}{Você encontra uma caravana.}
+
+# DVMV Encounter Table
+{500}{}{Você encontra salteadores e cães selvagens.}
+{501}{}{Você encontra ladrões e cachorros selvagens.}
+{502}{}{Você encontra ladrões.}
+{503}{}{Você encontra caminhantes.}
+{504}{}{Você encontra um enxame de mantis e algumas plantas de esporos.}
+{505}{}{Você encontra cachorros e plantas de esporos.}
+{506}{}{Você encontra um enxame de mantis.}
+{507}{}{Você encontra cachorros selvagens.}
+{508}{}{Você encontra ladrões que lutam cães.}
+{509}{}{Você encontra uma caravana afastando cães.}
+{510}{}{Você encontra uma caravana afastando ladrões.}
+{511}{}{Você encontra uma caravana que se afasta de bandolinhas.}
+{512}{}{Você encontra uma caravana.}
+
+# Red Encounter Table
+{550}{}{Você encontra geckos e lobos.}
+{551}{}{Você encontra cruzeiros de reivindicação.}
+{552}{}{Você encontra lobos.}
+{553}{}{Você encontra geckos dourados.}
+{554}{}{Você encontra garimpeiros que reclamam os jumpers de reivindicação.}
+{555}{}{Você encontra caçadores que caçam geckos.}
+{556}{}{Você encontra lobisomens lutadores.}
+{557}{}{Você encontra homesteaders lutando por jumpers de reivindicação}
+{558}{}{Você encontra homesteaders lutando lobos.}
+{559}{}{Você encontra jogadores de bootleggers.}
+{560}{}{Você encontra caçadores.}
+{561}{}{Você encontra garimpeiros.}
+
+# SRNRRN Encounter Table
+{600}{}{Você encontra mortandras.}
+{601}{}{Você encontra geckos de fogo.}
+{602}{}{Você encontra uma caravana que foge das pernas mortíferas.}
+{603}{}{Você encontra uma morte na luta contra a caravana.}
+{604}{}{Você encontra uma caravana lutando fogo geckos.}
+{605}{}{Você encontra uma caravana lutando fogo geckos.}
+{606}{}{Você encontra uma caravana.}
+{607}{}{Você encontra uma caravana.}
+{608}{}{Você encontra uma caravana.}
+{609}{}{Você encontra uma caravana.}
+
+# EPA Encounter Table
+{650}{}{Você encontra aliens e deathclaws.}
+{651}{}{Você encontra centauros e flutuadores.}
+{652}{}{Você encontra geckos de fogo.}
+{653}{}{Você encontra aliens.}
+{654}{}{Você encontra mortandras.}
+{655}{}{Você encontra geckos de fogo.}
+{656}{}{Você encontra aliens.}
+{657}{}{Você encontra centauros.}
+{658}{}{Você encontra flutuadores.}
+
+# New Encounter Table
+{700}{}{Você encontra algum Yakuza.}
+{701}{}{Você encontra uma gangue.}
+{702}{}{Você encontra alguns lobos.}
+{703}{}{Você encontra alguns mafiosos que lutam contra Yakuza.}
+{704}{}{Você encontra alguns mafiosos que lutam contra uma gangue.}
+{705}{}{Você encontra alguns mafiosos.}
+{706}{}{Você encontra um viajante.}
+
+# NRNR Encounter Table
+{750}{}{Você encontra uma caravana que evita os restos do exército do Mestre.}
+{751}{}{Você encontra uma caravana que luta restos do exército do mestre.}
+{752}{}{Você encontra uma morte na luta contra a caravana.}
+{753}{}{Você encontra uma caravana.}
+{754}{}{Você encontra uma caravana.}
+{755}{}{Você encontra uma caravana.}

@@ -1,0 +1,72 @@
+{100}{}{Você vê um homem vestido de armadura. Ele olha para você de forma especulativa.}
+{101}{}{Você vê Stanwell, o mestre da caravana da corrida Redding-NCR.}
+{102}{}{Você vê um homem alto e musculoso em armadura. Sua engrenagem parece desgastada, mas bem mantida.}
+{103}{}{A NCR não aceita gentilmente os renunciantes. Saia daqui.}
+{104}{}{Você sabe o que penso sobre o seu tipo. Apenas saia da minha vista.}
+{105}{}{Hee-yah! Ligue-os.}
+{106}{}{OK, vamos lá.}
+{107}{}{Eu sou Stanwell. Dirijo a caravana entre Redding e a Nova República da Califórnia. brahmin para
+ ouro. Podemos usar um guarda extra, e estamos prontos para sair agora.}
+{108}{}{As pessoas me chamam de Stanwell. Dirijo a caravana entre Redding e a Nova República da Califórnia.
+ Brahmin para o ouro. Geralmente, pode usar uma mão extra ou duas. Saímos da cidade no dia 11 de cada mês.
+ Se você deseja fazer o login, verifique se você está aqui então.}
+{109}{}{Algo mais?}
+{110}{}{Moo-Moos?}
+{111}{}{Você precisa de um guarda, hein?}
+{112}{}{O que esse caravana transporta?}
+{113}{}{Por que você está esperando até o dia 11?}
+{114}{}{Não acho que seja para mim. Adeus.}
+{115}{}{Droga. Eu odeio quando isso acontece.}
+{116}{}{Mesmo trabalho. Dia diferente.}
+{117}{}{Nada é fácil.}
+{118}{}{Onde é um Ranger quando você precisa de um?}
+{119}{}{Toda a maldita viagem nos dias de hoje.}
+{120}{}{Você é a pior desculpa para um guarda que já vi. Você não poderia manter sua palavra se sua vida
+ dependia disso.}
+{121}{}{Saia já daqui. Você deveria saber melhor.}
+{122}{}{Você realmente pensou que eu recompensaria um ladrão? Você tem sorte de não lisei na trilha.
+ Eu certamente não estou pagando nada. Agora saia.}
+{123}{}{Um ladrão? Parece-me a essa observação, você admira a sua ingrate. Estou indo embora. Adeus.}
+{124}{}{Algum dia em breve, você vai se arrepender de me cruzar. Adeus.}
+{125}{}{Ficamos tão rasgados lá fora, que não tenho dinheiro suficiente para pagar. Claro, se você tivesse feito
+ seu trabalho melhor, as coisas seriam diferentes.}
+{126}{}{Você bastardo barato! Você pagará por me irritar. Adeus.}
+{127}{}{Bem, às vezes você só tem mais sorte do que outros. Este foi um dos momentos infelizes. Adeus.}
+{128}{}{Nós não perdemos tudo o que tínhamos ... mas perdemos mais do que eu posso pagar. Se você tivesse feito o seu
+ trabalho certo, você ficaria com mais de US $ 500.}
+{129}{}{Bem, algo é melhor do que nada, acho. Adeus.}
+{130}{}{Maldito bastardo! Ninguém poderia ter feito um trabalho melhor. Você vai se arrepender de me irritar. Adeus.}
+{131}{}{Isso não era muito ruim. Aqui estão os seus $ 2000. Volte, se precisar de mais trabalho algum dia.}
+{132}{}{Eu não acho que eu sempre queira passar tanto tempo olhando o culo de um brahmin novamente. Adeus.}
+{133}{}{Isso não era muito ruim. Até logo. Adeus.}
+{134}{}{Foi uma boa corrida. Não poderia ter funcionado dessa maneira se você não estivesse junto. Aqui estão os seus $ 2000,
+ mais um bônus de US $ 500 para o excelente trabalho. Obrigado novamente.}
+{135}{}{É bom encontrar alguém que aprecie a qualidade quando o vê. Te vejo, talvez. Adeus.}
+{136}{}{Sempre feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
+{137}{}{Não posso deixar até obter uma carga cheia de minério. Tudo estará pronto para avançar no dia 11. No começo
+ O dia é melhor. Pare de volta, então, se você quer um emprego.}
+{138}{}{Precisamos pegar o brâmane dos assentamentos periféricos antes que possamos começar. Seremos
+ pronto para se mudar no começo do dia 11. Pare de volta, então, se você quer um emprego.}
+{139}{}{O que você disse que costuma transportar?}
+{140}{}{Deixe-me perguntar-lhe outra coisa.}
+{141}{}{Obrigado, vou fazer isso. Adeus}
+{142}{}{Nós geralmente estamos procurando por guardas de caravanas, mas, como eu disse, não estaremos prontos para ir até o dia 11
+ do mês. Se você ainda quer um emprego conosco, volte então.}
+{143}{}{Quando no dia 11?}
+{144}{}{O que esse caravana transporta?}
+{145}{}{Ok, obrigado. Adeus.}
+{146}{}{Desculpe, amigo, já temos atrasos suficientes em trabalhar nesta caravana.}
+{147}{}{Oh, está bem.}
+{148}{}{Nós negociamos o melhor brahmin da NCR para minério de ouro em Redding. Direto e simples - do jeito que eu gosto
+ coisas.}
+{149}{}{Peguei vocês. Você disse que está procurando guardas?}
+{150}{}{Deixe-me perguntar-lhe outra coisa.}
+{151}{}{Oh, está bem. Goodbye.}
+{152}{}{Você veio em um bom momento. Estamos prontos para ir agora. O trabalho paga $ 2000, mas eu sou apenas
+ pagando o trabalho porque eu só preciso de um guarda mais. Pronto para se juntar a nós?}
+{153}{}{Você veio em um bom momento. Estamos prontos para ir agora. O trabalho paga US $ 2000. Pronto para se juntar a nós?}
+{154}{}{Parece bom. Estou pronto. Vamos.}
+{155}{}{Eu posso encontrar melhores maneiras de gastar meu tempo do que comer poeira de brâmane o dia todo. Adeus.}
+{156}{}{Bem, você comeu comidas gratuitas e uma viagem segura aqui. Agora saia daqui, seu idiota.}
+{157}{}{Gerg? Tchau tchau.}
+{158}{}{Grrrr! Eu quero sangue!}

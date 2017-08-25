@@ -1,0 +1,5 @@
+{100}{}{Você vê um grande rato branco de toupeira.}
+{101}{}{Você vê o Keeng Ra'at.}
+{102}{}{Você vê um grande rato de toupeira albino com uma braçadeira aumentada. Ele está espumando em
+ a boca.}
+{103}{}{Você matou Keeng Ra'at!}

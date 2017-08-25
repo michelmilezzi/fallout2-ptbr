@@ -1,0 +1,131 @@
+{100}{}{Grande surpresa - parece um cara em armadura de poder.}
+{101}{}{Sim, ainda é um cara na armadura de poder.}
+{102}{}{Ele tem algum tipo de insígnia em seu baú que diferente de qualquer outro que você viu
+ por aqui.}
+
+{103}{}{<Skzzzt-spork> - o arsenal!}
+
+{104}{}{O que o <zzzzaaark! >>}
+
+{105}{}{(Então, Sarge enviou você. Alguma coisa sobre a necessidade de uma armadura de energia. Bem, tudo o que tenho é um para
+ Manutenção. Poderia ter alguns problemas ainda, então fique com calma. Basta assinar aqui.)}
+{106}{}{Uh ... Você poderia repetir isso?}
+{107}{}{Eu acho que há algo de errado com seu terno.}
+{108}{}{Claro, vou fazer isso.}
+{109}{}{De jeito nenhum. Esqueça.}
+
+{110}{}{Você, o homem, Arch, falou sobre?}
+{111}{}{Tem certeza de que você não é o cara?}
+{112}{}{Hã?}
+{113}{}{Sim.}
+{114}{}{Não.}
+
+{115}{}{Quem é Você? O que você está fazendo aqui?}
+{116}{}{O que?}
+{117}{}{Uh ... eu sou novo aqui?}
+{118}{}{Peek-a-boo!}
+
+{119}{}{Quem é Você? O que você está fazendo aqui?}
+{120}{}{O que?}
+{121}{}{Uh ... eu sou novo aqui?}
+{122}{}{Peek-a-boo!}
+
+{123}{}{O que você quer dizer? Este terno está funcionando bem! Você vai assinar os papéis ou não?}
+{124}{}{Não estou entendendo nada disso.}
+{125}{}{Seu falante está quebrado.}
+{126}{}{Claro, seja o que for.}
+{127}{}{Para o inferno com isso!}
+
+{128}{}{(O que, você está surdo? Eu disse que consegui um terno, apenas assine aqui.)}
+{129}{}{Palhaço, você está? Bem, não preciso disso. Você explica a Sarge por que você não tem uniforme!}
+{130}{}{Hã?}
+{131}{}{Certo, tudo bem. Eu vou fazer isso.}
+{132}{}{Apenas esqueça, ok?}
+
+{133}{}{Seu falante não está quebrado. Eu posso te ouvir bem. Basta assinar os papéis e podemos obter isso
+ feito.}
+{134}{}{Hã?}
+{135}{}{Tudo bem, desisto!}
+{136}{}{Você quer que eu faça o quê? Eu não sou esse tipo de pessoa!}
+
+{137}{}{Ok, qual é o seu nome?}
+{138}{}{[Nome do jogador]}
+{139}{}{Peixes?}
+{140}{}{Eu quero a armadura de poder.}
+{141}{}{Peixe-espada.}
+
+{142}{}{Certo. Unidade?}
+{143}{}{Arroyo.}
+{144}{}{Não.}
+{145}{}{Eu melhorei.}
+{146}{}{42.}
+
+{147}{}{Com um S ou um C?}
+{148}{}{Sim.}
+{149}{}{Não.}
+{150}{}{Eu não sei.}
+
+{151}{}{Você receberá a maldita armadura quando estiver bem e pronto! Agora, responda a pergunta.}
+{152}{}{[Nome do jogador]}
+{153}{}{Peixes?}
+{154}{}{Peixe-espada.}
+
+{155}{}{Arroy - espere um minuto! Acabamos de atingir esse lugar. Você é um maldito tribal! Guardas!}
+
+{156}{}{Olha, palhaço, não esteja causando problemas ou terei um ataque insubordinado no relatório. Somente
+ responda a questão.}
+{157}{}{Arroyo.}
+{158}{}{42.}
+
+{159}{}{É isso aí! Pegue seu traseiro para o seu sargento. Estou enviando você em cobranças. Demitido.}
+
+{160}{}{O 42º, hein? Boa unidade. OK. Aqui está o seu equipamento. Despedido, soldado.}
+
+{161}{}{O que você está, surdo? Você é o cara ou não?}
+{162}{}{Sim.}
+{163}{}{Como um peixe na água.}
+{164}{}{Não.}
+
+{165}{}{Ok, vamos fazer isso rápido. Tire isso e eu vou lhe dar um novo terno.}
+{166}{}{Você não é senão estático.}
+{167}{}{Hã?}
+{168}{}{OK.}
+{169}{}{Você vai sair de mim? Acho que não!}
+
+{170}{}{Oh, bem, não importa.}
+
+{171}{}{A armadura de poder. Me dê a armadura de poder, seu idiota.}
+{172}{}{OK.}
+{173}{}{Eu já fiz o acordo. Eu não vou te dar mais nada.}
+{174}{}{Você acha que tenho algo para você, seu bastardo.}
+
+{175}{}{Ok, aqui está o terno. Agora sai daqui.}
+
+{176}{}{Seu idiota; Você não tem o terno. Saia daqui!}
+
+{177}{}{Que diabos você está falando? Me dê o terno.}
+{178}{}{Tudo bem, já!}
+{179}{}{Aperte isso!}
+
+{180}{}{Certo, J. Okay, Unit?}
+{181}{}{Arroyo.}
+{182}{}{Não.}
+{183}{}{Eu melhorei.}
+{184}{}{42.}
+
+{185}{}{Você é surdo? Quem é Você?}
+{186}{}{Eu sou o novo cara?}
+{187}{}{Jamais, nunca ouvi falar deles.}
+
+{188}{}{Novo cara, eh? Suponha que você queira o seu problema. Por que ninguém nunca me conta essas coisas? O que é
+ seu nome?}
+{189}{}{Hã? You ain’t nothing but static.}
+{190}{}{[Nome do jogador]}
+{191}{}{Não se eu atirar primeiro!}
+
+{192}{}{Aguarde um minuto - você não é um de nós! GUARDAS!}
+
+{193}{}{Olhe soldado, já lhe dei seu equipamento, então saia daqui.}
+
+{194}{}{O que você quer?}
+{195}{}{Droog?}

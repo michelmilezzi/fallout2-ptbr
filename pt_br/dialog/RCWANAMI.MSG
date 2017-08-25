@@ -1,0 +1,2 @@
+{100}{}{Você vê um wanamingo.}
+{101}{}{O wanamingo realmente não parece muito feliz por ter convidados inesperados.}

@@ -1,0 +1,182 @@
+{100}{}{Você vê Madame Modjeska.}
+{101}{}{Você vê Madame Modjeska.}
+{102}{}{Eu quero ficar sozinho.}
+{103}{}{Por favor, vá embora.}
+{104}{}{Não me incomode.}
+{105}{}{Por favor me deixe.}
+{106}{}{Não tenho tolerância pelo simples.}
+{107}{}{A maior parte da multidão está apenas trabalhando para obter Jet suficiente. Eles precisam de algo para tomar a cabeça
+ Fora deste lugar.}
+{108}{}{Deixe-me perguntar-lhe outra coisa.}
+{109}{}{Jato? O que é Jet?}
+{110}{}{Entendo. Adeus.}
+{111}{}{Jet tem seus usos. Ele tende a fazer com que um cuidado seja um pouco menos sobre a miséria circundante.}
+{112}{}{Deixe-me perguntar-lhe outra coisa.}
+{113}{}{Jato? O que é Jet?}
+{114}{}{Entendo. Adeus.}
+{115}{}{Jet é tão caro ultimamente. É apenas criminoso. Falando sobre o que ... eu ouvi dizer que nosso querido
+ O prefeito Ascorti está trabalhando para nos obter mais Jet. Sempre um campeão das massas, esse homem é.}
+{116}{}{Deixe-me perguntar-lhe outra coisa.}
+{117}{}{Prefeito Asctorti? Quem é exatamente isso?}
+{118}{}{Jato? O que é Jet?}
+{119}{}{Entendo. Adeus.}
+{120}{}{Parece que todos estão doentes. Esse último lote de jatos tinha todos os que julgavam as coisas. Minhas
+ Acho que eles estarão de volta no Jet em breve, no entanto.}
+{121}{}{Deixe-me perguntar-lhe outra coisa.}
+{122}{}{Jato? O que é Jet?}
+{123}{}{Entendo. Adeus.}
+{124}{}{Parece que estava errado. A maioria das pessoas que eram verdadeiras pilotos de jatos jurava as coisas.
+ Depois desse último lote ruim, a maioria de nós não pode cheirar o material sem ficar doente com o nosso
+ Estômagos.}
+{125}{}{Deixe-me perguntar-lhe outra coisa.}
+{126}{}{Jato? O que é Jet?}
+{127}{}{Entendo. Adeus.}
+{128}{}{Eu sou ... Madame Modjeska. O que você deseja de mim?}
+{129}{}{Olá. Com o que posso ajudar?}
+{130}{}{Não tenho tempo para desperdiçar. O que você quer de Madame Modjeska?}
+{131}{}{Eu quase não posso incomodar com isso agora. O que você quer?}
+{132}{}{Madame Modjeska sente-se indisposta hoje. O que você quer dela?}
+{133}{}{Minha cabeça parece que certamente deve dividir em dois. O que você quer de mim?}
+{134}{}{Sou Madame Modjeska. Um usuário Jet Jet, entre outras coisas. Agora, eu só toco em outras coisas.
+ Acho que o Jet já não concorda comigo.}
+{135}{}{O que a senhora pode fazer por você?}
+{136}{}{O que você faz aqui Madame Modjeska?}
+{137}{}{Parece que muitas pessoas aqui são químicas. O que está acontecendo na cidade ultimamente?}
+{138}{}{Ouça rumores interessantes?}
+{139}{}{Por que eles te chamam Madame Modjeska?}
+{140}{}{Qual o problema com você?}
+{141}{}{O que aconteceu com você?}
+{142}{}{Ultimamente, não faço muito. Costumava fazer parte da operação de Lou no Malamute Saloon -
+ Mas tivemos uma queda, então eu desisti.}
+{143}{}{Deixe-me perguntar-lhe outra coisa, então.}
+{144}{}{Compreendo. Bem, era tudo o que eu precisava saber. Adeus.}
+{145}{}{Tudo o que eu ouço é política. Isso sempre parece ser a grande agitação na discussão.}
+{146}{}{Política? O que você quer dizer?}
+{147}{}{Claro. Deixe-me perguntar-lhe sobre outra coisa.}
+{148}{}{Bem, era tudo o que eu precisava saber. Adeus.}
+{149}{}{Eu costumava trabalhar no Salão Malamute. Como parte desse trabalho, as pessoas me chamavam de madame. O nome
+ Apenas preso, mesmo que não trabalhe mais.}
+{150}{}{Onde você trabalha agora?}
+{151}{}{Uh, not really. Deixe-me perguntar-lhe outra coisa.}
+{152}{}{Eu acho que é tudo o que preciso saber. Adeus.}
+{153}{}{Eu voltei um pouco de Jet há alguns dias e isso me fez sentir mal. Deve ter sido manchado
+ Lote. Não estou ansioso para tentar isso de novo. Bem, de volta à garrafa, suponho.}
+{154}{}{Sounds bad. Deixe-me perguntar-lhe outra coisa, então.}
+{155}{}{Compreendo. Bem, era tudo o que eu precisava saber. Adeus.}
+{156}{}{Eu me sinto melhor do que eu olho. Não por muito, mas o suficiente.}
+{157}{}{O que você quer dizer? O que aconteceu?}
+{158}{}{Você já viu um concurso de brâmane lubrificado?}
+{159}{}{Sure I have. Uh, plenty of times. Deixe-me perguntar-lhe outra coisa.}
+{160}{}{Nunca mais ouvi falar de nada disso. Diga me sobre eles.}
+{161}{}{Não sei o que isso tem a ver com a política local, e não acho que eu queira saber. Adeus.}
+{162}{}{Depois desse último lote contaminado da Jet, eu jurei o material. Talvez quando eu me sentir melhor eu vou
+ Fique bêbado em vez disso. (ela ri)}
+{163}{}{Bem, bom para você, eu acho. Deixe me perguntar algo.}
+{164}{}{Interessante. Bem, vou deixar você para sua recuperação. Adeus.}
+{165}{}{O que eles fazem é aglomerar um bezerro brahmin, e então todos na multidão tentam pegar o
+ bezerro. Se você não conseguir pegá-lo você mesmo, você também pode ter certeza de que ninguém mais pode.}
+{166}{}{Não vejo o que isso tem a ver com a política.}
+{167}{}{Sim claro. Já ouvi o suficiente, madame Modjeska. Adeus.}
+{168}{}{Neste jogo, Redding é o brâmane lubrificado - e um dourado com isso. Novo Reno, o novo
+ República da Califórnia e Vault City estão tentando nos pegar ... ou pelo menos manter os outros
+ Nos pegando.}
+{169}{}{O que você quer dizer?}
+{170}{}{Isso é bom. Bem, é melhor eu ir, madame. Obrigado pela visão. Adeus.}
+{171}{}{Aqui em Redding amamos o ouro. Em seguida, enviamos para New Reno, NCR e Vault City em troca de
+ Bens. Cada um desses lugares gostaria de ter o ouro - e o comércio - para si mesmos.}
+{172}{}{Por que eles apenas atacam você e levam isso, então?}
+{173}{}{Quem não? Eu acho que vou tentar encontrar um pouco desse ouro. Obrigado e adeus.}
+{174}{}{Nós somos grandes o suficiente e longe o suficiente para fazer um take-over caro e perigoso. Muito de
+ Mais eficiente para nos unir voluntariamente.}
+{175}{}{O que você quer dizer?}
+{176}{}{Isso faz sentido. Obrigado por me identificar. Adeus.}
+{177}{}{Os três poderes estão tentando obter Redding para escolher qual lado se aliar. Eles têm
+ Todos conseguiram aliados poderosos na cidade, e parece que as coisas estão acontecendo. Em breve, Redding vai para
+ Tem que fazer uma escolha.}
+{178}{}{Uma escolha?}
+{179}{}{Quem está trabalhando para quem?}
+{180}{}{Dinheiro. Hmm. Bem, eu tenho que ir. Adeus.}
+{181}{}{A gordura neste bezerro brahmin está ficando um pouco magro. Em breve, um dos poderes vai ter
+ Para fazer uma jogada importante para tomar Redding antes que os outros o façam. Quando isso acontece, as pessoas vão conseguir
+ ferido. Muitas pessoas.}
+{182}{}{Quem está trabalhando para quem?}
+{183}{}{Por que as pessoas vão se machucar?}
+{184}{}{Obrigado pela informação. Adeus.}
+{185}{}{Não tenho certeza, mas acho que a programação é assim: Dan McGrew é tudo para New Reno,
+ Marge LeBarge's para a NCR, Doc Johnson's para Vault City, e ainda não sei para quem o prefeito Ascorti é para.}
+{186}{}{Como essas pessoas podem ajudar uma aquisição?}
+{187}{}{Quem é Marge LeBarge?}
+{188}{}{Quem é Dan McGrew?}
+{189}{}{Quem é Doc Johnson?}
+{190}{}{Quem é o prefeito Ascorti?}
+{191}{}{Obrigado pela informação. Adeus.}
+{192}{}{As pessoas vão se machucar porque esse tipo de mudança não é fácil. Aqueles que pensam
+ Eles não receberão o prêmio em sua opinião para não deixar que ninguém mais o consiga, também. o
+ A única maneira de evitar isso é se decidimos ir com um dos poderes e fazer uma aliança rápida antes
+ Os outros pegaram.}
+{193}{}{O que você acha que acontecerá?}
+{194}{}{Entendo. Obrigado. Adeus.}
+{195}{}{Eu acho que as pessoas aqui seguirão a liderança do prefeito Ascorti. Ele é um criminoso, mas as pessoas confiam
+ aquele. Ele vai com quem é mais forte. Você vê, tudo o que é bom para o Ascorti também será bom
+ Para Redding. Eu acho que ele simplesmente não descobriu quem é mais próximo de estar no topo ainda. Mas ele tem que
+ Escolha em breve.}
+{196}{}{Deixe-me perguntar-lhe sobre outra coisa.}
+{197}{}{Obrigado por me informar o que está acontecendo aqui. Adeus.}
+{198}{}{Marge LeBarge é proprietária da Mina Kokoweef. É e a Mina Morningstar são os únicos dois
+ Minas trabalhadoras deixadas em Redding. Eu acho que Marge é mais um tipo NCR. Eu não acho que ela gosta de sua
+ Prudência, mas reconhece o poder quando a vê.}
+{199}{}{Quem é Dan McGrew?}
+{200}{}{Quem é Doc Johnson?}
+{201}{}{Quem é o prefeito Ascorti?}
+{202}{}{Como essas pessoas podem ajudar uma aquisição?}
+{203}{}{Obrigado pela informação. Adeus.}
+{204}{}{Perigoso Dan McGrew, ah, sim. Ele é o dono da Morningstar Mine. É e a Mina Kokoweef
+ São as únicas duas minas trabalhadoras deixadas em Redding. Eu acho que Dan está se inclinando mais para o novo Reno, se eu tivesse
+ Para adivinhar. Ele gosta de seus mineiros dopados e felizes.}
+{205}{}{Quem é Marge LeBarge?}
+{206}{}{Quem é Doc Johnson?}
+{207}{}{Quem é o prefeito Ascorti?}
+{208}{}{Como essas pessoas podem ajudar uma aquisição?}
+{209}{}{Obrigado pela informação. Adeus.}
+{210}{}{Ascorti é o prefeito. Ele dirige o centro da Ascorti's Ace. Ele cuida de comprar e vender muito
+ De coisas. Ele está no meio de todos os tipos de thangs.}
+{211}{}{Ascorti é o prefeito de Redding. Mas eu não sei exatamente onde ele está. Não o vi ao redor
+ Por um trecho.}
+{212}{}{Deixe-me perguntar-lhe sobre outra coisa.}
+{213}{}{Eu acho que o escutei o suficiente. Adeus.}
+{214}{}{Jet é um químico maravilhoso que me ajuda a dominar essa miserável existência, querido.}
+{215}{}{Deixe-me perguntar-lhe outra coisa.}
+{216}{}{Interessante. Obrigado e adeus.}
+{217}{}{Jet é um químico que me ajuda a me sentir verdadeiramente vivo. Eu sou um verdadeiro piloto de céu com Jet.}
+{218}{}{Deixe-me perguntar-lhe outra coisa.}
+{219}{}{Interessante. Obrigado e adeus.}
+{220}{}{Mmmm, vou te dizer o que Jet é. É delicioso, é o que é isso. Jet tem algo para
+ todo mundo.}
+{221}{}{Deixe-me perguntar-lhe outra coisa.}
+{222}{}{Interessante. Obrigado e adeus.}
+{223}{}{Jet costumava ser o único. Agora está virando as tripas ao redor e à volta como uma lavagem desgastada
+ máquina. Eu não recomendaria nenhum dos lances atuais. Este jato ficou sem combustível e caiu,
+ querida.}
+{224}{}{Sure, sorry. Deixe-me perguntar-lhe outra coisa.}
+{225}{}{Interessante. Obrigado e adeus.}
+{226}{}{Algo estava desesperadamente errado com o último lote de Jet que passou pela cidade. Isso quebrou
+ E queimado na decolagem. Eu acho que estou passando por voar. Agora, bebendo - há algo que você pode
+ depende de.}
+{227}{}{Deixe-me perguntar-lhe outra coisa.}
+{228}{}{Interessante. Obrigado e adeus.}
+{229}{}{O tipo de homem misterioso de Doc Johnson, sem dor. Eu não sei de onde ele veio, mas ele é um verdadeiro
+ M.D, tudo bem. Somente o lugar em que ele iria treinando assim é Vault City. Estou apostando que ele foi plantado
+ Aqui para promover seus interesses. Ele deve ter chateado com alguém lá para conseguir a tarefa, porém;
+ Esses VCs não gostam muito do exterior.}
+{230}{}{Quem é Marge LeBarge?}
+{231}{}{Quem é Dan McGrew?}
+{232}{}{Quem é o prefeito Ascorti?}
+{233}{}{Como essas pessoas podem ajudar uma aquisição?}
+{234}{}{Obrigado pela informação. Adeus.}
+{235}{}{O prefeito é um homem que sabe como jogar ambos os lados enquanto ele está roubando o meio. Ele tem um
+ Poucos escrúpulos deixaram, mas principalmente ele fará o que é certo para a Redding, a fim de manter seus próprios interesses seguros.}
+{236}{}{Quem é Marge LeBarge?}
+{237}{}{Quem é Dan McGrew?}
+{238}{}{Quem é Doc Johnson?}
+{239}{}{Como essas pessoas podem ajudar uma aquisição?}
+{240}{}{Obrigado pela informação. Adeus.}

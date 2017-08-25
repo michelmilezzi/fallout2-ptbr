@@ -1,0 +1,202 @@
+{100}{}{Você vê uma mulher de aspecto grosseiro com um grande sorriso.}
+{101}{}{Você vê Jackpot Jane, o gerente da criatura luta.}
+{102}{}{Você vê uma mulher de aparência capaz com um olhar de detalhe perspicaz para detalhes.}
+{103}{}{Olá, amigo. Venha ver os concursos de bicho?}
+{104}{}{Oooh. Peludo.}
+{105}{}{Bela pelagem.}
+{106}{}{Ah, eu vejo. Você deve ser novo na cidade. Bem, eu digo o que. Eu farei uma aposta especial para você durante as lutas de amanhã. Você gostaria que eu fizesse isso por você?}
+{107}{}{(Você concorda) Ook, ook. (e segure sua bolsa).}
+{108}{}{Mook? Gagá. Tchau peludo.}
+{109}{}{Boa ideia. Você volta aqui amanhã e se o seu bicho ganhou nas lutas, eu lhe darei seu dinheiro. OK?}
+{110}{}{OK, bom movimento. Certifique-se de ter uma verdadeira aposta especial com isso. Até logo.}
+{111}{}{Ganhar?}
+{112}{}{Ok ... tchau tchau.}
+{113}{}{Não, não tenho medo. Mas eu tenho uma sensação muito boa sobre a próxima vez. Deseja fazer outra aposta especial?}
+{114}{}{OK. Danku. (Você acena e aguenta a sua bolsa).}
+{115}{}{Booo? Tchau.}
+{116}{}{Sinto muito, mas você não tem nada para apostar. Volte quando você tiver um pouco de grungtake juntos.}
+{117}{}{Ok, muito bonita. Tchau.}
+{118}{}{Mostre-se no curral ao redor do meio dia de cada dia.}
+{119}{}{Não há brigas agora, aparecem no curral ao meio dia.}
+{120}{}{Nada está acontecendo aqui agora.}
+{121}{}{Espere até o meio dia para as lutas. Agora, deixe-me em paz.}
+{122}{}{Olá! Vejo você no curral, caso contrário, saia daqui.}
+{123}{}{Isso parece promissor, pessoal. Eles estão realmente dimensionando uns aos outros.}
+{124}{}{Alguns bons movimentos lá, você pode dizer que estes dois já fizeram isso antes!}
+{125}{}{Boa rodada, boa rodada. Há muito ódio nesse curral.}
+{126}{}{Você pode acreditar no vigor desses dois? Eles podem realmente preparar isso, bem como levá-lo.}
+{127}{}{O que um corte baixo lá, que teve que doer!}
+{128}{}{Oh sim! Body blow! Body blow!}
+{129}{}{Eu não acho que ele mesmo viu aquele que vem, movimento de sorte.}
+{130}{}{Ouch! Isso acabou de doer!}
+{131}{}{Este é o castigo real que vem agora, pessoal.}
+{132}{}{Bom movimento, boa paw-work lá.}
+{133}{}{Trabalhando o corpo. Boa mudança aqui hoje, pessoal!}
+{134}{}{Boa combinação! Este é um campeão natural em construção!}
+{135}{}{Ah, sim, uma combinação de dois, que o seu oponente está enrolando!}
+{136}{}{Estes dois slugger-naughts estão realmente trabalhando com uma espuma agora!}
+{137}{}{Olhe para todo esse sangue, e eles ainda estão indo nisso. Que luta!}
+{138}{}{Este é o tipo de ação que vocês estão aqui para ver. Movimentos clássicos, movimentos clássicos.}
+{139}{}{Sim, o raspei no meio dos papas! Isso também será uma ferida de sangramento!}
+{140}{}{Você viu o quão longe esse sangue se espalhou por aquele ?! Uau, que poder!}
+{141}{}{Movendo-se como um relâmpago engrasado! Olhe para toda a carne rasgada vindo daqui!}
+{142}{}{Basta olhar para os restos de carne em todos os lugares! Estes dois têm o que é preciso!}
+{143}{}{Olá. Eu sou Jackpot Jane e eu lanço as brigas aqui na cidade. Aqui para fazer uma aposta no resultado de uma das nossas lutas primitivas? Besta contra besta em sua forma mais estranha?}
+{144}{}{Passa para a direita, faça suas apostas. O que será?}
+{145}{}{Uh, o que acontece aqui?}
+{146}{}{Estou pronto para fazer a minha aposta.}
+{147}{}{Eu acho que essas lutas são manipuladas.}
+{148}{}{Eu estava apenas olhando ao redor. Adeus.}
+{149}{}{Bastante simples, realmente: duas das feras temíveis que você pode observar de perto, sem truques aqui, eu asseguro, serão reunidos no ringue. Segundos depois, você será tratado com uma exibição do poder bruto da Mãe Natureza.}
+{150}{}{O que a Mãe Natureza tem a ver com isso?}
+{151}{}{E eu posso ganhar dinheiro com isso de alguma forma?}
+{152}{}{Venha um, venha tudo, veja o STRUGGLE of the CENTURY!}
+{153}{}{Passa até colocar seu dinheiro no VENCEDOR!}
+{154}{}{Veja a luta titânica dos animais!}
+{155}{}{Coloque seu dinheiro antes que as apostas sejam fechadas! Não hesite, não perca!}
+{156}{}{Cuidado com o splattering de sangue e vísceras. A administração não assume qualquer responsabilidade por manchas.}
+{157}{}{Milhares de dólares entregues diariamente!}
+{158}{}{Faça sua própria mina de ouro aqui! Agora mesmo!}
+{159}{}{Venha ver o duelo do dia!}
+{160}{}{As criaturas selvagens lutam enquanto você ganha dinheiro! VOCÊ VAI AMAR!}
+{161}{}{Traga bolsas completas e expectativas mais completas! POR AQUI!}
+{162}{}{Saia já daqui.}
+{163}{}{Não preciso do seu tipo de negócio.}
+{164}{}{Pegue-o em outro lugar.}
+{165}{}{Apenas fique longe do meu curral.}
+{166}{}{Eu não estou interessado em seu dinheiro.}
+{167}{}{Bem, como eu dizia, as duas criaturas se atirarão umas contra as outras em uma explosão de ferocidade - os gostos que não foram vistos desde que as grandes máquinas percorreram a Terra.}
+{168}{}{Grandes máquinas?}
+{169}{}{Uh, sim, e depois, o que?}
+{170}{}{Ok, escute, amigo, isso ajudaria se eu dissesse ... Os gostos que não foram vistos desde os grandes lagartos do trovão percorreram a Terra. É isso que ajusta o seu twinky? Então você entra ou sai? (de lado) Jeez, todos são críticos nos dias de hoje.}
+{171}{}{Uh, estou dentro. Acho.}
+{172}{}{Grandes lagartos me assustam. É melhor eu me manter fora disso. Obrigado pelo aviso. Adeus. (você pensa consigo mesmo) * Phew, que estava perto. *}
+{173}{}{A parte desportiva é a aposta no resultado da luta. Veja como funciona. Você vem até mim e diz que deseja fazer uma aposta. Eu lhe digo quais são os dois criadores que estão lutando depois e você me diz em qual você está colocando seu dinheiro.}
+{174}{}{Então o que?}
+{175}{}{Simples, se o seu bicho ganhar você dobra seu dinheiro. TRIPLE no caso de uma derrubada de primeira rodada! Se o seu bicho perde, então seu dinheiro pertence a mim. Geralmente, há várias lutas por dia. Até que o estoque de criaturas seja baixo, você pode apostar em todos eles. Mas apenas uma aposta por luta. Oh, sim, apenas para manter as coisas boas e simples, todas as apostas são $ 100.}
+{176}{}{ESTÁ BEM. Entendi. Deixe-me tentar.}
+{177}{}{Entendo. Hmm, acho que vou tentar essa outra vez. Adeus.}
+{178}{}{Este vai ser um pouco melhor.}
+{179}{}{ é contra}
+{180}{}{ e eles simplesmente se odiam. Qual é a sua aposta?}
+{181}{}{Este é um verdadeiro jogo de rancor. O melhor dos melhores}
+{182}{}{ contra}
+{183}{}{. Qual é o seu dinheiro?}
+{184}{}{Eu nunca coloquei uma programação tão perto antes.}
+{185}{}{ combate}
+{186}{}{ esta rodada. Deve ser uma boa luta. Quais as formas de seu dinheiro?}
+{187}{}{Campeão}
+{188}{}{ contraup and coming }
+{189}{}{. Muito parecido. Qual é o seu número de sorte hoje?}
+{190}{}{OK. Aqui está a ação.}
+{191}{}{ está tomando boa idade}
+{192}{}{. Você não verá uma briga como essa novamente em breve. Qual é o seu prazer?}
+{193}{}{Vou colocar meu dinheiro em}
+{194}{}{.}
+{195}{}{Vou colocar meu dinheiro em}
+{196}{}{.}
+{197}{}{Hmm, acho que vou sentar isso.}
+{198}{}{Eu acho que já tenho o suficiente para isso hoje. Vejo você mais uma vez. Adeus.}
+{199}{}{Aqui você vai campeão. Aqui estão os seus ganhos. Essa é a última luta hoje. Volte amanhã se quiser mais ação.}
+{200}{}{Mais por vir. Você quer apostar na próxima luta?}
+{201}{}{Eu com certeza faço.}
+{202}{}{Eu acho que vou sentar o próximo.}
+{203}{}{Olha, ninguém está forçando você a apostar neles, eles são? Você não gosta do que vê aqui, então apenas continue a andar, não se perderá. Compreendo?}
+{204}{}{Compreendo.}
+{205}{}{Que tiro!}
+{206}{}{ tirou}
+{207}{}{ na primeira rodada! Que ação!}
+{208}{}{Uau, isso foi próximo, mas}
+{209}{}{ ganhou, a última batalha do dia. Eu pagarei a todos, mas volte amanhã para uma ação mais óbvia.}
+{210}{}{Que gore-fest! Não me lembro de ter visto uma briga assim. O vencedor é}
+{211}{}{. Deixe-me pagar a todos e começaremos a próxima rodada.}
+{212}{}{ ganha essas mãos redondas, erra, garras para baixo! Deixe-me pagar a todos e começaremos a próxima rodada.}
+{213}{}{E o Weener é ...}
+{214}{}{ by a blood-soaked claw. Deixe-me pagar a todos e começaremos a próxima rodada.}
+{215}{}{Eu só queria dizer que o Ascorti's estará executando um especial em uh * bifes * hoje a noite. Será apenas um momento enquanto arrastamos o perdedor do campo.}
+{216}{}{ ganha essa luta! Deixe-me pagar a todos e começaremos a próxima rodada.}
+{217}{}{Parece que}
+{218}{}{ won. I've never seen a trouncing like that. Deixe-me pagar a todos e começaremos a próxima rodada.}
+{219}{}{Wahoo! Eu venci.}
+{220}{}{Sim! Esse é o bilhete!}
+{221}{}{Eu tenho um talento real para isso.}
+{222}{}{Conheço a minha carne de critter.}
+{223}{}{Droga. Eu perdi.}
+{224}{}{Apenas minha sorte.}
+{225}{}{Isso poderia ter ido melhor.}
+{226}{}{Talvez da próxima vez eu melhorarei.}
+{227}{}{Bom, eu não apostei nisso.}
+{228}{}{Estou feliz por ter mantido o meu dinheiro.}
+{229}{}{Isso me custaria.}
+{230}{}{Essa foi uma boa luta. Ainda bem que não apostei sobre isso.}
+{231}{}{Ok, obrigado.}
+
+####
+# Fighter Names
+####
+
+# Fighter 1
+{300}{}{Keen Squeek}
+{301}{}{Vicky}
+{302}{}{Espigão}
+{303}{}{Doug}
+{304}{}{Dimsdale}
+{305}{}{Marengo}
+{306}{}{Jackelope}
+{307}{}{Assassino}
+{308}{}{Patrão}
+
+# Fighter 2
+{310}{}{Petroleiro}
+{311}{}{Muttley}
+{312}{}{Spud}
+{313}{}{Larry}
+{314}{}{Joe}
+{315}{}{Kong}
+{316}{}{Gorgo}
+{317}{}{Willard}
+{318}{}{Ben}
+
+# Fighter 3
+{320}{}{Stumpy}
+{321}{}{Shredder}
+{322}{}{Estripador}
+{323}{}{Skree}
+{324}{}{Buban}
+{325}{}{Bongo}
+{326}{}{Um olho}
+{327}{}{Local}
+{328}{}{Lord Wiggler}
+
+# Fighter 4
+{330}{}{Por sorte}
+{331}{}{Zoroastro o Grande}
+{332}{}{Shub}
+{333}{}{Usuthu}
+{334}{}{Growler}
+{335}{}{Puggsly}
+{336}{}{Precioso}
+{337}{}{Fraggle}
+{338}{}{Capitão Meia Noite}
+
+# Fighter 5
+{340}{}{Martelo}
+{341}{}{Secretariado}
+{342}{}{Man o 'War}
+{343}{}{Sancho Panza}
+{344}{}{Loki}
+{345}{}{Cerberus}
+{346}{}{Grendel}
+{347}{}{Lady Penelope}
+{348}{}{Sr. Baggins}
+
+# Fighter 6
+{350}{}{Relâmpago}
+{351}{}{Percy}
+{352}{}{Flor}
+{353}{}{Rumplestiltskin}
+{354}{}{Shagrat}
+{355}{}{Muktar}
+{356}{}{McComb}
+{357}{}{Avellone}
+{358}{}{Zeb}

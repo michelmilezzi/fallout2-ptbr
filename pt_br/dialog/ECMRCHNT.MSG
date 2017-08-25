@@ -1,0 +1,22 @@
+{100}{}{Você vê uma pessoa bem viajada.}
+{101}{}{Você vê um comerciante.}
+{102}{}{Uau, raramente vejo pessoas aqui.}
+{103}{}{Ei! Esperar! Tenho coisas que podem ajudá-lo!}
+{104}{}{Ei! Você tem alguma coisa para trocar por isso?}
+{105}{}{Este deve ser o meu dia de sorte. Venha, veja o que eu tenho à venda.}
+
+{200}{}{Saudações, viajante! Eu raramente vejo muitas pessoas ao longo desta rota, mas
+ Estou sempre feliz de ter novos clientes. Você gostaria de negociar?}
+{201}{}{Olá! É ótima que você parou. A maioria das pessoas ao longo deste
+ A rota simplesmente mantenha o caminho certo. Ei, você gostaria de trocar algumas coisas?}
+{202}{}{Você estaria interessado em um pequeno comércio?}
+
+{250}{}{Isso seria bom.}
+{251}{}{Desculpe, tem que continuar em movimento.}
+{252}{}{Yah. Eu tenho coisas!}
+{253}{}{Eu vou.}
+
+{260}{}{Bom comércio com você. Boa sorte nas suas viagens.}
+{261}{}{Tchau.}
+
+{270}{}{Feliz por ter você de volta. Posso interessar você em outra coisa?}

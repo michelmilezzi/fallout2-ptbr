@@ -1,0 +1,158 @@
+{100}{}{Um terminal de computador.}
+{101}{}{Bio Storage Control Terminal.}
+{102}{}{Você não consegue ler o que está no monitor.}
+{103}{}{Bio Storage Facility
+                                              Menu principal
+                                                            Recuperar
+                                                                Loja}
+{104}{}{}
+{105}{}{}
+{106}{}{}
+{107}{}{Recuperar}
+{108}{}{Loja}
+{109}{}{Saída}
+{110}{}{Ug.}
+{111}{}{[Você não consegue ler o que está no monitor.]}
+{112}{}{Este terminal está fora de ordem
+                                Entre em contato com o administrador da rede para obter mais detalhes.}
+{113}{}{}
+{114}{}{Urg}
+{115}{}{Saída}
+{116}{}{Menu de Recuperação Principal
+                                                  Vírus
+                                                              Órgãos
+                                                             Cadáver}
+{117}{}{}
+{118}{}{}
+{119}{}{}
+{120}{}{Selecione o vírus}
+{121}{}{Órgãos selecionados}
+{122}{}{Selecione cadáveres}
+{123}{}{Retornar ao menu principal}
+{124}{}{Saída}
+{125}{}{Menu de vírus
+                                                            Antraz
+                                                             Black Plague (Strain 238)
+                                          Small Pox (Strain 1025)
+                                              Ebola
+                                                                   Hantavírus (cepa 304)}
+{126}{}{}
+{127}{}{}
+{128}{}{}
+{129}{}{}
+{130}{}{}
+{131}{}{Recuperar Anthrax}
+{132}{}{Recuperar Black Plague}
+{133}{}{Recuperar Small Pox}
+{134}{}{Recuperar Ebola}
+{135}{}{Recuperar Hantavirus}
+{137}{}{Retornar ao menu de recuperação principal}
+{138}{}{Saída}
+{139}{}{[Você assiste enquanto o robô prossegue pelos corredores dos materiais biológicos armazenados e retorna com um pequeno frasco que rapidamente se deposita em uma abertura na parede. Você observa o fascínio à medida que o frasco é transferido do ambiente selado da área de armazenamento para a sala em que você está. Seu fascínio se transforma em horror quando o frasco cai no chão e quebra. A corrida parece ser uma boa idéia.]}
+{140}{}{Saída}
+{141}{}{Menu de órgão
+                                                           Coração
+                                                                Cérebro
+                                                                Rim
+                                                                 Fígado
+                                                                  Pulmão}
+{142}{}{}
+{143}{}{}
+{144}{}{}
+{145}{}{}
+{146}{}{}
+{147}{}{Recuperar Heart}
+{148}{}{Recuperar Brain}
+{149}{}{Recuperar Kidney}
+{150}{}{Recuperar Liver}
+{151}{}{Recuperar Lung}
+{152}{}{Retornar ao menu de recuperação principal}
+{153}{}{Saída}
+{154}{}{Atenção! Mau funcionamento do aparelho de armazenamento.
+                        [De acordo com a leitura, os dispositivos de armazenamento desses órgãos falharam há muito tempo. A menos que você planeje fazer sopa, a recuperação não será inútil.]}
+{155}{}{}
+{156}{}{Retornar ao menu de órgão}
+{157}{}{Retornar ao menu de recuperação principal}
+{158}{}{Saída}
+{159}{}{Atenção! Mau funcionamento do aparelho de armazenamento.
+                         Tanques de armazenamento 101 - 104
+                                      Correção de Configurações Requerida
+                                  [Um conjunto altamente preciso de cálculos é necessário para salvar os cérebros. Um fluxo de fórmulas e medições é transmitido pela tela. Tudo parece altamente científico para você.]}
+{160}{}{}
+{161}{}{}
+{162}{}{}
+{163}{}{Tentativa de fazer ajustes}
+{164}{}{Retornar ao menu de recuperação principal}
+{165}{}{Tente depois.}
+{166}{}{[Devido à sua inépcia, todos os cérebros morrem. Talvez elevar a temperatura para 98.6 Celsius fosse um pouco demais. A ciência nunca foi seu ponto forte.]}
+{167}{}{Saída.}
+{168}{}{[O julgamento e o erro parecem ser a chave para a sua abordagem para este problema. Você consegue salvar um dos quatro cérebros. A ciência é para nerds de qualquer maneira.]}
+{169}{}{Recuperar Brain}
+{170}{}{[Usando a lei das médias você consegue economizar cinquenta por cento dos cérebros. Um cientista que você não é.]}
+{171}{}{Recuperar Brain}
+{172}{}{[Obviamente, você sabe o que está fazendo. Com a exceção de um erro, você pode salvar 3 de 4 cérebros. Você sabia que ler todas essas revistas científicas seria útil.]}
+{173}{}{Recuperar Brain}
+{174}{}{[Com algumas teclas rápidas, a crise é evitada e todos os cérebros são salvos. A ciência é definitivamente mais do que um hobby para você.]}
+{175}{}{Recuperar Brain}
+{176}{}{Menu de Recuperação do Cérebro
+                                               Cérebro anormal
+                                                        Cérebro de chimpanzé
+                                                      Cérebro humano
+                                                        Cérebro cibernético}
+{177}{}{Menu de Recuperação do Cérebro
+                                               Cérebro anormal
+                                                        Cérebro de chimpanzé
+                                                      Cérebro humano
+                                                        Cérebro cibernético - Dead}
+{178}{}{Menu de Recuperação do Cérebro
+                                               Cérebro anormal
+                                                        Cérebro de chimpanzé
+                                                      Cérebro humano - Morto
+                                                 Brain Cybernetic - Dead}
+{179}{}{Menu de Recuperação do Cérebro
+                                               Cérebro anormal
+                                                        Chimpanzé Brain - Dead
+                                            Cérebro humano - Morto
+                                          Brain Cybernetic - Dead}
+{180}{}{}
+{185}{}{}
+{189}{}{}
+{193}{}{}
+{196}{}{Cérebro anormal}
+{197}{}{Cérebro de chimpanzé}
+{198}{}{Cérebro humano}
+{199}{}{Cérebro cibernético}
+{200}{}{[Although readings indicate this brain is alive, neural output levels are way below normal.]
+                           Recuperar?}
+{201}{}{}
+{202}{}{sim}
+{203}{}{Não}
+{204}{}{[The brain waves are active, but differ from those of a human brain.]
+                                                          Recuperar?}
+{208}{}{[Brain activity is that of an average human.]
+                   Recuperar?}
+{212}{}{[Brain activity is off the charts! By the looks of it the signals are of both digital and human origin.]
+           Recuperar?}
+{216}{}{[O robô rapidamente deixa para recuperar seu cérebro. Ao retornar, você percebe que o robô parece estar tendo problemas. A observação é conduzida para casa quando o robô explode de repente. Felizmente para você, conseguiu entregar o cérebro antes de expirar.]}
+{217}{}{Saída}
+{218}{}{Menu de Recuperação de cadáver
+                                          Private Dobbs}
+{219}{}{}
+{220}{}{Recuperar Private Dobbs}
+{221}{}{Retornar ao menu de recuperação principal}
+{222}{}{Saída}
+{223}{}{[According to the readings, Private Dobbs is alive! He's located in the Experimental Biomed Gel regeneration tank.]
+   Recuperar?}
+{224}{}{}
+{225}{}{sim}
+{226}{}{Não}
+{227}{}{[O corpo de Dobbs privado agora está deitado aos seus pés, mas para sua surpresa, ele se levanta e começa a falar com você. Engraçado, ele não parece morto.]}
+{228}{}{Saída}
+{229}{}{Não há cadáveres atualmente em armazenamento.}
+{230}{}{Retornar ao menu de recuperação principal}
+{231}{}{Saída}
+{232}{}{[Mesmo que você possa ver claramente unidades de armazenamento vazias, a leitura diz que elas estão cheias. Deve ser um erro no programa. Ah bem.]}
+{233}{}{Retornar ao menu principal}
+{234}{}{Saída }
+
+{300}{}{ é incapaz de ler o que está no monitor.}

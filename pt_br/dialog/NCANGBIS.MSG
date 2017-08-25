@@ -1,0 +1,323 @@
+# 0.QUICK LOOK (WTG)
+{100}{}{Você vê Angela Bishop.}
+{101}{}{Você vê um Angela Bishop gritando.}
+
+# 0.LOOK (MALE) (WTG)
+{150}{}{Você vê uma jovem atraente em couro apertado.}
+{151}{}{Você vê Angela Bishop.When she catches your eye, she slowly licks her lips.}
+
+# 1.LOOK (FEMALE) (WTG)
+{175}{}{Você vê uma jovem com couro apertado.Ela parece muito alta para ser uma prostituta.}
+{176}{}{Você vê Angela Bishop.She sneers at you.}
+
+# 2.FLOAT/CLICK: ANGELA_REJECTED (MALE) (WTG)
+{200}{}{Meu pai vai matá-lo quando ele ouvir como você me tratou.}
+
+# 3.FLOAT/CLICK: BISHOP DEAD (MALE) (WTG)
+{205}{}{Eu sabia que era você.Eu encontrarei uma maneira de te ajudar pelo que você fez com meu pai.}
+
+# 4.FLOAT/CLICK: ENCLAVE_DESTROYED (FEMALE) (WTG)
+{210}{}{Hmmpph.Se não é a grande heroína.}
+
+# 5.FLOAT COMMENTS (POWER ARMOR, WTG)
+{215}{}{É melhor você esperar que você não caia no chão, clanky.}
+
+# 6.FLOAT COMMENTS (MALE) (WTG)
+{220}{}{Estou entediado.}
+{221}{}{Olá.}
+{222}{}{Você.Fale comigo.Agora.}
+{223}{}{Você.Venha aqui.Agora.}
+{224}{}{Yum.}
+{225}{}{Hmmmm.}
+{226}{}{Bem bem…}
+
+# 7.FLOAT COMMENTS (FEMALE) (WTG)
+{230}{}{Estou entediado.}
+{231}{}{Parece uma das novas putas do papai ...}
+{232}{}{Uma das coxas baratas do papai ...}
+
+# 8.BASIC INTRO DIALOGUE, 1st TIME MALE (WTG)
+{240}{}{Não te vi antes.Como se chama, estranho? (Smirks.) Na verdade, não importa, eu não quero saber.Você está tão aborrecido quanto eu?}
+{241}{}{Você novamente.Entediado ainda?}
+{242}{}{Yam Yam Me Like Yams}
+{243}{}{Usado para viajar com alguém chamado Iam continuou me disparando de volta com fogo explosivo}
+{244}{}{Eu também}
+{245}{}{Não, eu tenho que ir agora}
+{246}{}{Não.}
+{247}{}{Sim.}
+{248}{}{Uh ...por que você está me olhando assim?}
+{249}{}{Talvez eu esteja aborrecido.Por que, procurando por alguma emoção, princesa?}
+{250}{}{Na verdade não.Eu tenho um lugar onde eu tenho que ser.}
+
+# 9.YAM/ME BOARD TOO (8, 28)
+{260}{}{Ah, isso vai ser interessante.Venha comigo, quero mostrar-lhe o meu quarto.}
+{261}{}{'Kay garota linda.}
+{262}{}{Uh ...vamos jogar?}
+{263}{}{Eu não vou.}
+
+# 10.WE GONNA PLAY? (9)
+{270}{}{Pode apostar.Vamos.}
+{271}{}{Eu venho}
+{272}{}{Eu gosto de jogar.Eu só jogo sozinho}
+
+# 11.ME COME (10, 28)
+{280}{}{Exatamente…}
+{281}{}{Siga-a.}
+
+# 12.ME NO GO (8, 9, 10)
+{290}{}{Ah, vamos! Pleeeease? Eu realmente queria mostrar-lhe o meu quarto.Vai demorar um segundo, eu prometo.}
+{291}{}{Não vá! Eu não vou ir! Não me faça ir! Não me leve um lugar ruim! Não!}
+{292}{}{Okee Dokee.Eu não quero você triste.Eu vou}
+{293}{}{ME DEIXE PARE FALANDO A ME}
+
+# 13.NO GO! ME NO GO! NO MAKE ME GO! (12)
+{300}{}{Chega já, seu estúpido atraso! Saia daqui então! ::Idiota.::}
+
+# 14.NO (8, 16, 17, 18, 21?, 25, 28, 47)
+{310}{}{Você é NOVO ou algo assim? Eu sou Angela BISHOP.Meu pai é o chefe do bispo da família.}
+{311}{}{Você trabalha para ele, o que significa que você trabalha para mim.}
+{312}{}{É melhor você fazer o que eu digo, e eu digo que você vem comigo.Agora.}
+{313}{}{Você está certo: seu pai é chefe do Bispo da Família.É por isso que não vamos a lugar nenhum.}
+{314}{}{Bem, se você quiser marcar e tudo ...vamos.}
+{315}{}{Não é que eu não esteja DISPERSADO, mas ...}
+{316}{}{Não.I meant it the first time.}
+{317}{}{De jeito nenhum, querido.Você corre agora mesmo antes de ter uma surra.}
+{318}{}{Vamos fazer uma coisa reta, princesa: eu dou as ordens, você as recebe.}
+{320}{}{Se você está entediado, princesa ...agachada em sua mão e gire.Estou fora daqui.}
+
+# 15.FINAL NO (14, 19, 20, 21, 22, 25, 28, 47)
+{330}{}{Você desejaria que você não tivesse me desarmado.O papai vai começar a ouvir todas as coisas sobre você em breve.Apenas espere.}
+
+# 16.WHY ARE YOU LOOKING AT ME LIKE THAT? (8)
+{340}{}{Por quê? Estou recebendo uma reação de você? (Ela dá um passo em sua direção e sua voz cai.) Eu estou dando
+ você é ...DURAMENTE?}
+{341}{}{Na verdade não.}
+{342}{}{Garota, você é um problema.Vamos parar isso agora.}
+{343}{}{Com licença.Você poderia voltar um pouco?}
+{344}{}{Sim, está ficando bastante difícil.Você pode me ajudar com isso?}
+{345}{}{Não, mas eu tenho que ir.}
+
+# 17.EXCUSE ME.WOULD YOU PLEASE STEP BACK A LITTLE? (16)
+{350}{}{(Dá outro passo em frente, quase tocando em você).Não me sinto como isso.O que você vai fazer sobre isso?}
+{352}{}{Nada.Olhe, volte.Eu não estou no clima.}
+{353}{}{Recuar.EU NÃO ESTOU com vontade de sua merda má, você me ouve?}
+{354}{}{O que você vai fazer sobre isso? Você fala a conversa, mas você pode caminhar pela caminhada?}
+
+# 18.YES/YEAH, IT'S GETTING PRETTY HARD.CAN YOU HELP ME WITH THAT? (8, 17, 23, 24)
+{360}{}{Claro que sim.}
+{361}{}{Olha: eu tenho um Jet no meu quarto ...E NÃO, essa merda maldita, eles dão as prostitutas e os viciados.Y'wanna voa?}
+{362}{}{Certo.Bucke, baby.}
+{363}{}{Eu irei para o passeio.}
+{364}{}{Seu pai sabe que você faz essa merda?}
+{365}{}{Eu mudei de ideia.Não, obrigado.}
+{366}{}{Naw, eu só pensei que iria ver se você era uma prostituta tão grande quanto eu pensava que fosse.Mais tarde, princesa.}
+
+# 19.I MIGHT BE BORED.WHY? YOU LOOKING FOR SOME EXCITEMENT, PRINCESS? (8, 14, 18)
+{370}{}{Você vê sua boca quando você fala comigo.Eu sou Angela BISHOP.Meu pai é o chefe do bispo da família.Você me mostrará o mesmo
+ respeite você mostrá-lo, ou eles estarão raspando pedaços de você fora da parede.COMPREENDO?}
+{371}{}{Sim, entendo que você precisa de alguém para colocar em seu lugar, PRINCESA, e eu sou apenas o homem para fazer isso.}
+{372}{}{Entendido.Fico feliz que tivéssemos o assunto da associação familiar esclarecido.}
+{373}{}{Acalme-se.Eu estava brincando com você.}
+{374}{}{Esqueça isso.}
+{375}{}{Esqueça essa merda.Estou fora daqui.}
+
+# 20.YEAH, I UNDERSTAND YOU NEED SOMEONE TO PUT YOU IN YOUR PLACE, PRINCESS .../LET'S GET ONE THING STRAIGHT: I GIVE ORDERS, YOU RECEIVE THEM (19)
+{380}{}{Por que você filho arrogante de um - eu deveria ir dizer ao papai agora o que você me disse.}
+{381}{}{Por que você não, então? Eu não o estou parando, princesa.}
+{382}{}{Eu não acho que você vai.Eu acho que você quer ver que tipo de homem eu sou.}
+{383}{}{Vamos parar isso agora mesmo antes de alguém se machucar.}
+{384}{}{Sim, por que você não vai fazer isso? Eu tenho melhores coisas para fazer.}
+{385}{}{Esqueça essa besteira de sexto grau.Estou fora daqui.}
+
+# 21.WHY DON'T YOU THEN? I AIN'T STOPPING YOU, PRINCESS.(20)
+{390}{}{Você ...você não vale a pena.}
+{391}{}{E você não vale a pena o meu, seu pêlo malcriado.}
+{392}{}{Querida, você não poderia aguardar o meu tempo.}
+{393}{}{Feeling's mutual.}
+{394}{}{Sim, foi o que eu pensei.Estou fora daqui.}
+
+# 22.I DON'T THINK YOU WILL.I THINK YOU WANT TO SEE WHAT KIND OF MAN I AM.(20)
+{400}{}{Sério? Que tipo de homem é você? Você vai me mostrar?}
+{401}{}{Sim.Vamos ao seu quarto, princesa, e eu vou mostrar o que é um homem real.}
+{402}{}{Naw, eu estava curioso para ver o quanto de uma vagabole você realmente é.Depois querida.}
+
+# 23.UNDERSTOOD.SURE GLAD WE GOT THAT FAMILY ID THING CLEARED UP.(19)
+{410}{}{Sim, é melhor que você saiba como as coisas estão por aqui.(Olha para cima e para baixo.)}
+{411}{}{Uh ...}
+{413}{}{(Fique parado desconfortavelmente enquanto ela chega você.)}
+
+# 24.GIRL, YOU'RE TROUBLE/LET'S STOP THIS RIGHT NOW/CALM DOWN.I WAS JUST JOKING WITH YOU (19, 20)
+{420}{}{Tudo bem então ...(Olha para cima e para baixo.)}
+{422}{}{OK, então...}
+
+# 25.YOUR FATHER KNOW YOU DO THAT SHIT? (18)
+{430}{}{(Shrugs.) Ele não se importa.(Frowns.) Olha, você quer vir voar comigo ou o quê?}
+{432}{}{Tudo bem então.Vamos para o seu quarto.}
+{433}{}{Olha, não podemos ser apenas amigos?}
+{434}{}{Não, é melhor eu ir.}
+{435}{}{Naw.Se eu queria uma cadela, eu iria buscar um cachorro.Mais tarde.}
+
+# 26.CAN'T WE JUST BE FRIENDS? (25)
+{440}{}{O que você me disse?}
+{441}{}{Nada.Vamos para o seu quarto.}
+{442}{}{Eu disse: "não podemos ser apenas amigos?"}
+{443}{}{Nada.Olha, é melhor eu ir.}
+
+# 27.SECOND TIME DIALOGUE (MALE) (WTG)
+{450}{}{Ei, é você ...nós tivemos bons momentos antes de sair e chutou o traseiro do Enclave.Você quer voltar a viver alguns
+ desses momentos?}
+{451}{}{Você novamente.Você quer perder algum tempo?}
+{452}{}{Não agora.}
+{453}{}{Tudo certo.Vamos para o seu quarto.}
+
+# 28.MALE PORN STAR DIALOGUE/MALE PRIZEFIGHTER (WTG)
+{460}{}{Ouvi sobre o que você fez no Enclave,}
+{1460}{}{.}
+{1461}{}{.I saw your latest movie.}
+{462}{}{Bem bem:}
+{1462}{}{.I heard about your exploits in the ring.}
+{463}{}{VERY impressive.I think you're just the person to help me with this… problem I have.}
+{464}{}{Eu tenho problemas}
+{465}{}{Só você pode prevenir a floresta firez}
+{466}{}{Shamble off}
+{467}{}{Que problema é esse?}
+{468}{}{No, I don't think so.É melhor eu ir.}
+{469}{}{I ain't got time for this.Estou fora daqui.}
+
+# 29.WHAT PROBLEM IS THAT? (28)
+{480}{}{Veja, tenho essa carga de Jet premium no meu quarto, e não posso aceitar tudo sozinho.}
+{481}{}{Ah?}
+{482}{}{E isso é um problema, porque ...?}
+{483}{}{Uh ...I don't think that I'm the right pers...}
+
+# 30.[FEMALE INTRO] (WTG)
+{490}{}{Haven't seen YOU around before.You one of Daddy's new whores?}
+{491}{}{Hunh?}
+{493}{}{Não.You?}
+{494}{}{Não, apenas de passagem.}
+{495}{}{You must be Bishop's daughter.I work for your father, Miss Bishop.}
+{496}{}{Actually, I WORK for your father.I'm one of his made men.}
+{497}{}{Na verdade, eu TRABALHO para ele como um dos seus responsáveis.}
+{499}{}{Eu não sou uma prostituta, mas acabei de falar com uma.}
+
+# 31.HORSE (30)
+{510}{}{Well, I can see Daddy's hiring standards haven't changed.Watch your step around here, honey, or you're gonna
+ get hurt.}
+{511}{}{Okayeee! Thanx!}
+
+# 32.NO, JUST PASSING THROUGH (30)
+{520}{}{Tipo de merda pelos intestinos, hein? Não fique muito tempo, cadela, ou você vai se machucar.}
+{521}{}{Tanto faz.}
+{522}{}{Cadela...}
+
+# 33.NO, YOU? (30)
+{531}{}{Sim, eu entendo que você precisa de alguém para colocar em seu lugar, PRINCESA, e eu sou o único a fazer isso.}
+{532}{}{Entendida, senhorita Bishop.}
+{534}{}{É melhor eu ir.}
+{535}{}{Estou fora daqui.}
+
+# 34.ACTUALLY, I WORK FOR HIM AS ONE OF HIS ENFORCERS (30)
+{540}{}{CHAMADO-lhe uma prostituta, não é? Não há muita diferença entre ser "feito" e ficar deitado, certo?}
+{541}{}{Enforcer, prostituta ... qual é a diferença?}
+{542}{}{There's a big difference.Do you want me to teach it to you, you little pampered bitch?}
+{543}{}{Não há muita diferença, senhorita Bishop.}
+{544}{}{Desculpe, senhorita Bishop, não tenho tempo para falar agora.}
+
+# 35.THERE'S A BIG DIFFERENCE .../YEAH, I UNDERSTAND (33, 34)
+{550}{}{Você faz um movimento em minha direção e você estará morto antes de dar um passo.}
+{551}{}{Quer apostar nisso? Eu acho que você vai perder.}
+{552}{}{We'll see about that.Estou fora daqui.}
+
+# 36.WANNA BET ON IT? I THINK YOU'LL LOSE (35)
+{560}{}{You...you touch me, and Daddy'll hear about it.}
+{561}{}{Ele não se importará.}
+{563}{}{Calm down.I was just joking, all right?}
+{564}{}{Sim, vamos ver.}
+
+# 37.HE WON'T CARE (35, 36)
+{570}{}{He...he will so.You just see.}
+{571}{}{Get out of here, you little bitch.Now.}
+{573}{}{Calm down.I was just joking.}
+
+# 38.YEAH, YEAH/GET OUT OF HERE, YOU LIL BITCH (36, 37)
+{580}{}{(Ela zombou de você, depois se vira e pisa).}
+{581}{}{(Ir embora.)}
+
+# 39.YOU SAY ONE WORD TO OL' DADDY ...(36, 37, 44)
+{590}{}{(She continues to glare at you, but she seems uncertain.She bites her lip, then walks away hurriedly.)}
+{591}{}{Sim, PENSADO, então.}
+
+# 40.CALM DOWN.I WAS JUST JOKING (33, 36, 37)
+{600}{}{(She spits at your feet.) Yeah, so was I.(She gives you a final sneer, then walks away.)}
+
+# 41.NOT MUCH DIFFERENCE, MISS BISHOP (34)
+{610}{}{'Não há muita diferença, senhorita Bishop.' And I thought my Mom was Daddy's only slave.Get out of my sight.}
+
+# 42.UNDERSTOOD (33)
+{620}{}{'Entendida, senhorita Bishop.' And I thought my Mom was Daddy's only slave.Get out of my sight.}
+
+# 43.DON'T HAVE TIME ...(30, 34)
+{630}{}{"Estou triste, senhorita Bishop, não tenho tempo para falar com você agora mesmo." E eu pensei que minha mãe era o único escravo do papai.
+ Saia da minha frente.}
+
+# 44.END (33, 34, 35, 36, 37)
+{640}{}{Yeah, you start walking.Daddy's gonna start hearing ALL sorts of things about you soon.Just you wait.}
+{641}{}{(Retorne.)}
+{642}{}{You say one word to good ol' Dad, and you'll find yourself 'flying' off the top of the highest building in New Reno.
+ Once they find the little note I leave, everybody'll call it a suicide.It'll be a TERRIBLE tragedy.They'll be crying in the aisles.}
+{643}{}{(Sair.)}
+
+# 45.CALL BLUFF (35)
+{650}{}{No, I think that's a bet YOU'RE going to lose, bitch.Just try it.}
+{651}{}{(Ataque-a.)}
+{652}{}{(Deixe ir.)}
+
+# 46.FLOAT MESSAGES (WTG)
+{660}{}{Stay away from me.I haven't got anything to say to you.}
+{661}{}{Daddy's gonna start hearing ALL sorts of things about you soon.Just you wait.}
+
+# 47.WHAT PROBLEM IS THAT? (29)
+{670}{}{Not only that, but when I take Jet, I get all WILD, and I can barely control myself.I need someone who knows how to
+ take charge to make sure I don't do anything… foolish.}
+{671}{}{I'm your man.Let's do it.}
+{672}{}{Sometimes being a hero means protecting beautiful young women from themselves, whatever the cost.Lead on.}
+{673}{}{Eu acho que você me confundi com alguém que realmente consideraria tocá-lo.}
+
+# 100.LOOK (SEX) (WTG)
+{680}{}{You see Angela Bishop, who is currently asleep.She is snoring slightly, her hair is in disarray, and she has a bright smile on her face.}
+
+# 101.LOOK (NO SEX) (WTG)
+{690}{}{Você vê uma jovem com couro apertado que está gritando sua cabeça.}
+
+# 102.HAD SEX WITH ANGELA (WTG)
+{700}{}{Zzxxssnnn ... oh,}
+{1700}{}{oooooh ... zzxnhzzz}
+{701}{}{Zzzzz ...}
+{1701}{}{, novamente? Ooooh ...}
+
+# 103.DID NOT HAVE SEX (ANGELA SCREAMS RAPE) (WTG)
+{800}{}{Estupro! Socorro!}
+{801}{}{Ajuda, ele me assaltou! Socorro!}
+{802}{}{Estupro! Estupro!}
+
+# 104.JET OFFER (WTG)
+{810}{}{(Angela leads you up to her room on the third floor.There, she opens a little door in the wall, takes out a strange
+ plastic bottle, and offers it to you.) Want some, baby? There's more than enough for both of us to fly.}
+{811}{}{(Angela leads you up to her room on the third floor.While there, she cracks open a safe in the wall, takes out some
+ Jet, and offers some to you.) Want some, baby?  There's more than enough for both of us to fly.}
+{812}{}{Uh-huh}
+{813}{}{Unh-unh}
+
+# 105.SEX OFFER (104)
+{820}{}{Mmmmmmmm...(Angela takes a deep hit from the bottle.) Mmmmmmm...why don't you come over
+ here? (She lies down on the bed, takes another hit.) If you hurry, you can still suck some
+ of this Jet outta my mouth...}
+{821}{}{Well since you put it that way...sure.}
+{822}{}{No thanks.I might throw up if I inhale any of that shit...or if I stay here any longer.}
+
+# 106.RAPE! (104, 105)
+{830}{}{(Angela's eyes blaze with rage.She jumps up from the bed and starts screaming her head off!)
+ Estupro! Socorro! Rape!}
+{831}{}{Shhhh! Se você não ficar quieto, George não vai me deixar brincar com th'rabbitz! Shhhh!}
+{832}{}{Nenhum screem! Nenhum screem!}
+{833}{}{Estou tão fora daqui.}

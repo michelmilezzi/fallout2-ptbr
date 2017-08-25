@@ -1,0 +1,126 @@
+#
+#   Messages from skill.c
+#
+#
+#   SKILL NAMES
+#
+{100}{}{Pequenas armas}
+{101}{}{Armas grandes}
+{102}{}{Armas de energia}
+{103}{}{Desarmado}
+{104}{}{Armas de combate corpo a corpo}
+{105}{}{Jogando}
+{106}{}{Primeiros socorros}
+{107}{}{Médico}
+{108}{}{Esgueirar-se}
+{109}{}{Lockpick}
+{110}{}{Roubar}
+{111}{}{Armadilhas}
+{112}{}{Ciência}
+{113}{}{Reparar}
+{114}{}{Discurso}
+{115}{}{Trocar}
+{116}{}{Jogos de azar}
+{117}{}{Outdoorsman}
+#
+#   SKILL DESCRIPTIONS
+#
+{200}{}{O uso, cuidado e conhecimento geral de armas de fogo pequenas - pistolas, SMGs e rifles.}
+{201}{}{A operação e manutenção de armas realmente grandes - miniguns, lançadores de foguetes, lança-chamas e outros.}
+{202}{}{O cuidado e a alimentação de armas à base de energia. Como armar e operar armas que usam tecnologia laser ou plasma.}
+{203}{}{Uma combinação de artes marciais, boxe e outras artes marciais mão-a-mão. Combate com as mãos e os pés.}
+{204}{}{Usando armas não variadas na mão-a-mão, ou combate corpo a corpo - facas, marretas, lanças, clubes e assim por diante.}
+{205}{}{A habilidade das armas de alcance muscular, tais como lança facas, lanças e granadas.}
+{206}{}{Habilidade de cura geral. Usado para curar pequenos cortes, abrasões e outros males menores. Em termos de jogo, o uso de primeiros socorros pode curar mais pontos de vida ao longo do tempo do que simplesmente descansar.}
+{207}{}{A cura de feridas principais e membros aleijados. Sem esta habilidade, levará muito mais tempo para restaurar os membros incapacitados para usar.}
+{208}{}{Movimento calmo e a capacidade de permanecer despercebido. Se for bem sucedido, você será muito mais difícil de localizar. Você não pode correr e se esgueirar ao mesmo tempo.}
+{209}{}{A habilidade de abrir bloqueios sem a chave apropriada. O uso de lockpicks ou lockpicks eletrônicos irá melhorar muito essa habilidade.}
+{210}{}{A capacidade de fazer as coisas dos outros. Pode ser usado para roubar pessoas ou lugares.}
+{211}{}{A descoberta e remoção de armadilhas. Também a configuração de explosivos para fins de demolição.}
+{212}{}{Abrange uma variedade de habilidades de alta tecnologia, como computadores, biologia, física e geologia.}
+{213}{}{The practical application of the Ciência skill for fixing broken equipment, machinery and electronics.}
+{214}{}{A capacidade de se comunicar de forma prática e eficiente. A habilidade de convencer os outros de que sua posição está correta. A capacidade de mentir e não ser pego.}
+{215}{}{Tarefas comerciais e relacionadas ao comércio. A capacidade de obter melhores preços de itens que você vende e preços mais baixos para itens que você compra.}
+{216}{}{O conhecimento e as habilidades práticas relacionadas às apostas. A habilidade em cartões, dados e outros jogos.}
+{217}{}{Conhecimento prático ao ar livre e capacidade de viver da terra. O conhecimento de plantas e animais.}
+#
+#   SKILL ATTRIBUTES
+#
+#   Updated: 6/5/97 KSW
+#   Updated to New Skill System: 9/16/98 rwh2
+#
+{300}{}{+ (4 x AG)}
+{301}{}{+ (2 x AG)}
+{302}{}{+ (2 xAG)}
+{303}{}{+ (2 x (AG + ST))}
+{304}{}{+ (2 x (AG + ST))}
+{305}{}{+ (4 x AG)}
+{306}{}{+ (2 x (PE + IN))}
+{307}{}{+ (PE + IN)}
+{308}{}{+ (3 x AG)}
+{309}{}{+ (PE + AG)}
+{310}{}{+ (3 x AG)}
+{311}{}{+ (PE + AG)}
+{312}{}{+ (4 x IN)}
+{313}{}{+ (3 x IN)}
+{314}{}{+ (5 x CH)}
+{315}{}{+ (4 x CH)}
+{316}{}{+ (5 x LK)}
+{317}{}{+ (2 x (EN + IN))}
+#
+#   Skill Use Text
+#
+{500}{}{Você cura% d pontos de vida.}
+{501}{}{Você já parece saudável.}
+{502}{}{% s parece saudável já.}
+{503}{}{Você não faz nenhuma cura.}
+{505}{}{Você ganha% d XP para aperfeiçoar suas habilidades.}
+{510}{}{\ nskill_use: habilidade inválida usada.}
+{512}{}{Você não pode curar os mortos.}
+{513}{}{Deixe os mortos descansarem em paz.}
+{514}{}{Está morto, supera isso.}
+{520}{}{Você cura seu% s.}
+{521}{}{Você cura o% s.}
+{525}{}{Você não consegue curar seu% s.}
+{526}{}{Você não conseguiu curar o% s.}
+{530}{}{olho danificado}    # Lines 530-534 are the endings to lines 525 & 526.
+{531}{}{braço esquerdo aleijado}
+{532}{}{braço direito aleijado}
+{533}{}{perna direita aleijada}
+{534}{}{perna esquerda aleijada}
+{550}{}{Você não consegue escolher o bloqueio.}
+{551}{}{Você não consegue encontrar armadilhas.}
+{552}{}{Você não consegue aprender nada.}
+{553}{}{Você não pode reparar isso.}
+{570}{}{Você foi pego roubando o% s.}
+{571}{}{Você rouba o% s.}
+{572}{}{Você é pego plantando o% s.}
+{573}{}{Você planta o% s.}
+{590}{}{Você tributou sua habilidade com essa habilidade. Espere um pouco.}
+{591}{}{Você está muito cansado.}
+{592}{}{A tensão pode matá-lo.}
+
+# Fallout 2!
+{600}{}{Você não é experiente o suficiente para curar lesões incapacitantes.}
+{601}{}{A unidade robótica está além de reparada.}
+
+
+
+#
+# Fallout 2: Party Member skill use generic responses
+#
+
+#   I'll try
+{1000}{}{Deixa-me ajudar.}
+{1001}{}{Eu posso fazer isso.}
+{1002}{}{Entendi.}
+{1003}{}{Feliz em ajudar.}
+{1004}{}{OK.}
+{1005}{}{Vou tentar.}
+
+#   Player wants to do it
+{1100}{}{Se você tiver problemas, avise-me.}
+{1101}{}{Você entendeu?}
+{1102}{}{Se é o que você quer.}
+{1103}{}{Vá em frente e tente.}
+{1104}{}{Vá em frente.}

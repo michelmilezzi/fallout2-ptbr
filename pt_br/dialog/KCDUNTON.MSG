@@ -1,0 +1,298 @@
+{100}{}{Você vê um dos dois homens olhando muito parecidos - eles poderiam ser gêmeos.
+ Ambos são fortemente musculosos e têm sobrancelhas.}
+{101}{}{Você vê Chuck ou Buck Dunton, ambos parecem tão parecidos que não tem certeza de qual você está olhando agora.}
+{102}{}{Você vê um homem alto, pesadamente musculoso, cujo rosto, sob sua sobrancelha, é habitualmente
+ Torceu-se em um cenho assustador de um bully. Ele parece exatamente com seu irmão.}
+
+{110}{}{Você é melhor empurrar para fora, ou meu irmão e eu vamos bater, você é uma pequena cabeça em geléia.}
+{111}{}{Ei, leve tudo bem. Eu estava brincando. Eu realmente sinto muito. Não me bata, por favor.
+ Além disso, eu queria perguntar-lhe sobre algo.}
+{112}{}{Desculpe, senhor Dunton, senhor. Eu vou sair agora.}
+{113}{}{Preciso de alguma informação, e é melhor me dizer o que preciso saber.}
+{114}{}{Você e seu irmão? Você tem medo de me levar sozinho? (Cluck, cluck, cluck)}
+
+{120}{}{Apenas saia antes de destruí-lo e transformá-lo em carne seca.}
+{121}{}{Ei, sinto muito. Não queria incomodar você. Eu sou apenas estúpido. Eu voltarei mais tarde quando
+ Você não está tão cansado de me olhar.}
+{122}{}{Oh, está bem, desculpe. Não me acerte. Por favor.}
+{123}{}{Pelo menos não terei que olhar mais as suas caretas.}
+
+{130}{}{O que você quer saber de nós?}
+{131}{}{Eu não acho que precisamos dizer nada. O que diabos você quer, afinal?}
+{132}{}{Então, o que o pequeno wimp quer de nós, afinal?}
+{133}{}{Qualquer um de vocês já ouviu falar sobre algo chamado um Kit de Criação do Jardim do Éden?}
+{134}{}{Eu gostaria de trocar.}
+{135}{}{Algum trabalho aqui?}
+{136}{}{Uh, o que Dunton você é, afinal?}
+{137}{}{Você já ouviu falar sobre mutilações brahmin por aqui?}
+{138}{}{Acho que não preciso de nada depois de tudo. Adeus.}
+
+{140}{}{Você atravessou a linha. Eu acho que você é melhor sair daqui antes de lhe ensinar uma lição.}
+{141}{}{Desculpe, fiquei tão animado trabalhando com vocês dois. Vou sair agora. Adeus.}
+{142}{}{Linha? Qual linha? Foi sua ideia, em primeiro lugar.}
+{143}{}{Vocês dois são muito amarelos para fazer o que precisava ser feito.}
+
+{150}{}{Bem, temos uma boa oferta de nossa mundialmente famosa Dunton's Drymeat na mão. Sabrosa e deliciosa -
+ Bom para você também.}
+{151}{}{Uh, isso é ótimo.}
+{152}{}{Carne seca? Isso não soa como o que eu preciso. Diga-me outra coisa.}
+{153}{}{Eu não acho que eu preciso trocar, afinal. Adeus.}
+
+{160}{}{Você teve sua chance, amigo.}
+{161}{}{Não acho que haja algum trabalho para você aqui.}
+{162}{}{Bem, há uma coisa com a qual poderíamos usar alguma ajuda. (Heh, heh, heh)}
+{163}{}{O que é Chuck?}
+{164}{}{O que é que Buck?}
+{165}{}{Uh, o que é isso?}
+{166}{}{Oh sim. Bem, diga-me outra coisa então.}
+{167}{}{Ei, espere - eu realmente quero ajudá-los. Conte-me sobre esse trabalho novamente.}
+{168}{}{Bem, acho que esqueci. Eu irei então. Adeus.}
+{169}{}{OK. Tchau.}
+
+{170}{}{Você é um saco sem valor de merda de gecko! O que diabos está fazendo à nossa vista novamente?}
+{171}{}{Eu só queria me desculpar. Não queria ferrar. Eu não sou tão bom no sussurro como você
+ dois. Além disso, eu preciso de algo de você.}
+{172}{}{Bem, você está certo - eu poderia ter feito um trabalho melhor. Eu acho que não sou um rustler natural como
+ Vocês dois são. Eu preciso de algo, no entanto.}
+{173}{}{Gecko shit? Estamos falando sobre o que você come, ou o que você usa para o cérebro?}
+
+{180}{}{De volta novamente, hein? Bem, o que podemos ajudá-lo com o parceiro de negócios?}
+{181}{}{Ei, amigo. A certeza de que foi um trabalho amável que conseguimos naquele Torr burro, hein? Deixe-me obter o seu
+ Corte da ação.}
+{182}{}{Isso foi um bom negócio. Deixe-me saber quando você obteve outro trabalho como esse alinhado. eu preciso
+ Outra coisa agora mesmo.}
+{183}{}{Estou aqui para o meu corte, parceiros.}
+{184}{}{O que fizemos tornou-me envergonhado de mim mesmo. Enganando um idiota? Por que você não covarde contra alguém
+ Quem pode se defender por uma mudança? Adeus.}
+{185}{}{Acho que na verdade não preciso de nada agora. Adeus.}
+
+{190}{}{OK - aqui estão os $ 50 e um pouco de algo extra para você, também. Alguns bastões de Dunton
+ Carne seca. Obrigado, companheiro.}
+{191}{}{Obrigado. Ei, há algo mais que eu quero saber.}
+{192}{}{Eu posso usar esse dinheiro. Mmm, (mordida) saborosa, também. Obrigado. Adeus.}
+
+{198}{}{OK, aqui está o acordo. Precisamos de alguma ajuda, libertando algum brahmin daquele idiota Torr.
+ Você pode tentar fazê-lo sair do brâmane, ou derrubá-lo - apenas não o machuque tão mal ou será
+ Agitar um ruckus.}
+{199}{}{Agora eu lembro. Obrigado.}
+{200}{}{Conheça-nos na área de pastoreio brahmin, apenas a leste da cidade, às 6:00 da noite, à noite.}
+{201}{}{Conheça-nos na área de pastoreio brahmin, apenas a leste da cidade, às 18:00, amanhã à noite.}
+{202}{}{OK, eu vou cuidar de Torr.}
+{203}{}{OK, vou encontrar Torr na área de pastagem e cuidar dele por você.}
+{204}{}{Eu não acho que eu quero fazer isso depois de tudo.}
+{205}{}{OK eu estarei lá. Adeus.}
+{206}{}{Entretanto, no entanto, há algo que eu quero saber.}
+{207}{}{Adeus.}
+
+{208}{}{Eu sou Chuck Dunton. O que você é? Burro?}
+{209}{}{Eu sou Buck Dunton. O que você é? Burro?}
+{210}{}{Parece especialmente feio? Eu sou Chuck Dunton.}
+{211}{}{Parece especialmente feio? Eu sou Buck Dunton.}
+{212}{}{Você está lenta na cabeça? Eu sou Chuck Dunton.}
+{213}{}{Você está lenta na cabeça? Eu sou Buck Dunton.}
+{214}{}{Você simplesmente não consegue corrigir. Damn tribos simples. Eu sou Chuck, você burro.}
+{215}{}{Você simplesmente não consegue corrigir. Damn tribos simples. Eu sou Buck, você burro.}
+{216}{}{Eu sou o Big Nose Sally Dunton. Você gosta do meu vestido? Sou Chuck Dunton, sua tribal estúpida.}
+{217}{}{Eu sou o Big Nose Sally Dunton. Você gosta do meu vestido? Sou Buck Dunton, sua tribal estúpida.}
+{218}{}{Ok, ok. Sim, eu pensei. Desculpa.}
+{219}{}{Não se preocupe. Eu tenho isso agora. Preciso de algo de você, Sr. Dunton.}
+{220}{}{Sim, quem quer que seja. Olha, apenas me diga o que preciso saber.}
+{221}{}{Bem, ambos são tão malditos e feios. Além disso, eu não dou uma merda voadora que Dunton
+ Estou gritando. Adeus, idiota.}
+{222}{}{Uh, sim. Bem, conte-me sobre o trabalho.}
+
+{230}{}{Palavra para o sábio - você é melhor não dizer nada para ninguém. Porque se você fizer isso, isso seria
+ Nos deixa muito bravos. Você não quer nos ver com raiva.}
+{231}{}{Sorry, I won’t tell anyone. I promise, Mr. Dunton, sir. Adeus.}
+{232}{}{Não se preocupe, não vou contar a ninguém. Agora me diga algo mais.}
+{233}{}{Don’t want to see you angry? I don’t want to see your ugly mugs at all. Adeus.}
+
+{240}{}{Bem, é um prazer fazer negócios com você. Heh, heh, heh. Precisa de mais alguma coisa?}
+{241}{}{Hmm ... Acho que esqueci de trocar por algo.}
+{242}{}{Sim eu quero.}
+{243}{}{Não, acho que é por enquanto, Chuck.}
+{244}{}{Não, acho que é por agora, Buck.}
+
+{250}{}{Ei, companheiro. Ainda contando com você para esta noite. O que posso fazer para você?}
+{251}{}{Uh, eu revelei. Eu não acho que eu quero ajudá-lo hoje a noite.}
+{252}{}{Sim. Eu estarei lá. Deixe-me perguntar-lhe uma coisa, no entanto.}
+{253}{}{Sure I will. Adeus.}
+
+{259}{}{Bem, se não é nosso amigo armado.}
+{260}{}{Olá. Como está chegando o seu braço? Pronto para voltar?}
+{261}{}{Ei, ai, pequena, esguicho. O que você está fazendo no nosso bar? Você deve provar a si mesmo
+ Duntons lutando com o braço antes de deixar você ficar. (Ha ha ha)}
+{262}{}{Você não parece tão difícil. Por que você não me lança no braço, Chuck Dunton, pelo direito de beber
+ No nosso bar?}
+{263}{}{Você não parece tão difícil. Por que você não me lança no braço, Buck Dunton, pelo direito de beber
+ No nosso bar?}
+{264}{}{Ei lá, goody-two-shoes. Você tem que ganhar sua admissão no nosso bar. Você tem que
+ Luta no braço, Chuck Dunton.}
+{265}{}{Ei lá, goody-two-shoes. Você tem que ganhar sua admissão no nosso bar. Você tem que
+ Me lute com o braço, Buck Dunton.}
+
+{266}{}{Ei, parece que nos temos um contendor aqui. Você tem que me defender, Chuck Dunton,
+ Se você quiser beber aqui.}
+{267}{}{Ei, parece que nos temos um contendor aqui. Você tem que me defender, Buck Dunton,
+ Se você quiser beber aqui.}
+
+{268}{}{Vamos lutar. Acho que essa é a única maneira de conseguir alguma paz aqui.}
+{269}{}{Eu não acho que eu quero armar-lhe o braço agora mesmo.}
+{270}{}{Eu não quero lutar agora mesmo. Tudo o que quero é alguma informação.}
+{271}{}{Uh, I think I’m in the wrong bar. Adeus.}
+
+{280}{}{Você ganhou desta vez. Bem, você não é um pouco complicado? Rápido como um gecko com seu conjunto de cauda
+ em chamas. Bem, a primeira bebida está em mim.}
+{281}{}{Obrigado. Talvez você possa me dizer algo que eu quero saber.}
+{282}{}{Acabei de ter sorte desta vez. Obrigado.}
+{283}{}{Eu realmente não preciso de sua cerveja, obrigado. Deixe-me perguntar-lhe uma coisa, no entanto.}
+{284}{}{I don’t think I want your beer. Adeus.}
+
+{290}{}{Você tem sorte de não arranjar seu braço como um galho seco. (Hyuk, hyk, hyuk) Bem, eu acho
+ Ainda não há desafio aqui na cidade.}
+{291}{}{Você não teve abuso suficiente por uma noite?}
+{292}{}{Quero levá-lo novamente. Eu vou te mostrar esta vez.}
+{293}{}{Ouch. Tudo bem, eu já tive o suficiente. Ei, deixe-me perguntar-lhe uma coisa.}
+{294}{}{That’s it for me. Adeus.}
+
+{300}{}{Não queremos armar-nos? O que, você acha que é muito bom para lutar contra um dos
+ Irmãos Dunton?}
+{301}{}{Eu acho que você me machucaria se eu me abraçasse.}
+{302}{}{Talvez mais tarde. Neste momento, eu preciso de alguma informação.}
+{303}{}{It wouldn’t even be a contest. I’d win. Adeus.}
+{304}{}{Você parece muito mau. Eu só lutar contra homens reais. Retire, você está.}
+
+{310}{}{Você está procurando um quê? Fechado quando cheguei ao Jardim do Éden está em adoráveis   braços de Jenny
+ Na casa de banho de Ma. (Hyuk, hyuk, hyuk)}
+{311}{}{Uh, obrigado. Deixe-me perguntar-lhe outra coisa, então.}
+{312}{}{I guess that’s all I need to know for now. Adeus.}
+
+{320}{}{Bem, eu ouvi dizer que são alguns (hyuk, hyuk) bug-men cortando brahmin a leste de nós. Mas eu
+ Não acreditaria em tudo o que você ouviu. (Hyuk, hyuk, hyuk).}
+{321}{}{Oh, eu vejo; obrigado. Há algo de que queria conhecer.}
+{322}{}{I guess that’s all I need to know for now. Adeus.}
+
+{330}{}{Olá. Você está aqui para trocar por alguns dos nossos famosos Dunton's Drymeat?}
+{331}{}{Bem? Você está aqui para comprar um pouco de carne seca ou o que?}
+{332}{}{That sounds great. Eu gostaria de trocar.}
+{333}{}{Carne seca? Isso parece interessante. Conte-me mais sobre isso.}
+{334}{}{Na verdade, eu tinha algumas perguntas para você.}
+{335}{}{I don’t think I need anything right now thanks. Adeus.}
+{336}{}{Eu estava curioso sobre todos aqueles brahmin que você tem de volta. Eles nem todos parecem ter o mesmo
+ Marca neles.}
+
+{340}{}{Hã? O que diabos você quer dizer? Eles são todos nossos.}
+{341}{}{O que quero dizer é que alguns deles parecem ter uma marca diferente de que alguém
+ Malditamente marcado.}
+{342}{}{Oh, I see. Heh-heh, I must have made a mistake. I’ll be going now. Adeus.}
+{343}{}{Bem, acho que não sei muito sobre o brahmin. Deve ser a sua coloração ou algo assim.
+ Bem-aventurado brahmin que você tem aqui.}
+
+{350}{}{Bem, nossa carne seca é uma incrível mistura de onze ervas e especiarias. Deixe-me dizer-lhe, é
+ Lickin do dedo bem. Os animais adoram também. Eles vão persegui-lo de todo para obter alguns. Deve ser isso
+ Cheiro podre.}
+{351}{}{Não há mais nada disso. Qualquer lugar. É você mesmo. E a maioria das pessoas está feliz, é assim.}
+{352}{}{São pessoas! Hyuk, hyuk, hyuk, só queria ver seu rosto quando eu disse isso. Heck, é só
+ Parte das pessoas. Hyuk, hyuk.}
+{353}{}{Não é como qualquer coisa que a maioria das pessoas coma. É diferente. Não é melhor, apenas
+ diferente.}
+{354}{}{Não há crueldade para com os animais aqui envolvidos. Tudo é carne encontrada. Às vezes, demora um pouco para
+ Encontre-o, mas geralmente podemos entrar no fedor.}
+{355}{}{Depois de um longo dia na caneta brahmin, obtemos algumas raspas de inicialização escolhidas para apreciá-la.}
+{356}{}{Bem, descobrimos que um molho feito por nós pessoalmente, se você sabe o que quero dizer, dá-lhe isso
+ Gosto do lar.}
+{357}{}{É feito de carne de mais de seis meses e amolecida pelas melhores larvas de cabra.}
+{358}{}{Incrível. Parece que você realmente come sua própria carne seca. Uh, o que eu quero dizer é,
+ Quem não? Yum-yum.}
+{359}{}{Mesmo? Isso é fascinante. Me diga mais.}
+{360}{}{I think that’s all I need to know for now. Adeus.}
+{361}{}{Se eu estivesse morrendo de fome, eu preferiria cortar meu próprio braço e comê-lo do que seu maldito
+ Carne seca.}
+
+{370}{}{Você está aqui porque mudou de idéia? Você quer ajudar a salvar esses pobres brahmin de
+ Torr?}
+{371}{}{O que diabos você está fazendo aqui? Você está aqui para nos ajudar ou não? Podemos ter um trabalho para você
+ se você está interessado.}
+{372}{}{Sim, estou interessado. Conte-me sobre este trabalho.}
+{373}{}{I don’t think I want anything to do with you two. Adeus.}
+{374}{}{Achei que vi uma pilha de partes de insetos lá. Você sabe o que é isso?}
+
+{380}{}{O que diabos você quer? Você esqueceu o que deveria fazer?}
+{381}{}{Não. Lembro-me. Eu ficarei ocupado com nosso plano.}
+{382}{}{És maluco? Eles estão com a gente. Estou aqui para avisá-lo para não passar por isso. Aposto que eles são
+ Nos observando agora.}
+{383}{}{Eu esqueci; Você examinaria o plano novamente para mim? Por favor.}
+{384}{}{Achei que vi uma pilha de partes de insetos lá. Você sabe o que é isso?}
+
+{390}{}{Peças de insetos? Umm, erra, ah, não sabemos nada sobre as partes do inseto. Do que você está falando?}
+{391}{}{Bem, eu vi uma pilha de partes de insetos que tinham cintas e fivelas para que pareciam ter
+ Poderia ser usado como uma fantasia. Todos estavam empilhados exatamente por onde vocês estavam de pé.}
+{392}{}{Uh, just forget it. Adeus.}
+
+{400}{}{Aqui está o que está acontecendo. Você precisa obter Torr.}
+{401}{}{Parece bom, eu vou fazer isso.}
+{402}{}{Not a chance; I’m outa here, Dunton. Adeus.}
+{403}{}{És maluco? Eles estão com a gente. Estou aqui para avisá-lo para não passar por isso. Aposto que eles são
+ Nos observando agora.}
+{404}{}{Quando Torr aparece, precisamos que você o consiga}
+{405}{}{ Fora daqui por um tempo. Você pode conversar com ele ou golpeá-lo inconsciente. Mas não mate ele ou
+ Você vai agitar todas as pessoas. Enquanto você faz isso, obteremos o braim. Conheça-nos de volta em nossa loja
+ Amanhã para receber sua recompensa.}
+
+{410}{}{Talvez você esteja certo. (Olhando rapidamente) Eu não gosto da idéia de alguém me observar.}
+{411}{}{Você deve ser mais gentil com outros do seu próprio tipo. Agora vá para casa.}
+
+{420}{}{Ninguém está nos observando. Nós somos muito cuidadosos com isso. Você é apenas amarelo, não é? Frigging
+ covarde.}
+{421}{}{Desculpe, acho que estava ficando nervoso. Eu não sou tão legal sob pressão quanto vocês dois.}
+{422}{}{Desculpe, entrei em pânico. Voltarei ao trabalho, então.}
+{423}{}{Not a chance. I’m leaving. Adeus.}
+{424}{}{Agora volte para o seu trabalho e se livre desse idiota Torr!}
+
+{430}{}{Você é louco. Esses são deixados de alguns radscorpions que matamos. Sim, é isso.
+ Esse é o bilhete. Nós, uh, umm, usamos seu veneno como um dos ingredientes secretos em nossa receita de carne seca.}
+{431}{}{Sim claro. Eu acredito que assim que o sol nascer no oeste.}
+{432}{}{Well, if you say so. That’s good enough for me. Adeus.}
+
+{440}{}{É melhor você manter sua boca fechada se você souber o que é bom para você.}
+{441}{}{Geez, leve-o com calma. Eu só vou dizer-lhe uma ótima idéia que pensei. Sheesh
+ acalme-se.}
+{442}{}{Sorry. I will. Adeus.}
+{443}{}{Yeah, well, I’m taking off. Adeus.}
+{444}{}{Sim, acho que é melhor fechar a boca para uma mudança. Estou cansado de ouvir você bater o seu
+ Gomas podres.}
+
+{449}{}{Olá, tribal.}
+{450}{}{Eu sou Chuck Dunton.}
+{451}{}{Eu sou Buck Dunton.}
+{452}{}{Oooogly man.}
+{453}{}{ O escolhido!}
+
+{460}{}{Ooogly ann? Hã? Você é tão idiota quanto aquele idiota Torr. Isso é bom, precisamos de uma nova fricção
+ Idiota da aldeia na cidade. Nós acabamos de usar esse Torr.}
+{461}{}{Torr?}
+
+{470}{}{Escolhido, hein? Escolhido mais provável de ser perfurado na boca. Sua mãe o deixou cair na
+ Cabeça, ou você acabou de sair tão burro e feio? Afaste-se de mim.}
+{471}{}{Ook!}
+{472}{}{ O escolhido!}
+
+{480}{}{Você está pronto para ir? Bem, vamos lá. Não temos toda a noite maldita. Temos trabalho a fazer.}
+{481}{}{Uh, sim; Estou pronto. Vamos.}
+{482}{}{Estou pronto para ensinar a essa idiota herdboy uma lição.}
+{483}{}{Eu não acho que eu quero fazer isso. Até logo.}
+
+{490}{}{Ei, espere até entrarmos; Então podemos conversar.}
+{500}{}{Você luta, mas, eventualmente, o irmão Dunton ganha.}
+{510}{}{Você conseguiu vencer o irmão Dunton depois de uma luta difícil.}
+{520}{}{Está bem.}
+
+{530}{}{Saia já daqui. Alguns de nós gots trabalham para fazer.}
+{531}{}{Oh, OK. I guess I'll be moving on then. Sheesh, some people are so touchy. Adeus.}
+{532}{}{Torr quebra seu brahmin ao norte de Downtown aqui.}
+{533}{}{Quando esse Dumb-ass Torr chegar aqui, é melhor te livrar dele.}
+
+{600}{}{Mesmo o idiota Torr tem mais cérebro do que você, ladrão!}
+{601}{}{ Pronto para ir?}
+
+{700}{}{Você exalou o brahmin com sucesso.}

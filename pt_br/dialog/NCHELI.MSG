@@ -1,0 +1,66 @@
+# 0. QUICK LOOK, BOXES (WTG)
+{100}{}{Você vê várias caixas cheias de produtos químicos.}
+
+# 0. LOOK, BOXES (WTG)
+{150}{}{Você vê várias caixas cheias de produtos químicos. You can't identify the chemicals, but they have
+ been packed *very* carefully.}
+
+# 1. QUICK LOOK, VERTIBIRD (WTG)
+{175}{}{Você vê um Vertibird.}
+
+# 1. QUICK LOOK, VERTIBIRD (WTG)
+{199}{}{Você vê um Vertibird...an advanced form of helicopter. Unfortunately, you have no idea how
+ to operate it. }
+
+# 2. NORMAL ACTION SEQUENCE (WTG)
+{200}{}{(Esses caras me dão os rancorosos ...)}
+{000}{}{(Cale a boca. Aqui eles vêm.)}
+{000}{}{* Zztttt * Você possui a carga que solicitamos? * Zzzttt **}
+{000}{}{Sim, os produtos químicos estão todos aqui. Você pode verificá-los se quiser.}
+{000}{}{* Zztttt * Isso não será necessário. * Zzzttt **}
+{000}{}{* Zztttt * Você sabe o que acontecerá se os produtos químicos não atendem às especificações solicitadas.
+ * Zzzttt **}
+{000}{}{Certo, claro. Uh, e você trouxe os lightbringers ...?}
+{000}{}{* Zztttt * As armas a laser estão em nossa baía de carga. * Zzzttt **}
+{000}{}{* Zztttt * Para garantir a sua cooperação, transmitiremos a sequência de armamento para eles uma vez que o
+ Os produtos químicos são carregados. * Zzzttt **}
+{000}{}{Uh ... bem ... tudo bem então. Carregue-a, meninos -}
+{000}{}{* Zztttt * No. * Zzzttt **}
+{000}{}{* Zztttt * Vamos carregar a carga. * Zzzttt **}
+{000}{}{Uh, certo ... certo. Claro. Dê-lhes espaço, meninos.}
+{000}{}{Tudo certo; Estamos bem aqui. O resto de vocês guardam ... você, também, novato ... volte para Reno.
+ Nos encontraremos com você.}
+
+# 3. FLOAT SEQUENCE: INTRUDER (WTG)
+{250}{}{Veja! Alguém nos observou!}
+{000}{}{Mate eles!}
+{000}{}{Parece que nos conseguimos um espião ...!}
+{000}{}{* Zztttt * Missão abortada. Seqüência de falha de carga ativada. * Zzzttt **}
+{000}{}{* Zztttt * Terminar os hostis, depois retornar à base. * Zzzttt **}
+
+# 4. FLOAT SEQUENCE: OUT OF POSITION WARNING (WTG)
+{300}{}{Não fique perto desses garotos blindados. Eles vão te criar.}
+{000}{}{Volte para a posição.}
+{000}{}{Pare de se mexer ... aqueles garotos blindados não gostam muito disso.}
+
+# 5. FLOAT SEQUENCE: OUT OF POSITION, FINAL (WTG)
+{350}{}{Droga! O que você está fazendo, dipshit ?!}
+{000}{}{Volte para sua postagem! Que diabos você está fazendo - ?!}
+{000}{}{* Zztttt * Missão abortada. Seqüência de falha de carga ativada. * Zzzttt **}
+{000}{}{* Zztttt * Terminar os hostis, depois retornar à base. * Zzzttt **}
+
+# 6. VERTIBIRD SEQUENCE: (WTG)
+{400}{}{[Parece que há uma porta. Abra e monte?]}
+{000}{}{Sim}
+{000}{}{Afastar-se}
+{000}{}{Junta o Vertibird.}
+{000}{}{Deixe-o em paz.}
+
+# 7. VERTIBIRD: TAKE OFF (7)
+{450}{}{[A porta se selha atrás de você, e o Vertibird decola! Você não pode abrir a porta!]}
+{000}{}{Uh-oh}
+{000}{}{Ah Merda...}
+
+# 8. DISPLAY TEXT: BOXES (WTG)
+{500}{}{Estas caixas estão cheias de latas de metais pesados. A julgar pelos cuidados que os embalam,
+ Você suspeita que eles contêm algum tipo de produtos químicos perigosos.}

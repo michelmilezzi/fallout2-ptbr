@@ -1,0 +1,212 @@
+{100}{}{Você vê uma mulher jovem, de aparência lisa, fortemente construída com uma careta no rosto.}
+{101}{}{Você vê Maida Buckner, filha da Sra. Buckner}
+{102}{}{Você vê uma jovem jovem, de aparência simples e construída. Ela está olhando para você com uma careta
+ o rosto dela.}
+
+{200}{}{Você realmente me irritou. Não quero mais nada com você. Agora, saia.
+ Tribais, humph! (Murmúrio, murmúrio) ... sem turnos, sem valor, preguiçoso ...}
+{201}{}{Você é ainda mais irritante do que Sulik! Não tenho tempo para falar com você. Vá embora.}
+{202}{}{Eu também não quero ter nada a ver com você. Adeus.}
+{203}{}{Lamento muito que eu te perturbe. Apenas ignoro seus caminhos aqui. Eu estava tentando te mostrar
+ Respeito à maneira da minha tribo.}
+{204}{}{Gosh, eu realmente sinto muito. Eu sou apenas um tribo ignorante, afinal. Você pode perdoar?
+ mim?}
+{205}{}{Eu simplesmente não sabia o que dizer a alguém tão atraente quanto você. Eu sempre fico nervoso quando
+ Estou perto de uma bela mulher. Por favor aceite minhas desculpas.}
+{206}{}{É só que você parece tão civilizado e tão bonito. Eu estava com ciúmes de você. Por favor me perdoe.
+ Tenho muito a aprender com mulheres como você.}
+
+{210}{}{Olá, meu nome é Maida Buckner. Ajudo minha mãe a dirigir a casa de Buckner. Posso ajudar?}
+{211}{}{Ungh?}
+{212}{}{Eu}
+{213}{}{Unker Rouse?}
+
+{220}{}{Hmm - parece que seu elevador não se ergue até o último andar. Por que você não
+ Fale com meu irmão Torr? Ele está um pouco mais perto da sua velocidade. Adeus.}
+
+{230}{}{Meu nome é Maida Buckner; Eu cuido de comércio e bebidas aqui. Eu não tolero tribos
+ Mexendo o lugar da nossa família. Então, é melhor ver seu passo aqui, ou você acabará como Sulik.
+ O que você quer?}
+{231}{}{Meu nome é Maida Buckner; Eu cuido de comércio e bebidas aqui. O que será para você, amigo?}
+{232}{}{Olá, meu bom amigo.}
+{233}{}{Com o que posso ajudá-lo?}
+{234}{}{Bem, você melhor será mais civil a partir de agora. O que você quer de qualquer maneira? O que posso ajudar?
+ Você está aqui?}
+{235}{}{Eu tenho algumas perguntas para você.}
+{236}{}{Eu estava procurando algum lugar para ficar.}
+{237}{}{Eu preciso comprar algumas coisas.}
+{238}{}{Eu gostaria de uma bebida.}
+{239}{}{Acho que não preciso de nada agora. Adeus.}
+
+{240}{}{Perguntas, hein? Bem, continue com isso, então. Falar com você não aproxima meu trabalho
+ Sendo terminado.}
+{241}{}{Mais perguntas? Bem, continue, então, e seja rápido sobre isso.}
+{242}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
+{243}{}{Conte-me sobre Sulik.}
+{244}{}{Conte-me sobre o que está acontecendo aqui em Klamath.}
+{245}{}{O que outras cidades estão próximas?}
+{246}{}{Eu acho que é tudo o que preciso saber por enquanto. Adeus}
+
+{250}{}{Minha mãe cuida dos quartos. Você deveria conversar com ela sobre isso.}
+{251}{}{Ok, obrigado. Há algo mais que eu queria saber.}
+{252}{}{Eu falarei com ela sobre isso então. Adeus.}
+
+{260}{}{Você quer trocar? Estou sempre à procura de peles gecko de boa qualidade, e eu pago um preço justo
+ Para eles, também.}
+{261}{}{Você quer comprar algo? Espero que você tenha algo além de peles de gecko para pagar; estavam
+ Supertocked em pelts agora.}
+{262}{}{Sim, gostaria de trocar com você.}
+{263}{}{Estou mais interessado em algo mais no momento.}
+{264}{}{Eu acho que não preciso negociar agora. Adeus.}
+
+{270}{}{A única maneira que eu conheço para criar um Jardim do Éden é através de um trabalho duro e antigo. Isso é algo
+ Vocês tribais simplesmente não parecem entender. Mas acho que essa é a diferença entre gente civilizada
+ E vocês mesmos.}
+{271}{}{Uh, eu acho. Conte-me sobre outra coisa então.}
+{272}{}{Gee, acho que tenho muito a aprender com vocês. Eu também gostaria de ser civilizado, algum dia.}
+{273}{}{Civilizado? Você acha que é civilizado porque vive nas ruínas queimadas de um horário anterior
+ Cidade? Diga-me outra coisa.}
+{274}{}{Eu acho que já ouvi sobre o suficiente. Adeus.}
+
+{280}{}{Bem, agora, qualquer outra coisa que eu possa fazer por você?}
+{281}{}{Tenho bastante pele de gecko para me durar por um tempo. Mais alguma coisa que eu possa fazer por você?}
+{282}{}{Na verdade, havia algo mais para o qual queria negociar.}
+{283}{}{Eu estava esperando por melhores preços. Você não é barato. Conte-me sobre outra coisa.}
+{284}{}{Você é um negociante difícil, mas justo. Conte-me sobre outra coisa.}
+{285}{}{Isso é tudo que eu preciso por enquanto. Adeus.}
+
+{290}{}{Há apenas algumas outras cidades próximas. Há Redding muito ao sudoeste, e o Den
+ Alguns dias ao sul. Mas eu não irei ao Den.}
+{291}{}{Por que você não iria ao Den?}
+{292}{}{E quanto a tribos na área?}
+{293}{}{Obrigado pelo conselho. Diga-me outra coisa.}
+{294}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+
+{300}{}{Bem, eu não contei tribos quando perguntou sobre cidades civilizadas. Mas acho que existe um grupo de
+ Selvagens em algum lugar do noroeste - e depois da tribo de Sulik, muito ao sudoeste.}
+{301}{}{Isso é engraçado, minha tribo não conta cidades antes da guerra quando falamos sobre lugares civilizados. Conte-me
+ algo mais.}
+{302}{}{Oh, você está civilizado tudo bem ... e eu não acho que eu quero nenhuma parte disso. Conte-me
+ algo mais.}
+{303}{}{Conte-me sobre Sulik.}
+{304}{}{E quanto ao Den?}
+{305}{}{Interessante. Permitam-me perguntar-lhe outra coisa, no entanto.}
+
+{310}{}{O Den é um lugar ruim para ir. Eles até escravizam tribos ignorantes como você. É uma semana ou
+ Então, ao sul daqui, mas a maioria das pessoas que foram lá não voltaram.}
+{311}{}{Conte-me sobre as tribos locais.}
+{312}{}{Sulik não é seu escravo? Ou você apenas o trata como um?}
+{313}{}{Interessante. Permitam-me perguntar-lhe outra coisa, no entanto.}
+
+{320}{}{Sulik é uma tribal que está trabalhando aqui para pagar uma dívida que ele incorreu incrivelmente. Ele não é um
+ escravo. Nós não temos escravos aqui em Klamath.}
+{321}{}{Pagar uma dívida? O que você quer dizer?}
+
+{330}{}{Bem, você vê, Sulik ficou realmente chateado uma noite e teve muita bebida. Então, quando ele era bom
+ E bêbado, ele abriu o lugar. Ele causou quase US $ 500 de dano. Agora, obtendo o lugar
+ Reparado.}
+{331}{}{Por que ele ficou tão chateado?}
+
+{340}{}{Ele disse que descobriu que sua irmã havia sido sequestrada por escravas. Mas você deveria perguntar a ele
+ Mais sobre isso. Ele está aqui até que ele possa pagar o resto do dano que ele fez enquanto ele estava bêbado.}
+{341}{}{Quanto ele tem que trabalhar?}
+
+{350}{}{Ele ainda tem que pagar US $ 350. Se ele não fosse tão preguiçoso e sem mudança, seria mais rápido para ele.
+ Ele não vai embora até que sua dívida seja paga na íntegra.}
+{351}{}{Isto é muito dinheiro. Acho que ele vai estar aqui há muito tempo.}
+
+{360}{}{Bem, ele pode ser lento, mas ele faz um pouco de crescimento em você depois de um tempo. (Olha distraidamente) ...
+(Irritado) Agora é suficiente aleitamento do maxilar; Você precisa de mais alguma coisa?}
+{361}{}{Eu estava curioso sobre outra coisa.}
+{362}{}{E se alguém pagasse os danos da Sulik?}
+{363}{}{Isso é tudo que eu preciso por enquanto. Adeus.}
+
+{370}{}{Não sei por que alguém quer pagar sua dívida, mas eles poderiam. Sua conta chega a US $ 350.
+ Mas você não gostaria de fazer isso - ele só iria entrar em problemas novamente.}
+{371}{}{Eu não gosto dele ter que ficar aqui com um fanático como você. Eu quero pagar por seus danos.}
+{372}{}{Bem, tenho certeza que ele deve estar feliz trabalhando para você, mas eu ainda quero pagar seus danos. Eu
+ Não pense que alguém deveria estar preso da maneira que ele é.}
+{373}{}{Acho que você está certo. Eu não tenho muito dinheiro de sobra, mesmo assim. Adeus.}
+
+{380}{}{Bem, está bem então. Se você realmente quer pagar o dano causado ... Eu acho que todos vocês tribais
+ Realmente ficar juntos.}
+{381}{}{Sim eu quero. Tenho o suficiente para pagar os danos que causou.}
+{382}{}{Talvez seja muito dinheiro. Eu não acho que eu quero pagar por seus danos, afinal. Adeus.}
+
+{390}{}{Você deve estar louco. Eu certamente me alegrarei de ter aquele maldito (soluço) tribal (soluços) de distância (soluços, soluços) de
+ Aqui. (soluço)}
+{391}{}{(Soluço) Suponho que seja um comércio justo, um irmão idiota por um idiota (solteirão) selvagem. Não vou perder
+ Ele um pouco.}
+{392}{}{Bem, de alguma forma, acho que o Sulik pode realmente sentir falta de estar aqui. Mas voltaremos a visitar
+ Em algum momento, tenho certeza. No entanto, agora mesmo, preciso de algo.}
+{393}{}{Acho que o Sulik vai ficar muito melhor fora de você.}
+{394}{}{Obrigado; Acho que deveria estar indo agora.}
+
+{400}{}{Você está de volta, hein? Espero que você esteja cuidando do Sulik. Tenho certeza de que ele perdeu sem que eu contasse
+ O que fazer.}
+{401}{}{Estou de volta porque preciso de algo.}
+{402}{}{Bem, tenho certeza de que não posso fazer um bom trabalho para cuidar dele como você fez, mas vou tentar.}
+
+{420}{}{Bem, você seria melhor pedir a mãe sobre o que está acontecendo aqui na cidade.}
+{421}{}{Você seria melhor pedir a mãe sobre as coisas aqui na cidade. Você já viu Torr em qualquer lugar? isto
+ Parece que ele fugiu, e estamos com certeza preocupado.}
+{422}{}{Ok, vou falar com a Sra. Buckner sobre isso então. Permitam-me perguntar-lhe outra coisa.}
+{423}{}{Não, não vi Torr em qualquer lugar. Eu vou deixar você saber se eu fizer. Deixe-me perguntar-lhe outra coisa,
+ Apesar.}
+
+{430}{}{Obrigado por encontrar meu irmão, Torr. Ma e eu estávamos tão preocupados. O que posso fazer para você?}
+{431}{}{Obrigado novamente por encontrar Torr. O que posso fazer para você?}
+{432}{}{Fiquei feliz em ajudar Torr.}
+{433}{}{Feliz por encontrar Torr, mas não acho que preciso de nada agora. Adeus.}
+{434}{}{Feliz por ajudá-lo. Talvez você pudesse me fazer um favor e Sulik livre em troca da minha descoberta
+ seu irmão?}
+
+{440}{}{Você viu meu irmão Torr em qualquer lugar? Ele perdeu um pouco mais de braim e gritou para ele. Ele deve
+ Fugiram depois disso.}
+{441}{}{Uh-oh, onde você acha que ele pode ter ido?}
+{442}{}{Lamento ouvir isso, mas preciso de informações sobre outra coisa.}
+
+{450}{}{Não sei onde ele foi certo, mas acho que ele pode ter fugido para aquele canyon
+ Ele sempre estava falando.}
+{451}{}{Um canyon? Qual canyon?}
+
+{460}{}{Bem, há um desfiladeiro ao leste de onde pastamos o brâmane. Torr costumava virar selvagem
+ Histórias sobre bugmen vindo de lá. Ele disse que era bugmen o que mutilava nosso brahmin. Assustada
+ Ele é bobo com essas histórias tolas.}
+{461}{}{Parece que isso afetaria quase qualquer um.}
+
+{470}{}{Eu acho que ele poderia ter levado o cânion para provar sua bravura ou algo assim. Eu espero que
+ Alguém pode encontrá-lo antes que ele se machuque.}
+{471}{}{Talvez eu devesse tentar encontrá-lo.}
+{472}{}{Sinto muito, você não pode encontrá-lo. Tenho certeza de que ele está bem. Preciso de algumas informações.}
+{473}{}{Quem sabe para onde seu irmão idiota foi e quem se importa? Preciso de algumas informações.}
+
+{480}{}{Eu ficaria tão agradecido se você pudesse encontrar o meu irmão por minha mãe e por mim.}
+{481}{}{Eu ficaria feliz em procurá-lo.}
+{482}{}{Me desculpe, mas acho que não tenho tempo para isso agora. Adeus.}
+
+{500}{}{Muito obrigado. Retirar todas as coisas que eu falei sobre tribais. Encontre meu irmão para
+ mim.}
+{501}{}{Eu vou; você pode contar comigo.}
+
+{510}{}{Você já encontrou meu irmão? Espero que esteja bem.}
+
+{520}{}{Você quer uma bebida? Isso será $ 5 para um copo de Best Brew de Buckner.}
+{521}{}{Eu adoraria uma boa cerveja. Preencha-se.}
+{522}{}{Gostaria de comprar uma rodada de bebidas para todos aqui, por meio de me apresentar. Eu estou}
+{523}{}{ De Arroyo.}
+{524}{}{Não acredito que eu precise de uma cerveja depois de tudo. Talvez apenas algumas informações irão fazer.}
+
+{530}{}{Uma rodada para todos. Meu, meu - você não é generoso? Isso será $ 30.}
+{531}{}{Tenha um em mim, pessoal. Agora, como sobre alguma informação também?}
+{532}{}{Acho que preferiria tomar uma bebida para mim mesmo.}
+{533}{}{Eu acho que talvez eu me conforme apenas alguma informação por enquanto.}
+
+{540}{}{Parece que você não tem dinheiro suficiente para isso.}
+{541}{}{Bem, acho que vou me contentar com alguma informação então.}
+{542}{}{Ah, talvez eu volte quando tiver mais. Adeus.}
+
+{550}{}{Eu certamente me alegrarei de ter aquele maldito (soluço) tribal (soluços) de distância (soluços, soluços) de
+ Aqui. (soluço)}
+
+{600}{}{[MAIS]}

@@ -1,0 +1,144 @@
+# 0. QUICK LOOK (CODY ALIVE) (WTG)
+{125}{}{Você vê Cody.}
+
+# 1. LOOK (WTG)
+{175}{}{Você vê um órfão esfarrapado. Sobre os restos de sua camisa esfarrapada é rabiscado "Cody".}
+{176}{}{Você vê Cody. He glares at you sullenly.}
+{177}{}{Você vê Cody. His gaze could make mountains get out of the way.}
+{178}{}{Você vê Cody. His name is scribbled on the remains of his tattered shirt.}
+
+# 2. CODY INTRO (WTG)
+{200}{}{(A criança olha para você com tristeza enquanto se aproxima ... você mal consegue ver seu rosto sob toda a sujeira. Sobre os restos de
+ Sua camisa está rabiscada "Cody".)}
+{201}{}{(Cody olha para você sombriamente enquanto se aproxima.)}
+{202}{}{Kootchie kootchie}
+{203}{}{Glare de volta para mim}
+{204}{}{ Perdeu o carro.}
+{1204}{}{ triste. Você viu}
+{2204}{}{ carro?}
+{205}{}{Cody, você pode tomar}
+{1205}{}{ Para carro agora? Pleeease?}
+{206}{}{Afastar-se}
+{207}{}{Ei, Cody. Você está bem? Você quer algo para comer, talvez?}
+{208}{}{Ei, Cody. Você está com sede? Quer algo para beber?}
+{209}{}{Onde estão seus pais?}
+{210}{}{Hey, Cody. Have you seen my carro?}
+{211}{}{Cody, você pode tomarme to my car now?}
+{212}{}{Cody, você pode tomarme to the place where my car is?}
+{213}{}{Cody, você pode tomarme to the place where my car was?}
+{214}{}{Você pode me dizer quem roubou?}
+{215}{}{Adeus.}
+
+# 3. KOOTCHIE/GLARE BACK/OFFER CODY DRUGS (2, 5, 19)
+{220}{}{(Cody dá-lhe o dedo e foge).}
+{221}{}{(Os olhos de Cody se ampliam e ele foge).}
+{223}{}{EU TE MATO EU TE MATO EU TE MATO MATAR -}
+{224}{}{Talvez da próxima vez, então.}
+{225}{}{Pequena merda ...}
+
+# 4. HEY KID. YOU ALL RIGHT? WHERE ARE YOUR PARENTS? (2, 4)
+{230}{}{(Cody continua a olhar para você.)}
+{231}{}{Uh, você está bem, Cody?}
+{239}{}{Bem, até mais, Cody. Cuidar.}
+
+# 5. DRINK (2, 4)
+{251}{}{Ei, Cody. Quer uma nuka cola?}
+{252}{}{Quer um Brewski, garoto? Nunca era demais para começar, mamãe costumava dizer. Uh, quando estava sóbria, isso é.}
+{253}{}{Eu tenho um Jet aqui, Cody. Você quer voar alto com o tio}
+{254}{}{Eu tenho um Jet aqui, Cody. Você quer voar alto com Tia}
+{1254}{}{?}
+{255}{}{Ei, Cody ... quer algumas metafetaminas poderosas? Você poderia pegar e comer seu próprio jogo. Outras crianças, mesmo.}
+{256}{}{Bem, cuide-se, Cody.}
+{257}{}{Desculpe, garoto, parece que não tenho nada para lhe dar.}
+
+# 6. FOOD (2, 4)
+{261}{}{Quer um pedaço de fruta, Cody?}
+{262}{}{Quer alguma iguana, Cody? Mmmmmm bom.}
+{263}{}{Ei, Cody. Quer algum delici ... er, comestível ... laje da carne seca de Dunton? Mmmmmm ... uh ... bom.}
+
+# 7. CODY TAKES ITEM (5, 6)
+{270}{}{(Cody agarra o item e foge).}
+{271}{}{:: Mutter em voz baixa sobre o estado da juventude hoje. ::}
+{272}{}{De nada, criança ...! Não mencione ...}
+{273}{}{Sheesh. Little bugger.}
+{274}{}{Deve vender o bastardo ingrato em escravidão ... hmmmm, espere um minuto ...}
+
+# 8. HAVE YOU SEEN MY CAR? [X] LOST CAR? (2, 4)
+{280}{}{(Cody acena com a cabeça!)}
+{281}{}{(Para sua surpresa, Cody acena com a cabeça.)}
+{282}{}{Entende}
+{1282}{}{ carro! Onde! Onde! Leve-me! Leve-me! Pleeease? Você poderia? Hã?}
+{283}{}{É bom, você sabe onde}
+{1283}{}{ car is…oh, look! Shiny thing! (Afastar-se.)}
+{284}{}{Você fez?! Você pode me mostrar onde está?}
+{286}{}{Bem, eu só estava curioso. Eu voltarei.}
+
+# 9. CODY FINGERS JULES (2, 4, 8)
+{290}{}{(Cody olha com medo para Jules do outro lado da rua, que está olhando para vocês dois).}
+{291}{}{(Cody olha com medo para o homem negro do outro lado da rua, que está olhando para vocês dois).}
+{292}{}{Oh, REALMENTE ... bem, parece que Jules e meu punho estarão falando um pouco, então.}
+{293}{}{Oh, REALMENTE ... bem, você sabe o que vai acontecer agora, Cody? O homem mau que roubou}
+{1293}{}{Carro e}
+{2293}{}{O punho de Tony vai ter uma conversa privada no outro lado da rua.}
+{294}{}{Sério? Bem, vou lidar com ele mais tarde. Você pode me levar para onde o carro está agora?}
+
+# 10. CODY FINGERS JULES, BUT JULES DEAD (8)
+{300}{}{(Cody encolhe os ombros.)}
+{301}{}{Você pode me levar para onde o carro está agora?}
+{302}{}{Well, I was just curious. Adeus.}
+
+# 11. SHOW ME! SHOW ME!/YOU CAN?! WILL YOU? (2, 4, 8, 9, 10)
+{310}{}{(Cody acena com a cabeça novamente, depois começa a correr.)}
+{311}{}{(Correr depois dele.)}
+{312}{}{Oh, bom, eu segui ... oooh, olha areia! É tão bronzeado! Uh ... onde Cody vai?}
+{313}{}{Cody, pare! Eu não quero ir lá agora ... Eu tenho algumas outras coisas pelas quais eu tenho que cuidar primeiro. Volto um pouco.}
+
+# 12. SCARE CODY OFF (WTG)
+{320}{}{(A criança olha para você quando você se aproxima. Ele está vestido com trapos, e você mal consegue ver seu rosto sob toda a sujeira.
+ Quando você está perto dele, seus olhos cintilam em sua testa, ampliam-se, então ele sai correndo.)}
+{321}{}{(De longe, a criança parece vestida com trapos. Ao aproximar-se dele em sua Armadura de Poder, no entanto, seus olhos se ampliam
+ E ele sai correndo.)}
+{322}{}{Tchau tchau}
+{324}{}{Deve vender o pequeno bastardo à escravidão ... hmmmm, espere um minuto ...}
+
+# 13. SCARE CODY OFF CUZ OF BAD KARMA (WTG)
+{330}{}{(À distância, a criança parece vestida com trapos. Ao se aproximar, no entanto, seus olhos se ampliam e ele sai correndo.)}
+
+# 14. SCARE CODY OFF CUZ OF MARCUS (WTG)
+{340}{}{(À distância, a criança parece vestida com trapos. Ao ver Marcus se aproximar, no entanto, seus olhos se ampliam e ele
+ Sai correndo.)}
+
+# 15. SCARE CODY OFF CUZ OF LENNY (WTG)
+{350}{}{(À distância, a criança parece vestida com trapos. Ao ver Lenny se aproximar, no entanto, seus olhos se ampliam e
+ Ele sai correndo.)}
+
+# 16. FALLOUT2 = ENCLAVE_DESTROYED (WTG)
+{360}{}{(O olhar de Cody se rompe quando você se aproxima. Ele pisca enquanto voce vem até ele, então dá um leve sorriso.)}
+{361}{}{(A criança olha para você com tristeza enquanto se aproxima ... você mal consegue ver seu rosto sob toda a sujeira. Sobre os restos
+ De sua camisa está rabiscada "Cody". Quando você está perto dele, seu brilho se quebra e ele sorri levemente.)}
+{362}{}{Haaay Codee}
+{363}{}{Biii-ye, Codee}
+{364}{}{Como você está fazendo Cody?}
+{365}{}{Ei, Cody. Acabei salvando o mundo. Homem, era uma DOR. Quem pensaria que o presidente poderia ser um bastardo?
+ Whew. Então ... como estão as coisas com você?}
+{366}{}{Só pensei em parar e dizer olá, Cody. Você cuida de New Reno, tudo bem?}
+
+# 17. FALLOUT2 = TALKIN' (16, 17)
+{370}{}{(Cody continua sorrindo para você.)}
+{371}{}{(Cody continua a sorrir para você.)}
+{372}{}{(Cody sorri.)}
+{375}{}{Então ... como você está fazendo Cody? Bom, hein?}
+{377}{}{Bem, pensei que eu iria parar e dizer olá, Cody. Você cuida de New Reno, tudo bem?}
+
+# 18. SEEYA (16, 17)
+{380}{}{(Cody pisca, então mumble algo.)}
+{381}{}{Hã? Wat você diz?}
+{382}{}{O que, Cody? O que você acabou de dizer?}
+
+# 19. THANKS (18)
+{390}{}{(Cody pisca, então mumble-lo novamente. Você quase não o pega, mas pareceu "obrigado".)}
+{391}{}{(Cody pisca, então mumble-lo novamente. Você quase não o pega, mas pareceu "foder você").}
+{392}{}{Obrigado, Codee. Witout Npee Cees como você, eu em MUITO borrin mundo}
+{393}{}{EU TE MATO EU TE MATO}
+{394}{}{Ei, não há problema, Cody. Salvar o mundo parece estar no sangue. Tome cuidado agora, você ouve?}
+{395}{}{Você merda! Eu vou matar você! Eu vou matar você --!}

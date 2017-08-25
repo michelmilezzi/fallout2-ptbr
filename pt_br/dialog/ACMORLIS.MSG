@@ -1,0 +1,54 @@
+{100}{}{Você vê Morlis, uma das suas tias - a quem nunca gostou de você.}
+{101}{}{Por que você me incomoda, sobrinho? Você não vê que estou ocupada?}
+{301}{}{Por que você me incomoda, sobrinha? Você não vê que estou ocupada?}
+{102}{}{Umm, está bem. Desculpa.}
+{103}{}{O que é isso? Você sabe que tenho muito o que fazer!}
+{104}{}{Ummm, Mynoc disse ...}
+{105}{}{Mynoc disse o que? Com isso, criança!}
+{106}{}{Isso, umm, você pode ter algum pederneira.}
+{107}{}{Eu faço. Você quer alguns, é isso?}
+{108}{}{Bem, sim.}
+{109}{}{Bem ... Quero três doses de pó curativo. Os tempos ruins estão chegando
+ e eu vou estar pronto. Traga-os para mim e você pode ter o pederneira. Agora
+ acesse!}
+{110}{}{Sim, senhora!}
+{111}{}{Agora não perca meu tempo. Você tem os pós?}
+{112}{}{Sim, aqui estão eles.}
+{113}{}{Umm, acho que não.}
+{114}{}{Aqui está o pederneira. Agora com você! Não tenho tempo para fofocar.}
+{115}{}{Obrigado, tia Morlis.}
+{116}{}{Mais uma vez você desperdiça meu tempo, sobrinho sem valor! Como você se tornou
+ o Escolhido?}
+{117}{}{Sim, tia Morlis.}
+{118}{}{Uh, tia Morlis, tenho três aqui.}
+
+{150}{}{Tia Morlis, estou em uma perigosa busca pela salvação de nossa aldeia.
+ Minhas chances de sucesso serão muito aprimoradas se eu manter os pós de cura
+ para mim e você me dá o pederneira. Você não concorda?}
+{151}{}{O que você acha que está fazendo, criança? Não é assim que o Escolhido age. Agora, saia da minha vista!}
+{152}{}{Se este sílex é tão importante que você está disposto a desgraçar o nome do Escolhido, então aqui. Levar
+ o sílex e sai da minha vista.}
+{153}{}{Sim, tia Morlis.}
+{154}{}{Bem ... Oh, muito bem. Aqui está o pederneira. Desejo-lhe uma viagem segura, criança.}
+{155}{}{Não, eu não. Agora pare de desperdiçar meu tempo e sair daqui!}
+{156}{}{Sim, tia Morlis.}
+
+
+# new add on stuff for time limit
+{200}{}{Então você retornou. Você encontrou os santos treze?}
+{201}{}{Não, tia Morlis, eu ...}
+{202}{}{Então tire-se daqui e ache-o! As pessoas dependem de você!}
+{203}{}{Sim, tia Morlis.}
+{204}{}{Bem, aqui está novamente. Você já não conseguiu completar sua missão?}
+{205}{}{Sim, tia Morlis, mas ...}
+{206}{}{Então tire-se daqui e não volte até você fazer! Por que perder o tempo de voltar aqui, quando você poderia estar usando esse tempo para continuar sua pesquisa?}
+{207}{}{Sim, tia Morlis.}
+{208}{}{O fato de você ficar aqui deve significar que você completou sua missão. Você não desperdiçaria um tempo precioso retornando aqui com as mãos vazias, você faria?}
+{209}{}{Sim, tia Morlis. I mean no, Aunt Morlis. Uh, I've got to go, Aunt Morlis.}
+{210}{}{Então, criança. Mais uma vez você está diante de mim. Você está com as mãos vazias mais uma vez?}
+{211}{}{Sim, tia Morlis.}
+{212}{}{Ouço,}
+{213}{}{. As pessoas estão morrendo, o gado está morrendo e as colheitas estão falhando. Todo mundo está com fome, doente ou ambos. Nosso tempo se aproxima. Se você não encontrar o GECK em breve, estamos condenados. Você me entende?}
+{214}{}{Sim, tia Morlis.}
+{215}{}{Então tire-se daqui e encontre o GECK! As pessoas dependem de você!}
+{216}{}{Sim, tia Morlis.}

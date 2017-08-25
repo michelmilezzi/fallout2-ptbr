@@ -1,0 +1,58 @@
+{100}{}{Você vê uma pessoa com armadura motorizada.}
+{101}{}{Você vê um soldado Enclave.}
+{102}{}{Você vê uma pessoa com uma armadura com aparência muito avançada.}
+{103}{}{Quem vai lá?}
+{104}{}{Ir em frente.}
+{105}{}{O que você está olhando?}
+{106}{}{Mova-se.}
+{107}{}{Nenhuma demora.}
+{108}{}{Vou colocá-lo no relatório.}
+{109}{}{Volta para o trabalho.}
+{110}{}{Você tem autorização para esta seção?}
+{111}{}{Não pode estacioná-lo aqui, bub.}
+{112}{}{Continue seguindo em frente.}
+{113}{}{Abotoar.}
+{114}{}{Isso não é broca, repita, sem broca.}
+{115}{}{Comece os procedimentos de contenção.}
+{116}{}{Entre em uma área clara. Agora!}
+{117}{}{Temos aqui uma situação perigosa.}
+{118}{}{É melhor você se proteger.}
+{119}{}{Você não notou o alarme?}
+{120}{}{Rads ou toxinas, que excelente dia.}
+{121}{}{Alguns dias não pagam para sair da cama.}
+{122}{}{Toda inspeção é um desfile.}
+{123}{}{Eu amo meu trabalho.}
+{124}{}{Você ouviu algo?}
+{125}{}{Meus pés estão me matando.}
+{126}{}{Então, você ouviu aquele sobre o novo segundo louie?}
+{127}{}{Nada disso acontece de qualquer maneira.}
+{128}{}{Eu certamente gostaria que algo excitante acontecesse.}
+{129}{}{Ouvi dizer que o vice-presidente está realmente doente, como na cabeça.}
+{130}{}{Você não está dormindo, você está?}
+{131}{}{Verificação de rádio. Verifique, verifique. Você está me lendo?}
+{132}{}{(Yawwwwn)}
+{133}{}{Ei jogo de pôquer hoje à noite. Cara, também sinto a sorte.}
+{134}{}{Fique atento às pessoas.}
+{135}{}{Mantenha-se afiado.}
+{136}{}{Esta não é uma broca.}
+{137}{}{Obter os civis em segurança.}
+{138}{}{Verifique o perímetro.}
+{139}{}{Todas as unidades informam em.}
+{140}{}{Eles estão perto, eu posso sentir isso.}
+{141}{}{Fique gelado, pessoas.}
+{142}{}{Temos um trabalho a fazer aqui.}
+{143}{}{Você aposta, sarge.}
+{144}{}{Sim senhor.}
+{145}{}{Seção B, tudo bem.}
+{146}{}{Corredor claro.}
+{147}{}{Voltando ao local de inaptidão.}
+{148}{}{Bravo team reportando em.}
+{149}{}{Relatório da equipe Gamma em.}
+{150}{}{./~Sinha o nome, brilha o nome, brilha o nome de Rodger Young ./~}
+{151}{}{Certo, quem está pegando chiclete no fone de ouvido?}
+{152}{}{Pare stompin 'aquelas uvas.}
+{153}{}{./ - A casa de Jody agora, a grama de fumaça. / Jody está a bombear a esposa de sua esposa ... / ~}
+{154}{}{./~ Sound off, 1-2-3-4, traga-o para baixo ./~}
+{155}{}{Nível 2, tudo claro.}
+{156}{}{Setorial 7, claro.}
+{157}{}{Holodeck claro.}

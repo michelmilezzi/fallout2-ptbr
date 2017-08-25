@@ -1,0 +1,352 @@
+# 0. LOOK (WTG)
+{100}{}{Você vê Three-Card Monte.}
+
+# 0. LOOK (WTG)
+{150}{}{Você vê um velho velhote com um rosto queimado pelo sol. Ele é tão magro que parece que ele é feito de galhos.}
+{000}{}{Você vê Three-Card Monte. He scopes out the street, spots you, and nods.}
+{000}{}{Você vê Three-Card Monte. He scopes out the street, spots you, and nods.}
+
+# 1. FLOAT (MONTE_BEATEN] (WTG)
+{200}{}{Não veja como perdi ...}
+{000}{}{Apenas continue caminhando ... Monte não está no negócio hoje.}
+{000}{}{Eu palmicei o cartão errado?}
+{000}{}{Como essa tribo estúpida continua escolhendo o cartão certo?}
+
+# 3. FLOAT [FALLOUT2 = ENCLAVE_DESTROYED] (WTG)
+{205}{}{Heeeey! Herói! Você está bem, você está bem.}
+{000}{}{:: Dá o sinal do thumbs up ::}
+{000}{}{:: Sorrisos, acenos de cabeça ::}
+{000}{}{Você fez bem, herói. Você fez o bem.}
+
+# 4. FLOAT [NO CARDS] (WTG)
+{215}{}{Onde diabos são minhas cartas? Eu apenas os tive.}
+{000}{}{Malditos gnomos de chave de carro, agora eles estão indo atrás de minhas cartas.}
+
+# 5. FLOAT [GENERIC] (WTG)
+{220}{}{Eu, amigo, não se preocupe com os casinos. Venha jogar com o Monte.}
+{000}{}{Procurando por uma chance, amigo? Melhor chance em New Reno! Vamos lá…}
+{000}{}{Você, amigo. Você parece um cara sortudo, já acabou.}
+{000}{}{Alguém que procura jogar? Mon-ay grátis, mon-ay grátis.}
+{000}{}{Venha e jogue. No outro dia, eu ganhei 50 fichas fora de mim, fácil.}
+{000}{}{Fácil, apenas adivinhe a Rainha, a rainha vermelha e você ganha. Tão fácil.}
+{000}{}{Você é alérgico a dinheiro fácil? Então venha aqui.}
+{000}{}{Todo mundo está ganhando hoje ... você quer ser o próximo?}
+{000}{}{Os casinos vão te arrancar, roubá-lo cego ... Monte trata você direito, dá-lhe uma chance justa.}
+{000}{}{Procurando por uma chance, senhora? Melhor chance em New Reno! Vamos lá…}
+{000}{}{Você é alérgico a dinheiro fácil, senhora? Então venha aqui.}
+{000}{}{Você, senhora. Você parece uma galera de sorte, acabe.}
+{000}{}{Você, senhora, não se preocupe com os casinos. Venha jogar com o Monte.}
+
+# 7. PLAYING CARDS GONE (WTG)
+{230}{}{Monte não está aberto para jogos hoje, amigo; meus cartões malditos desapareceram.}
+
+# 8. INTRO (WTG)
+{231}{}{(O velho sorri, e a pele em torno de seus olhos arruina.) Olhando para jogar, amigo?}
+{000}{}{(O velho sorri, e a pele em torno de seus olhos arruina.) Olhando para jogar, senhora?}
+{000}{}{(O velho sorri, e a pele em torno de seus olhos arruina.) Olhando para jogar, herói?}
+{000}{}{(Monte sorri, e a pele em torno de seus olhos arruina.) Olhando para jogar, amigo?}
+{000}{}{(Monte sorri, e a pele ao redor de seus olhos arruina.) Olhando para jogar, senhora?}
+{000}{}{(Sorrisos do Monte, e a pele ao redor de seus olhos arruina.) Olhando para jogar, herói?}
+{000}{}{Three-Card Monte é o nome, e o jogo é o mesmo que o nome. Slap down 20 chips, e vamos chegar até ele.}
+{000}{}{Você cheeter. Você não é justo}
+{000}{}{Ok, aqui, não tenho certeza de quantos 20 é, então, um monte}
+{000}{}{Uh, eu lisonjeado, mas eu não quero chegar a ele agora ... byyyyye}
+{000}{}{Shamble off}
+{000}{}{Não estou brincando com um trapaceiro como você.}
+{000}{}{Uh, desce para o quê?}
+{000}{}{Estou familiarizado com o jogo. Aqui estão 20 fichas. Vamos jogar.}
+{000}{}{Three-Card Monte, hein? Você colocou três cartas viradas para baixo, arrastando-as e eu escolho um cartão. Se é o cartão certo - o que não será, desde que você o palmeou enquanto arrastava - então eu ganho. Não, obrigado, amigo.}
+{000}{}{Three-Card Monte, hein? Você colocou três cartas viradas para baixo, arrastando-as e eu escolho um cartão. Se é o cartão certo - o que não será, desde que você o palmeou enquanto arrastava - então eu ganho. Não, obrigado, amigo.}
+{000}{}{Não hoje, obrigado.}
+
+# 9. UH, GET DOWN TO WHAT? (8)
+{250}{}{Desce para o quê? O jogo, é claro!}
+{000}{}{Veja ... (mostra três cartas) ... uma dessas é uma rainha. Deixo-os de frente para baixo, misture-os, então você escolhe qual é a rainha. Se você está certo, você ganha.}
+{000}{}{Isso é simples, amigo.}
+{000}{}{Isso é simples, senhora.}
+{000}{}{Não estou brincando com um trapaceiro como você.}
+{000}{}{Você poderia explicar as regras novamente?}
+{000}{}{Soa bastante simples. Vamos jogar. Aqui estão 20 fichas.}
+{000}{}{Não hoje, obrigado.}
+
+# 10.  PLAYING, BASIC CHEATING (8, 9, 11)
+{260}{}{(Você entrega o dinheiro. Monte acena com a cabeça, mostra-lhe os cartões, depois bate-os no chão e os embarca por alguns segundos.)}
+{000}{}{Então ... qual é a rainha, amigo?}
+{000}{}{Então ... qual é a rainha, senhora?}
+{000}{}{(Você acha que é o da esquerda.)}
+{000}{}{(Você pensa que é o do meio.)}
+{000}{}{(Você acha que é o da direita).}
+{000}{}{(Você não sabe. As cartas se moveram muito rápido.)}
+{000}{}{Lucy leftie}
+{000}{}{Meio da estrada}
+{000}{}{Rightie tightie}
+{000}{}{O da esquerda.}
+{000}{}{A da direita.}
+{000}{}{A do meio.}
+
+# 11.  PLAYING, LOST (10, 12, 15)
+{280}{}{(Monte gira o cartão. São os dois de espadas.)}
+{000}{}{Desculpe, amigo, não desta vez, mas você estava CERTO.}
+{000}{}{Desculpe, senhora, não desta vez, mas você estava CERTO.}
+{000}{}{Você tem certeza que o olho para isso, no entanto. Quer tentar novamente?}
+{000}{}{Você cheeter. Você não é justo}
+{000}{}{Ok, aqui, não tenho certeza de quantos 20 é, então, um monte}
+{000}{}{Nuh-uh Me no COMO jogo BYYYYE}
+{000}{}{Não estou brincando com um trapaceiro como você.}
+{000}{}{Certo. Aqui estão 20 fichas.}
+{000}{}{Não, obrigado.}
+
+# 12.  PLAYING, NOTICE MONTE CHEATING (8, 9, 11, 14)
+{300}{}{(Você entrega o dinheiro. Monte acena com a cabeça, mostra as cartas, depois as coloca no chão. Como ele faz, ele palma um cartão, tão rápido que você quase perdeu. Ele então passa a baralhar por alguns segundos.)}
+{000}{}{Então ... qual é a rainha, amigo?}
+{000}{}{Então ... qual é a rainha, senhora?}
+{000}{}{Você colocou em sleevie weevie você não jogar justo}
+{000}{}{Lucy leftie}
+{000}{}{Meio da estrada}
+{000}{}{Rightie tightie}
+{000}{}{Você é o CHEATER. Eu vi você a palma desse cartão. Me devolva meu dinheiro antes de eu te matar aqui na rua.}
+{000}{}{O da sua manga.}
+{000}{}{O da esquerda.}
+{000}{}{A da direita.}
+{000}{}{A do meio.}
+
+# 13. YOU GODDAMN CHEATER . . . (8, 9, 11, 12, 15)
+{320}{}{O que você disse, amigo?}
+{000}{}{O que você disse, senhora?}
+{000}{}{Você está me acusando de trapaça?}
+{000}{}{Uh-uh. Eu CONHECE você cheet}
+{000}{}{Nuh-uh! Nuh-uh! Não fique louco. Estou indo.}
+{000}{}{Sim.}
+{000}{}{Aperte isso. Mantenha o dinheiro, estou fora daqui.}
+
+# 14. YES (13)
+{330}{}{Olha, não tenho tempo para perdedores doloridos. Você paga seu dinheiro, você tira suas chances. Se vocês
+ quer jogar, bem, mas se
+ Você vai ficar cadela quando você perder, então perca-se!}
+{000}{}{ME BREAK YOU}
+{000}{}{Nuh-uh! Nuh-uh! Não fique louco. Estou indo.}
+{000}{}{É isso aí. Você está morto.}
+{000}{}{Tudo bem, tudo bem. Eu sinto Muito. Aqui estão 20 fichas. Vamos jogar de novo.}
+{000}{}{Dane-se. Mantenha o dinheiro, estou fora daqui.}
+
+# 15. PLAYING, SWITCH BUT NOT COMPLETE, MONTE CHEATING (8, 9)
+{340}{}{(Você entrega o dinheiro. Monte acena com a cabeça, depois bate as cartas e as embarca por alguns segundos.)}
+{000}{}{Então ... qual é a rainha, amigo?}
+{000}{}{Então ... qual é a rainha, senhora?}
+{000}{}{(Monte está usando o seu deck normal! Você precisa roubar seu outro convés para completar o interruptor.)}
+{000}{}{Você colocou em sleevie weevie você não jogar justo}
+{000}{}{Uh ... Lucy leftie}
+{000}{}{Uh…Meio da estrada}
+{000}{}{Uh ... Rightie tightie}
+{000}{}{Você é o CHEATER. Eu vi você a palma desse cartão. Me devolva meu dinheiro antes de eu te matar aqui na rua.}
+{000}{}{O da sua manga.}
+{000}{}{Uh, o do lado esquerdo.}
+{000}{}{Uh, o da direita.}
+{000}{}{Uh, aquele no meio.}
+
+# 16. PLAYING, CHEATED MONTE (8, 9, 17)
+{360}{}{(Você entrega o dinheiro. Monte acena com a cabeça, mostra-lhe os cartões, depois bate-os no chão e os embarca por alguns segundos.)}
+{000}{}{(Você entrega o dinheiro. Monte parece desconfortável.) Uh ... tudo bem ... (Monte coloca as cartas no chão e as embaralha).}
+{000}{}{Então ... qual é a rainha, amigo?}
+{000}{}{Então ... qual é a rainha, senhora?}
+{000}{}{(Monte usando o deck marcado. Qualquer escolha é a certa.)}
+{000}{}{Leftie! Leftie!}
+{000}{}{Rightie! Rightie!}
+{000}{}{Middlie! Middlie!}
+{000}{}{Oh, eu não sei ... o da esquerda.}
+{000}{}{Hmmmm ... talvez o da direita?}
+{000}{}{Gee, não tenho certeza ... acho que é a única no meio.}
+
+# 17. PLAYING, WON (16)
+{375}{}{(Monte volta o cartão. É a rainha dos corações. Ele parece paralisado com choque.) Uh ...? Heh. Eh...}
+{000}{}{acho que você ganhou, amigo.}
+{000}{}{acho que você ganha, senhora.}
+{000}{}{(Ele entrega o dinheiro de forma relutante.)}
+{000}{}{Novamente! Novamente!}
+{000}{}{Então eu vou agora}
+{000}{}{Então vamos jogar novamente ou o quê? Vamos, Monte. Estou apenas começando.}
+{000}{}{Bem, obrigado Monte. Até logo.}
+
+# 18. PLAYING, DON'T HAVE ANY MORE CASH (16)
+{385}{}{(Monte vira o cartão. É a rainha dos corações. Ele parece chocado.) Uh ...? Heh ... uh ...}
+{000}{}{acho que você ganhou, amigo.}
+{000}{}{acho que você ganha, senhora.}
+{000}{}{Isso me limpa, no entanto ... (Olha para você fracamente). Mais alguma coisa que eu possa fazer por você?}
+{000}{}{Nuttin. Eu só queria um extra EXP extra. Tchau. Tchau.}
+{000}{}{O que voce conseguiu?}
+{000}{}{Por que você não me fornece alguma informação?}
+{000}{}{Esquece, Monte. Vamos chamá-lo até hoje.}
+
+# 19. WHAT HAVE YOU *GOT?* (18)
+{400}{}{(Parece dolorido.) Eh ... bem, eu tenho algo ... mas vale a pena mais do que você ganhou ... ainda ...}
+{000}{}{Bem? O que é isso?}
+{000}{}{Se vale mais para você do que morrer no Gólgota, porque você lança uma dívida, esse é o seu problema. Eu pensaria
+ sobre isso, se eu fosse você.}
+
+# 20. WHY DON'T YOU GIVE ME SOME INFO? (18, 44)
+{405}{}{Eh ... hmnnn ... depende do que você quer saber.}
+{000}{}{Você sabe quem espalhou o filho de Wright? Fez-lhe O.D. no Jet?}
+{000}{}{Você sabe onde eu poderia encontrar um cara chamado Pretty Boy Lloyd?}
+{000}{}{Você sabe onde está meu carro, Monte?}
+{000}{}{Tem algo que você acha que eu deveria saber?}
+{000}{}{Nevermind, Monte. Estamos quites. Até logo.}
+
+# 21. O.D. ON JET (20)
+{415}{}{Eh ... bem ... olha, você não é ouvido por mim, mas minhas apostas em Renesco, aquele idiota que dirige a farmácia no lado oeste.
+ Eu não sei se ele vendeu para o garoto com certeza, mas ele sabe de alguma coisa. Isso é tudo o que vou dizer.}
+{000}{}{Tudo bem, Monte. Estamos quites.}
+
+# 22. PRETTY BOY (20)
+{420}{}{Eh ... bem ... (parece que ele está lutando contra uma batalha interna) ... olha, você não ouviu isso de mim, mas se eu fosse você, eu iria
+ Confira o porão do Desperado.}
+{000}{}{Tudo bem, Monte. Estamos quites.}
+
+# 23. KNOW WHERE MY CAR IS? (20)
+{425}{}{(Narra seus olhos, inclina-se) Eu pediria ol 'Jules na frente da cidade. Nada passa por ele ... e
+ se isso acontecesse, então ele entendeu o que estou dizendo?}
+{000}{}{Tudo bem, Monte. Estamos quites.}
+
+# 24. GOT ANYTHING YOU THINK I SHOULD KNOW? (20)
+{430}{}{Bem ... sabe que Eldridge fella que corre New Reno Arms? Ele diz que faz upgrades de armas, mas nunca o vejo fazer
+ qualquer trabalho. Pode valer a pena verificar o lugar dele ... mas você não ouviu isso de mim.}
+{000}{}{Tudo bem, Monte. Estamos quites.}
+
+# 25. MONTE_BEATEN (WTG)
+{435}{}{(Monte franziu a testa enquanto ele vê você.) Olha, eu não estou executando nenhum jogo hoje, está bem? Golpe.}
+{000}{}{Posso comprar esse cartão que você me mostrou antes?}
+{000}{}{Eu queria alguma informação ...}
+{000}{}{Tudo bem, Monte. Eu vou embora ... por enquanto.}
+
+# 26.  CAN I BUY THAT CARD? (25, 27)
+{440}{}{Não. Não vai partir com isso. Período. É uma recordação de pré-guerra genérica ... uma pequena parte da história. De jeito nenhum.}
+{000}{}{Você está me fazendo uma OUTRA oferta? Olha, eu disse que não a vendi.}
+{000}{}{Que tal cerca de mil fichas? Eu entendi comigo. É seu em troca desse cartão.}
+{000}{}{Nem mesmo para 750 fichas?}
+{000}{}{Como cerca de 500 fichas?}
+{000}{}{250 chips soam direito?}
+{000}{}{OK. Tive algumas outras questões ...}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 27.  NOPE. (26)
+{450}{}{Você é surdo? Esse montante não é suficiente para me interessar.}
+{000}{}{Que tal eu sugiro outro valor ...?}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 28.  OKAY. (26)
+{460}{}{Bem, isso não é tão querido para mim. É seu, amigo. (Ele olha para a direita e para a esquerda, depois desce e puxa o seu
+ inicialização. Ele se afasta do calcanhar e tira uma carta de jogar por dentro.) Aqui você vai. Tome conta disso.}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Obrigado Monte. Sempre um prazer.}
+
+# 29.  WHY DON'T YOU GIVE ME SOME INFO? (25, 26, 27, 28, 30, 31, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43)
+{465}{}{(Frowns) Se eu falo depende do que você quer saber. E não vai ser barato.}
+{000}{}{Você sabe quem espalhou o filho de Wright? Fez-lhe O.D. no Jet?}
+{000}{}{Você sabe onde eu poderia encontrar um cara chamado Pretty Boy Lloyd?}
+{000}{}{Você sabe onde está meu carro, Monte?}
+{000}{}{Tem algo que você acha que eu deveria saber?}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 30.  O.D. ON JET, BUYING INFO (29, 31, 42)
+{475}{}{De jeito nenhum, no Gólgota, eu vou até mesmo tocar esse assunto. Não me chateies.}
+{000}{}{Olha, as más notícias do assunto. Deixe isso sozinho, tudo bem?}
+{000}{}{Você está me fazendo outra oferta? Olha, eu disse-lhe que NÃO vou falar sobre isso.}
+{000}{}{Mil pedaços mudam de idéia? Eu entendi comigo.}
+{000}{}{Nem mesmo para 750 fichas?}
+{000}{}{Como cerca de 500 fichas?}
+{000}{}{250 chips soam direito?}
+{000}{}{Uh ... Gologtha?}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 31.  O.D. ON JET, NO DEAL (30)
+{490}{}{(Shakes his head.) De jeito nenhum. Falar sobre isso poderia matar alguém, começando comigo. Esqueça.}
+{000}{}{Que tal se eu te oferecesse isso ...}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 32.  O.D. ON JET, BOUGHT INFO (30)
+{495}{}{Eh ... bem ... são muitas fichas. (Licks seus lábios. Ele parece estar lutando contra uma batalha interna ... mas a batalha é breve.) Olha, você não é ouvido de mim ...}
+{000}{}{Entendido. Continue.}
+
+# 33.  LLOYD, BUYING INFO (29, 34)
+{500}{}{(Sneers) Talvez eu tenha ouvido algo, talvez não tenha feito. Nomeie um preço.}
+{000}{}{Tudo bem ... fale um preço.}
+{000}{}{Que tal cerca de mil fichas? Eu entendi comigo.}
+{000}{}{Nem mesmo para 750 fichas?}
+{000}{}{Como cerca de 500 fichas?}
+{000}{}{250 chips soam direito?}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 34. PRETTY BOY, NOPE (33)
+{510}{}{Ha! Você não poderia comprar um balde de urina por tanto. Esqueça.}
+{000}{}{Que tal se eu te oferecesse isso ...}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 35. PRETTY BOY, SURE (33)
+{515}{}{Thaaaat está certo. (Grins malvado.) Olha, você não ouviu isso de mim, mas se eu fosse você, eu verificaria o porão do Desperado na Virgin Street. Há muitos "ratos" lá, se você conseguir minha deriva.}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Consegui. Obrigado.}
+
+# 36. KNOW WHERE MY CAR IS? (29, 37)
+{520}{}{(Shrugs) Talvez eu saiba algo sobre isso, talvez eu não. Diga-me um preço e talvez eu tenha algo a dizer.}
+{000}{}{Tudo bem ... fale um preço.}
+{000}{}{Que tal cerca de mil fichas? Eu entendi comigo.}
+{000}{}{Nem mesmo para 750 fichas?}
+{000}{}{Como cerca de 500 fichas?}
+{000}{}{250 chips soam direito?}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 37. KNOW WHERE MY CAR IS? NO (36)
+{530}{}{(Narra seus olhos, inclina-se) Por essa quantidade, não sei nada.}
+{000}{}{Que tal se eu te oferecesse isso ...}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 38. KNOW WHERE MY CAR IS? YES (36)
+{535}{}{Isso é certo ... (estreita os olhos, inclina-se) ... Eu pediria ol 'Jules na frente da cidade. Nada
+ passa por ele ... e se isso aconteceu, então ele entendeu o que estou dizendo?}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Tudo bem, Monte. Obrigado.}
+
+# 39. GOT ANYTHING YOU THINK I SHOULD KNOW? (29)
+{540}{}{(Shrugs) Eu ouço coisas, vejo coisas. Para 200 fichas, talvez você possa obter o benefício da minha experiência, saber o que estou dizendo?}
+{000}{}{Aqui estão 200 fichas.}
+{000}{}{Eu lhe darei 150.}
+{000}{}{100 fichas ou nada.}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 40. GOT ANYTHING YOU THINK I SHOULD KNOW? NOPE (39)
+{550}{}{Você é surdo? EU DEI 200 fichas, e eu quis dizer isso.}
+{000}{}{All right. Aqui estão 200 fichas.}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Nunca mais, Monte. Estou fora daqui.}
+
+# 41. GOT ANYTHING YOU THINK I SHOULD KNOW? YES (39, 40)
+{555}{}{Feito. (Monte se aproxima) Bem, conhece aquele cara Eldridge, corre New Reno Arms? Ele diz que ele faz
+ upgrades de armas, mas nunca o vejo fazer nenhum trabalho. Você pode querer verificar seu lugar ... mas
+  você não ouviu isso de mim.}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Entendido. Obrigado Monte.}
+
+# 42. GOLGOTHA (30)
+{560}{}{Boneyard ao sul da cidade. Fede no alto do céu, o faz.}
+{000}{}{Oh, eu vejo. Agora, sobre o garoto Wright ...}
+{000}{}{Esqueça o garoto Wright. Tive algumas outras questões ...}
+{000}{}{Tudo bem, Monte. Obrigado.}
+
+# 43.  O.D. ON JET, BOUGHT INFO 2 (32)
+{565}{}{Minhas apostas em Renesco, aquele velho idiota que dirige a farmácia no lado oeste. Eu não sei
+ se ele vendeu para o garoto com certeza, mas ele sabe ALGO. (Glances) Isso é tudo o que vou dizer.}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Tudo bem, Monte. Obrigado.}
+
+# 44. WHY DON'T YOU GIVE ME THAT CARD? (19)
+{570}{}{(Ele olha para a frente, depois baixa e puxa a bota. Ele se afasta do calcanhar e tira um cartão ... no cartão
+ é um homem com um chapéu estranho, empunhando um clube.) Interessado? É uma lembrança genuína de pré-guerra.}
+{000}{}{Não, já tenho itens de inventário suficientes ... Preferiria ter alguma informação em vez disso.}
+{000}{}{Uh, com certeza. Por que não? Isso resolverá as coisas entre nós.}

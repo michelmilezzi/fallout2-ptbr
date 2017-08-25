@@ -1,0 +1,93 @@
+{100}{}{Você vê um guarda de aparência robusta que o examina.}
+{101}{}{Você vê uma das pessoas de segurança da Ascorti.}
+{102}{}{Você vê um guarda competente e vigilante assistindo a multidão.}
+{103}{}{Mantenha suas mãos fora da nossa pilha, Jack.}
+{104}{}{Obrigado ganancioso vai custar-te.}
+{105}{}{Você deveria saber melhor do que isso.}
+{106}{}{Você achou que você iria embora com isso?}
+{107}{}{Você não poderá gastar nada agora.}
+{108}{}{Haverá uma taxa para essa retirada.}
+{109}{}{E estava pensando apenas o quanto eu estava entediado. Obrigado, estranho.}
+{110}{}{Sim, o tempo da festa começa.}
+{111}{}{Que marrom.}
+{112}{}{Você pensaria que mesmo alguém como você saberia melhor do que isso.}
+{113}{}{E eu também estava começando a ficar entediado também.}
+{114}{}{sim! A festa está em frente!}
+{115}{}{Vamos dançar.}
+{116}{}{Pronto para revoltar?}
+{117}{}{Oh, sim, traga, badman.}
+{118}{}{Eu quero ver como são os seus interiores.}
+{119}{}{Fico feliz que não vou deixar de limpar a bagunça que as tripas irão fazer aqui.}
+{120}{}{Eu não tive uma boa luta por uma semana agora.}
+{121}{}{Ah, sim, oh yeeeeaaahhh!}
+{122}{}{É bom ir aqui.}
+{123}{}{Não foda com os clientes.}
+{124}{}{Você verá o que é o serviço completo.}
+{125}{}{Você não pode atacar os convidados e fugir com ele.}
+{126}{}{Este não é esse tipo de lugar, pally.}
+{127}{}{Não perturbe o negócio do chefe.}
+{128}{}{Você jogou com sua vida e perdeu.}
+{129}{}{Parece que você vai perder esse.}
+{130}{}{Vou transformá-lo em restos para começar uma briga aqui.}
+{131}{}{Seu idiota.}
+{132}{}{Você não pode fazer isso e viver.}
+{133}{}{Tempo para levá-lo para o pool genetico outta 'da'}
+{134}{}{Você deveria ter conhecido melhor.}
+{135}{}{Desculpe, tinha que chegar a isso.}
+{136}{}{Seu perdedor.}
+{137}{}{Tenho que manter a paz aqui.}
+{138}{}{Isso vai machucar você mais em nós.}
+{139}{}{Tenho que pagar para jogar, amigo.}
+{140}{}{Disse-lhe para derrubá-lo. Muito ruim, você não ouviu.}
+{141}{}{Agora, temos que descer com dificuldade sobre você.}
+{142}{}{Isso realmente vai doer ... você.}
+{143}{}{Melhor colocar aquele gat, amigo.}
+{144}{}{Nós não queremos nenhum problema aqui amigo. Coloque isso fora.}
+{145}{}{Melhor afastar essa peça.}
+{146}{}{Mantenha-o no coldre, bub.}
+{147}{}{Coloque essa arma longe.}
+{148}{}{É melhor colocar essa arma.}
+{149}{}{Mantenha suas mãos fora das armas enquanto você está aqui.}
+{150}{}{Coloque essa arma longe, amigo.}
+{151}{}{Desculpe, tenho que pedir-lhe que coloque a arma.}
+{152}{}{Coloque sua arma longe. Queremos que as coisas se mantenham amigáveis   aqui.}
+{153}{}{Apenas mantendo as coisas aqui.}
+{154}{}{Jogue bem.}
+{155}{}{Mantenha as coisas boas e geladas.}
+{156}{}{Mova-se.}
+{157}{}{Nada para ver aqui.}
+{158}{}{Tenha um bom dia.}
+{159}{}{Bem-vindo ao Ascorti's.}
+{160}{}{Jogue amigável.}
+{161}{}{Tenha um bom dia.}
+{162}{}{Todo mundo é um ás aqui no Ascorti's.}
+{163}{}{Então, eu lhes digo, tire suas mãos da minha ...}
+{164}{}{Não posso acreditar que alguém seria burro o suficiente para duplicar isso.}
+{165}{}{Sim, é uma aposta de otário se eu já vi uma.}
+{166}{}{Cara, não me sinto tão bem.}
+{167}{}{Esse único cliente da Ascorti.}
+{168}{}{Psst, endireite-se, olhando o chefe.}
+{169}{}{Veja, era assim, havia pelo menos vinte ...}
+{170}{}{Essa torta de Gecko está me dando azia.}
+{171}{}{Tarde noite ontem à noite?}
+{172}{}{Você deve continuar pendurado depois disso.}
+{173}{}{Rompendo a lei, violando a lei.}
+{174}{}{Você não pode entrar em nossa cidade e fazer isso.}
+{175}{}{Você não pode puxar esse tipo de merda aqui.}
+{176}{}{Não precisamos do seu tipo aqui.}
+{177}{}{Alguém tem que pisar você no chão.}
+{178}{}{Há um fedor na cidade e acho que é você.}
+{179}{}{Eu cheiro de caga ... oh, você está.}
+{180}{}{Saia da nossa cidade, foda.}
+{181}{}{Não demoro um crânio por muito tempo.}
+{182}{}{Eu vou assistir você sangrar por aquele.}
+{183}{}{Você * realmente * pensou que não notaríamos?}
+{184}{}{Não posso acreditar que você está puxando essa merda bem na nossa frente.}
+{185}{}{Uh, desculpe-me. KNOCK QUE PERCEBE!}
+{186}{}{Pare de fodar com a porta, seu idiota.}
+{187}{}{O que você está fazendo?}
+{188}{}{Sheesh, apenas uma menor qualidade de criminosos todos os dias.}
+{189}{}{Afaste-se da porta.}
+{190}{}{Não toque nessa porta de novo.}
+{191}{}{Afaste-se da porta.}
+{192}{}{Não toque nessa porta de novo.}

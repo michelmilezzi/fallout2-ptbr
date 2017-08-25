@@ -1,0 +1,83 @@
+{100}{}{Você vê uma guarda de aspecto diligente. O guarda é equipado com armadura metálica
+ e está carregando uma espingarda poderosa.}
+{101}{}{Você vê um guarda-redes da Vault.}
+{102}{}{Sim? O que é isso?}
+{103}{}{Eu entro grande HOL no lado da colina}
+{104}{}{Eu gostaria de entrar no Vault.}
+{105}{}{Nada, desculpe incomodar você.}
+{106}{}{Já chegou às 6 da tarde. Você precisa sair.}
+{107}{}{OK. Estou indo embora.}
+{108}{}{OK. Eu só preciso de outro minuto.}
+{109}{}{Eu tenho coisas para fazer. Eu irei quando estiver pronto.}
+{110}{}{Umag Nak!?! Umag NAK!}
+{111}{}{Convocarei alguns dos guardas para acompanhá-lo.}
+{112}{}{OK. Vamos.}
+{113}{}{Brog Frup}
+{114}{}{Não se preocupe. Eu posso encontrar o meu próprio caminho.}
+{115}{}{Peço desculpas, mas estas são minhas ordens.}
+{116}{}{Ok ... mas não estou feliz com isso. Eu posso ser forçado a apresentar um formulário formal
+ queixa -}
+{117}{}{Bem, estou ficando.}
+{118}{}{Não quero usar a força, mas sim, se necessário. Não faça isso nenhum
+ mais difícil do que isso deve ser.}
+{119}{}{Tudo bem, tudo bem ... Eu irei.}
+{120}{}{Você tanto quanto me toca, e você estará vestindo sua bunda como chapéu.}
+{121}{}{Olá, cidadão. Posso te ajudar?}
+{122}{}{Eu gostaria de entrar no Vault.}
+{123}{}{Inicie o HOL no lado da colina}
+{124}{}{Nada agora.}
+{125}{}{Desculpe, apenas os cidadãos podem entrar no Vault. Tenho certeza que você
+ Compreendo.}
+{126}{}{Somente os cidadãos podem entrar. Agora vá embora.}
+{127}{}{OK.}
+{128}{}{Umgh}
+{129}{}{Claro. Por favor, passe.}
+{130}{}{Thankee!}
+{131}{}{Obrigado.}
+{132}{}{Sim? Posso te ajudar?}
+{133}{}{Eu gostaria de entrar no Vault.}
+{134}{}{Nada, desculpe incomodá-lo.}
+{135}{}{Peço desculpas, mas apenas os cidadãos podem entrar no cofre.}
+{136}{}{Eu sou um cidadão.}
+{137}{}{Me desculpe ... Não reconheço você. Estou sob ordens para deixar apenas Citizens I know in the Vault.
+ Talvez o primeiro cidadão Lynette possa ajudá-lo. Dia bom.}
+{138}{}{Olá, capitão. Posso ajudar?}
+{139}{}{Oh, está bem.}
+{140}{}{Ah com certeza. Eu só estava olhando.}
+{141}{}{Umgh}
+{142}{}{Sim, seja o que for, Mungoth. Fale com a mão.}
+{143}{}{Você aí! O que esse ghoul está fazendo aqui em Vault City ?!}
+{144}{}{Você aí! O que esse mutante está fazendo aqui na Cidade do Vault ?!}
+{145}{}{Fofo foop de Breep-oop}
+{146}{}{Um ghoul? Onde?}
+{147}{}{Um mutante? Onde?}
+{148}{}{Ele está comigo.}
+{149}{}{Ele está viajando comigo. Se algum de vocês racistas tiver um problema com isso, talvez devêssemos resolver isso aqui e agora.}
+{150}{}{Se essa criatura estiver contigo, então vocês dois pertencem de volta ao pátio, e não nas ruas da cidade de Vault.}
+{151}{}{Tudo bem, iremos em paz.}
+{152}{}{Por que você não tenta nos acompanhar daqui? Garanto que será uma experiência educacional.}
+{153}{}{Como esses Outworlders entram aqui em primeiro lugar ...?}
+{154}{}{Essa criatura lá.}
+{155}{}{Ambos pertencem de volta no pátio, e não nas ruas da cidade de Vault.}
+{156}{}{NENHá ALEITO FREN! U NENHUM FRENO!}
+{157}{}{Nós vamos, vamos quieto-lee}
+{158}{}{Tudo bem, iremos em paz.}
+{159}{}{Ele está viajando comigo. Se algum de vocês racistas tiver um problema com isso, talvez devêssemos resolver isso aqui e agora.}
+{160}{}{Guardas! Intrusos na cidade!}
+{161}{}{Hrnghhhhhhhh!}
+{162}{}{Você vai morrer antes que os amigos se mostrem.}
+{163}{}{Ei! Você é o único que derrotou o Enclave!}
+{164}{}{Olha, é o único que derrotou o Enclave!}
+{165}{}{Bem-vindo ao Vault City.}
+{166}{}{Sua batalha contra o Enclave impressionou até o Primeiro Cidadão.}
+{167}{}{Ouvi dizer que você viajou até o sul de São Francisco. Isso é verdade?}
+{168}{}{É verdade que os EUA ainda estavam lutando contra a guerra?}
+{169}{}{Você deve catalogar suas viagens no computador do Vault City.}
+{170}{}{Você pode ficar na Cidade do Vault enquanto quiser.}
+{171}{}{Você deve catalogar suas façanhas contra o Enclave e colocá-lo no Servidor de Lista.}
+{172}{}{Capitão.}
+{173}{}{Vault City prevails, Capitão.}
+{174}{}{Hello, Capitão.}
+{175}{}{Vault City prevalece, Cidadão.}
+{176}{}{Cidadão.}
+{177}{}{Hello, Cidadão.}

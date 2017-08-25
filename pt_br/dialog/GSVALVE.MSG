@@ -1,0 +1,13 @@
+{100}{}{O painel de controle do refrigerante.}
+{101}{}{Você vê um painel de controle de refrigerante.}
+{102}{}{Existem muitos botões, botões e uma roda neste painel.}
+
+{110}{}{Você está tendo dificuldade em girar a roda de corte da válvula de refrigerante.}
+{111}{}{Com grande esforço, você consegue girar a roda de desligamento da válvula de refrigerante uma vez.}
+{112}{}{Com grande esforço, você consegue girar duas vezes a roda de fecho da válvula de refrigerante.}
+{113}{}{Parece que você fechou a válvula.}
+
+{120}{}{Você parece estar perdendo uma parte.}
+{121}{}{Isso não faz nada.}
+{122}{}{Você reparou o reator.}
+{123}{}{Você está tendo dificuldade em reparar o reator.}

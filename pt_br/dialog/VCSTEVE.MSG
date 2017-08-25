@@ -1,0 +1,20 @@
+{100}{}{Você vê um jovem alegre.}
+{101}{}{Você vê Steve, Sub-Greeting Chief of Vault City.}
+{102}{}{Ele tem um olhar vazio em seus olhos.}
+{103}{}{Olá e bem-vindo ao Vault City, a melhor cidade da Nova Califórnia!
+ Sou Steve ... como posso ajudá-lo?}
+{104}{}{Esta área cercada é tudo para a cidade?}
+{105}{}{O que você quer dizer com "o melhor?"}
+{106}{}{Estou procurando o Vault. Você pode me dizer onde fica?}
+{107}{}{Adeus.}
+{108}{}{Umm ... (olha um panfleto em sua mão.) Uh ... você não estava
+ deveria pedir isso. Não há resposta para isso aqui.}
+{109}{}{Você sabe algo?}
+{110}{}{Obrigado mesmo assim.}
+{111}{}{(Leitura do panfleto.) Se o Outworlder ... isso deve ser
+ você ... insulta você ... esse deve ser eu ... depois encaminhe-os ao Chefe
+ Oficial de cumprimento. Oh ... devo encaminhá-lo para Melinda, o Chefe
+ Oficial de cumprimento.}
+{112}{}{Eu vou falar com ela, então.}
+{113}{}{Bem-vindo ao Escritório de Saudações. Eu sou Steve.}
+{114}{}{Desculpe, tenho que ler sobre isso.}

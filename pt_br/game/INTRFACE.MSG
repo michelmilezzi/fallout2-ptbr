@@ -1,0 +1,8 @@
+#
+#   Interface text from INTFACE.C
+#
+{100}{}{ESGUEIRAR-SE}
+{101}{}{NÍVEL}
+{102}{}{VICIADO}
+{103}{}{ENVENENADO}
+{104}{}{RADIADO}

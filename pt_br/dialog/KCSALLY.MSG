@@ -1,0 +1,149 @@
+#############################################################
+#  Message File: KCsally.msg                                #
+#                                                           #
+#       Body Type:                                          #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP:                                                 #
+#       Skills to note: Barter 75                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: January 15, 1998                                #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+
+{100}{}{Você vê uma mulher gorda e mais velha com um nariz grande}
+{101}{}{Você vê Big Nose Sally, o dono do Bathhouse.}
+
+#############################################################
+#  The following lines are for the dialog which the NPC     #
+#  says. This will be disorganized because of the Design    #
+#  Tool.                                                    #
+#############################################################
+
+{200}{}{Olá, meu nome é Sally Dunton. Hmm, você pegou isso?}
+{201}{}{Alian Cebola? Gurk?}
+{202}{}{Eu tenho que fazer xixi-ee}
+{203}{}{Oog? (tremendo a cabeça)}
+{204}{}{Bem, essa é uma boa tentativa para um idjit. Mas eu não estou tendo nada disso aqui. Agora,
+ git out. Shoo, shoo.}
+{205}{}{Eu sei que você é um tribal e tudo, mas esta é uma casa de banho, não uma dependência. Git out antes que eu tenha
+ Você jogou fora!}
+{206}{}{Eu sei que meus meninos assumiram alguns tipos pobres, mas você é o pior ainda. Eu simplesmente não posso
+ Acredite que você os decepciona. Eu não vou ter você no meu lugar. Agora, saia.}
+
+{210}{}{Meu nome é Sally Dunton, mas principalmente eles me chamam de Big Nose Sally. Sou o dono deste aqui
+ balneário. Nós temos todo um aborrecimento de banhos especiais e atendidos para você escolher.}
+{211}{}{Que tipo de banho especial, assistiram, você tem aqui?}
+{212}{}{Gee, senhorita Sally, eu só queria um banho regular. Você não tem banho de espuma, não é?}
+{213}{}{Eu acho que eu mudei de idéia; Posso tentar mais tarde.}
+
+{220}{}{Meu nome é 'Big Nose' Sally Dunton e eu sou o proprietário desta casa de banho aqui. Tenho medo de que apenas
+ Tenha atendentes de banho para meninas aqui. Está bem com você?}
+{221}{}{Só estou aqui para tomar banho.}
+{222}{}{As mulheres me servem bem.}
+{223}{}{Gee, eu estava realmente à procura de um atendente do sexo masculino.}
+{224}{}{Eu não acho que isso é o que eu estava procurando.}
+{225}{}{Me desculpe por não podermos ajudá-lo. Volte mais tarde, no entanto.}
+
+{230}{}{Se você quiser apenas um banho sem vigilância, você pode tentar o Golden Gecko ou Buckner House. Mas eu
+ duvida que você achará isso tão agradável.}
+{231}{}{Obrigado, Miss Big Nose. Eu tentarei isso em vez disso. Adeus.}
+{232}{}{Eu estava apenas brincando; Eu gostaria de um banho especial.}
+
+{240}{}{Os banhos especiais que temos disponíveis variam em custo pela quantidade de tempo que o galão gasta
+ com você, e quaisquer serviços especiais de que você aproveite.}
+{241}{}{Você quer dizer que eu tenho que estar com uma garota real-live? Assine-me!}
+{242}{}{Eu não acho que estou pronto para isso; É melhor eu ir.}
+{243}{}{Eu acho que a aparência do atendente melhor figura no custo, também.}
+
+{250}{}{Os banhos que temos disponíveis são: um limpador de toalha de limpeza, uma lavagem completa de corpo inteiro e,
+ Por último, o Serviço de limpeza completa Squeaky Round-the-World, oferecido pela bela e talentosa Jenny,
+ Recentemente treinado na melhor casa do Den.}
+{251}{}{Eu acho que posso passar pelo Hand Wipe; quanto custa isso?}
+{252}{}{Eu gosto da idéia de uma lavagem completa do corpo; O que isso vai custar?}
+{253}{}{Bonito e talentoso? Eu tenho que ouvir mais sobre o Round-the-World Full Squeaky Clean Wash.}
+{254}{}{Eu não acho que estou pronto para tomar banho com alguém assistindo; Vou-me embora.}
+{255}{}{Posso misturar e combinar os diferentes tipos de banhos?}
+{256}{}{E quanto a obter um desconto nesses banhos?}
+
+{260}{}{Não, você precisa escolher um de cada vez, mas você sempre pode voltar para mais - geralmente
+ depois de um breve descanso.}
+{261}{}{Me diga novamente os diferentes tipos de banho.}
+{262}{}{Se não posso fazer minhas próprias combinações, nem quero um banho; Estou fora daqui.}
+
+{270}{}{Bem, para um indivíduo atraente como você que custaria apenas US $ 25.}
+{271}{}{$ 25? É uma pechincha; Eu vou levar.}
+{272}{}{Hmm, fale-me sobre os outros tipos de banhos novamente.}
+{273}{}{Talvez eu não precise disso agora. Estou indo embora.}
+
+{280}{}{Hmm, parece que você precisa primeiro de um banho real; Isso vai fazer o preço de US $ 35.}
+{281}{}{$ 35? Isso parece um pouco íngreme - mas acho que estou um pouco desalinhado. Eu vou levar.}
+{282}{}{Quais são as outras escolhas de novo?}
+{283}{}{Obrigado, mas acho que vou procurar em outro lugar.}
+{284}{}{$ 35 parece um pouco caro; tem algum brahmin bonito, em vez disso?}
+
+{290}{}{Eu acho que qualquer uma de nossas meninas ficaria feliz em lhe dar uma lavagem completa do corpo; Eu apenas melhor assistir a
+ Tempo para garantir que seja breve (risada). A Brief Full Body Wash custará US $ 55.}
+{291}{}{Isso parece divertido. Aqui estão os meus $ 55.}
+{292}{}{Hmm, quais são as outras escolhas novamente?}
+{293}{}{Obrigado, mas acho que vou economizar meu dinheiro por enquanto.}
+
+{300}{}{Você poderia usar um pouco de esfregar real; Vocês não conhecem sabedoria sobre sabão? Oh, bem, isso vai custar
+ você é US $ 70 para o Brief Full Body Wash ... mas tenho certeza que você ficará feliz com os resultados.}
+{301}{}{Uau, US $ 70! Isso parece muito. Mas eu aposto que vale a pena. Vou tentar.}
+{302}{}{Quais foram as outras opções de banho?}
+{303}{}{Eu não acho que eu quero pagar um banho depois de tudo.}
+
+{310}{}{Bem, eu tenho certeza de que sua viagem de Round-the-World com Jenny bonito será uma
+ Experimente que você vai saborear por um bom tempo. Uma verdadeira pechincha em apenas US $ 125.}
+{311}{}{Não posso esperar para aproveitar os talentos especiais de Jenny. Aqui estão os meus $ 125.}
+{312}{}{Talvez eu devesse ouvir sobre as outras opções de banho novamente.}
+{313}{}{Eu não acho que vou precisar de US $ 125 de limpeza. Vou sair antes de eu chegar
+ eu tenho problemas.}
+
+{320}{}{Hmm, eu não sei se Jenny vai mesmo te levar na condição de você estar dentro. Você vai
+ Preciso de um exame completo, sem sentido, esfregando primeiro. (Para ela mesma: eu me pergunto se Gerda é livre para isso?) Com
+ O custo do pré-esfregaço, o Serviço de Limpeza Completa Squeaky Round-the-World é seu por apenas US $ 185.}
+{321}{}{Recebo Gerda e Jenny? Que barganha! Aqui estão os meus $ 185.}
+{322}{}{Gerda é essa mulher maior e bigode? É melhor ouvir as outras escolhas de novo.}
+{323}{}{Eu não acho que eu possa pagar isso agora. Eu acho que vou sair.}
+{324}{}{Gerda não é realmente uma mulher, ela é? Eu não quero ser esfregado por uma corpulência
+ drag-queen. Estou fora daqui.}
+
+{330}{}{Essa é uma ótima escolha, se você não tem muito tempo ou dinheiro.}
+
+{340}{}{Eu acho que você realmente vai gostar disso.}
+
+{350}{}{Eu acho que você vai desfrutar de Jenny tomando banho você mais do que qualquer banho que você já teve.}
+
+{360}{}{Nós não lidamos com esse tipo de coisa aqui. Tente conversar com meus filhos, Chuck e Buck Dunton. Eu
+ entenda que seu brahmin é muito popular com um determinado conjunto.}
+{361}{}{Você não tem dinheiro suficiente. Volte quando você puder pagar.}
+{362}{}{Parece que seus olhos são maiores que seu orçamento. Talvez você queira tentar um preço mais barato
+ lavando.}
+{363}{}{Tenho certeza de que um dos meus filhos ficaria feliz em ajudá-lo. Mas você pode querer voltar
+ aqui depois; A maioria das gals que passam algum tempo com meus meninos conseguem se banharem de si mesmas
+ Boa.}
+
+{370}{}{De volta de novo, hein? Muitas pessoas simplesmente não conseguem ficar limpas o suficiente.}
+{371}{}{Estou apenas olhando ao redor desta vez; Não preciso de um banho.}
+{372}{}{Diga-me os tipos de banho que você tem novamente.}
+{373}{}{Recebo um desconto para o cliente de retorno?}
+
+{380}{}{Bem, agora, não seria justo descontar nenhum dos nossos serviços. Meus galões valem o que eles
+ carregar.}
+{381}{}{Bem, se não conseguir um desconto, vou embora.}
+{382}{}{Acho que é justo o suficiente. Diga-me quais banhos você tem disponível.}
+
+{390}{}{Antes de irmos mais longe, você deve saber que os banhos são para indivíduos, não para grupos. Você
+ pode fazer seus próprios arranjos, e então seus amigos podem fazer o que quiserem por conta própria.}
+{391}{}{Está bem.}
+
+{400}{}{Nós não queremos o seu tipo por aqui.}

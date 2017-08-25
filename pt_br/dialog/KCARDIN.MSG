@@ -1,0 +1,238 @@
+{100}{}{Você vê uma mulher resistente e mais velha com um sorriso cansado.}
+{101}{}{Você vê Ardin Buckner, o dono da casa de Buckner.}
+{102}{}{Você vê uma mulher muito apta e vivaz no início dos anos cinquenta.}
+
+{110}{}{Você encontrou o meu Smiley - muito obrigado! Eu acabei por desistir de morrer. Estou tão bravo com
+ ele! Com ele, acho que não precisaremos mais do Sulik.}
+{111}{}{Gecko bit Smiley. Smiley owie.}
+{112}{}{Fiquei feliz em ajudar. Estou feliz que você esteja deixando Sulik ir.}
+{113}{}{Eu acho que ele ainda pode preferir você aos geckos. Diga-me sobre outra coisa.}
+{114}{}{Bem, não seja muito difícil com ele. Ele não estava exatamente se divertindo, você sabe. Adeus.}
+
+{120}{}{Eu ouvi você machucar meu garoto Torr. Eu não sei exatamente o que aconteceu, mas não quero você em qualquer lugar
+ perto daqui. Agora saia.}
+
+{130}{}{Olá. Meu nome é Ardin Buckner e esta é a casa de Buckner.}
+{131}{}{Argl. Gosma}
+{132}{}{Linda casa bonita.}
+
+{140}{}{Você me lembra meu garoto Torr. Aposto que vocês dois se dão bem. Por que você não corre
+ e falar com ele? Adeus.}
+
+{150}{}{Olá. Meu nome é Ardin Buckner e esse é o meu lugar. Diga, você não viu um caçador chamado
+ Smiley fora da cidade, você? (Half to herself) Ele já se foi há muito tempo. Nunca deveria ter deixado
+ Ele sai com essa besteira.}
+{151}{}{Risonho? Não, não vi um caçador com esse nome. Me fale sobre ele.}
+{152}{}{Preciso de algo mais agora.}
+{153}{}{Olá, Ardin. Eu acho que vou seguir agora. Adeus.}
+
+{160}{}{Você deveria falar com a minha filha, Maida, sobre isso. Eu realmente não ligo o que está acontecendo
+ recentemente. Muito apenas mantendo o olho no meu próprio negócio.}
+{161}{}{Oh, ok, vou fazer isso. No entanto, agora mesmo, preciso de alguma informação sobre outra coisa.}
+{162}{}{Bem, vou falar com ela sobre isso, então. Adeus.}
+
+{170}{}{É melhor você não planejar nenhum mal aqui. O que você quer?}
+{171}{}{Como posso ajudá-lo, amigo?}
+{172}{}{Conte-me sobre Smiley, o caçador.}
+{173}{}{Eu queria saber se você é a pessoa com quem falar sobre notícias e eventos locais?}
+{174}{}{Preciso de um quarto, por favor.}
+{175}{}{Precisamos de um quarto, por favor.}
+{176}{}{Eu quero comprar algo.}
+{177}{}{Acho que não preciso de nada agora. Adeus.}
+
+{180}{}{Bem, Smiley e eu estávamos ficando sérios entre si. Eu pensei que eu finalmente tinha
+ conseguiu concordar em se estabelecer aqui e me ajudar a dirigir este lugar. Mas, ele disse que precisava sair
+ em uma última missão.}
+{181}{}{Uma missão?}
+
+{190}{}{Eu apenas lido os quartos aqui. Se você quer comprar ou trocar algo, fale com minha filha, Maida.}
+{191}{}{Oh, eu vejo. Diga-me outra coisa então.}
+{192}{}{Obrigado. Adeus.}
+
+{200}{}{Estamos muito cheios agora. Desculpa.}
+{201}{}{Bem, vamos ver aqui. Devemos ter um quarto disponível. Isso será $ 25.}
+{202}{}{Eu vou levar. Aqui estão os $ 25. Obrigado.}
+{203}{}{Eu não acho que eu quero isso agora. Deixe-me perguntar-lhe outra coisa.}
+{204}{}{Acho que não preciso do quarto depois de tudo. Adeus.}
+
+{210}{}{Receio que você não tenha dinheiro suficiente para isso.}
+{211}{}{Oops. Eu acho que estou um pouco a luz agora. Deixe-me perguntar-lhe outra coisa.}
+{212}{}{Eu sinto Muito. É melhor eu fazer um pouco mais. Adeus.}
+
+{220}{}{Obrigado. Estou tão feliz que você ajudou a encontrar meu filho. Eu pensei que nunca mais veríamos seu engano.}
+{221}{}{Torr amigo.}
+{222}{}{Fiquei feliz em ajudar.}
+{223}{}{Não havia algo mencionado sobre uma recompensa?}
+
+{230}{}{Bem, obrigado. Eu acho que você pode precisar de alguém com mais inteligências para ajudar a cuidar de você -
+ um companheiro de viagem. Eu falarei com Maida sobre libertar Sulik.}
+{231}{}{Bem, eu simplesmente não sei o que poderíamos fazer para agradecer.}
+{232}{}{Torr amigo}
+{233}{}{Não é necessário obrigado. A ajuda era necessária e eu estava lá.}
+{234}{}{Bem, o dinheiro é sempre uma ótima maneira de agradecer.}
+{235}{}{Se você pudesse considerar a dívida da Sulik paga, isso seria uma recompensa suficiente.}
+{236}{}{. Sulik amigo?}
+
+{240}{}{Eu falarei com Maida e ela cuidará de coisas com Sulik. Você pode querer falar com ela
+ também, no entanto.}
+{241}{}{Maida grátis Sulik. Maida}
+{242}{}{Obrigado. Tenho certeza de que o Sulik ficará grato pelo seu perdoar sua dívida com você. Eu vou conversar com
+ Maida imediatamente. Adeus.}
+{243}{}{Estou feliz que você não precisa mais do Sulik. Há algo que eu quero lhe perguntar.}
+{244}{}{ amigos.}
+
+{250}{}{Eu não tenho muito, mas aqui estão US $ 100. Gostaria que pudesse ser mais, mas com todo o brahmin que temos
+ Perdi, é tudo o que podemos pagar. Eu sinto Muito.}
+{251}{}{Obrigada, Buckner. Adeus.}
+{252}{}{Talvez eu deva fazer uma recompensa diferente.}
+
+{260}{}{Bem, certamente deve haver algo que eu possa fazer para mostrar o quanto estou agradecido. Hmm, eu vou
+ perdoe a dívida de Sulik. Ele está livre para ir. Eu acho que nem todos os tribais são confrontos.}
+{261}{}{Isso parece bom para mim. Adeus.}
+{262}{}{Hmm, talvez eu deva fazer uma recompensa diferente.}
+
+{270}{}{Eu simplesmente não sei o que pensar. O meu garoto Torr está desaparecido. Certamente, desejo que alguém me ajude a encontrar
+ ele. Ele nunca foi embora de casa há tanto tempo antes.}
+{271}{}{Torr?}
+{272}{}{O que aconteceu?}
+{273}{}{Isso é legal, senhora, mas eu preciso de algo de você.}
+{274}{}{Bem, posso dizer que você está ocupado. Vou voltar mais tarde. Adeus.}
+
+{280}{}{Ele decolou ontem à noite. Fiquei com raiva dele depois de perdermos os últimos braçulmanos. Simplesmente não podemos
+ Dá ao luxo de perder mais, mas tudo o que ele falaria é o bugmen que os leva. Esse idiota.}
+{281}{}{Torr vai?}
+{282}{}{Eu acho que os Duntons tiveram algo a ver com o brahmin faltante. Você não deveria ser também
+ Com dificuldade em Torr sobre isso. Onde você acha que ele foi?}
+{283}{}{Onde você acha que ele foi?}
+
+{290}{}{Bem, ele continuou dizendo que ele iria buscar os bugmen onde eles moravam. Você vê, há
+ um desfiladeiro ao leste do campo onde pastamos o brâmane. Ultimamente, houve alguns ruídos estranhos
+ vindo daqui.}
+{291}{}{Ruídos?}
+
+{300}{}{Obrigado por prometer procurar o meu filho. Espero que você possa encontrá-lo. Estou tão preocupado com
+ ele. Rápido por favor.}
+{301}{}{Está bem.}
+
+{310}{}{Você encontrou meu menino ainda? Não sei por quanto tempo ele pode durar sozinho. Por favor ache
+ ele para mim.}
+{311}{}{Torr?}
+{312}{}{Eu não desisti ainda, mas há algo que eu preciso primeiro.}
+{313}{}{Eu só queria ver se ele tinha voltado ainda. Vou continuar pesquisando. Adeus.}
+
+{320}{}{Torr tinha certeza de que é onde os bugmen que ele disse estavam tirando nossa braçim. Disse
+ algo sobre provar a nós mesmos. Eu só queria que alguém trouxesse meu filho de volta para mim.}
+{321}{}{Torr canyon.}
+{322}{}{Não vá Torr.}
+{323}{}{Parece que esse canyon seria um bom lugar para começar a procurar. Eu irei procurar o seu filho,
+ Sra. Buckner.}
+{324}{}{Eu adoraria ajudar - se eu não estivesse tão ocupado. Tenho certeza de que Torr ficará bem sozinho.
+ Adeus.}
+{325}{}{ vá Torr.}
+
+{330}{}{Bem, ele chamou isso de missão. Ele me disse que achava que sabia de onde vieram todos os geckos dourados,
+ e ele queria descobrir com certeza. Ele pensou que talvez fosse algum tipo de primavera mágica, ou talvez
+ uma caverna ou um cofre escondido de algum tipo.}
+{331}{}{Hmmm.}
+
+{340}{}{Bem, eu não sei exatamente o que ele disse, mas ele parecia realmente entusiasmado por ir. Mas eu
+ não deveria deixá-lo ir. Ele está duas semanas depois voltando do que ele disse que seria e estou preocupado.}
+{341}{}{Eu gostaria de ajudar. Eu poderia procurá-lo por você.}
+{342}{}{Desculpe ouvir isso. Deixe-me perguntar-lhe sobre outra coisa.}
+{343}{}{Isso é muito ruim, Sra. Buckner. Talvez ele tenha acabado com você. Eu acho que sei por que ele também.
+ Adeus.}
+
+{350}{}{Oh, obrigado. Deixe-me marcar no seu mapa onde ele falou sobre procurar. Espero que você possa
+ encontre-o. Ele não é muito, mas eu ainda o amo e eu sinto falta dele mais do que eu pensava. Por favor ache
+ ele para mim.}
+{351}{}{Eu farei o que puder. Permitam-me perguntar-lhe algo primeiro, no entanto.}
+{352}{}{Vou fazer o meu melhor, Sra. Buckner. Adeus}
+{353}{}{Você sabe, eu não acho que posso ajudá-lo agora mesmo. Adeus.}
+
+{360}{}{Você já encontrou o meu Smiley?}
+{361}{}{Desculpe, Sra. Buckner. Ainda estou procurando por ele. Permitam-me perguntar-lhe outra coisa primeiro, no entanto.}
+{362}{}{Não, estou prestes a procurar por ele. Adeus.}
+
+{370}{}{Eu acho que algo horrível deve ter acontecido com meu pobre menino, Torr. Eu estava contando com você (soluço)
+ para encontrá-lo antes que fosse tarde demais. Esse pobre rapaz simples. Não consigo acreditar que contei com você.}
+{371}{}{Desejo que você tenha ajudado a procurar meu pobre menino, Torr. Ele era uma alma tão gentil e agora
+ Ele certamente morreu. Vou sentir falta dele assim.}
+{372}{}{Desculpe, Sra. Buckner. Eu tentei o meu melhor para encontrar ele para você. Uh, havia algo que eu queria
+ Apesar.}
+{373}{}{Talvez eu possa ajudar a recuperar o que resta de seu corpo para você. Adeus.}
+{374}{}{Torr? Quem Torr? (Você encolhe os ombros) Adeus.}
+{375}{}{Desculpe - queria ajudar, mas não pude. Uh, odeio mencionar isso em um momento como este,
+ mas há algo que eu quero.}
+{376}{}{Acho que devia voltar em outro momento. Adeus.}
+
+{380}{}{Bem, de alguma forma, isso não me surpreende muito. Oh meu, eu gritei para o meu pobre menino quando não era
+ até mesmo sua culpa. (soluço) Eu vou pegar esses Duntons. Eles foram tão longe desta vez.}
+{381}{}{Me desculpe por isso. Onde você acha que Torr foi?}
+
+{390}{}{Está bem.}
+
+{400}{}{Você já encontrou o meu Smiley?}
+{401}{}{Quem? Ah, não. Não sei aonde ele foi. Uh, diga, deixe-me perguntar-lhe sobre outra coisa.}
+{402}{}{Ele está morto. Ele foi comido por geckos.}
+{403}{}{Eu o vi. Ele disse que estava fugindo com outra mulher. Uau! Olha as horas. Tenho que correr.}
+{404}{}{Uh, eu, eu, nós, isso é ... Uh, não. Ainda estou procurando por ele. Tenho certeza de que ele vai aparecer algum dia agora. Uh, Adeus.}
+
+{410}{}{Comido por geckos? Eu simplesmente não acredito em você. Geckos nunca pegaria meu Smilely, ele é um bom caçador para isso. Você deve estar enganado.}
+{411}{}{Sim, você provavelmente está certo. Desculpe pelo susto. Deixe-me perguntar-lhe sobre algo.}
+{412}{}{Não, eu o vi, ou o que resta dele de qualquer maneira. Não é uma visão bonita. Bem, até mais. Adeus.}
+{413}{}{Eu acho que você me encontrou lá. Heh, heh, eu estava puxando a sua perna. Sim, é isso. Bem adeus.}
+
+{420}{}{Eu pensei que eles estavam fazendo seus truques habituais! Meu pobre pequeno Torr. Eu vou cuidar desses dois valentões imediatamente. Eles não estarão fazendo isso de novo. Obrigado.}
+{421}{}{Feliz de ajudar, senhora. Deixe-me perguntar-lhe sobre algo.}
+{422}{}{Aqueles Duntons me deixam doente. Fico feliz que você cuide deles. Agora tchau.}
+
+{500}{}{Eu acho que os irmãos Dunton estão rustling seu brahmin. Acabei de pensar que você deveria saber, senhora.}
+{510}{}{Você não viu um caçador chamado Smiley fora da cidade, você? (metade para si mesma) Ele também se foi
+ longo. Nunca deveria ter deixado ele sair daquela busca de tolos dele.}
+{520}{}{Você foi tão útil com as coisas por aqui. Obrigado.}
+{530}{}{Eu só queria saber o que mais está acontecendo aqui.}
+
+{600}{}{Você é maravilhoso.}
+{610}{}{Você é maravilhoso. You've returned my son Torr and my Smiley to me. I can't thank you enough.}
+{620}{}{Você encontrou meu filho Torr. Muito obrigado.}
+{630}{}{Você é o único que encontrou o meu Smiley. Obrigado, muito obrigado.}
+{640}{}{Estou feliz por poder ajudá-lo. Seria uma pena perder duas pessoas tão perto de você assim.}
+{650}{}{Torr só precisa de uma pequena ajuda de vez em quando. Fico feliz por estar lá por ele.}
+{660}{}{Smiley teve sorte desta vez. Você apenas diz para ele ser um pouco mais cuidadoso.}
+{670}{}{Feliz de ajudar, Sra. Buckner. Deixe-me perguntar-lhe sobre algo.}
+{680}{}{Gurrrrg bloop?}
+{690}{}{Não pense nisso, senhora. Adeus.}
+
+{700}{}{Torr está morto.}
+{710}{}{O smiley está morto.}
+{720}{}{Eu, eu, não sei onde estão. Diga que posso fazer uma pergunta?}
+{730}{}{Ambos estão mortos como os maus-tratos.}
+{740}{}{Torr deixou? O que você quer dizer?}
+{750}{}{Não sei onde ele está. Deixe-me perguntar-lhe uma coisa, talvez eles voltem quando conversamos.}
+{760}{}{Ainda estou procurando por eles. É melhor eu voltar para ele. Adeus.}
+{770}{}{Ainda estou procurando por ele. É melhor eu voltar para ele. Adeus.}
+{780}{}{Eu não sei onde ele está. Hmm ... Uau, veja o tempo. Eu tenho que ir.}
+{790}{}{Diga, deixe-me perguntar-lhe uma coisa.}
+{800}{}{Bem, há muito trabalho para eu chegar. Adeus.}
+{810}{}{Urrrrrgh.}
+
+{900}{}{Você encontrou meu filho, Torr, ainda? Estou tão preocupado com ele.}
+{910}{}{Você já encontrou o meu Smiley?}
+{920}{}{Você encontrou meu filho, Torr, ou meu amigo, Smiley, o caçador, ainda?}
+{930}{}{O pobre Torr fugiu.}
+
+{940}{}{Eu não acredito em você.}
+{942}{}{Ah, é verdade. Provavelmente são ambos os alimentos de vermes até agora - bem, os poucos restos que não foram transformados
+ Na verdade, na merda de gecko. Bem, eles são as pausas. Até mais.}
+{943}{}{Uh, acho que foi uma piada incorreta *, desculpe.}
+
+{950}{}{Eu não quero falar com você.}
+{951}{}{Saia daqui.}
+{952}{}{Caramba, tribais. Nada além de problemas.}
+{953}{}{Saia daqui, você é selvagem.}
+{954}{}{Não aceito o seu tipo aqui.}
+{955}{}{Você não terá nada de mim, tribal.}
+{956}{}{Você tem bastante mal aqui.}
+{957}{}{Apenas me deixe em paz.}
+{958}{}{Instigador tribal, saia do meu lugar.}
+{959}{}{Já tive o suficiente de você. Saia.}

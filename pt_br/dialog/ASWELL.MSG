@@ -1,0 +1,2 @@
+{100}{}{O poço não funcionou há algum tempo. Ele precisa ser reparado.}
+{101}{}{O poço está funcionando bem.}

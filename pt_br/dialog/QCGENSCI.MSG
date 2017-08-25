@@ -1,0 +1,59 @@
+{100}{}{Você vê um pesquisador.}
+{101}{}{Você vê um membro da equipe científica do Enclave.}
+{102}{}{Você vê um membro do Chemical Corps dos Estados Unidos.}
+{103}{}{Certamente, desejo que esses resultados tenham sentido.}
+{104}{}{Isso é uma porcaria!}
+{105}{}{Estes dados são consistentes.}
+{106}{}{Esses pontos dão uma boa curva.}
+{107}{}{Qual é o desvio padrão?}
+{108}{}{Estou aguardando que estes compostos se equilibrem.}
+{109}{}{Este espectrômetro está fodido.}
+{110}{}{Onde está a equipe de manutenção quando você precisa deles?}
+{111}{}{Acabei de calibrar o espectrômetro IR.}
+{112}{}{Como foi a recristalização?}
+{113}{}{A síntese está completa, médico.}
+{114}{}{Excelente trabalho.}
+{115}{}{O Projeto está indo de acordo com o plano.}
+{116}{}{Excelentes resultados aqui.}
+{117}{}{E agora?}
+{118}{}{A radiação realmente estragará meu trabalho.}
+{119}{}{Apenas mais uma broca.}
+{120}{}{Não posso deixar meu trabalho agora.}
+{121}{}{Nunca chegarei a um abrigo.}
+{122}{}{Eu me sinto um pouco enjoado.}
+{123}{}{Como eles esperam que eu funcione sem poder?}
+{124}{}{Isso realmente vai acabar com minha experiência.}
+{125}{}{Isso é demais.}
+{126}{}{Eles realmente deveriam nos avisar quando eles vão testar os sistemas de emergência.}
+{127}{}{Meus pulmões estão queimando.}
+{128}{}{Não consigo ver! Quem desligou as luzes?}
+{129}{}{(Tosse, corte, tosse)}
+{130}{}{(Splutter, tosse)}
+{131}{}{Minha garganta está sangrando!}
+{132}{}{Meus olhos estão em chamas!}
+{133}{}{Sinto-me doente.}
+{134}{}{Estou ficando muito fraco para ficar aqui.}
+{135}{}{Ohhhh nooooooo.}
+{136}{}{Posso ver a luz ... Estou vindo mãe.}
+{137}{}{Não vejo ninguém.}
+{138}{}{Deve ser outra broca de segurança.}
+{139}{}{Esses soldados nunca se cansaram desses exercícios?}
+{140}{}{Não novamente - essa é a segunda vez deste mês.}
+{141}{}{Eu já tinha feito isso com aqueles jar-heads.}
+{142}{}{Eles simplesmente * têm * para se sentir importante.}
+{143}{}{Que perda de tempo.}
+{144}{}{Como se houvesse um intruso aqui.}
+{145}{}{Sim, de onde veio um intruso?}
+{146}{}{Como não veríamos um intruso se aproximando.}
+{147}{}{Outro mau funcionamento do alarme. Ótimo.}
+{148}{}{Não tenho tempo para essa merda.}
+{149}{}{O que você quer?}
+{150}{}{Você não vê que estou trabalhando aqui?}
+{151}{}{Vá embora. Estou ocupado.}
+{152}{}{Você não tem nada melhor para fazer?}
+{153}{}{Não lembro de pedir qualquer assunto de teste.}
+{154}{}{O que diabos você quer?}
+{155}{}{Bugger off.}
+{156}{}{Ir mais longe.}
+{157}{}{Sim?}
+{158}{}{Este trabalho é muito delicado, vá embora.}

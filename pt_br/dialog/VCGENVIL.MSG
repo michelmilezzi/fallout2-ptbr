@@ -1,0 +1,15 @@
+{100}{}{Você vê um aldeão.}
+{101}{}{Você vê um aldeão.}
+{102}{}{Olá.}
+{103}{}{Dia bom.}
+{104}{}{Bem-vindo à nossa Aldeia.}
+{105}{}{Os monstros nos protegem.}
+{106}{}{Depressa.}
+{107}{}{Precisamos dessas armas em breve.}
+{108}{}{Olá.}
+{109}{}{Saia agora!}
+{110}{}{Volte para onde você veio!}
+{111}{}{Saia já daqui!}
+{112}{}{Estamos seguros agora.}
+{113}{}{Obrigado.}
+{114}{}{Abençoe você, vagabundo.}

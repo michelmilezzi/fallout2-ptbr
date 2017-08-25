@@ -1,0 +1,11 @@
+{100}{}{Você vê um Auto-Doc}
+{101}{}{Você vê um Auto-Doc antigo. Apesar de sua idade, você conseguiu coaxial voltando a funcionar.}
+{102}{}{Você vê um Auto-Doc.}
+{103}{}{Você vê um Auto-Doc antigo. Apesar de sua idade, você conseguiu coaxial voltando a funcionar.}
+{104}{}{Você vê um Auto-Doc antigo. Está clicando e zumbindo de forma insalubre, e uma grande quantidade de calor está emanando disso.}
+{105}{}{Você vê um Auto-Doc.}
+{106}{}{Você vê um Auto-Doc antigo. Está clicando e zumbindo de forma insalubre, e uma grande quantidade de calor está emanando disso.}
+{107}{}{Este antigo Auto-Doc parece mal ter necessidade de reparo. Parece que há várias décadas após a manutenção programada.}
+{108}{}{O dano não era tão ruim quanto parecia. Alguns cabos interiores precisam ser substituídos e a placa de diagnóstico foi limpa. Sem problemas.}
+{109}{}{Você examina o Auto-Doc, mas você não consegue descobrir o problema.}
+{110}{}{Você já corrigiu o Auto-Doc. Está funcionando sem problemas. Você pensa.}

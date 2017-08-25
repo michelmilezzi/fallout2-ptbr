@@ -1,0 +1,5 @@
+{100}{}{Você vê uma pilha discreta de rochas.}
+{101}{}{Você vê uma pequena pilha de pedras. Eles quase parecem serem empilhados de propósito.}
+{102}{}{É apenas uma pilha de rochas.}
+{103}{}{Ei! Encontrei uma chave enterrada sob as rochas.}
+{104}{}{Nada mais aqui.}

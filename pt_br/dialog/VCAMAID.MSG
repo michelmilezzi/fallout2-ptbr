@@ -1,0 +1,8 @@
+{100}{}{Você vê um cidadão.}
+{101}{}{Você vê o assessor de Serviços.}
+{102}{}{Fale com Randal se precisar de ajuda.}
+{103}{}{É aqui que compartilhamos mercadorias para uso dos Cidadãos.}
+{104}{}{Mantenha suas mãos fora das coisas se você não tiver aprovação.}
+{105}{}{É um trabalho.}
+{106}{}{Randal pode ajudá-lo com o que você precisa.}
+{107}{}{As máquinas do Vault fazem muito disso.}

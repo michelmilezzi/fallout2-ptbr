@@ -1,0 +1,629 @@
+{100}{}{Você vê um homem alto com tatuagens faciais e um osso grande através do nariz.}
+{101}{}{Você vê Sulik.}
+{102}{}{Você vê um alto, musculoso, Tribal. Ele tem um osso no nariz, tatuagem facial e um
+ Confiante, comportamento composto.}
+
+{103}{}{.}
+{104}{slk1}{Ei, fren. Nosso nome é Sulik. O que você precisa precisar.}
+{105}{}{Uh?}
+
+{107}{slk2a}{Ah não. Não fale com a gente. Um de vocês tomou nosso sis. Bad karma ... para você.}
+{108}{slk2b}{Ah não. Nós e nós não conversamos com nenhum proprietário de escravos.}
+
+{109}{slk3}{A maioria das pessoas tem espíritos malignos. Você? Você tem espíritos estúpidos.
+ Vá ver xamã, fique na cabeça ... Grande buraco ... Muito grande ... Enorme.}
+{110}{}{Nuh?}
+{111}{}{Uh-huh!}
+{112}{}{Gug! (Você parece preocupado)}
+
+{113}{slk4}{Não quer um buraco? Vá ver Torr, ele seu irmão espiritual. Ele trabalha para Maida-com-sem sorrisos. Assim como nós e eu.}
+{114}{}{Uh-huh.}
+{115}{}{Hã?}
+
+{116}{slk5a}{Ah, merda, fren. Os escravos levaram nossa irmã. Nós fomos beber, depois fomos quebrando. Agora, pagando a Maida. Quando
+ Isso é feito, vamos encontrar sis.}
+{117}{slk5b}{Agora estamos nos preparando para sair. Vá procurar sis. Ela roubou as escravas.}
+{118}{}{Uh?}
+{119}{}{Hmm, quanto você tem que pagar antes que você possa ir livre?}
+{120}{}{Uh-huh.}
+{121}{}{Estou procurando por algo. Talvez você possa se juntar a mim.}
+
+{122}{slk6}{Devemos a Maida $ 350. Você está indo para o sul? Nós caminhamos com você e procuramos sis. Você
+ Tendo $ 350?}
+{123}{}{Nuh-uh.}
+{124}{}{Uh-huh!}
+{125}{}{Aqui estão os $ 350.}
+{126}{}{Quem somos nós?}
+{127}{}{Talvez assim, Sulik. Deixe-me perguntar-lhe algo, no entanto.}
+{128}{}{$ 350 é muito dinheiro. Você vai estar aqui por um tempo. Adeus.}
+{129}{}{Um mestre provavelmente o mantém sem problemas. Eu não acho que você vai para o sul
+ em breve. Adeus.}
+
+{140}{slk6a}{Os espíritos comigo, fren! Eles estão todos por aí. Às vezes conversa.}
+{141}{}{Tipo de morcegos extras no campanário, hein?}
+{142}{}{Que espíritos?}
+{143}{}{Ok ... Posso te perguntar outra coisa?}
+
+{150}{slk6b}{Que seja engraçado, fren. Pelo menos, Grampy Bone pensa assim. Ele diz que você tem inteligência. Dizer
+ Você vai precisar disso.}
+{151}{}{Por quê?}
+{152}{}{Quem é Grampy Bone?}
+{153}{}{Posso perguntar-lhe outra coisa?}
+
+{160}{slk6c}{Ele sentiu sobre você. Grampy Bone, um espírito inteligente.}
+{162}{}{Que sentimento?}
+
+{170}{slk6d}{Os espíritos estão em toda parte. Viaje com nós e eu. Grampy Bone faz a maioria das conversas.}
+{171}{}{Gostaria de perguntar outra coisa.}
+
+{180}{slk6e}{Tudo o que ele diz agora. Os espíritos vêem e dizem diferente. Não é como pessoas normais.}
+{181}{}{E você teria alguma idéia do que era normal?}
+{182}{}{Conte-me sobre Grampy Bone.}
+
+{190}{slk6f}{Ele espírito forte. Muita honra levando-o.}
+{191}{}{Esperar. Você quer dizer aquele osso no nariz?}
+
+{200}{slk6g}{Mantenha-o perto. Mais fácil de tocar seu espírito. É por isso que ele fala mais.}
+{201}{}{Ei, só posso ouvir você falar até agora.}
+
+{210}{slk6h}{Nós vamos nos dar bem bem.}
+{211}{}{Talvez possamos conversar mais tarde. Tchau.}
+
+{220}{slk7}{Vic o traidor, mais como. Vem para a aldeia, diz que sabe sobre os escravos, conte-nos
+ Para vê-lo. Nós vamos, ele não está lá.}
+{221}{}{Sua irmã foi levada por escravas?}
+{222}{}{Deixe-me perguntar-lhe outra coisa.}
+{223}{}{Acho que é tudo o que preciso saber por enquanto. Adeus.}
+
+{230}{slk8}{Nós e eu agradecemos. Sulik do nome. Como podemos pagar?}
+{231}{}{Uh.}
+{232}{}{Tchau tchau.}
+{233}{}{Quem é "nós?"}
+{234}{}{Fiquei feliz em ajudar, Sulik. Fale-me sobre você.}
+{235}{}{Que tal me dizer o que está acontecendo na cidade?}
+{236}{}{Eu simplesmente não queria vê-lo preso aqui por mais tempo. Adeus.}
+{237}{}{Fale-me sobre você.}
+
+{240}{slk9a}{Nós e eu vamos fazer isso.}
+{241}{slk9b}{Nós e eu somos o espírito de ira, fren.}
+
+{243}{slk10a}{Você entendeu, fren.}
+{244}{slk10b}{Nós e eu estamos prontos para lutar.}
+
+{246}{slk11a}{Nós somos como uma tartaruga, fren.}
+{247}{slk11b}{Nós e eu vamos.}
+
+{250}{slk12a}{Esta é uma viagem ruim, fren.}
+{251}{slk12b}{Nos sentimos melhor.}
+
+{253}{slk13a}{É tão ruim, todos nos machucamos.}
+{254}{slk13b}{Os espíritos pensam que nós e eu podemos nos juntar a eles em breve.}
+
+{257}{slk14a}{Espírito de veneno fazendo casa em mim.}
+{258}{slk14b}{Espírita venenosa em movimento, movendo-se rapidamente com bons espíritos.}
+
+{260}{slk15a}{O espírito maligno está nos possuindo, fren. Os pedaços de cabelo estão a cair!}
+{261}{slk15b}{Nós e eu brilhando! Espírito muito ruim aqui.}
+
+{263}{slk16a}{Este bom lugar. Talvez ninguém tente nos matar por uma mudança.}
+{264}{slk16b}{O Bispo Bone diz esse bom lugar.}
+
+{267}{slk17a}{Espíritos ruins espreitam aqui. Precisamos caminhar.}
+{268}{slk17b}{Grampy Bone diz que devemos sair daqui.}
+
+{270}{slk18a}{Nós e nós já estivemos em lugares ruins antes. Isso é pior.}
+{271}{slk18b}{Grampy Bone diz que esse é um lugar ruim. Se ele fala, você e nós precisamos ouvir.}
+
+{280}{slk21}{Sis foi negociado em outra aldeia e nunca mais voltou. Nós e eu vamos buscá-la.}
+{281}{}{O que você encontrou?}
+
+{290}{slk22}{Nós e eu sabemos que há escravas na Den. Quando estamos livres, estamos fora daqui.}
+{291}{}{Conte-me sobre outra coisa.}
+{292}{}{Eu acho que é tudo o que preciso saber por enquanto. Adeus.}
+
+{300}{slk23a}{Nós apenas dizemos não.}
+{301}{}{Entendo. Isso é tudo o que preciso saber por enquanto. Adeus.}
+{302}{slk23b}{Nós e eu só usamos ervas excelentes.}
+
+{310}{slk25a}{Ela é a chefe. Nós pagamos e vamos encontrar sis.}
+{311}{slk25b}{Maida costumava administrar nossa vida. Ela pensa que ela gosta de nós - ela não está feliz de sermos livres.}
+{312}{}{Hmm, me fale sobre outra coisa.}
+
+{320}{slk26a}{Eles não querem falar agora.}
+{321}{slk26b}{Os espíritos às vezes são difíceis de entender. Eles vêem coisas que você e nós não podemos.}
+{322}{slk26c}{Os espíritos estão dispostos a conversar. O que você quer?}
+{323}{}{Uh?}
+{324}{}{Nuh.}
+{325}{}{Nuh-uh.}
+{326}{}{O que eles dizem sobre esse lugar?}
+{327}{}{O que eles falam sobre nossas chances?}
+{328}{}{Prefiro falar sobre outra coisa.}
+{329}{}{Não acho que eu queira saber o que os espíritos pensam.}
+
+{350}{slk27aa}{Todos dizem que as nuvens escuras se juntam.}
+{351}{slk27ab}{Grampy Bone diz que todos se foram.}
+{352}{slk27ac}{Os espíritos vêem mais juntando-se a eles. Muito mais.}
+
+{360}{slk27ba}{Grampy Bone diz que todos estão de pé na Great Water ... Também não faz sentido para nós e eu, também.}
+{361}{slk27bb}{Os espíritos não entendem a razão por que eles foram. Veja, não entenda isso.}
+{362}{slk27bc}{Eles dizem que havia um espírito forte aqui. De alguma forma é por isso que todos foram levados.}
+
+{370}{slk27ca}{Espíritos malignos não estão matando gado.}
+{371}{slk27cb}{Espírito ruim sob algo ... encaixe. Não tenho certeza do que isso significa.}
+
+{380}{slk27da}{Grampy Bone diz esse lugar cheio de gente ruim.}
+{381}{slk27db}{Eles dizem que as pessoas se perdem aqui, são realmente fáceis. De muitas maneiras.}
+{382}{slk27dc}{Ei! Eles dizem que outro espírito dos ossos está aqui. Precisa de ajuda.}
+
+{390}{}{Todos estão muito tristes. Diga o tempo em breve, onde não haverá nada além de bonepirits aqui.}
+{391}{}{Este lugar não tem futuro. Nós e você precisam fazer algo.}
+
+{400}{slk27fa}{Grampy Bone rindo, embora não engraçado. A luta é algo perdido, não tomado.}
+{401}{slk27fb}{Espíritos não felizes. Outros pretendem ser espíritos, tentam assustá-los como crianças.}
+{402}{slk27fc}{Aquele que está com os espíritos não é ... Foi o que eles disseram.}
+{403}{slk27fd}{Todo mundo no chão não está morto.}
+
+{410}{slk27ga}{Grampy Bone diz que as coisas podem ser bem sucedidas, mas as necessidades de ajuda vêm de fora.}
+{411}{slk27gb}{Um lugar ajuda o outro, ajuda-se. Muito ruim, eles não conseguem vê-lo com os olhos abertos.}
+
+{420}{slk27ha}{Precisamos ir para onde os espíritos vão, não seja o que são.}
+{421}{slk27hb}{Este não é o único, mas ajuda ser o único ... talvez os espíritos saibam mais, talvez não. Nós
+ E eu acho que eles gostam de falar assim.}
+
+{430}{slk27ia}{Os espíritos dizem que são tocados pela sombra da cidade das luzes.}
+{431}{slk27ib}{A cabeça não está com o corpo.}
+
+{440}{slk27ja}{Os espíritos vêem dois caminhos, unindo outros. O caminho ruim passa para sombras ruins na área brilhante. Boa
+ O caminho passa para um lugar luminoso que nasceu das sombras.}
+{441}{slk27jb}{Não os mande para as luzes.}
+{442}{slk27jc}{Convide-os a fazer parte de algo maior.}
+
+{450}{slk27ka}{Nenhum espírito guia essas mãos.}
+{451}{slk27kb}{Uma canela se curva, um carvalho é explodido.}
+{452}{slk27kc}{Você pode fazer um amigo aqui.}
+
+{460}{slk27la}{Quem envenenou os jovens?}
+{461}{slk27lb}{O certo é certo.}
+{462}{slk27lc}{Este lugar está cheio de veneno.}
+
+{470}{slk27ma}{Aqueles que ficam na frente do backstab.}
+{471}{slk27mb}{O chão brilha com uma luz não dos espíritos.}
+
+{480}{slk27na}{Você deve ser uma ponte entre os lados.}
+{482}{slk27nb}{Calmo o que está debaixo da água ou a salvação de sua tribo também irá sob.}
+{483}{slk27nc}{O que empurra a grande árvore de aço para o céu deve ir ao berço da tribo.}
+{484}{slk27nd}{Seu povo vale mais do que o ouro escuro. Carregá-los com menos cuidado.}
+
+{490}{}{Aqueles que parecem ser espíritos, mas não possuem muitos segredos.}
+{491}{}{Como uma cebola, existem muitas camadas, mais escondidas.}
+{492}{}{A máquina de elevação pode levá-lo a locais inesperados.}
+
+{500}{slk27pa}{Os espíritos vêem a sombra que lançou sua sombra aqui de antes.}
+{501}{slk27pb}{Há perigosas aqui.}
+{502}{slk27pc}{Há outras sombras daquele que lançou sua sombra aqui.}
+
+{510}{slk27qa}{Ocupado. Todos tomados.}
+{511}{slk27qb}{Os espíritos vêem a mesma nuvem de deglutição em direção a sua casa.}
+{512}{slk27qc}{Todos levados para a Grande Água salgada.}
+
+{520}{slk27ra}{O que você procura não está aqui. O caminho para isso é.}
+{521}{slk27rb}{Caminha o caminho quieto e aprende muito.}
+{522}{slk27rc}{Uma semente forte é plantada aqui. Uma boa semente.}
+
+{530}{slk27sa}{Um casco vazio fica abaixo dos que descansam.}
+{531}{slk27sb}{Os talões da morte estão próximos.}
+{532}{slk27sc}{Pequena morte irá segui-lo.}
+
+{540}{slk27ta}{A voz é mais alta que o som de qualquer arma.}
+{541}{slk27tb}{Evil lúpulo aqui.}
+{542}{slk27tc}{O caminho do mal é esclarecido aqui.}
+
+{550}{}{Há um grande conhecimento aqui.}
+{551}{}{Um caminho mais longo no futuro começa em lugares tão pequenos.}
+
+{560}{slk28a}{Precisamos de um pouco de tempo para nós mesmos.}
+{561}{slk28b}{Precisa de algum tempo de folga. Um pouco de fumaça, pense um pouco.}
+
+{600}{}{Está bem. Obrigado.}
+
+{704}{slk28a}{Precisamos de um pouco de tempo para nós mesmos.}
+{705}{slk28b}{Precisa de algum tempo de folga. Um pouco de fumaça, pense um pouco.}
+
+{706}{slk29a}{Deixe-nos mostrar-lhe como é feito na nossa tribo.}
+{707}{slk29b}{Estamos conhecendo a terra e vivendo bem. Nós cuidamos deste.}
+{708}{slk29c}{Os Bonespirits nos ajudam nessa.}
+
+{709}{slk30a}{Nós somos como feios ... você.}
+{710}{slk30b}{Sim, você precisará ficar perto. Mantenha-o fora de problemas.}
+{711}{slk30c}{Nós e eu ficamos próximos se você promete comprar sabão na próxima cidade.}
+
+{712}{slk31a}{Vai fazer.}
+{713}{slk31b}{Nós estaremos aqui se você precisar de nós.}
+{714}{slk31c}{Provavelmente uma coisa boa para manter uma pequena distância. Pessoas tentando matá-lo o tempo todo.}
+
+{715}{slk32a}{Sem problemas.}
+{716}{slk32b}{Boa ideia. Você provavelmente vai ser baleado de qualquer maneira.}
+{717}{slk32c}{Nós e o nosso nariz, obrigado.}
+
+{718}{slk33a}{Tempo de um pouco de erva-soberba de qualquer maneira. Mais para nós.}
+{719}{slk33b}{Soa como um plano. Coisas ruins que o seguem como ninguém, de qualquer maneira.}
+{720}{slk33c}{Boa sorte para você, fren. Estamos pensando que você está precisando disso.}
+
+{721}{slk34a}{Estamos aqui.}
+{722}{slk34b}{Indo tirar uma pequena soneca, fale com Grampy Bone. Não vai a lugar algum.}
+{723}{slk34c}{Este parece um bom lugar para sentar um pouco.}
+
+{724}{slk35a}{Ei, diga-nos para sair do seu caminho.}
+{725}{slk35b}{Desculpe, fren.}
+{726}{slk35c}{Nós nos movemos para você, não há problema.}
+
+{727}{slk36a}{Vai fazer.}
+{728}{slk36b}{Grampy Bone está nos dizendo a mesma coisa}
+{729}{slk36c}{Lotta lutando. Precisa de uma melhor arma.}
+
+{730}{slk37a}{Os espíritos também ajudam. Isso e armadura quase o suficiente ao seu redor.}
+{731}{slk37b}{Boa ideia. Você desenha pessoas irritadas como moscas em tortas de pastagem.}
+{732}{slk37c}{Com você ao redor, precisamos de tudo o que podemos conseguir.}
+{733}{slk37d}{É muito pesado, fen. Nós gostamos de dançar longe das coisas más.}
+
+{734}{slk38a}{Você precisa disso, você entendeu.}
+{735}{slk38b}{Vamos fazer isso.}
+{736}{slk38c}{Negociar sem problemas, fren. Mas só obteve um Grampy Bone. Desculpa.}
+
+{737}{slk39a}{Isso é uma coisa boa, fren.}
+{738}{slk39b}{Vai fazer.}
+{739}{slk39c}{Nós não queríamos ser uma garotinha sobre isso, mas ...}
+{740}{slk39d}{Não há problema, fren. Nós somos fortes.}
+{741}{slk39e}{Espíritos nos guardaram. Estamos bem.}
+
+{742}{slk40a}{Nós e eu vamos dar uma olhada.}
+{743}{slk40b}{Grampy Bone dizendo que devemos ter cuidado.}
+{744}{slk40c}{Sem problemas. Make sure it safe for our fren.}
+
+{745}{slk41a}{De agora em diante você dá dois para um em negócios ... Apenas brincando. Osso Grampy
+ Diga que você tenha uma aparência engraçada - como essa.}
+{746}{slk41b}{Parece bom.}
+{747}{slk41c}{O nosso é o seu, fren.}
+
+{750}{slk42}{Nós e eu agradecemos. Você tenta fazer uma coisa boa, simplesmente não tenha o pão. Talvez você
+ Pode criar algum?}
+{751}{}{Uh.}
+{752}{}{Desculpe, devo ter desconhecido. Adeus.}
+{753}{}{Eu pensei que tinha o suficiente. Desculpa. Deixe me perguntar algo.}
+
+{754}{slk43a}{Sim. Estamos dando isso a Maida. Então seremos livres. Quer que nós caminhemos andando?}
+{755}{slk43b}{Sim. Você pode estar feio lá fora, mas você é muito legal por dentro. Nós somos livres para encontrar sis agora.}
+{756}{slk43c}{Oh sim. Forma legal. Nós íamos com você, mas você já é uma multidão.}
+{757}{}{Nuh-uh.}
+{758}{}{Uh-huh.}
+{759}{}{Não agora, obrigado.}
+{760}{}{Seria ótimo.}
+
+{761}{slk44a}{Nós e eu conhecemos muitas coisas. Viaje de Great Salt Water para casa de lagartos mordedores.}
+{762}{slk44b}{Nós e eu ficamos felizes em responder.}
+{763}{}{Conte-me sobre a Grande Água salgada.}
+{764}{}{Mordendo Lagartos?}
+{766}{}{Por que você viajou tanto?}
+{767}{}{O que você está fazendo aqui?}
+{768}{}{Estou interessado em alguma informação local.}
+{769}{}{Você gostaria de vir comigo? Podemos encontrar sua irmã no curso das minhas viagens.}
+{770}{}{Eu não acho que preciso saber mais nada agora.}
+
+{771}{slk45}{A casa da tribo está ao lado de Great Salt Water. Duas luas daqui, fren.}
+{772}{}{Deixe-me perguntar-lhe outra coisa.}
+{773}{}{Duas luas? Isso é um longo caminho. Como você viajou até agora com segurança.}
+{774}{}{Isso é tudo que eu preciso por enquanto. Adeus.}
+
+{775}{slk46}{Geckos. Os pequenos gajos não mordem muito. São os Goldens. Eles passam por sua perna como um
+ Tronco do tubo antigo.}
+
+{776}{slk47}{O comerciante chamado Vic deveria estar aqui. Ele está dizendo que ele conhece os escravos. Nós nos mostramos, não
+ Peep ele, ficar muito quente.}
+{777}{}{Vic está aqui, mas não acho que ele conheça muito os escravos. Além de ser mantido como um no
+ Den, isso é. Diga-me outra coisa.}
+{778}{}{Tchau.}
+
+{779}{slk48a}{Os escravos conseguiram o nosso sis. Pensava que Vic estava tendo informações. Não pude espiar, pego
+ Como um peixe. Spirits of Anger e Chaos pop out e agora temos que pagar uma moeda para que seja correto.}
+{780}{slk48b}{Estaremos tentando saber qual caminho seguir para encontrar pessoas escravas que tomam sis. Talvez o sul.}
+{781}{slk48c}{Descendo para encontrar sis. Penso que vamos para o sul, mas ainda não está certo. Você quer companhia?}
+{782}{}{Você estava à procura de Vic o comerciante?}
+{783}{}{Você precisa pagar por danos?}
+{784}{}{Uh! Uh, uh!}
+{785}{}{Eu irei para o sul. Você pode viajar comigo.}
+{786}{}{Você está procurando por sua irmã?}
+
+{787}{slk50}{Fren, com todos os espíritos caminhando comigo, sem medo de viajar a qualquer lugar.}
+
+{790}{slk52a}{Você é uma notícia ruim. Grampy Bone diz que estamos empilhando o karma ruim apenas sendo
+ perto de você.}
+{791}{slk52b}{Estavam lá. Grampy Bone diz que podemos encontrar sis com você.}
+{792}{}{Uh.}
+{793}{}{Espero que sim. Em qualquer caso, será bom viajar com você, e você, seu avô
+ osso.}
+
+{794}{slk53}{Não apenas Grampy Bone, todos os espíritos das tribos. Grampy Bone apenas mais sábio e forte do que
+ o resto. Vamos diminuir.}
+{795}{}{Uh, sim. Ok, Sulik.}
+
+{796}{slk54}{Para onde podemos fazer?}
+{797}{}{Eu tenho algumas perguntas para você.}
+{798}{}{Onde posso encontrar comércio, um curandeiro ou uma sala?}
+{799}{}{Já ouviu falar de um Kit de Criação do Jardim do Éden?}
+{800}{}{O que está acontecendo na cidade?}
+{801}{}{O que você está fazendo aqui?}
+{802}{}{Agora que você é grátis, por que não viaja comigo?}
+{803}{}{Acho que não preciso de nada agora. Adeus.}
+
+{804}{slk55}{Tantas perguntas. Maida cuida do comércio aqui e sua mãe, Ardin, cuida do
+ quartos. Nenhum Shaman na cidade, mas você pode negociar por medicamentos.}
+{805}{}{Oh, obrigado. Deixe-me perguntar-lhe outra coisa então.}
+{806}{}{Acho que é tudo o que preciso saber. Adeus.}
+
+{807}{slk56}{Nunca ouvi falar disso. Mas Maida tem nos mantido ocupados.}
+{808}{}{Quem é Maida?}
+{809}{}{Oh, bem, deixe-me perguntar-lhe outra coisa.}
+{810}{}{Bem, acho que vou deixar você voltar para ele então. Adeus.}
+
+{811}{slk57a}{Lugar ocupado. Bugmen roubando gado, espíritos andando, Smiley desaparecido.}
+{812}{slk57b}{Lugar ocupado. Bugmen roubando gado, espíritos andando, Smiley desaparecido. Now Torr's missing too.}
+{813}{slk57c}{Você tem mais perguntas para o Sulik?}
+{814}{}{Conte-me sobre os Bugmen.}
+{815}{}{Espíritos ambulantes? Conte-me sobre isso.}
+{816}{}{Risonho? Quem é Smiley?}
+{817}{}{Torr está desaparecido? Onde você acha que ele pode ter ido?}
+{818}{}{Deixe-me perguntar-lhe sobre outra coisa.}
+{819}{}{Eu não acho que preciso saber mais nada agora. Goodbye.}
+
+# Will be removing the word Pistol from his dialog when the new audio is back.
+{820}{slk58alt}{Nós somos bons com punhos, lança, martelo grande ou sub-metralhadora. Nós somos um punhado.}
+
+{821}{slk59}{Torr esteja nos informando sobre Bugs que andam em dois pés e roubam brahmin. Agachou-o.}
+{822}{}{Interesting. Deixe-me perguntar-lhe outra coisa.}
+{823}{}{Acho que é tudo o que preciso saber. Adeus.}
+
+{824}{slk60}{O cânion a leste da área de rebanho deveria ter um espírito a pé, uivando. Agitando o
+ Locais. Grampy Bone também não diz uma palavra.}
+
+{825}{slk61}{Smiley é um bom caçador. Diga que ele está procurando o ninho do Golden Gecko. Não voltou.}
+
+{830}{slk62a}{Onde a rocha tremendo habita, siga o caminho que você não pode ver.}
+{831}{slk62b}{O vento se move para lugares secretos.}
+{832}{slk62c}{Procure a visão que não pertence.}
+{833}{slk62d}{Quanto maior o lugar, maior o rosto.}
+{834}{slk62e}{As águas tranquilas não correm em absoluto.}
+{835}{slk62f}{Uma flor abre suas pétalas ao sol. Procure o que é como a flor.}
+{836}{slk62g}{O que é uma porta nem sempre leva a qualquer lugar. O que não é uma porta faz.}
+{837}{slk62h}{Procure um reflexo de si mesmo. O caminho será aberto antes de você.}
+{838}{slk62i}{A grama é mais verde através da cerca, mas você deve primeiro encontrar essa cerca.}
+{839}{slk62j}{O levantamento de rochas vai encontrar mais do que lesmas.}
+
+{840}{slk63a}{Uma porta é apenas um caminho para o outro lado.}
+{841}{slk63b}{Há momentos para falar e tempos para ouvir.}
+{842}{slk63c}{A melhor resposta nem sempre é a mais alta.}
+{843}{slk63d}{Mesmo a mente mais pequena contém algum conhecimento.}
+{844}{slk63e}{Depois de matar alguma coisa, não vai falar com você.}
+{845}{slk63f}{Se está quebrado, então funcionou uma vez.}
+{846}{slk63g}{As ferramentas vêm em formas estranhas.}
+{847}{slk63h}{Você não envia um ferreiro para assar pão.}
+{848}{slk63i}{Ninguém questiona os que vêem todos os dias.}
+{849}{slk63j}{Se você esperar o tempo suficiente, a maioria dos vícios irá curar-se.}
+{850}{slk63k}{Matar pessoas boas mancha sua alma - algumas pessoas podem sentir isso.}
+{851}{slk63l}{Matar pessoas ruins é bom para o seu Karma - algumas pessoas podem sentir isso.}
+{852}{slk63m}{Um ato de bondade raramente é esquecido.}
+
+{860}{slk64a}{O verde terá sorte para você.}
+{861}{slk64b}{Um pouco mais suave agora.}
+{862}{slk64c}{Olhe antes de você cair.}
+{863}{slk64d}{Um porco-espinho não é um travesseiro.}
+{864}{slk64e}{Onde uma sombra está no escuro?}
+{865}{slk64f}{Um pouco mais alto agora.}
+{866}{slk64g}{Cogumelos fazem anfitriões de jantar ruim.}
+{867}{slk64h}{É fácil tornar-se um espírito.}
+{868}{slk64i}{Gritar.}
+{869}{slk64j}{As bigodes crescem, a água corre, mas as rochas simplesmente se sentem.}
+{870}{slk64k}{Quando a luz do dia termina, o que começa?}
+
+{880}{slk65}{O que você precisa?}
+{881}{}{Preciso de você para sair do meu caminho.}
+{882}{}{Quero mudar as táticas de combate.}
+{883}{}{Preciso que você espere aqui.}
+{884}{}{Você deve se curar.}
+{885}{}{Diga-me como você é.}
+{886}{}{É por enquanto, Sulik.}
+{887}{}{Conte-me sobre este lugar.}
+
+{890}{slk66}{Qual a estratégia de luta?}
+{891}{}{Eu quero que você mude sua distância.}
+{892}{}{Quero que use sua melhor arma.}
+{893}{}{Eu quero que você use sua melhor armadura.}
+{894}{}{Quero que você mude sua agressividade.}
+{895}{}{Deixa pra lá.}
+
+{900}{slk67}{De que distância você precisa de nós?}
+{901}{}{Quero que fique a uma curta distância.}
+{902}{}{Eu quero que você fique a distância média.}
+{903}{}{Eu quero que você fique em longa distância.}
+{904}{}{Preciso de você para escutar a frente.}
+
+{905}{slk68}{Como você quer que nós brigamos?}
+{906}{}{Eu quero que você lute defensivamente por enquanto.}
+{907}{}{Preciso que você lute normalmente.}
+{908}{}{Preciso de você para lutar de forma agressiva.}
+
+{910}{slk69}{Um sobrevivente. O cara estava em mau estado. Disse que guerreiros malignos vieram com tochas mágicas. Fogo
+ Iria lamber os guerreiros das tribos e eles iriam ao espírito.}
+{911}{}{E o seu sis?}
+
+{912}{slk69a}{Os guerreiros do mal amarraram o resto e decolaram. Sis com eles. Fren, nós a estamos encontrando ou
+ Morrendo tentando.}
+{913}{}{Soa como escravas para mim. Você encontrou algo sobre eles?}
+{914}{}{I'm sorry to hear that. I hope you find her. Deixe-me perguntar-lhe outra coisa.}
+{915}{}{Eu acho que é tudo o que preciso saber por enquanto. Adeus.}
+
+{916}{slk70a}{Seja como meio da colina de formigas aqui. Muito lotado para nós.}
+{917}{slk70b}{Nossa tribo parece menor do que isso. Muitas pessoas para essa viagem.}
+{918}{slk70c}{Você tem seu exército. Não precisamos de nós e eu para obter ajuda agora.}
+
+{919}{slk71}{Nós e eu estamos tristes em ver que você toma a marca. Pense que você está ficando escuro na alma. Tem que
+ ir. Até logo.}
+
+{920}{slk72}{Você pensa possuir pessoas OK? Alguns fren. Se foram.}
+
+{921}{slk73a}{Você tem muitos problemas com as pessoas. Nós iremos até você descobrir esse.}
+{922}{slk73b}{Você gosta de um sonho ruim. Temos que ir.}
+
+{923}{slk74}{De jeito nenhum, estamos com o Killer Infantil.}
+
+{924}{slk75}{Nós pensamos que você está cometendo um grande erro, mas está bem.}
+
+{925}{slk76}{Nós estamos ouvindo você ajudando Torr. Ele está perdendo mais brahmin é um grande problema.}
+{926}{}{Uh?}
+{927}{}{Uh. Tchau.}
+{928}{}{Well, he sure looked as though he needed help. Eu tenho algumas perguntas para você.}
+{929}{}{Ele precisava da ajuda tudo bem. Preciso de alguma informação local.}
+{930}{}{Torr precisa de ajuda. É melhor eu chegar a isso. Adeus.}
+
+{931}{slk77}{Estamos ouvindo que você não poderia ajudar a Torr. Muito ruim, o cara precisa de algo sério.}
+{932}{}{Bem, isso acontece. Eu preciso de alguma informação local, no entanto.}
+{933}{}{Eu realmente tentei ajudá-lo. Desculpe, não pude. Adeus.}
+{934}{}{Bem, ele era um idiota, então, quem se importa com o que lhe acontece. Adeus.}
+
+{935}{slk78}{Espero que você esteja encontrando Torr. Ele precisa de ajuda.}
+{936}{}{Onde Torr foi?}
+{937}{}{Desculpe, Torr está faltando. Tenho algumas perguntas para você, no entanto.}
+{938}{}{Eu gostaria de ajudar Torr, mas eu não tenho tempo agora. Adeus.}
+{939}{}{Torr nada além de um defeito Nenhum de nós pode ajudar Torr com isso. Adeus.}
+
+{940}{slk79}{Nós o ouvimos falar de matar o Espírito que anda. Tentando ser corajoso.}
+{941}{}{Espírito que anda?}
+{942}{}{Uau. Espíritos? Parece assustador. Adeus.}
+
+{943}{slk80}{Para o leste é uma garganta onde o brahmin pasta. Ouvimos várias luas lá atrás.
+ Relâmpagos e trovões ... sem nuvens. Espíritos malvados chegam a essa terra viva.}
+{944}{}{Mesmo?}
+
+{945}{slk80a}{Os locais começam a ouvir ruídos estranhos. Espíritos em tormento, digamos nós e eu. Alguns poucos
+ Veja algo lá. Criatura espiritual que não usa a forma de um homem.}
+{946}{}{Hã.}
+{947}{}{Parece perigoso. O que Torr tem a ver com isso.}
+
+{948}{slk80b}{Torr seja o alvo de muitas piadas. Então ele pensa encontrar e matar esse espírito maligno
+ Faça dele um herói. Achamos que ele está em apuros. Você estará ajudando Torr?}
+{949}{}{Huh-uh!}
+{950}{}{Uh-huh.}
+{951}{}{Eu vou procurá-lo imediatamente.}
+{952}{}{Claro, vou ajudá-lo. No entanto, eu preciso de algumas informações.}
+{953}{}{Provavelmente devemos dar-lhe um pouco mais de tempo. Ele não pode ser um herói se entramos.
+ Poderia usar algumas informações locais.}
+{954}{}{Uh, história interessante, mas acho que não posso ajudar Torr. Estou muito ocupado. Adeus.}
+
+{955}{slk81a}{Sis encontrado. Nós a enviamos para casa. Ela é forte, pode fazê-lo bem. Queremos ir com você. Grampy
+ Bone diz que você tem um grande caminho para viajar.}
+{956}{slk81b}{Você está nos deixando com você agora?}
+{957}{}{Nuh-uh.}
+{958}{}{Uh-huh.}
+{959}{}{Você deve voltar para sua aldeia com ela para se certificar de que ela está segura. Vou sentir sua falta, Sulik.}
+{960}{}{Vamos, Sulik.}
+
+{961}{slk82a}{Quando terminar, não será uma pessoa má no mundo.}
+{962}{slk82b}{Fren, você já se perguntou se há mais pessoas ruins do que balas?}
+
+{963}{slk83a}{Você gosta de ver o interior dos corpos, certo?}
+{964}{slk83b}{Grampy Bone diz que eu deveria me preocupar se ninguém mais voce matar.}
+
+{965}{slk84a}{Nós e eu pensamos que sua pequena cabeça está fazendo todo o pensamento.}
+{966}{slk84b}{Você gasta muito tempo de trabalho.}
+
+# FLOATS
+{1016}{}{Seja como meio da colina de formigas aqui. Muito lotado para nós.}
+{1017}{}{Nossa tribo parece menor do que isso. Muitas pessoas para essa viagem.}
+{1018}{}{Você tem seu exército. Não precisamos de nós e eu para obter ajuda agora.}
+{1020}{}{Você pensa possuir pessoas OK? Alguns fren. Se foram.}
+{1021}{}{Você tem muitos problemas com as pessoas. Nós iremos até você descobrir esse.}
+{1023}{}{De jeito nenhum, estamos com o Killer Infantil.}
+{1025}{}{Você está causando problemas em Klamath. Se foram.}
+
+{2300}{}{Os espíritos estão nos movendo}
+{2301}{}{Nós e nós estamos nos movendo}
+{2302}{}{OK, vá com calma.}
+{2303}{}{Não se preocupe, nós "Eu estou me movendo"}
+{2304}{}{Achamos que você precisa de tempo para cheirar as flores. Grampy-Bone diz que você é muito insistente durante todo o tempo. Você deve estar levando a vida mais devagar.}
+{2305}{}{Nós estamos movendo um 'groovin'}
+{2306}{}{Nós e eu vamos aqui agora.}
+{2307}{}{Relaxe, seja feliz, nos movemos agora.}
+
+{3000}{}{Para o norte.}
+{3001}{}{Para o Noroeste.}
+{3002}{}{Ao pôr-sol.}
+{3003}{}{Para o sudoeste.}
+{3004}{}{Para o sul.}
+{3005}{}{Para o Sudeste.}
+{3006}{}{Ao sol nascente.}
+{3007}{}{Para o Nordeste.}
+{3008}{}{Não sabemos nada sobre isso.}
+{3009}{}{Sim.}
+{3010}{}{Não.}
+{3011}{}{O que você espera de nós?}
+{3012}{}{Isso não é legal.}
+{3013}{}{Obrigado.}
+{3014}{}{Isso é bom.}
+{3015}{}{Isso não é bom.}
+{3016}{}{Temos um bom pressentimento sobre isso.}
+{3017}{}{Temos um mau pressentimento sobre isso.}
+{3018}{}{Essas pessoas são loucas.}
+
+{3020}{}{Deve haver outra maneira.}
+{3021}{}{Siga-nos.}
+{3022}{}{Tente isso.}
+{3023}{}{Nós vamos aqui agora.}
+{3024}{}{Foi assim.}
+{3025}{}{Eles foram por aí.}
+{3026}{}{Este é o caminho.}
+{3027}{}{Nós encontramos a trilha.}
+{3028}{}{Boa caça aqui.}
+{3029}{}{Caça ruim aqui.}
+{3030}{}{Seguro para acampar aqui.}
+{3031}{}{Não é seguro acampar aqui.}
+{3032}{}{Podemos descansar aqui.}
+{3033}{}{Temos sorte.}
+{3034}{}{Você precisa corrigir isso.}
+{3035}{}{Você precisa ativar isso.}
+{3036}{}{Você precisa desbloquear isso.}
+{3037}{}{Você precisa abrir isso.}
+{3038}{}{Talvez devêssemos voltar aqui.}
+{3039}{}{Não entendemos.}
+{3040}{}{Nós não sabemos.}
+
+{3050}{slk86}{Estar em casa é legal, mas o lugar parece um pouco pequeno agora. Perdemos a estrada
+ E a companhia de tão bom quanto você. Wan-nos para caminhar de novo e novamente.}
+{3051}{}{Isso seria bom.}
+{3052}{}{Desculpe, não agora.}
+
+{3053}{slk87}{Fazemos adeus e pegamos você na estrada.}
+{3054}{}{ESTÁ BEM.}
+
+{3055}{slk88}{Isso é muito ruim. Diga-lhe o que, você está precisando desse material mais do que eu. Caminha bem.}
+{3056}{}{Pensando bem, talvez você venha comigo. Desculpe, eu simplesmente não queria separar você de
+ Sua casa tão cedo.}
+
+{3057}{slk89}{É bom ver em casa, mas não enquanto o sis ainda está desaparecido. Tenha vontade de permanecer na sua
+ Empresa, ok?}
+{3058}{}{Sim.}
+{3059}{}{Não, acho que é hora de procurá-la sozinha.}
+
+{3060}{slk90}{Talvez assim. Nós e eu também sentimos sua falta. Um bom espírito esteja com você, fren.}
+{3061}{}{Obrigado, Sulik. Adeus.}
+{3062}{}{Bem, talvez você devesse continuar comigo. Suponho que ainda possamos encontrar sua irmã.}
+
+{3063}{slk91a}{Você está querendo alguma boa companhia depois de tudo?}
+{3064}{slk91b}{É bom voltar para casa novamente.}
+{3065}{slk91c}{Precisamos conversar com o herb-superb. Deixe o mundo flutuar por-e-por.}
+{3066}{slk91d}{Muitas jovens donzelas dizem nossas viagens - e tão pouco tempo.}
+{3067}{slk91e}{Coisa engraçada. Ficamos felizes em estar em casa, mas um pouco inquieto para a estrada já.}
+{3068}{}{Sim eu quero.}
+{3069}{}{Não, eu não.}
+
+{3070}{}{Sulik, você pode consultar os espíritos para mim?}
+{3071}{}{Sulik, por favor, coloque sua arma.}
+{3080}{}{Você não é meu. Grampy Bone diz que não fala com você.}

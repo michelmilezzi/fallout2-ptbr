@@ -1,0 +1,30 @@
+{100}{}{Um homem vestido de armadura de combate militar padrão.}
+{101}{}{Ele parece saudável, mas parece bastante desorientado.}
+{102}{}{Oh, minha cabeça.}
+{103}{}{Quem é Você?}
+{104}{}{Ug!}
+{105}{}{Eu-eu sou Dobbs ... Privado, Primeira Classe.}
+{106}{}{Você pode me dizer como você chegou aqui?}
+{107}{}{Tchau.}
+{108}{}{Eu estava em uma batalha. Sim, uma batalha. Havia disparos e explosões em todos os lugares. Pessoas morrendo. Eu estava com medo, mas eu tinha que continuar lutando. Depois, houve um flash cegador.}
+{109}{}{O que aconteceu depois?}
+{110}{}{Tchau,}
+{111}{}{A próxima coisa que eu lembro foi ver meu corpo como se eu estivesse olhando para baixo por cima. Eu ouvi os médicos dizerem que eu estava morto e depois jogaram meu corpo sobre uma pilha de outros corpos.}
+{112}{}{E então, o que?}
+{113}{}{Tchau.}
+{114}{}{Alguns homens vieram e levaram meu corpo para um laboratório. Eu os ouvi dizer algo sobre tentar regenerar meu corpo imergindo em algo chamado Biomed Gel.}
+{115}{}{O quê mais?}
+{116}{}{Tchau.}
+{117}{}{E então eu acordei aqui. Eu tenho que ir! Tenho que voltar para a minha unidade.}
+{118}{}{Tchau.}
+
+{200}{}{Onde estou?}
+{201}{}{Minha cabeça dói.}
+{202}{}{Por que estou coberto por goo?}
+
+{300}{}{Tenho que me juntar à minha unidade.}
+{301}{}{Ah não! Eu sou AWOL!}
+{302}{}{Qual caminho para a linha de frente?}
+{303}{}{Isto é para você, Jonny.}
+
+{400}{}{O Dobbs privado experimenta síndrome pós-criogênica.}

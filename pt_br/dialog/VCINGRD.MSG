@@ -1,0 +1,69 @@
+{100}{}{Eu estou te observando, Outworlder.}
+{101}{}{Acho que é hora de você sair.}
+{102}{}{Não gosto da aparência de você.}
+{103}{}{Mantenha seu nariz limpo, ou eu vou tirar esse Passe.}
+{104}{}{São 6 de fevereiro passado. Tempo para você voltar ao pátio.}
+{105}{}{OK. Eu vou embora agora.}
+{106}{}{OK. Eu vou em um minuto.}
+{107}{}{Eu tenho coisas para fazer. Eu irei quando eu estiver pronto para ir.}
+{108}{}{Umag Nak!?! Umag NAK!}
+{109}{}{Bem, vou me certificar de que você chega ao pátio, salvo e salvo. Vamos, vamos
+ ir.}
+{110}{}{OK. Vamos.}
+{111}{}{Brog Frup}
+{112}{}{Eu posso encontrar o meu próprio caminho.}
+{113}{}{Desculpe, recebi minhas ordens. Preciso escoltá-lo para o outro lado do portão.}
+{114}{}{Ok ... mas não estou feliz com isso. Posso apresentar uma complacão formal -}
+{115}{}{Desculpe, eu tenho * meus * pedidos. Vou ficar.}
+{116}{}{(Leans in.) Olha, tem sido um * longo * dia, amigo. Venha comigo, não cause nenhum problema,
+ E este dia não vai ficar pior para qualquer um de nós. Compreendo?}
+{117}{}{Certo, tudo bem. Eu irei.}
+{118}{}{Sobre o meu cadáver!}
+{119}{}{Vault City prevalece, Citizen.}
+{120}{}{Prazer em vê-lo, cidadão.}
+{121}{}{Dia ocupado, cidadão?}
+{122}{}{Depois de você, cidadão.}
+{123}{}{Olá, viajante.}
+{124}{}{Seja sobre o seu negócio, Outworlder.}
+{125}{}{Lembre-se, você tem até as 6 horas da manhã.}
+{126}{}{Você está fora daqui depois das 18:00.}
+{127}{}{Olha, eu sou um cidadão.}
+{128}{}{Nada para denunciar, capitão.}
+{129}{}{Apenas observando as coisas aqui, capitão.}
+{130}{}{Vault City prevalece, capitão.}
+{131}{}{Bom dia, capitão.}
+{132}{}{Você aí! Pare! O que esse ghoul está fazendo aqui em Vault City ?!}
+{133}{}{Você aí! Pare! O que esse mutante está fazendo aqui na Cidade do Vault ?!}
+{134}{}{Foop foop fofo}
+{135}{}{Um ghoul? Onde?}
+{136}{}{Um mutante? Onde?}
+{137}{}{Ele está comigo.}
+{138}{}{Ele está viajando comigo. Se algum de vocês racistas tiver um problema com isso, talvez devêssemos resolver isso aqui e agora.}
+{139}{}{Ele está com você? Então você está vindo conosco. Nós voltaremos para o pátio onde você ... e essa coisa ... pertencem.}
+{140}{}{Tudo bem, iremos em paz.}
+{141}{}{Por que você não tenta nos acompanhar daqui? Garanto que será uma experiência educacional.}
+{142}{}{Ótimo, parece que nos conseguiu um par de idiotas. Tudo bem, fraco.}
+{143}{}{Muito engraçado.}
+{144}{}{Você está vindo conosco. Nós voltaremos para o pátio onde você ... e essa coisa ... pertencem.}
+{145}{}{NENHá ALEITO FREN! U NÃO FREN!}
+{146}{}{Nós iremos quieto-lee}
+{147}{}{Tudo bem, iremos em paz.}
+{148}{}{Ele está viajando comigo. Qualquer um de vocês pode ter um problema com isso, podemos derrubar sangue agora.}
+{149}{}{Você quer fazer isso da maneira mais difícil? Bem. Guardas! Intrusos!}
+{150}{}{Hrnghhhhhhhhhh!}
+{151}{}{Você vai morrer antes que os seus amigos apareçam.}
+{152}{}{Ei! É o único que derrotou o Enclave!}
+{153}{}{Olá, parabéns por derrotar o Enclave!}
+{154}{}{Bem-vindo ao Vault City, herói!}
+{155}{}{Sua batalha contra o Enclave impressionou até o Primeiro Cidadão.}
+{156}{}{Ouvi dizer que você viajou até o sul de São Francisco. Isso é verdade?}
+{157}{}{É verdade que os EUA ainda estavam lutando contra a guerra?}
+{158}{}{Você deve catalogar suas viagens no computador do Vault City.}
+{159}{}{Você pode permanecer na Cidade do Vault enquanto quiser.}
+{160}{}{Você deve catalogar suas façanhas contra o Enclave e colocá-lo no Servidor de Lista.}
+{161}{}{Eu não reconheço você. Onde estão seus papéis?}
+{162}{}{Aqui estão eles, "oficial". Eu acho que você encontrará tudo em ordem.}
+{163}{}{Eu não os tenho em mim no momento, mas -}
+{164}{}{Hmmmm. Tudo bem, tudo parece estar em ordem. Desculpe incomodá-lo, cidadão. Vault City prevalece.}
+{165}{}{Sim. Vault City prevalece.}
+{166}{}{Você tem sorte de não denunciar você. Saia daqui.}

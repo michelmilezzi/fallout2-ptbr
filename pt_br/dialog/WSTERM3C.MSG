@@ -1,0 +1,85 @@
+{100}{}{Um terminal de computador}
+{101}{}{Tem um pequeno adesivo sobre isso que diz I * tel dentro.}
+{102}{}{[Você não consegue ler o que está no monitor.]}
+{103}{}{Terminal de controle
+                                                       Projeto: Experiência de Síntese Orgânica e Robótica}
+{104}{}{}
+{105}{}{Verificação de sistemas.}
+{106}{}{Ativar Robô}
+{107}{}{Saída}
+{108}{}{Erg?}
+{109}{}{[Você não consegue ler o que está no monitor.]}
+{110}{}{Programa Final}
+{111}{}{Saída}
+{112}{}{Ug}
+{113}{}{Por favor, espere...
+                                                           Corpo do robô - OK
+                                                     Reservatórios de gel biométrico - Completo
+                                         Dispositivo de Armazenamento Orgânico - Respondendo
+                          Pronto para ativar}
+{114}{}{Por favor, espere...
+                                                           Corpo do robô - OK
+                                                     Reservatórios de gel biomassa - Recarga
+                                       Dispositivo de armazenamento orgânico - não presente
+                  Ativação não recomendada}
+{115}{}{Por favor, espere...
+                                                           Corpo do robô - Substituir Motivador
+                                   Reservatórios de gel biométrico - OK
+                                        Dispositivo de Armazenamento Orgânico - Respondendo
+                   Ativação não recomendada}
+{116}{}{Por favor, espere...
+                                                           Corpo do robô - OK
+                                                   Reservatórios de gel biomassa - Recarga
+                                       Dispositivo de armazenamento orgânico - não presente
+                   Ativação não recomendada}
+{117}{}{Por favor, espere...
+                                                           Corpo do robô - OK
+                                                   Reservatórios de gel biomassa - Recarga
+                                       Dispositivo de Armazenamento Orgânico - Respondendo
+                    Ativação não recomendada}
+{118}{}{Por favor, espere...
+                                                           Corpo do robô - OK
+                                                   Reservatórios de gel biomassa - Recarga
+                                       Dispositivo de armazenamento orgânico - não presente
+                    Ativação não recomendada}
+{119}{}{Por favor, espere...
+                                                           Corpo do robô - Substituir Motivador
+                                  Reservatórios de gel biomassa - Recarga
+                                       Dispositivo de Armazenamento Orgânico - Respondendo
+                    Ativação não recomendada}
+{120}{}{Por favor, espere...
+                                                           Corpo do robô - Substituir Motivador
+                                  Reservatórios de gel biomassa - Recarga
+                                       Dispositivo de armazenamento orgânico - não presente
+                     Ativação não recomendada}
+{121}{}{}
+{122}{}{}
+{124}{}{}
+{153}{}{Comece a seqüência inicial}
+{154}{}{Saída}
+{155}{}{Failsafe substituído
+                                                  A unidade já está sendo executada}
+{156}{}{}
+{157}{}{}
+{158}{}{}
+{159}{}{}
+{160}{}{}
+{161}{}{}
+{162}{}{}
+{163}{}{}
+{164}{}{Iniciando a seqüência inicial}
+{165}{}{                                   Níveis de potência - nominal}
+{166}{}{                                              Rácio de sincronização - 75%}
+{167}{}{                                               A unidade está operacional}
+{170}{}{                                              Rácio de sincronização - 50%}
+{174}{}{                                              Rácio de sincronização - 10%}
+{176}{}{Saída}
+{200}{}{ É incapaz de ler o que está no monitor.}
+{300}{}{O computador parece ter algum tipo de mecanismo de defesa.}
+{500}{}{Initiating start-up sequence
+                                   Níveis de potência - nominal
+                                          Program Interrupted
+                                               Downloading...
+                                                  Program Continue
+                                                    Synch Ratio - 100%
+                                                   A unidade está operacional}

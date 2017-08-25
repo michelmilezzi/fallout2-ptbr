@@ -1,0 +1,4 @@
+{100}{}{Você entrou em uma caverna escura ao lado de uma montanha.}
+{101}{}{Você está em uma série de cavernas preto e preto. Na escuridão, você pode ouvir o clique de escorpiões.}
+{102}{}{Essas cavernas parecem servir como quartéis para uma banda de incursores.}
+{103}{}{Você encontrou o covil dos invasores.}

@@ -1,0 +1,199 @@
+{100}{}{Você vê um caçador muito alto e esguio.}
+{101}{}{Você vê Slim Picket, o chefe da Trapper Town.}
+
+{110}{}{Bem, senhor, com certeza você não parece mastigado por esses ratos ainda - mas você fará se você mantiver
+ incomodando-os. Apenas não traga de volta aqui com você.}
+{111}{}{Bem, pequena senhorita, com certeza você não parece mordida por esses ratos ainda - mas você fará se você mantiver
+ incomodando-os. Apenas não traga de volta aqui com você.}
+{112}{}{Não se preocupe. Eu não vou.}
+{113}{}{Não, obrigado a você.}
+{114}{}{Uh, ok.}
+
+{120}{}{Eu simplesmente não quero ter nada a ver com essas criaturas. Deixe-os sozinhos e espero que eles
+ faça o mesmo por mim. Tome cuidado agora.}
+
+{130}{}{Apenas tenha cuidado. Parece mais profundo que você ir, quanto maior eles voltam lá.}
+
+{140}{}{Olá, tribal. Meu nome é Slim Picket e você pode falar comigo sobre Trapper Town. Nós não queremos
+ qualquer problema aqui.}
+{141}{}{Olá, amigo. É bom você visitar todos nós aqui. Meu nome é Slim Picket. Eu falo para
+ Cidade Trapper.}
+{142}{}{Olá, Slim. Meu nome é}
+{143}{}{. Por que você chama isso Trapper Town?}
+{144}{}{Você sabe onde eu poderia encontrar algo chamado Kit de Criação do Jardim do Éden?}
+{145}{}{Prazer em conhecê-lo, Sr. Picket. Estou apenas olhando por agora, no entanto. Adeus.}
+
+{150}{}{Olá, meu nome é Slim Picket. Eu falo para esta parte da cidade.}
+{151}{}{Gruk.}
+{152}{}{Ook, oople.}
+{153}{}{(ponto de auto) Eu}
+{154}{}{, estou com fome}
+
+{160}{}{Diga, sua antena não pega todos os canais, faça isso? Bem, eu digo o que. Aqui está
+ uma chave para a porta atrás de mim. Há todos os tipos de ratos lá - mesmo um grande
+ um obrigado. Você passa por lá e mata todos os ratos que você pode comer. Como é isso?}
+{161}{}{Esse grande rato que estava incomodando a todos aqui parece ter desaparecido. Mas
+ Eu não acho que um idjit como você teve algo a ver com isso.}
+{162}{}{ESTÁ BEM. Heh, heh, matam ratos. Heh, heh, heh.}
+{163}{}{Não! Rats scaaarrrry! Não, eu vou agora.}
+
+{170}{}{O que diabos você quer desta vez?}
+{171}{}{Olá. Como posso ajudá-lo?}
+{172}{}{Eu acho que preciso de uma chave para entrar na parte norte da Trapper Town.}
+{173}{}{Eu tenho algumas perguntas que eu queria lhe perguntar.}
+{174}{}{Acho que não preciso de nada. Adeus.}
+
+{180}{}{Bem, esta parte da cidade é onde todos nós, os caçadores, vivemos quando não estamos a travar
+ geckos. O único problema sobre as escavações gratuitas são os ratos do lado norte. Mas temos a maioria dos
+ As entradas para a parte do shopping barricada eram muito boas.}
+{181}{}{Sobre o que você queria saber?}
+{182}{}{Você já vai para o lado norte?}
+{183}{}{Conte-me sobre a captura de geckos.}
+{184}{}{Você sabe alguma coisa sobre um Kit de Criação do Jardim do Éden?}
+{185}{}{Você tem certeza de que há muitos carros aqui.}
+{186}{}{Ratos? Conte-me mais sobre ratos.}
+{187}{}{Obrigado pela informação. Eu não acho que eu preciso saber sobre outra coisa. Adeus.}
+
+{190}{}{Oh, você quer dizer um GECK. Hã? Bem, eu vi um anúncio para um desses em uma revista antiga. Mas eu não
+ acho que eles existem mais. Certamente não por aqui, em qualquer lugar.}
+{191}{}{Mesmo? Bem, fale-me sobre outra coisa então.}
+{192}{}{Ah bem; Era tudo que eu queria saber. Obrigado.}
+
+{200}{}{Você quer a chave para o lado norte da Trapper Town? Para que você quer isso?}
+{201}{}{Você ainda quer essa chave? Por quê?}
+{202}{}{Eu sou um explorador; Quero explorar todos os locais que posso. Além disso, talvez haja um GECK esquecido
+ em uma prateleira traseira lá.}
+{203}{}{Eu vou ajudá-lo com o problema do seu rato.}
+{204}{}{Eu só quero tentar chegar a esse carro do outro lado da cerca.}
+{205}{}{Eu estaria disposto a dar qualquer coisa para obter essa chave. Eu realmente quero chegar ao outro lado da
+ Cidade Trapper.}
+{206}{}{Acho que não quero uma chave. Parece que é bastante perigoso lá.}
+
+{210}{}{Bem, OK, aqui está a chave. Apenas não vá mexendo demais demais lá e certifique-se
+ Você fecha a porta atrás de você.}
+{211}{}{Que barulho! Eu realmente precisava disso, querida. Você apenas se certifica de que nada acontece com isso
+ muito fofa sua, agora. (heh, hee, hee)}
+{212}{}{Obrigado pela chave, Slim. Antes de ir, tenho algumas perguntas para você.}
+{213}{}{Obrigado, Slim. Certifiquei-me de que a porta esteja fechada atrás de mim. Adeus.}
+
+{220}{}{Se você quer a chave, você vai ter que comprá-la de mim.}
+{221}{}{Não me importo com a negociação da chave.}
+{222}{}{Não quero trocar a chave. Não vai custar-lhe nada para me deixar emprestá-lo. Eu farei
+ Certo de fechar a porta depois de mim.}
+{223}{}{Se você me deixar ter a chave, tenho certeza de que você terá menos ratos para se preocupar depois de usá-lo.}
+{224}{}{Não acho que eu queira a chave. Adeus.}
+
+{230}{}{Eu acho que você conseguiu o que queria. Apenas tenha cuidado agora.}
+{231}{}{Obrigado.}
+{232}{}{Você faz uma barganha difícil. Eu espero que tenha valido a pena.}
+
+{240}{}{Bem, acho que você não precisou dessa chave tanto quanto você pensou, hein? Você tem certeza de ter obtido o que você
+ procurado?}
+{241}{}{Uops; Eu sabia que havia outra coisa que eu queria.}
+{242}{}{Ei, Slim, eu tenho um par de coisas sobre as quais queria te perguntar.}
+{243}{}{Eu não preciso de mais nada de você. Obrigado de qualquer maneira.}
+
+{250}{}{Bloqueamos todas as entradas do lado norte da cidade, exceto uma. Eu tenho uma chave para aquele
+ entrada - apenas no caso de alguém precisar chegar lá por qualquer motivo. Não consigo descobrir por que alguém
+ gostaria, porém; Eu certamente não.}
+{251}{}{Interessante; Diga-me outra coisa.}
+{252}{}{Estou interessado em obter essa chave de você.}
+{253}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+
+{260}{}{Você está interessado em atrapalhar, hein? (Ele olha você para cima e para baixo).}
+{261}{}{[MAIS]}
+
+{270}{}{Eu não acho que eu tentaria se eu fosse você. Você pode deixar as mãos sujas e calosas.
+ (heh, hee, hee) Mais alguma coisa sobre o que você quer saber?}
+{271}{}{Bem, eu não gostaria de deixar minhas mãos sujas. Diga-me outra coisa.}
+{272}{}{Eu certamente gostaria de ser um caçador tão habilidoso quanto você. Aposto que você poderia me ensinar muito.}
+{273}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+
+{280}{}{Bem, agora parece que você pode lidar com você mesmo. Geckos vêm em dois tipos - regular ou
+ dourado. Os regulares são fáceis de capturar e caçar, mas os dourados valem mais dinheiro.}
+{281}{}{Conte-me mais sobre os geckos dourados.}
+{282}{}{Interessante. Diga-me outra coisa.}
+{283}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+
+{290}{}{Os dourados são sneaky e duas vezes tão vicioso quanto os regulares. Além disso, uma vez que você morda você
+ Eles vão segurar e roer até o osso. E isso nem sequer conta seu veneno. Mas os seus
+ Oculta parece muito agradável e, portanto, eles valem muito mais.}
+{291}{}{Me diga mais.}
+
+{300}{}{Um verdadeiro bom caçador, o nome de Smiley, foi para o norte procurando por onde eles vieram. Ele era
+ convencido de que todos vieram de um lugar. A coisa é que ninguém já ouviu falar dele por alguns meses agora.}
+{301}{}{O que você acha que aconteceu com ele?}
+
+{310}{}{Talvez ele tenha encontrado de onde eles vieram e todos comeram. (heh, hee, hee) Mas eu digo-lhe um
+ coisa; O coração da Sra. Buckner quase quebrou quando ele não voltou. Você vê, ele era seu namorado. Sra.
+ Buckner dirige a casa de Buckner, sabem.}
+{311}{}{Interessante. Diga-me outra coisa.}
+{312}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+
+{320}{}{Temos um monte de carros. Tudo pronto para os seus proprietários voltarem das compras. Coisa
+ é, eles nunca fizeram. Ainda não é um dos dois. Há uma beleza real de um Chrysalis Motors
+ Highwayman, apenas a leste daqui, mas ainda não descobrimos como chegar a isso.}
+{321}{}{Um Highwayman? Interessante. Conte-me sobre outra coisa.}
+{322}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+
+{330}{}{Bem, eles sabem muito bem se você cuspi-os assado com apenas um titch de ervas. Mas a maioria dos
+ O tempo que eles podem ser um verdadeiro incômodo, e eles estão piorando. Nós barricamos a parte norte do
+ mall - bem, Trapper Town, isto é - mas eles estão se esgueirando de qualquer maneira. Há uma porta aqui
+ atrás do meu quarto, mas eu tenho trancado.}
+{331}{}{Em casa, a mãe costumava fazer fritar com um pouco de manteiga. Mas, me fale mais sobre o rato
+ ataques.}
+{332}{}{Interessante. Conte-me sobre outra coisa.}
+{333}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+
+{335}{}{Bem, eles sabem muito bem se você cuspi-os com apenas um tom de ervas. Mas a maioria
+ do tempo que eles podem ser um verdadeiro incômodo, e eles estão piorando. Nos barricamos
+ O lado norte da cidade, mas eles estão furtivamente de qualquer maneira. Há uma porta para o lado norte, aqui mesmo, mas
+ Eu o tenho trancado.}
+{336}{}{Bem, costumava haver um problema muito ruim de rato, mas ultimamente, não existe jist
+ muitos ratos. É como se todos estivessem espreitadíssimos e escutados aqui.}
+{337}{}{Em casa, a mãe costumava fazer fritar com um pouco de manteiga. Mas, fale-me mais sobre
+ os ataques de ratos.}
+
+{340}{}{As pessoas estão desaparecendo. Apenas eles como são lentos e doentios, por enquanto. 'Claro, eles
+ Não pare de cozinhar seus alimentos como nós. Eles apenas rodam em alguns cachos sangrentos e
+ trapos. Menos isso é tudo o que achamos pela manhã. Eu até ouvi falar que há algum tipo de
+ Deus do rato gigante que lhes diz tudo o que fazer.}
+{341}{}{Interessante. Talvez alguém deva fazer algo sobre isso. Diga, você tem uma chave para
+ O lado norte da Trapper Town?}
+{342}{}{Interessante. Conte-me sobre outra coisa.}
+{343}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+
+{350}{}{Bem, você não é tão bonito, mas com certeza há muito tempo. Eu acho que eu poderia te dar a chave
+ contanto que você me dê o que eu preciso. (heh, hee, hee)}
+{351}{}{Bem, com certeza você é uma coisa bonita, não é? Tenho certeza de que podemos conseguir você a chave que deseja.
+ Você só precisa me dar algo que eu quero. (heh, hee, hee)}
+{352}{}{OK, mas espero que eles o chamem de Slim por causa do seu auge.}
+{353}{}{Uh, isso não é exatamente o que eu tinha em mente.}
+{354}{}{Limpe esse olhar de seu rosto. Acho que é melhor sair antes de se machucar. Adeus.}
+
+{360}{}{Eu poderia te ensinar algo sobre o exterior. Mas vai custar-lhe US $ 100.}
+{361}{}{Eu sempre estou feliz em compartilhar minha habilidade com os outros. Posso ensinar-lhe alguns truques por apenas US $ 50.}
+{362}{}{Bem, é melhor você me ensinar para isso.}
+{363}{}{Isto é muito dinheiro. Apenas me diga o que você sabe sobre outras coisas.}
+{364}{}{Eu não acho que preciso aprender nada agora. Adeus.}
+
+{370}{}{Sua tribo é na sua maioria agricultores não são? Eu não acho que eu poderia te ensinar uma coisa maldita.}
+{371}{}{Já estou bem, hein? Bem, fale-me sobre outra coisa então.}
+{372}{}{Acho que irei então. Adeus.}
+
+{380}{}{Bem, isso deveria ter aprendido uma coisa ou três sobre o grande fora de casa. Espero que você
+ pode usá-lo bem. Lembre-se sobre o Scat agora.}
+{381}{}{Você está certo. Old scat não prova perto do mesmo que fresco. Obrigado, Slim. Agora me diga mais
+ sobre esses geckos.}
+{382}{}{Obrigado por todas as dicas, Slim, mas ainda acho que apenas cheirar o Scat é bom o suficiente. Eu
+ estava pensando sobre outra coisa, no entanto.}
+{383}{}{Obrigado pela informação, Slim. Eu vou praticar agora. Adeus.}
+
+{390}{}{Conte-me sobre esses ratos.}
+
+{400}{}{Você conquistou a luta entre os ratos.}
+{401}{}{Olá. Gostaria de viver em um ambiente livre de ratos.}
+{402}{}{Sim. Menos ratos são sempre agora.}
+{403}{}{Imagina o que aconteceu com os ratos?}
+{404}{}{Bom lixo para roedores.}
+{405}{}{Você é jist um Pied Piper regular, não é cha? Thankee.}

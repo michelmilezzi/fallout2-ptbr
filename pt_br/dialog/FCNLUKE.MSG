@@ -1,0 +1,43 @@
+{100}{}{Você vê um homem com armadura metálica.}
+{101}{}{Você vê Luke.}
+{102}{}{Você vê um homem vestindo uma armadura de metal com uma insígnia no raio.}
+{103}{}{Olá,}
+{104}{}{. Sou Luke, o que posso fazer por você?}
+{105}{}{Como você conhece o nome?}
+{106}{}{Como você sabe meu nome?}
+{107}{}{Joshua mencionou que você parou pelo nosso escritório da Den. Ele disse que você era um peixe pequeno fazendo grandes ondas.}
+{108}{}{Word dá uma volta. Você é um peixe pequeno fazendo grandes ondas.}
+{109}{}{O que isso significa?}
+{110}{}{O que você quer dizer com isso?}
+{111}{}{Você está atraindo a atenção de muitas pessoas. Você precisa ser cuidadoso.}
+{112}{}{Continue.}
+{113}{}{Continue, eu estou ouvindo.}
+{114}{}{Eu já disse o suficiente por enquanto. Eu acho que você deveria se preocupar com sua empresa.}
+{115}{}{Este mesmo golpe de mim é de Joshua. Eu preciso fazer uma pergunta.}
+{116}{}{Aguarde, eu preciso fazer uma pergunta.}
+{117}{}{Este é o mesmo golpe que obtive de Joshua. Posso fazer-te algumas perguntas?}
+{118}{}{Aguarde, preciso fazer algumas perguntas.}
+{119}{}{Joshua permitiu-lhe uma pergunta; Eu vou fazer o mesmo. O que será?}
+{120}{}{Tudo bem, você tem uma pergunta. O que será?}
+{121}{}{Você sabe onde eu encontro o GECK?}
+{122}{}{Você sabe onde eu encontro o Vault 13?}
+{123}{}{Quem diabos vocês são?}
+{124}{}{Você sabe onde posso encontrar um GECK?}
+{125}{}{Você sabe onde posso encontrar o Vault 13?}
+{126}{}{Quem diabos vocês são?}
+{127}{}{Sim, acredito que o Vault 13 nunca usou o deles. Você deve encontrar um lá. Boa sorte,}
+{128}{}{Esperar! Onde cofre?}
+{129}{}{Agora espere um minuto! Onde está o cofre?}
+{130}{}{Sim, a sua localização é armazenada no vault 15 sistemas informáticos, a leste daqui. Boa sorte,}
+{131}{}{.}
+{132}{}{Obrigado.}
+{133}{}{Somos a Irmandade do Aço. Não há nada mais que eu lhe direi neste momento. Boa sorte,}
+{134}{}{Esperar! Eu preciso saber ainda mais agora!}
+{135}{}{Aguarde, você não pode deixar isso com isso!}
+{136}{}{Olá de novo. Não tenho mais nada para te dizer.}
+{137}{}{. Bem ... Você certamente percorreu um longo caminho do simples membro da tribo. Você deve visitar nosso escritório em São Francisco algum tempo. Você pode achar gratificante. Agora, se você me desculpar, eu devo ir.}
+{138}{}{Olá de novo. Não tenho mais nada para te dizer.}
+{139}{}{Esperar...}
+{140}{}{Isso é um escritório privado.}
+{141}{}{Não há nada para você lá.}
+{142}{}{Esta é uma propriedade privada, então, avance.}

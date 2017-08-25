@@ -1,0 +1,14 @@
+{100}{}{Você vê um viajante com cicatrizes.}
+{101}{}{Você vê a guarda do comerciante.}
+
+{200}{}{Sem armas desenhadas perto do chefe.}
+{201}{}{Ninguém vem ao chefe armado.}
+{202}{}{Coloque sua arma longe antes de atirar em você.}
+{203}{}{Coloque-os ou afaste-se.}
+
+{250}{}{Você foi avisado - agora você pagará.}
+
+{300}{}{Fale com o chefe, 'eu vou configurá-lo bem.}
+{301}{}{Levo meu trabalho a sério. Mexa com o chefe e você morre.}
+{302}{}{O chefe é um bom cara na maior parte.}
+{303}{}{Nem pense em roubar o chefe.}

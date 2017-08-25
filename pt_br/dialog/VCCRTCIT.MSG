@@ -1,0 +1,17 @@
+{100}{}{Você vê um cidadão da Vault City.}
+{101}{}{Olá, cidadão.}
+{102}{}{Dia maravilhoso que estamos tendo, não é?}
+{103}{}{Essa reunião do conselho ontem foi muito produtiva. Fizemos muitas coisas
+ de listas. * Lotes * de listas.}
+{104}{}{Não posso esperar para voltar dentro das paredes.}
+{105}{}{Bom dia, cidadão.}
+{106}{}{Com licença.}
+{107}{}{Você está no meu caminho.}
+{108}{}{Por que você não volta com os outros?}
+{109}{}{Você pode manter uma pequena distância, por favor?}
+{110}{}{Apenas fique ali.}
+{111}{}{Você deve seguir em frente.}
+{112}{}{Saia daqui.}
+{113}{}{Tenha cuidado ou liguei para os guardas.}
+{114}{}{Estou te observando.}
+{115}{}{São Outworlders como você ...}

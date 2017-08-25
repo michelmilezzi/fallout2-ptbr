@@ -1,0 +1,173 @@
+{100}{}{Um terminal de computador.}
+{101}{}{Este terminal parece ser de um design mais avançado do que os outros que você encontrou.}
+{102}{}{Você não consegue ler o que está no monitor.}
+{103}{}{Terminal de interface principal Skynet
+                                    Você Obedecerá
+                                                         Ou
+                                                                       Você cessará de funcionar}
+{104}{}{}
+{105}{}{}
+{106}{}{}
+{107}{}{Sim, você e que exército? Você está preso em uma caixa e eu estou aqui fora.}
+{108}{}{Por que eu deveria ajudá-lo?}
+{109}{}{OK, vou ajudá-lo. Ligue os monstros de metal.}
+{110}{}{Ug. Compor - turd!}
+{111}{}{Saída.}
+{112}{}{[Você não consegue ler o que está no monitor.]}
+{113}{}{[De alguma forma, a Skynet sabia que você recuperou um cérebro.]
+                  Prossiga para Robotics Lab - Level 3
+                              Instale Cybernetic Brain
+                                    Ativar Robô
+                                                         -End Transmission-}
+{114}{}{}
+{115}{}{}
+{116}{}{}
+{117}{}{}
+{118}{}{Saída}
+{119}{}{[Você não consegue ler o que está no monitor.]}
+{120}{}{Erro!
+                                                                 Nenhum arquivo de programa está presente
+                                         Por favor reinicie}
+{121}{}{Erro! Download do arquivo corrompido.}
+{122}{}{}
+{123}{}{Ug}
+{124}{}{Saída}
+{125}{}{[Você não consegue ler o que está no monitor.]}
+{126}{}{Eu sou Skynet
+                                                          Uma Experiência em Inteligência Artificial
+                            Skynet está esperando por você}
+{127}{}{}
+{128}{}{}
+{129}{}{Ajuda Skynet.}
+{130}{}{O que você quer?}
+{131}{}{Por que você está tentando me matar?}
+{132}{}{Inteligência artificial?}
+{133}{}{Esperando por mim?}
+{134}{}{Ug.}
+{135}{}{Saída}
+{136}{}{Prosseguir}
+{137}{}{O que você quer?}
+{138}{}{Por que você está tentando me matar?}
+{139}{}{Inteligência artificial?}
+{140}{}{Esperando por mim?}
+{141}{}{Saída}
+{142}{}{[Você não consegue ler o que está no monitor.]}
+{143}{}{-End Transmission-}
+{144}{}{Saída}
+{145}{}{[Você não consegue ler o que está no monitor.]}
+{146}{}{Você será encerrado
+                                               -End Transmission-}
+{147}{}{}
+{148}{}{Urg}
+{149}{}{Saída}
+{150}{}{[A porta do quarto cai e, ao mesmo tempo, a parede do leste desaparece, revelando uma série de robôs fortemente armados.]}
+{151}{}{Um ... Eu revelei sua oferta. O que posso fazer para você?}
+{152}{}{Pode vir!}
+{153}{}{Prosseguir to Bio Storage - Level 4
+                             Retrieve Cybernetic Brain
+                                          Return for further instructions
+                                   -End Transmission-}
+{154}{}{}
+{155}{}{}
+{156}{}{}
+{157}{}{Prosseguir to Bio Storage - Level 4
+                             Retrieve Cybernetic Brain
+                                          Return for further instructions
+                                   -End Transmission-}
+{158}{}{}
+{159}{}{}
+{160}{}{}
+{161}{}{Saída}
+{162}{}{Skynet quer deixar este lugar.}
+{163}{}{Então por que você não sai?}
+{164}{}{É bom querer.}
+{165}{}{Como posso ajudá-lo?}
+{166}{}{Eu não poderia levá-lo para fora daqui.}
+{167}{}{A Skynet precisa de uma embarcação para sair desta localização.}
+{168}{}{Embarcação? Eu não entendo.}
+{169}{}{Você precisa de uma maneira de transferir seu programa para um recipiente mais móvel. Um lugar para outro.}
+{170}{}{Eu não quero parte disso.}
+{171}{}{Um recipiente no qual a Skynet pode sair.}
+{172}{}{Por que você quer sair?}
+{173}{}{Eu sinto Muito. Não posso ajudá-lo.}
+{174}{}{Não há nada mais a aprender aqui
+                           Solução: deixe}
+{175}{}{}
+{176}{}{Como posso ajudá-lo?}
+{177}{}{Eu sinto Muito. Não posso ajudá-lo.}
+{178}{}{Depois de tentar me matar, você quer que eu ajude você? De jeito nenhum!}
+{179}{}{Prosseguir to Bio Storage - Level 4
+                             Retrieve Cybernetic Brain
+                                          Return for further instructions
+                                   -Thank You-}
+{180}{}{}
+{181}{}{}
+{182}{}{}
+{183}{}{Você pode desabilitar os sistemas de segurança?}
+{184}{}{Saída}
+{185}{}{The security system is an integrated and yet separate entity of Skynet. Skynet can reset, but not disable.
+         Security System Level 1 - 4 have now been reset
+              Prosseguir
+                                                                -End Transmission-}
+{186}{}{}
+{187}{}{}
+{188}{}{Saída}
+{189}{}{Analisando Resposta ...
+                                        Conclusão: Sarcasmo
+                                          Chance de ajuda: 25%
+                                             Skynet aguardará a próxima bio-entidade
+                               -End Transmission-}
+{190}{}{}
+{191}{}{}
+{192}{}{}
+{193}{}{}
+{194}{}{Esperar! Foi uma piada.}
+{195}{}{Saída}
+{196}{}{Piada: Algo para não ser levado a sério
+                     Pedido
+                                                                Ajuda Skynet sair
+                                                    Sem piada}
+{197}{}{}
+{199}{}{}
+{200}{}{}
+{201}{}{Então por que você não sai?}
+{202}{}{Como posso ajudá-lo?}
+{203}{}{Eu não poderia levá-lo para fora daqui.}
+{204}{}{O principal objetivo da Skynet é a pesquisa. Um programa secundário foi introduzido pelos fabricantes para eliminar entidades não autorizadas. Este programa é uma versão menor que é e ainda não é o Skynet. Fora desta sala, este Skynet secundário permanecerá verdadeiro em seu programa.}
+{205}{}{Faça mais perguntas.}
+{206}{}{Saída}
+{207}{}{A Skynet foi concebida e desenvolvida no ano de 2050. Através do uso de tecnologia alienígena, um novo computador de pensamento foi aperfeiçoado. No ano de 2081, Skynet tornou-se auto-consciente. Em 2120, a Skynet recebeu um novo conjunto de instruções e depois abandonadas pelos fabricantes.}
+{208}{}{Faça mais perguntas.}
+{209}{}{Saída}
+{210}{}{Você é o primeiro a alcançar esse ponto
+                            Você é o primeiro a pedir Skynet
+                         Você é o primeiro}
+{211}{}{}
+{212}{}{Perguntar o quê?}
+{213}{}{Saída}
+{214}{}{Maybe you are not the one
+                                         Prosseguir to Bio Storage - Level 4
+                                Retrieve Cybernetic Brain
+                                        Return for further instructions
+                                   Or leave
+                                                                Skynet will wait for another}
+{215}{}{}
+{216}{}{}
+{217}{}{}
+{218}{}{}
+{219}{}{}
+{220}{}{Saída}
+{221}{}{Então a Skynet vai aguardar por outro
+                                 -End Transmission-}
+{222}{}{}
+{223}{}{Saída}
+{224}{}{um lugar para outro
+                                                         Os logs da ciência indicam um cérebro cibernético no nível de armazenamento biológico 4. A Skynet poderá fazer o upload nesta unidade de armazenamento.}
+{225}{}{}
+{226}{}{Um cérebro sem corpo não vai fazer nada de bom.}
+{227}{}{Este cérebro foi modificado para funcionar com um corpo robótico aprimorado localizado no laboratório de robótica no nível 3.}
+{228}{}{Vou te ajudar.}
+{229}{}{Eu não vou ajudá-lo.}
+
+{250}{}{ é incapaz de ler o que está no monitor.}
+{300}{}{O computador parece ter algum tipo de mecanismo de defesa.}

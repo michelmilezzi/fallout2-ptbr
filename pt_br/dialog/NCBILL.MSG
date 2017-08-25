@@ -1,0 +1,39 @@
+# 0. QUICK LOOK (WTG)
+{100}{}{Você vê Bill.}
+
+# 0. LOOK (WTG)
+{150}{}{Você vê um homem secado com sobrancelhas brancas espessas. Parece que ele precisa de uma bebida.}
+
+# 1. FLOATS (WTG)
+{200}{}{:: Tosse ::}
+{201}{}{:: Stare at bartender ::}
+{202}{}{:: Gestos para outra bebida ::}
+{203}{}{:: Glares ::}
+
+# 2. STUPID FLOATS (WTG)
+{210}{}{Perder-se, estúpido.}
+
+# 3. NORMAL (WTG)
+{220}{}{(O homem nem sequer olha para cima quando você se aproxima dele. Ele está olhando para a parede atrás do bar.)}
+{221}{}{Ouvi, ouviu algum bom rumor?}
+{222}{}{Ei, o que você acha desses novos óculos que eu uso?}
+{223}{}{Ei, você matou alguém?}
+{224}{}{(Deixe-o em paz.)}
+
+# 4. FALLOUT2 = ENCLAVE_DESTROYED (3)
+{230}{}{Que tipo de pergunta um idiota é essa?}
+{231}{}{Uau. Cópia de segurança. Apenas curioso.}
+{232}{}{Tudo bem, não importa, então.}
+
+# 5. FALLOUT2 = ENCLAVE_DESTROYED (4, 6)
+{240}{}{Faça o backup de você.}
+{241}{}{Não antes, eu vencê-lo.}
+
+# 6. FALLOUT2 = ENCLAVE_DESTROYED (3)
+{250}{}{(O homem gira seu olhar para você.) Você parece um idiota.}
+{251}{}{Uau. Cópia de segurança. Eu estava apenas pedindo sua opinião.}
+{252}{}{Uh ... obrigado pela honestidade, então.}
+
+# 7. What's going on?
+{260}{}{(Gestos para você calar a boca e deixá-lo beber.)}
+{261}{}{(Deixe-o em paz.)}

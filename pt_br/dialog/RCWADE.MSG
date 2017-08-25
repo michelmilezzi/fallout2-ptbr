@@ -1,0 +1,70 @@
+{100}{}{Você vê um homem vestido com um macacão.}
+{101}{}{Você vê Ben Wade, o mestre da caravana para a corrida da Redding-Vault City.}
+{102}{}{Você vê um homem vestido com um Vault Suit.}
+{103}{}{Você ficou nervoso por aqui para um emprego. Você nunca mais irá trabalhar para mim.}
+{104}{}{Saia da minha vista.}
+{105}{}{Vamos movê-los para fora. Giddy-up!}
+{106}{}{Ok, vamos.}
+{107}{}{Olá. Meu nome é Ben. Ben Wade. Estou a cargo das caravanas comerciais entre Redding e Vault
+ Cidade. Costumo usar um guarda extra, e estamos prontos para sair agora.}
+{108}{}{Olá. Meu nome é Ben. Ben Wade. Estou a cargo das caravanas comerciais entre Redding e Vault
+ Cidade. Normalmente, eu uso um protetor adicional ou dois. Saímos da cidade no dia 1 de cada mês. Se você quiser
+ assine, certifique-se de estar aqui então.}
+{109}{}{O que você quer agora?}
+{110}{}{Moo-Moos?}
+{111}{}{Você precisa de um guarda, hein?}
+{112}{}{O que esse caravana transporta?}
+{113}{}{Por que você está esperando até o 1?}
+{114}{}{Não acho que seja para mim. Adeus.}
+{115}{}{Parece que fica cada vez mais difícil.}
+{116}{}{Hah! Eles deveriam saber melhor do que tentar atacar minha caravana.}
+{117}{}{Bom, você está ao longo desta viagem.}
+{118}{}{Que incômodo. As coisas simplesmente não são o que costumavam ser aqui.}
+{119}{}{Esses resíduos não são tão seguros quanto antes.}
+{120}{}{Você não é um guarda - você é um con-homem. Saia daqui, covarde.}
+{121}{}{Você saiu da caravana. Agora, saia daqui também.}
+{122}{}{Você não é mais que um ladrão. Você provavelmente já pegou seu corte - agora saia.}
+{123}{}{Um ladrão? Parece-me a essa observação, você admira a sua ingrate. Estou indo embora. Adeus.}
+{124}{}{Algum dia em breve, você vai se arrepender de me cruzar. Adeus.}
+{125}{}{Se você tivesse feito seu trabalho e guardado minha caravana, então eu teria dinheiro suficiente para pagar você. Como ele
+ é ... bem, você colhe o que você semeia. Você não obteve nada.}
+{126}{}{Você bastardo barato! Você pagará por me irritar. Adeus.}
+{127}{}{Bem, às vezes você só tem mais sorte do que outros. Este foi um dos momentos infelizes. Adeus.}
+{128}{}{Essa foi uma viagem ruim. Eu só posso dar-lhe US $ 500 - e mesmo isso vai me deixar quebrado. Desculpa.}
+{129}{}{Bem, algo é melhor do que nada, acho. Adeus.}
+{130}{}{Maldito bastardo! Ninguém poderia ter feito um trabalho melhor. Você vai se arrepender de me irritar. Adeus.}
+{131}{}{Essa caravana foi um sucesso. Aqui estão os seus $ 1000. Prazer em trabalhar com você. Espero te ver novamente
+ às vezes.}
+{132}{}{Eu não acho que eu sempre queira passar tanto tempo olhando o culo de um brahmin novamente. Adeus.}
+{133}{}{Isso não era muito ruim. Até logo. Adeus.}
+{134}{}{Hoo-wee! Essa foi uma ótima corrida. US $ 1000 para você e outros US $ 200 como bônus. Você deve ser algum tipo
+ de charme de sorte. Junte-se a nós novamente se você estiver indo para o nosso caminho.}
+{135}{}{É bom encontrar alguém que aprecie a qualidade quando o vê. Te vejo, talvez. Adeus.}
+{136}{}{Sempre feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
+{137}{}{Difícil de dizer, na verdade. Eu acho que depende de quanto tempo demora a reunir minério suficiente. Eu estou
+ Nenhum mineiro, mas acho que não demorará mais do que algumas semanas.}
+{138}{}{Bem, porque não tenho certeza de quanto tempo demorará para juntar todos os suprimentos médicos. Provavelmente não muito
+ mais do que algumas semanas. Então podemos ir. Apenas continue a verificar comigo.}
+{139}{}{O que você costuma transportar?}
+{140}{}{Deixe-me perguntar-lhe outra coisa.}
+{141}{}{Obrigado, vou fazer isso. Adeus.}
+{142}{}{Nós geralmente estamos procurando por guardas de caravanas, mas esta caravana não estará pronta por um tempo ainda. Sentir
+ livre para verificar comigo, no entanto.}
+{143}{}{Quando no dia 1?}
+{144}{}{O que esse caravana transporta?}
+{145}{}{Ok, obrigado. Adeus.}
+{146}{}{Desculpe, amigo, já temos atrasos suficientes em trabalhar nesta caravana.}
+{147}{}{Oh, está bem.}
+{148}{}{Bem, nós pegamos principalmente suprimentos médicos em Vault City, e trocamos isso com Redding em troca de
+ minério de ouro.}
+{149}{}{Isso é interessante. Você disse que está procurando guardas?}
+{150}{}{Deixe-me perguntar-lhe outra coisa.}
+{151}{}{Oh, está bem. Goodbye.}
+{152}{}{Você veio em um bom momento. Estamos prontos para ir agora. O trabalho paga $ 1000, mas eu sou apenas
+ pagando o trabalho porque eu só preciso de um guarda mais. Pronto para se juntar a nós?}
+{153}{}{Você veio em um bom momento. Estamos prontos para ir agora. O trabalho paga US $ 1000. Pronto para se juntar a nós?}
+{154}{}{Parece bom. Estou pronto. Vamos.}
+{155}{}{Eu não acho que eu quero ser um guarda de caravanas. Eu te vejo por aí. Adeus.}
+{156}{}{Você conseguiu transporte seguro e três refeições quentes por dia. Agora saia daqui, seu idiota.}
+{157}{}{Oooo? Tchau tchau.}
+{158}{}{Arrrrrr! Eu mato!}

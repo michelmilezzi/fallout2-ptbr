@@ -1,0 +1,346 @@
+# 0. QUICK LOOK (WTG)
+{100}{}{Você vê a Sra. Wright.}
+
+# 0. LOOK (ETHYL FOUND STILL)
+{150}{}{Você vê uma mulher grosseira e triste. Ela parece estar deprimida e suspirar consigo mesma.}
+{151}{}{Você vê a Sra. Wright. She seems to be depressed and is sighing to herself.}
+
+# 1. LOOK (ETHYL IS NORMAL)
+{175}{}{Você vê uma mulher gorda e cheeked. Ela parece estar com bom humor e está zumbindo para si mesma.}
+{176}{}{Você vê a Sra. Wright. She seems to be in good spirits and is humming to herself.}
+
+# 2. SPIRITS CRUSHED (WTG)
+{200}{}{*Suspiro*}
+{201}{}{Como ele poderia fazer isso comigo?}
+
+# 3. DAY/NIGHT FLOAT (WTG)
+{205}{}{Outro bom dia de Reno!}
+{206}{}{:: assobiar enquanto trabalha ... ::}
+{207}{}{Ah, para trabalhar! Tão prazer em fazer uma tarefa e fazê-lo bem!}
+{208}{}{:: Hmmmm-hmmm-hmmm-hm-hm -hmmmm ::}
+{209}{}{Outra boa noite de Reno!}
+
+# 5. NORMAL INTRO (WTG)
+{210}{}{(A mulher salta.) Oh, meu! Você me deu um susto! (Squints para você.) Sim, sim?}
+{211}{}{(Sra. Wright salta.) Oh, meu! Você me deu um susto! (Squints para você.) Bem, olá novamente!}
+{212}{}{Quem quem?}
+{213}{}{Olá Olá!}
+{214}{}{Você não mãe ... Mãe? Mommmm ... ?! Mamãe! Eu vou procurar por minha mãe}
+{215}{}{Quem é Você?}
+{216}{}{Notei que você cantarolava e pensou que eu iria parar e falar com você um momento, madame. Tempo maravilhoso que estamos
+ tendo, não é?}
+{217}{}{Desculpa. Eu pensei que você fosse outra pessoa.}
+
+# 6. WHO WHO? HELLO, HELLO! (MRS. WRIGHT HAS STUFF) (5)
+{220}{}{(Olha intrigado, depois olha para você).}
+{222}{}{(Ela pega suas vestes por um momento, puxa alguns itens e os pressiona em suas mãos.) Aqui está, querido.
+ Leve estes.}
+{223}{}{Thanxxx}
+{224}{}{Afastar-se}
+
+# 7. WHO WHO? HELLO, HELLO! (MRS. WRIGHT HAS NOTHING) (5)
+{230}{}{(Oh, pobrezinho, muito sol ...}
+{231}{}{Oh, pobrezinho ... você não tem casa?}
+{232}{}{(Peixes em suas vestes por um momento.) Eu gostaria de ter algum alimento ou água para você ...}
+
+# 8. CHARISMA INTRO = WHO ARE YOU? (5)
+{240}{}{Por que, sim, sim. (Sorrisos.) Eu sou Missus Ethyl Wright, chefe da União de Temperança aqui em New Reno. E quem você poderia ser?}
+{241}{}{Sou um viajante que procura um Kit de Criação do Jardim do Éden. Você já ouviu falar de um?}
+{242}{}{Eu sou um viajante procurando um lugar chamado Vault 13. Você já viu?}
+{243}{}{União de Temperança?}
+{244}{}{Sra. Wright? O seu marido é o chefe da família Wright?}
+{245}{}{Você é a mãe de Richard, certo? Ouvi dizer que ele faleceu recentemente.}
+{246}{}{Me desculpe, mas tenho que ir.}
+
+# 9. WHO ARE YOU? (5)
+{250}{}{Eu? Por que, eu sou Missus Ethyl Wright, chefe da União de Temperança aqui em New Reno. (Estudos você.) E quem você poderia ser?}
+{251}{}{eu sou}
+{1251}{}{. Tive algumas perguntas sobre New Reno ...}
+{252}{}{eu soua traveler with some questions about New Reno…}
+{254}{}{Eu adoraria ficar e conversar, mas eu tenho que ir.}
+
+# 10. I AM A SIMPLE TRAVELLER/I AM [X] (9)
+{260}{}{Oh meu! Você é TRIBAL, não é? Seu sotaque deu isso! (Ela levanta a voz e começa a falar devagar.)
+ BEM - POSSO SER O PRIMEIRO PARA VOCÊ SEJA À NOSSA CIDADE!}
+{261}{}{O que você diz? Eu sou tribal simples. Nenhum entendimento, youa.}
+{262}{}{Woman, eu souneither deaf nor stupid. I can understand you QUITE well without you raising your voice.}
+{263}{}{Uh, thank you. Tive algumas perguntas sobre New Reno ...}
+{264}{}{EU TENHO QUE IR AGORA.}
+
+# 11. WHAT YOU SAY? MEA NOA UNDERSTANDA YOUA (10)
+{270}{}{EU DEI, DEIXE * ME * ... (Pontos em si.) ... BEM-VINDO VOCÊ ... (Pontos para você.) ... PARA ... (Gestos na cidade à sua volta) ... CIDADE DE LUZES!}
+{272}{}{Talvez você ache essa armadura de alta tecnologia que eu usei de alguma forma magicamente anexada a mim. Olhe, corte a conversa "tribal"
+ Tudo certo?}
+{273}{}{Olha, você acha que esta arma que eu carrego é um totem místico que eu mantenho em exibição? Corte o 'tribal'
+ fala tudo bem?}
+{274}{}{EU MEIO MAIS AGORA ANTES DE PERDER MEU TEMPERADOR.}
+
+# 12. WOMAN, I AM NEITHER DEAF NOR STUPID . . . (10)
+{280}{}{Ah! Com licença! (Parece assustado.) Perdão, perdão! É só que eu pensei ... bem ... nunca mais, vamos colocar tudo isso atrás de nós.
+ O que posso fazer para você?}
+{281}{}{Tive algumas perguntas sobre New Reno ...}
+{282}{}{Deixa pra lá. Eu tenho que ir.}
+
+# 13. HAVE YOU SEEN A GARDEN O' EDEN CREA KIT? TUNED DOWN VOICE (8, 24)
+{290}{}{(Squints, franzindo a testa.) Me desculpe, o Jardim de ... o quê? Não, desculpe, nunca ouvi falar de tal coisa.}
+{291}{}{Tive algumas outras questões ...}
+{292}{}{Nunca mais diga, é melhor eu ir.}
+
+# 14. HAVE YOU HEARD OF A PLACE CALLED VAULT 13? (8, 24)
+{300}{}{Vault 13? (Parece desconcertado.) Meu Deus, não, eu não ... bem, não, espere. Isso é falso. Há uma cidade de abóbada no nordeste.
+ É isso que você está procurando?}
+{301}{}{Não, lugar errado. Mas talvez você possa me ajudar com outras questões ...}
+{302}{}{Poderia ser. Você pode me ajudar com outras questões ...?}
+{303}{}{Pode ser. Adeus ... e obrigado pela informação.}
+
+# 15. TEMPERANCE UNION . . . (8, 24)
+{310}{}{Porque sim! (Wags seu dedo para você.) New Reno é uma cidade bonita, mas há PECADO aqui - muitos dos quais podem ser rastreados
+ de volta aos males do álcool ... ou como você o chamou de tribos ... (Pausa dramaticamente.) ... FIREWATER!}
+{311}{}{Uh, nós "primitivos" chamamos de álcool, também.}
+{312}{}{Yes, but what about this União de Temperança?}
+{313}{}{Eu tenho que ir. Eu acho que posso ouvir meus membros da tribo chamando.}
+
+# 16. TEMPERANCE UNION, VOL 2 . . . (15, 18, 19, 20, 50)
+{315}{}{(Rambles on.)}
+{316}{}{A União de Temperança foi criada para ajudar as pessoas a se afastar do veneno da bebida e se voltar para mais
+ trabalho árduo.}
+{317}{}{Oh. Bem, como ab -}
+{318}{}{Tal como wha -}
+
+# 17. PEOPLE LIKE GAMBLING, DRINKING AND WHORING 1. . . (50)
+{320}{}{(Parece chocado.) Certamente você está enganado. Mesmo um tribo primitivo como você não pode
+ significa seriamente}
+{321}{}{Nada como um pouco de amor comunal, alguns jogos de azar e arredondando o dia com alguns jarros de leite de égua fermentada. Isso é o que torna ser um TRIBESMAN tão bom!}
+{322}{}{Nada como um pouco de amor comunal, alguns jogos de azar e arredondando o dia com alguns jarros de leite de égua fermentada. Isso é o que torna ser uma TRIBESWOMAN tão grande!}
+{323}{}{Vou deixá-lo para sua imaginação. Com base na resposta acima, acho que seria melhor dessa maneira.}
+{324}{}{Pelo coração dos espíritos do céu, sim! Eu mesmo gosto de entregar todos os TRÊS desses pecados.}
+
+# 18. BUT PEOPLE LIKE GAMBLING, DRINKING AND WHORING . . . (17, 50)
+{325}{}{Por Richard Millhouse Nixon e sua mãe! Não sei o que as práticas que as pessoas da tribo seguem nas suas tocas de iniqüidade,
+ Mas em New Reno, as coisas estão mudando! Nós somos pessoas CIVILIZADAS!}
+{326}{}{Não temos nenhum dos males que você menciona na minha aldeia. Talvez possamos ensinar-lhe pessoas "civilizadas" algumas coisas.}
+{327}{}{Quem está em sua organização?}
+{328}{}{O que sua organização faz?}
+{329}{}{Entendo. Obrigado por compartilhar seus insights. Adeus.}
+
+# 19. WHO'S ALL IN YOUR ORGANIZATION? (18, 50)
+{330}{}{(Pensa.) Bem, bom pai Tully por um.}
+{331}{}{(Pense bem) Bem, o bom padre Tully foi um dos nossos membros. Antes de morrer.}
+{332}{}{Uh, o padre Tully é o pior consumidor de "água de fogo" que já vi. Eu quase fiquei bêbado apenas pelos vapores.}
+{333}{}{Padre Tully?}
+{335}{}{Na verdade, já passei conversando muito tempo já. É melhor eu ir.}
+
+# 20. TULLY IS A DRUNKARD (19)
+{340}{}{Agora, você ouve aqui. (Frowns.) Eu não vou tolerar esse tipo de calúnia. O bom pai teve suas lutas
+ com álcool, mas com a ajuda da União, ele lutou por sua alma e triunfou!}
+{341}{}{Eu sei por um FATO que o bom Pai FUNCIONA, não anda, para a fonte mais próxima de hootch ele pode ver ... se ele não já
+ Bêbou-se cego.}
+{342}{}{Não é difamação. É só que o grande líder espiritual de New Reno é tão saudável quanto ... bem, a própria cidade.}
+{343}{}{OK. Nenhum argumento aqui. Então, o que a União faz?}
+{344}{}{Bem, são boas notícias. É melhor eu ir.}
+
+# 21. TULLY? (19)
+{345}{}{Ah, sim, ele é um líder espiritual do New Reno. Ele dirige a única Capela em New Reno. Você simplesmente deve falar com ele. Ele é
+ bastante inspirador!}
+{346}{}{Ok, talvez eu queira. Então, o que faz a União de Temperança?}
+{347}{}{Talvez eu vá procurá-lo agora mesmo.}
+
+# 22. SUPER OFFENSIVE (18, 20)
+{350}{}{Hmmph! De toda a grosseria grosseira! Se você me ver de novo, você deveria simplesmente passar em silêncio.}
+{351}{}{Esse é o plano.}
+{352}{}{Muito bem.}
+
+# 23. ISN'T YOUR HUSBAND THE HEAD OF FAMILY WRIGHT? (8, 24)
+{355}{}{Por que, sim, sim, ele é. (Disca de você novamente.) Desculpe, conhece meu marido?}
+{356}{}{Sim eu conheço ele. A família Wright controla a distribuição de álcool em New Reno.}
+{357}{}{Não pessoalmente, mas sei que o Wrights controla a distribuição de álcool em New Reno.}
+{358}{}{Não.}
+{359}{}{Na verdade não. Olha, eu tenho que ir.}
+
+# 24. NO, I DON'T KNOW YOUR HUSBAND/2nd INTRO (WTG, 12, 13, 14, 24, 29, 30, 31, 32, 34)
+{360}{}{Oh. (Pisca.) Então, o que posso fazer por você?}
+{361}{}{Então, quais são essas perguntas que você tem?}
+{362}{}{(Saltos.) Oh, meu! Você me deu um susto! (Squints.) Bem, olá novamente!}
+{363}{}{O que você estava falando sobre a União de Temperança antes?}
+{364}{}{Procuro um Kit de Criação do Jardim do Éden.}
+{365}{}{Estou procurando por um lugar chamado Vault 13.}
+{366}{}{Seu marido é chefe da família Wright, certo?}
+{368}{}{Nada, na verdade. Eu tenho que ir.}
+{369}{}{Desculpe, não tenho tempo para falar agora. Adeus.}
+
+# 25. I KNOW HE DEALS IN ALCOHOL . . . (23)
+{375}{}{(Frowns.) Agora, o que é essa tolice de que você está falando? "Distribuição de álcool em New Reno?" Eu conheço meu marido
+ está inclinado a beber, mas ele está deixando o hábito ...}
+{376}{}{Além de quebrar as pernas de qualquer um que se interponha no caminho do seu pequeno império alcoólico.}
+{377}{}{Ethyl, no caso de você não ter notado, seu marido é o líder de uma família criminosa que vende álcool para todos os New Reno.
+ Jogar um de volta agora e depois é talvez o mínimo de seus crimes.}
+{378}{}{Oh, eu estava pensando em um Sr. Wright diferente. Deixa pra lá. Adeus.}
+
+# 26. YOUR HUSBAND IS THE LEADER OF AN INFLUENTIAL CRIME FAMILY HERE IN NEW RENO . . . (25)
+{380}{}{Por que ... meu Deus! De toda a bochecha! (Respire fundo).}
+{381}{}{Essa é uma acusação muito séria, jovem.}
+{382}{}{Essa é uma acusação muito séria, jovem.}
+{383}{}{Eu percebo isso, mas -}
+{384}{}{Olha, senhora, talvez você seja -}
+
+# 27. YOUR HUSBAND IS THE LEADER OF AN INFLUENTIAL CRIME FAMILY HERE IN NEW RENO . . . (51)
+{385}{}{Não, você parece! Não é segredo que - no PASSADO - meu marido tinha um imóvel privado na cidade. No entanto, ele jurou que era
+ Apenas para uso dele, e EM MEU PEDIDO, ele o desmantelou!}
+{386}{}{Sério? Bem, talvez você -}
+{387}{}{Bem, olha, ele d -}
+
+# 28. I WISH NO HARM ON YOUR HUSBAND, I ONLY WISH TO HELP HIM BREAK THE EVIL STRANGLEHOLD OF ALCOHOL . . . (52)
+{390}{}{(Frowns, coloca as mãos nos quadris.) Eu vou olhar para dentro, você pode ter certeza! E se eu achar que você está errado, você teve
+ melhor sair desta cidade! Encontre-me na igreja amanhã de manhã, e falaremos novamente.}
+{392}{}{Tudo certo. Eu vou. Vejo você então.}
+
+# 29. RICHARD WRIGHT (8, 24)
+{395}{}{(Sorria morre.) Sim, meu filho Richard ... ele ... sim, ele nos deixou muito cedo demais. Eu ... hmmm. Sim. (Olha para as mãos dela). Eu ...}
+{396}{}{Ouvi dizer que era uma overdose de jato ... está certo?}
+{397}{}{Look, nevermind. Forget I brought it up. Tive algumas outras questões ...}
+{398}{}{Deixa pra lá. É melhor eu ir.}
+
+# 30. RICHARD WRIGHT: JET? (29)
+{400}{}{(Jaw aperta.) Esse veneno imundo! Eu pensei que eu tinha ensinado-lhe a ficar afastado dessas coisas, e então ...}
+{401}{}{Você pode me dizer onde ele pode ter conseguido o Jet?}
+
+# 31. RICHARD WRIGHT: JET 2? (30)
+{405}{}{Eu não sei! (As mãos apertam os punhos.) Eles vendem esse veneno em cada canto aqui no New Reno! EM TODAS PARTES você vai, eles são
+ vendendo ...}
+{406}{}{Você conhece algum comerciante específico?}
+{407}{}{Look, forget I brought it up. Tive algumas outras questões ...}
+
+# 32. DO YOU KNOW ANY SPECIFIC DEALERS? (31)
+{410}{}{Não pelo nome. Eles sabem o suficiente para correr quando me vêem chegar ... mas eles se agrupam como moscas ao longo da Virgin Street no
+ frente da cidade e fora dos casinos.}
+{411}{}{I see. Tive algumas outras questões ...}
+
+# 35. PORN STAR INTRO (WTG)
+{1415}{}{(Saltos.) Oh, meu! (Squints para você, então frustrar os lábios com desaprovação.) Bem, eu nunca!}
+{415}{}{Mantenha sua distância, você deseja diabo! Você que fornica no filme pela corrupção das massas!}
+{416}{}{Bem eu nunca! Você tem alguma areia voltando aqui! Você que fornica em filme para o
+ corrupção das massas!}
+{417}{}{Hunh? Eu, quem se abre no flim para a erupção de whut?}
+{418}{}{Aiiieee! Big wurds! Big wurds! Deve fugir!}
+{419}{}{Este sou eu. Você está interessado em um emprego? Eu gosto de mulheres grandes como você. (Suavemente as sobrancelhas sugerindo.) Soltar
+ Essa liga ligue um pouquinho e iremos ao negócio.}
+{420}{}{Olha, eu era jovem, eu precisava do dinheiro ...}
+{421}{}{Posso ver que teremos muitas coisas para falar. Adeus.}
+
+# 36. INTERESTED IN A JOB? I LIKE BIG WOMEN LIKE YOU. (35)
+{425}{}{Fora! Fora daqui ao mesmo tempo!}
+{426}{}{Eu vou! Eu vou!}
+{427}{}{Tudo bem, tudo bem! Estou indo embora!}
+{428}{}{Jeez-Louise. Solte esses cordões um pouco antes de cortar sua circulação.}
+
+# 37. BAD INTRO (WTG)
+{1430}{}{(Saltos.) Oh, meu!}
+{430}{}{(Squints para você, então seu olhar viaja para sua marca escravista. Seu tom torna-se glacial.)}
+{1431}{}{(Saltos.) Oh, meu!(Squints at you, then her gaze becomes glacial.) }
+{431}{}{Sim?}
+{432}{}{Você novamente. NÓS NÓS temos de falar.}
+{433}{}{Eu ... uh ... eu ... eu queria ... uh ... eu procurando ... uh ... Dam! Eu odeio estar louco! Eu odeio!}
+{434}{}{Eu ... uh ... ooooh, coisa brilhante!}
+{435}{}{Eu tive algumas perguntas ...}
+{436}{}{Eu posso ver falar não vai ajudar as questões aqui. Adeus.}
+
+# 38. BAD REACTION. (37)
+{440}{}{Entendo. Bem, tenho medo de não poder ajudá-lo. Dia bom.}
+{441}{}{Entendo. Bem, tenho medo de não poder ajudá-lo. Boa noite.}
+{442}{}{:: Shrug e vá embora. ::}
+{443}{}{Tudo bem então. Dia bom.}
+{444}{}{Tudo bem então. Boa noite.}
+
+# 39. MEET OUTSIDE CHURCH 1 . . . (WTG, 28)
+{450}{}{(Você vê a Sra. Wright. She looks crushed.)}
+{451}{}{Uh ... Ethyl, você está bem?}
+{452}{}{Então ... o que você achou?}
+{453}{}{Ah-ha! Eu estava certo ou estava certo?}
+{454}{}{Eu sinto Muito. Eu voltarei.}
+
+# 40. ETHYL, ARE YOU OKAY? (39)
+{460}{}{Tudo verdade ... tudo o que você disse era verdade. (Suspiros.) O imóvel ainda não foi desmantelado. De modo nenhum! (Frowns.) Eu confiei nesse homem, mas
+ O álcool o fez mentir para mim! * Mentir para sua própria esposa! *}
+{461}{}{:: Deixe-a abrir. ::}
+{462}{}{Oh, sim, Ethyl ... mais uma prova do mal do álcool. Isso pode fazer as pessoas fazer coisas terríveis. ESPECIALMENTE quando o gêmeo
+ Demônios de dinheiro e poder estão envolvidos.}
+{463}{}{Você pode precisar de algum tempo sozinho ... Volto mais tarde.}
+
+# 41. MEET OUTSIDE CHURCH 1 . . . (40)
+{470}{}{(Smolders.) Vou fazê-lo manter a promessa que fez, se eu tiver que destruir isso ainda com minhas próprias mãos. Então
+ Orville e eu teremos palavras! Vamos ver o que a pequena doninha diz então!}
+{471}{}{Não se preocupe, Sra. Wright. Eu já cuidei disso.}
+{472}{}{Onde está o imóvel? Eu posso destruí-lo por você.}
+{473}{}{Não, deixe-me lidar com isso. Está abaixo da estação de trem, certo? Eu cuidarei disso.}
+{474}{}{Boa ideia. Talvez você deva destruir a calma.}
+{475}{}{Volto mais tarde, então.}
+
+# 42. GO GET "EM . . . (41)
+{1480}{}{Você vai destruí-lo? Eu ... bem, tudo bem ... (constrói vapor ...)}
+{480}{}{... está no porão da estação de trem atrás de nossa casa!}
+{481}{}{Derrube-o! Destrói isso! Não deixe nada!}
+{482}{}{Tudo certo...}
+
+# 43. GO GET "EM . . . (41.)
+{490}{}{Eu vou, por tarnation! (Mangas para cima. Para sua surpresa, ela tem braços como um levantador de peso.) Obrigado por abrir
+ meus olhos, estranho. Eu irei colocar o meu marido de costas na linha reta e estreita, mesmo que isso o mate.}
+{491}{}{Bem, divirta-se ao invadir o castelo.}
+
+# 44. MEET OUTSIDE CHURCH 2 . . . (WTG)
+{500}{}{(Você vê Ethyl. À medida que você se aproxima, ela olha esperançosamente.) É ...?}
+{501}{}{Eu destruí-lo no chão. Nada mais. TODOS foram atendidos.}
+{502}{}{Ainda não. Onde foi isso novamente?}
+{503}{}{Não, ainda não destruí o imóvel. Volto quando terminar.}
+
+# 45. GO GET "EM 2. . . (44)
+{510}{}{It's in the train station basement near our home! Derrube-o! Destrói isso! Não deixe nada!}
+{512}{}{Volto quando terminar.}
+
+# 46. VICTORY. . . (41, 44)
+{515}{}{(Atirar nos olhos.) Obrigado, estranho. Você deu um golpe ao mal aqui em New Reno. Eu não sei
+ como agradecer-lhe ...}
+{516}{}{Não, obrigado, obrigado. Tome cuidado, Sra. Wright.}
+{517}{}{Estou com pouca luz em dinheiro ...}
+
+# 47. VICTORY. . . (46)
+{520}{}{Então podemos remediar isso. Me siga.}
+{521}{}{(Siga-a.)}
+{522}{}{Na verdade, não é necessário o necessário. Tome cuidado, Sra. Wright.}
+
+# 48. VICTORY. . . (47)
+{525}{}{Aqui está. Tudo neste armário é seu. Algum dinheiro para ajudá-lo nas suas viagens ... e
+ uma ferramenta acessível que eu achei útil em ter sentido senso em particular a cabeça de mula. Obrigado por todos
+ Você fez.}
+{526}{}{Obrigado, Sra. Wright.}
+
+# 49. FLOAT: AFTER COMPLETED MISSION (WTG)
+{530}{}{Obrigado pela ajuda,}
+{1530}{}{. Vou me certificar de que a família Wright continue a ser reta e estreita de agora em diante.}
+
+# 50. TEMPERANCE UNION, VOL 2 . . . (16)
+{535}{}{O novo Reno não pode existir em jogos de azar e álcool e prostituição e espera sobreviver! Ah não! Não enquanto Ethyl Wright está em
+ o leme, não vai! Não, sirene!}
+{536}{}{Mas as pessoas gostam de jogar, beber e prostituir. Eu sei que eu faço.}
+{539}{}{Me desculpe, mas acabei de me lembrar de ter um envolvimento urgente em outros lugares.}
+
+# 51. YOUR HUSBAND IS THE LEADER OF AN INFLUENTIAL CRIME FAMILY HERE IN NEW RENO . . . (26)
+{540}{}{(Puffs up.) Talvez seja prática padrão em suas tribos caluniar outros em público, mas aqui em New Reno você tem alguns
+ Areia chegando até mim em público e falando mal do meu marido!}
+{541}{}{Olha, tudo o que estou dizendo é ...}
+{542}{}{A verdade magoa. Eu posso ver que você vai sofrer muita dor. Adeus.}
+{543}{}{Bem. Adeus.}
+
+# 52. YOUR HUSBAND IS THE LEADER OF CRIME FAMILY (27)
+{545}{}{Além disso, ele resolveu ajudar-me e outros desafortunados que dependem do álcool quebrar o hábito. Vergonhoso!
+ Até mesmo sugerir que meu marido estava vendendo o álcool para os outros é ...}
+{546}{}{Completamente verdadeiro. Sra. Wright, seu marido está vendendo álcool aqui em New Reno e promovendo a embriaguez. Está fazendo
+ A cidade é um pior lugar para viver. Me ajude e podemos pôr fim a todo o negócio desagradável.}
+{547}{}{Se você não acredita em mim, confira a estação ferroviária de Reno. Você verá o que quero dizer.}
+{548}{}{Eu vejo que não temos mais nada a dizer uns aos outros, a menos que eu possa provar isso para você.}
+
+# 53. GO GET 'EM 2. . . (42)
+{550}{}{Mas agora, eu não quero que você machuque nenhum dos meus filhos, nem armas de guerra! Eles não são filhos ruins, eles acabaram de ser ... enganados.
+ Eu vou ter que ver o que posso fazer para mudar isso ...}
+{551}{}{Ok, não se preocupe ... não haverá vítimas.}
+{552}{}{Volto quando terminar. I have some other things to take care of first.}
+{553}{}{Uh, não posso prometer isso ... talvez você devesse ter alguém para cuidar do problema.}

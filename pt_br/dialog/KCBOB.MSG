@@ -1,0 +1,197 @@
+{100}{}{Você vê um homem mais velho com uma barba rasgada e um grande nariz vermelho.}
+{101}{}{Você vê Whisky Bob.}
+
+{110}{}{Howdy, meu nome é Whisky Bob. Qual é o seu, cara?}
+{111}{}{Você não é uma pequena coisa fofa? Meu nome é Bob, Whisky Bob - o que é seu?}
+{112}{}{Whicky Gob? Zug, zug?}
+{113}{}{Nariz brilhante (heh, heh)}
+{114}{}{Eu}
+{115}{}{Vá embora}
+
+{120}{}{Você não é a ferramenta mais afiada no galpão, não é? Bem, legal falar com você de qualquer maneira. Tanto tempo.}
+{121}{}{Querido, você quebra meu coração toda vez que abre a boca. Talvez algum outro momento eu possa
+ Leve-o de volta ao Trapper Town e eu vou mostrar-lhe minhas aguafalhas (heh, heh). Tchau, linda.}
+
+{130}{}{Bem, senhor, talvez eu esteja te vendo aqui mais tarde. Tchau.}
+{131}{}{Bem, espero vê-lo novamente 'por aqui, coisas fofas. Adeus}
+
+{140}{}{Humph, se você não vai ser amigo meu, então git.}
+{141}{}{Humph, acho que prefiro ir à casa de banho de Sally do que passar o tempo com você. Agora, git.}
+
+{150}{}{Howdy estranho, meu nome é Whisky Bob. O que é seu?}
+{151}{}{Meu nome é}
+{152}{}{. Prazer em conhecê-lo Whisky Bob.}
+{153}{}{Eu estou}
+{154}{}{. O que está acontecendo aqui na cidade?}
+{155}{}{Eu não acho que você precisa saber meu nome.}
+
+{160}{}{Sempre é bom encontrar outro amigo bebendo. Quer me comprar uma bebida? Falar sempre me faz
+ com sede.}
+{161}{}{Claro, Bob. Não me importo um pouco.}
+{162}{}{Não posso dar o luxo agora.}
+{163}{}{Eu não quero comprar uma bebida, Whiskey Bob.}
+{164}{}{Com um apelido como o seu, Whiskey Bob, talvez você esteja fornecendo as bebidas.}
+
+{170}{}{Obrigado pela bebida, parceiro. Agora que meu assobio está molhado, sinto que posso compartilhar um pouco
+ problema que eu tenho. Ei, talvez você possa me ajudar?}
+{171}{}{Well, Eu estoupretty busy right now. I don’t think I can help you out.}
+{172}{}{Como posso ajudá-lo?}
+{173}{}{Se não demorar muito, acho que poderia ajudá-lo. Por um preço, é claro.}
+{174}{}{Talvez eu possa ajudá-lo, desde que não seja muito perigoso.}
+{175}{}{Alguma coisa incomum na cidade ultimamente?}
+
+{180}{}{Parece que você está com uma bolsa vazia. Você não tem dinheiro suficiente para comprar o velho Bob uma bebida.}
+{181}{}{[MAIS]}
+
+{190}{}{Bem, você vê, eu tenho uma pequena empresa secundária que eu preciso de ajuda para atender. eu tenho um
+ Moonshine ainda fora da cidade que precisa ser alimentado de vez em quando. Uma vez que um gecko fez bit meu
+ perna, não consigo mexer com isso antes que ele fique sem combustível. Se eu lhe disser onde está, você poderia reabastecer
+ para mim? Valeu US $ 50 para mim.}
+{191}{}{Isso não parece muito ruim - me fale mais.}
+{192}{}{Eu não acho que eu quero fazer isso por você. Desculpe, Whisky Bob.}
+
+{200}{}{Agora, não vai demorar muito e não é muito perigoso. Provavelmente. Você
+ Quer ouvir sobre isso ou não?}
+{201}{}{OK, vá em frente e fale-me sobre isso.}
+{202}{}{Eu acho que já ouvi o suficiente. Adeus.}
+
+{210}{}{Justo. Você é nítido, não há como negar isso. Aqui estão algumas bebidas. Agora, em troca, você
+ ouça meu pequeno problema.}
+
+{220}{}{Tudo o que você precisa fazer é encontrar uma pequena cabana ao sul da cidade. Vá para dentro e despeje alguma lenha
+ no imóvel. Então volte aqui e eu lhe darei seu dinheiro. Mas precisa ser feito dentro do
+ No dia seguinte, ou o meu lote de acertos vai ficar mal.}
+{221}{}{Isso parece muito fácil. OK eu vou fazer isso.}
+{222}{}{Eu não quero ajudá-lo com isso. Desculpe, Bob.}
+{223}{}{$ 50 não soa quase o suficiente para um trabalho como esse.}
+
+{230}{}{Você vai fazer isso? Ótimo. Lembre-se, você deve fazer isso em breve ou meu obstáculo vai ficar mal. Agradeço uma pilha.
+ Vejo você de volta aqui em breve.}
+{231}{}{Não há problema, Bob. Vejo você em um dia.}
+{232}{}{Feliz por ajudar. Mas primeiro, me diga o que está acontecendo na cidade ultimamente.}
+
+{240}{}{Bem, você é um negociante acentuado e não pode recusá-lo. OK, vou fazer US $ 65. Você vai fazer isso?}
+{241}{}{Bom, tente lá, mas $ 50 é todo o trabalho para mim. Heck, não posso pagar mais.}
+{242}{}{OK eu vou fazer isso.}
+{243}{}{Eu não quero fazer isso por esse dinheiro. Meu tempo vale muito mais.}
+
+{250}{}{Olá, feller. Volte para ver Whiskey Bob novamente, hein? Pronto para falar sobre bebidas e
+ negócios e similares?}
+{251}{}{Ei, galáxia. Quer falar com Whiskey Bob novamente sobre bebidas e negócios e tal? Eu vou
+ Deixe você sentar no meu colo! (heh, heh) Apenas brincando.}
+{252}{}{Claro, Bob - conte-me sobre bebidas e negócios.}
+{253}{}{Acho que já tive o suficiente da última vez.}
+
+{260}{}{Terminou de abastecer meu imóvel? Naw, eu não acho que você ainda. Bem, certifique-se e volte
+ quando voce tem.}
+
+{270}{}{Alguém feito esmagou minha calma! E você é a única pessoa que eu falei sobre isso. Por que, se eu fosse
+ um feller mais jovem, mais cheio de urina e vinagre, eu gostaria de ensinar uma lição. Apenas saia de
+ Minha visão, você é dobrador duplo!}
+
+{280}{}{Bem, obrigado por reabastecer meu imóvel para mim. Aqui estão os seus $ 50,
+ também. Tem alguma pergunta que posso responder por você?}
+{281}{}{Obrigado. Agora, eu não tenho que usar o gimp aqui mesmo - mesmo que isso me custou US $ 65. Aqui está o seu
+ dinheiro. Quaisquer perguntas que eu possa responder por você?}
+{282}{}{Sim. Diga-me o que está acontecendo na cidade ultimamente.}
+{283}{}{Não, obrigado, Bob. Eu acho que sei o que eu preciso já.}
+
+{290}{}{Todas as coisas acontecem ultimamente. Nós temos mutiladores brahmin, espíritos ambulantes,
+ ratos giganticos e pessoas desaparecidas. Alguns até dizem que o Den está envolvido.}
+{291}{}{Conte-me sobre as mutilações brahmin.}
+{292}{}{Conte-me sobre os espíritos ambulantes.}
+{293}{}{Ratos giganticos? Tenho que ouvir mais sobre isso.}
+{294}{}{Um den? Que tipo de cova?}
+{295}{}{Pessoas desaparecidas? Me diga mais.}
+{296}{}{Preciso lhe perguntar sobre outra coisa. Você já ouviu falar de algo chamado Jardim do Éden?
+ Kit de criação?}
+{297}{}{Eu não acho que preciso ouvir tudo isso agora.}
+{298}{}{Claro, Bob, e deixe-me falar sobre um peixe tão alto quanto eu que peguei em um barril de chuva.}
+
+{310}{}{Obrigado por me ajudar com o meu ainda. Eu deveria ser capaz de fazê-lo sozinho quando minha perna cura
+ Só um pouco. Tem alguma pergunta para um antigo bar-hound como eu?}
+{311}{}{Bem, eu tenho me perguntado sobre alguns dos rumores que ouvi em torno da cidade.}
+{312}{}{Eu não acho que preciso de mais informações agora, Bob.}
+
+{320}{}{Eles dizem que criaturas que se parecem com insetos gigantes em forma de homem, em uma concha e em tudo, são
+ mutilando brahmin de noite. Tudo o que acham são cadáveres de brahmin abertos e horrivelmente cortados.}
+{321}{}{Isso parece horrível.}
+
+{330}{}{Algumas pessoas viram os bugmen, mas aquele que obteve o melhor aspecto foi Torr, o Buckner's
+ Garoto. O que ele viu assustou-o de sua inteligência, e o pobre rapaz é um pouco tímido nesse departamento
+ já.}
+{331}{}{Incrível! Deixe-me perguntar sobre outra coisa.}
+{332}{}{Eu acho que é tudo o que preciso ouvir agora, adeus.}
+
+{340}{}{Há uma garganta apenas a oeste da cidade que teve uma luz brilhante nela alguns meses atrás. Sempre
+ uma vez que, de vez em quando, houve um som horrível que vem do cânion. brâmane
+ que vagam não voltem. Todo mundo tem medo de se aproximar demais.}
+{341}{}{Sim, certamente um sinal de infestação espiritual. Se ao menos você tivesse um shaman competente. Fale-me sobre
+ algo mais.}
+{342}{}{Isso é o suficiente por enquanto. Eu acho que vou apenas refletir sobre isso por um tempo. Adeus.}
+
+{350}{}{Bem, de volta da Trapper Town, apenas a oeste do centro da cidade, há uma seção de trás que é
+ invadido por ratos. Quanto mais você estiver, vá o mais grande possível. Alguns dizem que há um grande grande
+ espírito de rato que está levando todos eles. Alguns dos caçadores não irão mais ficar lá. Eles dizem que é
+ Perigoso demais.}
+{351}{}{Caçadores derrubados por ratos? Conte-me sobre algumas das outras coisas.}
+{352}{}{Medo de ratos. Hmm, devem ser ratos diferentes dos que temos em casa. Já ouvi o suficiente.
+ Adeus.}
+
+{360}{}{Não 'A den' '-' The Den '. Você não encontrará uma maior colmada de escória e vilania. Agora, onde eu fiz?
+ Ouça isso? Em qualquer caso, é um lugar grosso de alguns dias para viajar ao sul de Klamath. Qualquer coisa pode
+ ter um preço ... mesmo escravos. Mas você tem que ter muito cuidado lá - muitos temperamentos curtos
+ ligado a armas perigosas. Não creio que tenham muito o que fazer conosco, no entanto; Nós somos muito pobres aqui.}
+{361}{}{Eu acho que eu seria seguro o suficiente lá; Eu sei como lidar comigo mesmo. Deixe-me perguntar-lhe sobre algo
+ ainda assim.}
+{362}{}{Já ouvi o suficiente por enquanto, Whisky Bob. Adeus.}
+
+{370}{}{Ultimamente, faltaram algumas pessoas. Um comerciante, chamado Vic, que se especializou em
+ coisas pré-guerra e um dos nossos melhores caçadores.}
+{371}{}{Conte-me mais sobre o comerciante um pouco ... Vic?}
+{372}{}{Quero saber mais sobre o caçador.}
+{373}{}{Deixe-me perguntar-lhe sobre outra coisa.}
+{374}{}{Isso é tudo o que preciso saber. Adeus, Whisky Bob.}
+
+{380}{}{Bem, Vic era bastante amigo. Ele não gostava de trabalhar demais, então ele se especializaria em
+ coisas de pré-guerra caras e então vá vendê-las para o Den - ou até mesmo falcão para tribos estúpidas como
+ Artefatos religiosos (risada para si mesmo). Oops, sem ofensa. De qualquer forma, eu não o vi por algum tempo.
+ Por último, ouvi, ele foi para o sul para vender algumas coisas. Talvez para o Den.}
+{381}{}{E o caçador perdido?}
+{382}{}{Deixe-me perguntar-lhe sobre outra coisa, Bob.}
+{383}{}{Obrigado, tenho que pensar no que me disse. Adeus, Whisky Bob.}
+
+{390}{}{A pessoa real para falar sobre o caçador perdido seria a Sra. Buckner. Ela e smiley
+ estavam bem perto. Ele foi para o norte para procurar a caverna dos geckos dourados e não foi visto desde então.
+ Isso também foi um tempo atrás.}
+{391}{}{E quanto ao comerciante desaparecido?}
+{392}{}{Hmm, intersting. Diga-me sobre outra coisa, no entanto.}
+{393}{}{Isso é o suficiente para mim por enquanto. Adeus, Whisky Bob.}
+
+{400}{}{Eu certamente gostaria de ter mantido sua palavra para mim. Você não chegou ao meu momento no tempo e meu último
+ lote de hootch é uma ameixa arruinada! Eu não quero ter nada mais a ver com você e espero que ninguém
+ De outra forma, também.}
+{401}{}{Mas eu, pensei que tinha mais tempo ...}
+{402}{}{Provavelmente sabe o mesmo se eu reabasteceu o imóvel ou não.}
+{403}{}{Seu jeito é o gosto de dogpiss.}
+{404}{}{O combustível não parece fornecer uma chama da temperatura correta para fermentação adequada.}
+
+{410}{}{I don’t want to hear your damn excuses. Just get the heck out of my sight! But I’ll tell you
+ one thing; everyone’s going to know just how worthless your word is before Eu estouthrough.}
+
+{420}{}{Um Kit de Criação do Jardim do Éden? Por que eu acho que vi um daqueles listados em uma página de um antigo
+ catálogo que eu estava olhando enquanto eu estava sentada, de volta. Mas eu não sei muito mais sobre isso
+ do que isso.}
+{421}{}{Mesmo? Gostaria de ver esse catálogo.}
+
+{430}{}{Uh, (embaraçado) eu usei essa página para cuidar de algum negócio, se você souber o que eu
+ significar.}
+{431}{}{O negócio? Ah, esse tipo de negócio. Prefiro o jornal antigo, eu mesmo. Ah, diga-me algo
+ então, então.}
+{432}{}{Porra, pensei que estava tão perto. Acho que é uma decepção suficiente por enquanto. Adeus, Bob.}
+
+{500}{}{Howdy, o que posso fazer por você?}
+{501}{}{O que está acontecendo aqui?}
+{502}{}{Nada, obrigado.}
+
+{550}{}{Bob não parece querer falar com você.}

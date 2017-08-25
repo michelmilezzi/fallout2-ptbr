@@ -1,0 +1,14 @@
+{100}{}{Você vê um guarda.}
+{101}{}{Você vê um dos guardas ajudando você com esta corrida de caravanas.}
+
+{200}{}{Você vê um motorista de caravana.}
+{201}{}{Você vê um dos drivers que o ajudam com esta corrida de caravanas.}
+
+
+{300}{}{Espero que não possamos mais muitos encontros ao longo do caminho.}
+{301}{}{Será bom obter esse cheque de pagamento no final da corrida.}
+{302}{}{Espero que eles tenham o bar aberto para quando eu chegar lá.}
+{303}{}{Será bom obter alguma comida verdadeira por uma vez.}
+{304}{}{Eu sempre quis viajar. Eu acho que isso é o mais próximo disso.}
+{305}{}{Meus pés estão me matando. Eu queria que aqueles estúpidos brahmin se apressassem.}
+{306}{}{Ouvi dizer que não temos muito mais para seguir nesta viagem.}

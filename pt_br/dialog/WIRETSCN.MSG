@@ -1,0 +1,7 @@
+{100}{}{Acesso concedido para Level}
+{101}{}{Acesso negado}
+{102}{}{Padrão de retina desconhecido.}
+{103}{}{Violação de segurança no nível}
+
+{104}{}{Acesso concedido para Level4.}
+{105}{}{Violação de segurança no nível4.}

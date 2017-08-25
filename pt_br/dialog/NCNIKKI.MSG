@@ -1,0 +1,277 @@
+# 0. QUICK LOOK (KNOW_NIKKI)
+{100}{}{Você vê Darlin Nikki.}
+
+# 0. QUICK LOOK (DON'T KNOW_NIKKI)
+{125}{}{Você vê um dos revendedores de cassino.}
+
+# 0. LOOK [MALE, KNOW NIKKI] (WTG)
+{150}{}{Você vê Darlin Nikki.}
+{000}{}{Você vê Darlin Nikki. She winks at you.}
+{000}{}{Você vê Darlin Nikki. She motions for you to come over and play.}
+{000}{}{Você vê Darlin Nikki. Mason was right about her ass.}
+{000}{}{Você vê Darlin Nikki. Her dress barely covers her body.}
+{000}{}{Você vê Darlin Nikki. Mason was right about her ass.}
+{000}{}{Você vê Darlin Nikki. Her dress barely covers her body.}
+
+# 1. LOOK [FEMALE, KNOW NIKKI] (WTG)
+{160}{}{Você vê Darlin Nikki. She motions for you to come over and play.}
+{000}{}{Você vê Darlin Nikki. Her dress barely covers her body.}
+{000}{}{Você vê Darlin Nikki. Her dress barely covers her body.}
+
+# 2. LOOK (MALE, DON'T KNOW NIKKI) (WTG)
+{170}{}{Você vê um dos revendedores de cassino.}
+{000}{}{Você vê um dos revendedores de cassino. She winks at you.}
+{000}{}{Você vê um dos revendedores de cassino. She motions for you to come over and play.}
+{000}{}{Você vê um dos revendedores de cassino. She's got some nice gams.}
+{000}{}{Você vê um dos revendedores de cassino. Her dress barely covers her body.}
+{000}{}{Você vê um dos revendedores de cassino. She smells reeeally nice.}
+
+# 3. LOOK (FEMALE, DON'T KNOW NIKKI) (WTG)
+{180}{}{Você vê um dos revendedores de cassino. She motions for you to come over and play.}
+{000}{}{Você vê um dos revendedores de cassino. Her dress barely covers her body.}
+{000}{}{Você vê um dos revendedores de cassino. Her dress barely covers her body.}
+{000}{}{Você vê um dos revendedores de cassino. She motions for you to come over and play.}
+
+# 4. FLOAT [ENCLAVE_DESTROYED = TRUE] (WTG)
+{200}{}{::Felicidades::}
+{000}{}{:: Claps ::}
+{000}{}{:: Whistles ::}
+{000}{}{[X]! Bem-vindo ao cassino, herói!}
+{000}{}{Achei que você se esqueceu de nós enquanto estava salvando o mundo.}
+
+# 5. FLOAT [MADE MAN, SAME CASINO] (WTG)
+{210}{}{Olá, [MM]. Posso lhe ajudar com algo?}
+{000}{}{Se você está procurando uma pequena empresa mais tarde ...}
+{000}{}{Ei, você ... (piscadinha) ... você está procurando apostar?}
+{000}{}{Ele parece tão ... (arrepios) ... perigoso.}
+{000}{}{Bem-vindo ao cassino, [MM].}
+{000}{}{Dê uma boa palavra com o chefe para mim?}
+{000}{}{Olá Madame. Deixe-me saber se posso ajudá-lo com qualquer coisa.}
+{000}{}{Olhando para apostar, senhora?}
+{000}{}{Ela parece tão ... (arrepios) ... perigoso.}
+
+# 7. FLOAT [MADE MAN, WRONG CASINO] (WTG)
+{220}{}{Parece que este já está jogando com sua vida.}
+{000}{}{Uh, acho que ele entrou no cassino errado ...}
+{000}{}{Se ele não partir antes que os meninos o vejam ...}
+{000}{}{Uh-oh. Problema…}
+{000}{}{Parece que este já está jogando com sua vida.}
+{000}{}{Uh, acho que ela entrou no cassino errado ...}
+{000}{}{Se ela não partir antes que os meninos a vejam ...}
+
+# 9. FLOAT [PRIZEFIGHTER] (WTG)
+{230}{}{Ei, músculos. Você está procurando passar algumas fichas?}
+{000}{}{Ei, campeão ... (piscadinha) ... você está procurando apostar?}
+{000}{}{Ei, campeão ... (sorrisos) ... quer ter uma chance?}
+{000}{}{Se você está procurando uma pequena empresa mais tarde ...}
+{000}{}{Eu me pergunto se eu deveria conversar com ele ...}
+{000}{}{Ei, [PF]. Olhando para gastar algumas fichas?}
+{000}{}{Se você está procurando ganhar algumas fichas, você veio ao lugar certo.}
+{000}{}{Melhor casino em New Reno. No MUNDO, mesmo.}
+{000}{}{Lady Luck está na casa hoje à noite ... nada além de vencedores!}
+{000}{}{Passar para a direita, [PF], ganhar algumas fichas.}
+{000}{}{Precisa de outra bebida?}
+{000}{}{Bem-vindo ao cassino, [PF].}
+{000}{}{Olá, [PF]. Deixe-me saber se posso ajudá-lo com qualquer coisa.}
+{000}{}{Olhando para apostar, [PF]?}
+{000}{}{Bem-vindo ao cassino, [PF].}
+
+# 11. FLOAT [PORN STAR] (WTG)
+{250}{}{Ei, cara do filme. Você está procurando passar algumas fichas?}
+{000}{}{Ei, [PS] ... (piscadinha) ... você está procurando apostar?}
+{000}{}{Ei, [PS] ... (sorrisos) ... quer ter uma chance?}
+{000}{}{Se você está olhando para ganhar alguns chips [PS], você veio ao lugar certo.}
+{000}{}{Melhor casino em New Reno. No MUNDO, mesmo.}
+{000}{}{Lady Luck está na casa hoje à noite ... nada além de vencedores!}
+{000}{}{Passar para a direita, [PS], ganhar algumas fichas.}
+{000}{}{Precisa de outra bebida?}
+{000}{}{Bem-vindo ao cassino, [PS].}
+{000}{}{Ei, Mrs. Movie Star. Olhando para gastar um salário?}
+{000}{}{Você dança esta noite?}
+
+# 13. FLOAT [NO REP] (WTG)
+{270}{}{Ei, querida. Você está procurando passar algumas fichas?}
+{000}{}{Ei, docinho ... (piscadinha) ... você está procurando apostar?}
+{000}{}{Ei, docinho ... (sorrisos) ... quer ter uma chance?}
+{000}{}{Se você está procurando ganhar algumas fichas, você veio ao lugar certo.}
+{000}{}{Melhor casino em New Reno. No MUNDO, mesmo.}
+{000}{}{Lady Luck está na casa hoje à noite ... nada além de vencedores!}
+{000}{}{Pára-se bem, ganhe algumas fichas.}
+{000}{}{Precisa de outra bebida, querido?}
+{000}{}{Bem-vindo ao cassino, querido.}
+{000}{}{Esta tabela é gratuita se você está olhando para apostar ...}
+{000}{}{Ei, querida. Você está procurando passar algumas fichas?}
+{000}{}{Olhando para jogar, querida?}
+{000}{}{Bem-vindo ao cassino, querido.}
+
+# 15.  PLACE YOUR BETS (WTG, 22, 23)
+{290}{}{Bem, você é louco por entrar aqui, mas ... faça suas apostas. Aposta mínima 5 fichas. Faça suas apostas…}
+{000}{}{Um ... faça suas apostas ... mínimo 5 fichas. Faça suas apostas…}
+{000}{}{Coloque sua aposta, senhor. Aposta mínima 5 fichas. Faça suas apostas…}
+{000}{}{Faça a sua aposta, senhora. Aposta mínima 5 fichas. Faça suas apostas…}
+{000}{}{Faça suas apostas, aposta mínima 5 fichas. Faça suas apostas…}
+{000}{}{Eu melhor que você}
+{000}{}{Eu toco craps em calças}
+{000}{}{Qual é esse jogo? Você pode apostar a pele Gecko? Eu tenho geck ... ooooh ... lindas luzes lá!}
+{000}{}{Você tem chips [C]. Bet 5 chips?}
+{000}{}{Bet 15 chips?}
+{000}{}{Apostar 25 fichas?}
+{000}{}{Apostar 50 fichas?}
+{000}{}{Você Nikki?}
+{000}{}{Como você está, Nikki?}
+{000}{}{Whoa, muito rico para o meu sangue. Estou fora daqui.}
+{000}{}{Nenhuma aposta hoje, obrigado.}
+
+# 16.  RETARD (15)
+{310}{}{Uh, muito bem, senhor. Volte logo.}
+{000}{}{Uh, muito bem, senhora. Volte logo.}
+{000}{}{Um ... Ouvi dizer que eles estão deixando os cérebros de volta. Talvez você deva verificar.}
+{000}{}{Byeee-byeeee}
+{000}{}{Gooodie. [X] sempre pode usar novo item de inventário}
+{000}{}{Uh ... cérebro ... o que eles?}
+
+# 17. POOR MAN (15)
+{320}{}{Muito bem, senhor. Volte logo.}
+{000}{}{Muito bem, senhora. Volte logo.}
+{000}{}{5 fichas? "Muito rico para o seu sangue?" Pal, você está na cidade errada.}
+{000}{}{5 fichas? "Muito rico para o seu sangue?" Pal, você está na cidade errada.}
+{000}{}{5 fichas? "Muito rico para o seu sangue?" Menina, você está na cidade errada.}
+{000}{}{5 fichas? "Muito rico para o seu sangue?" Menina, você está na cidade errada.}
+{000}{}{Eu vou, obrigado.}
+{000}{}{Talvez sim, mas pelo menos * eu não vivo aqui.}
+
+# 18. LOOOOOOSER (15)
+{330}{}{Desculpe senhor. Mais sorte da próxima vez.}
+{000}{}{Desculpe, senhora. Mais sorte da próxima vez.}
+{000}{}{Desculpe, melhor sorte na próxima vez.}
+{000}{}{Você tem chips [C]. Continue jogando?}
+{000}{}{Ligue para um dia.}
+{000}{}{Ligue-o uma noite.}
+
+# 19. WINNER (15)
+{340}{}{Vencedora! Bem feito, senhor!}
+{000}{}{Vencedora! Muito bem, senhora!}
+{000}{}{Vencedora!}
+{000}{}{Você tem chips [C]. Continue jogando?}
+{000}{}{Ligue para um dia.}
+{000}{}{Ligue-o uma noite.}
+
+# 20. WINNER x2 (15)
+{350}{}{Vencedora! You've doubled your money! Well done, sir!}
+{000}{}{Vencedora! You've doubled your money! Well done, ma'am!}
+{000}{}{Vencedora! You've doubled your money!}
+{000}{}{Você tem chips [C]. Continue jogando?}
+{000}{}{Ligue para um dia.}
+{000}{}{Ligue-o uma noite.}
+
+# 21. WINNER x3 (15)
+{360}{}{Vencedora! You've tripled your money! Luck is in the house tonight! Well done, sir!}
+{000}{}{Vencedora! You've tripled your money! Luck is in the house tonight! Well done, sir!}
+{000}{}{Vencedora! You've tripled your money!}
+{000}{}{Você tem chips [C]. Continue jogando?}
+{000}{}{Ligue para um dia.}
+{000}{}{Ligue-o uma noite.}
+
+# 22. YOU NIKKI? (15)
+{370}{}{O que você quer agora? Você está aqui para desperdiçar meu tempo, ou você vai fazer uma aposta?}
+{000}{}{Eu sou quem você quer que eu seja, querido. Agora, você vai fazer uma aposta?}
+{000}{}{Eu sou quem você quer que eu seja, namorada. Agora, você vai fazer uma aposta?}
+{000}{}{Fazer uma aposta.}
+{000}{}{Sim. Estou apostando que você sabe onde está Pretty Boy Lloyd.}
+{000}{}{Sim, estou apostando você e Pretty Boy Lloyd estavam roubando dinheiro do Sr. Salvatore. Dificil acreditar em você
+ Não percebeu que ele enganava todos esses momentos.}
+{000}{}{Você conhece alguém chamado Pretty Boy Lloyd?}
+{000}{}{Falaremos mais tarde, Nikki.}
+
+# 23. YOU NIKKI (NICE)? (22)
+{380}{}{Sim, ouvi dizer que ele está morto. Que o que você quer ouvir, assassino ?! Hã?! Agora você vai fazer uma aposta ou me chatear um pouco mais?}
+{000}{}{Não. Você vai fazer uma aposta?}
+{000}{}{Fazer uma aposta.}
+{000}{}{Sim. Estou apostando que você sabe onde está Pretty Boy Lloyd.}
+{000}{}{Sim, estou apostando você e Pretty Boy Lloyd estavam roubando dinheiro do Sr. Salvatore. Difícil de acreditar que você não notou
+ Lloyd enganando todas essas horas.}
+{000}{}{Falaremos mais tarde, Nikki.}
+
+# 24.  KNOW WHERE LLOYD IS? (22, 23)
+{390}{}{Então, essa é uma aposta que você PERDE, querida, mas se você é tão estúpido como você é feio, você provavelmente apostou de qualquer maneira. Eu não sou
+ Viu esse vagabundo desde que enganou o Sr. Salvatore.}
+{000}{}{Então, é uma aposta que você perderia, querida. Eu não vi esse vagabundo desde que ele puxou aquela escrava no Sr. Salvatore.}
+{000}{}{Então, essa é uma aposta que você perderia, namorada. Eu não vi esse vagabundo desde que ele puxou aquela escrava no Sr. Salvatore.}
+{000}{}{Talvez você não me tenha ouvido pela primeira vez, então, em benefício dos deficientes auditivos: onde é Lloyd?}
+{000}{}{Muito desconfiado, você não percebeu que ele trapaceava todos esses momentos. Você teria que estar cego ... ou subornado.}
+{000}{}{Fine. Falaremos mais tarde, Nikki.}
+
+# 25. KNOW WHERE LLOYD IS? (24)
+{400}{}{Querido, eu te digo que não sei onde ele está. Agora, olhe, ESTOU TRABALHANDO aqui, então volte para o que você roca -}
+{000}{}{Namorada, EU TE DEBO que eu não sei onde ele está. Agora, olhe, ESTOU TRABALHANDO aqui, então volte para o que você roca -}
+{000}{}{Nikki, Nikki ... Estou perdendo PATIÊNCIA aqui. Se você não me diz onde está Lloyd, também vou perder a paciência.}
+{000}{}{Nikki, não sei o que aconteceu entre você e Lloyd. Mas adivinhe o quê? Eu não preciso saber. Eu vou apenas dizer
+ Sr. Salvatore, o que eu suspeito.}
+{000}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Diga-me onde Lloyd é, e eu vou dar-lhe metade da sua tomada: 500 fichas.}
+{000}{}{Muito desconfiado, você não percebeu que ele trapaceava todos esses momentos. Você teria que estar cego ... ou subornado.}
+{000}{}{Falaremos depois, Nikki.}
+
+# 26. I'M GOING TO HAVE TO GET ROUGH (25)
+{410}{}{Você me toca, e o Sr. Salvatore vai te deixar vivo.}
+{000}{}{Salvatore não irá protegê-lo; Os negociantes como você são um chip uma dúzia. Corte a merda e me diga onde Lloyd é ou OUTRA.}
+{000}{}{Salvatore não irá protegê-lo; ele está morto. Corte a merda e me diga onde Lloyd é ou OUTRA.}
+{000}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Diga-me onde Lloyd é, e eu vou dar-lhe metade da sua tomada: 500 fichas.}
+{000}{}{Muito desconfiado, você não percebeu que ele trapaceava todos esses momentos. Você teria que estar cego ... ou subornado.}
+{000}{}{Falaremos depois, Nikki.}
+
+# 27. I'M GOING TO TELL MR. SAL WHAT I SUSPECT (25)
+{420}{}{Do que você está falando?}
+{000}{}{Nikki, se você não me contar tudo agora, digo ao Sr. Salvatore que você estava envolvido, se você fosse ou não.
+ Ele vai ter Mason cortar sete maneiras para domingo, e ter seu trabalho preenchido em uma hora.}
+{000}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Diga-me onde Lloyd é, e eu vou dar-lhe metade da sua tomada: 500 fichas.}
+{000}{}{Muito desconfiado, você não percebeu que ele trapaceava todos esses momentos. Você teria que estar cego ... ou subornado.}
+{000}{}{Falaremos depois, Nikki.}
+
+# 28. INTIMIDATE NIKKI (25, 26, 27, 29)
+{430}{}{Olha, como eu disse, não sei onde ele está. Mas * talvez * eu ouvi que ele costumava ter um quarto no Desperado. Você pode encontrar
+ Algo lá. Agora, se você não se importa, eu tenho que voltar ao trabalho.}
+{000}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Diga-me onde Lloyd é, e eu vou dar-lhe metade da sua tomada: 500 fichas.}
+{000}{}{Muito suspeito de que você não percebeu que ele trapaceava todos esses momentos. Você teria que estar cego ... ou subornado.}
+{000}{}{Falaremos depois, Nikki.}
+
+# 29. FAIL TO INTIMIDATE NIKKI (30)
+{440}{}{Olhe, eu apenas comecei a trabalhar aqui, e não consigo reconhecer todos os contadores de cartas e truques de dois bits que entram.
+ Eu tenho uma linha bastante boa em mísseis como você, no entanto.}
+{000}{}{Oh, então é assim que você e Lloyd se juntaram então?}
+{000}{}{Então você começou a trabalhar, hein? Muito conveniente. Bem, é tudo o que preciso saber. Diga a Lloyd que ele é um homem morto.}
+{000}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Diga-me onde Lloyd é, e eu vou dar-lhe metade da sua tomada: 500 fichas.}
+{000}{}{Falaremos depois, Nikki.}
+
+# 30. ACCUSE NIKKI OF SNEAKY SHIT (22, 23, 24, 25, 26, 27, 28)
+{450}{}{Sim, você toma bastante Jet, e tudo parece suspeito, não é?}
+{000}{}{É suspeito. Você deveria ter contratado a Lloyd pelo que ele estava assim que ele entrou nesse cassino.}
+{000}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Diga-me onde Lloyd é, e eu vou dar-lhe metade da sua tomada: 500 fichas.}
+{000}{}{Falaremos depois, Nikki.}
+
+# 31. NIKKI PISSED (25, 26, 27, 28, 29, 30)
+{460}{}{Você começa o inferno aqui agora. Não tenho mais nada para te dizer.}
+{000}{}{Não tenho nada para te dizer. Saia daqui.}
+{000}{}{Não agora, talvez. Falaremos mais tarde, Nikki. Conte com isso.}
+
+# 32. NIKKI BRIBED (25, 26, 27, 28, 29, 30)
+{470}{}{Você fala suave ... mas também as cobras. POSSO saber onde Lloyd é, MAYBE, eu não. Você ganhou 500 fichas?}
+{000}{}{Talvez. Depende do que você obteve para mim.}
+
+# 33. GO ON . . . (32)
+{480}{}{PODERIA ser que Lloyd ainda tenha minha dose, e não tenho certeza de que ele vai me dar. PODERIA ser isso - por 500 fichas - eu
+ PODERIA dizer-lhe onde o seu jumento mentiroso está saindo.}
+{000}{}{Feito. Aqui estão as 500 fichas. Diga-me onde ele está.}
+{000}{}{Esse é um preço bastante íngreme para todo um grupo de "maybes" e "coulds". Eu o encontrarei sozinho.}
+
+# 34. NIKKI SETS PLAYER UP (33)
+{490}{}{(Pockets the money) Verifique a sala da caldeira no porão do Desperado. Foi aí que o filho da puta foi
+ Vai correr se as coisas caíssem.}
+{000}{}{Tudo bem então. Mais tarde, Nikki.}
+
+# 35. NIKKI TELLS PLAYER NOT TO AROUSE SUSPICION (WTG)
+{500}{}{Você sairia daqui ?! As pessoas nos vêem falando assim, então eles vão falar. Compreendo?}
+{000}{}{Tudo bem então. Mais tarde, Nikki.}
+
+# 36. NIKKI PISSED 2 (33)
+{510}{}{Vá para o inferno, então! Não tenho mais nada para te dizer, NUNCA.}
+{000}{}{Quebra meu coração. Mais tarde, Nikki.}

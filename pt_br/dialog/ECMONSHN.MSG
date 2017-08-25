@@ -1,0 +1,9 @@
+{100}{}{Você vê um moonshiner.}
+{101}{}{Nós vendemos apenas o licor de melhor qualidade. Estás interessado?}
+{102}{}{Sim, vamos ver o que você conseguiu.}
+{103}{}{Não.}
+{104}{}{Ug.}
+{105}{}{Então vença! Estamos ocupados.}
+{106}{}{Certifico-me de que a mistura de álcool esteja correta.}
+{107}{}{Baka. BAka BAKA!}
+{108}{}{Obrigado pelo negócio.}

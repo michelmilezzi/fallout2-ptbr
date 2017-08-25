@@ -1,0 +1,165 @@
+{100}{}{Você vê uma mulher cansada que poderia ter sido bastante conhecida quando era mais nova.}
+{101}{}{Você vê Lou, o proprietário do Salão Malamute.}
+{102}{}{Você vê uma mulher mais velha vestindo um pouco de vermelho.}
+{103}{}{Eu só quero que você saiba que eu agradeço o que você fez. Como posso ajudá-lo?}
+{104}{}{A prisão é muito boa para o que o bastardo fez.}
+{105}{}{Eu não acredito que você deixa o bastardo que cortou minha galáxia. Você tem algum nervo
+ Voltando aqui. O que diabos você quer?}
+{106}{}{Você ainda é um maldito idiota. Mas a vida continua, para o resto de nós. Agora, o que diabos você faz?
+ quer?}
+{107}{}{Lembre-se do que eu disse. Muito dinheiro não é bom para aquela galinha. Agora o que é necessário?}
+{108}{}{Olá. Eu sou Lou. Proprietário do Malamute Saloon, a melhor casa ao norte de San Fran.}
+{109}{}{E agora?}
+{110}{}{Ooo?}
+{111}{}{Olá, Lou. Estou interessado em obter algo aqui.}
+{112}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
+{113}{}{Olá, Lou. O que está acontecendo nesta cidade?}
+{114}{}{O que é um Malamute?}
+{115}{}{Onde é a San Fran daqui?}
+{116}{}{Estou ajudando o xerife. Ele me disse que você tinha uma das suas garotas cortadas?}
+{117}{}{Desculpe, não tenho muito tempo nem paciência para gente estúpida. O que você quer?}
+{118}{}{Grink?}
+{119}{}{Quarto?}
+{120}{}{Tchau tchau.}
+{121}{}{Uma bebida, hein? Bem, isso será US $ 25 para uma boa garrafa de cerveja gelada. Estou lhe dando o especial
+ Preço de desconto também, porque eu tenho um ponto fraco no meu coração para o simples.}
+{122}{}{Grink? (Você prende sua bolsa na mão)}
+{123}{}{Quarto?}
+{124}{}{No grink. Tchau tchau.}
+{125}{}{Você quer um quarto, hein? Bem, eu poderia ter algum espaço para você. Vai custar-lhe US $ 50 por um
+ Local acolhedor.}
+{126}{}{Quarto. (Você prende sua bolsa na mão)}
+{127}{}{Grink?}
+{128}{}{No room. Tchau tchau.}
+{129}{}{Você pode entrar aqui, mas a sua viagem freakshow fica fora.}
+{130}{}{Você não me ouviu? Não há loucos no meu salão.}
+{131}{}{Aqueles * coisas * não estão entrando no meu salão. Deixe-os para fora.}
+{132}{}{Certamente, digo que já ouvi falar de um desses. O que é isso?}
+{133}{}{Bem, é um dispositivo usado para ... uh, hmm. É apenas algo que eu estou procurando. Me conte algo
+ outro.}
+{134}{}{Nada importante. Bem, é melhor eu seguir meu caminho.}
+{135}{}{Bem, principalmente, extraímos minério de ouro aqui e trocamos para outras áreas.}
+{136}{}{Você mora o minério de ouro aqui?}
+{137}{}{Onde você troca o minério?}
+{138}{}{Isso é interessante. Diga-me outra coisa, no entanto.}
+{139}{}{Sim. Apenas na parte norte da cidade, há duas minas de ouro em funcionamento.}
+{140}{}{Você disse que trocas o minério?}
+{141}{}{Interessante. Permitam-me perguntar-lhe sobre outra coisa, no entanto.}
+{142}{}{Bem, nós negociamos minério de ouro para Vault City em troca de suprimentos médicos. Nós negociamos minério para o Novo
+ República da Califórnia em troca de brahmin fresco e outros alimentos, e nós trocamos ouro com New Reno por
+ Chems e bebidas alcoólicas.}
+{143}{}{Você mina o ouro aqui?}
+{144}{}{Interessante. Permitam-me perguntar-lhe sobre outra coisa, no entanto.}
+{145}{}{Jist um cachorro grande.}
+{146}{}{Oh, eu vejo. Hmm, deixe-me perguntar-lhe sobre outra coisa.}
+{147}{}{Claro. Isso é tudo o que eu realmente queria saber. Obrigado. Adeus.}
+{148}{}{San Fransisco é bastante ao sul daqui. Você está a um longo caminho a partir daí. Sul e jist a
+ Ao oeste. Está bem ao lado do oceano, não sei. Não sei por que qualquer pessoa sã quisesse
+ Para ir para lá.}
+{149}{}{Por quê? É perigoso?}
+{150}{}{Interessante. Permitam-me perguntar-lhe sobre outra coisa, no entanto.}
+{151}{}{Obrigado pela informação. Adeus.}
+{152}{}{Bem, eu ouço todos os tipos de coisas sobre a cidade inteira que está cheia de filhotes, mas seguidores loucos
+ De algum tipo de religião kooky.}
+{153}{}{Seguidores enlouquecidos?}
+{154}{}{Algumas coisas não mudaram tanto quanto outras. Obrigado. Adeus.}
+{155}{}{Sim. Está certo. Eu descobri que eles estão construindo algum dispositivo enorme que os deixará entrar em contato
+ Com seus deuses. Ou resumindo assim. Não sei muito com certeza. Está longe demais.}
+{156}{}{Parece que monumentos para deuses sempre parecem ter algum tipo de problema no coração deles. Contar
+ Eu sobre outra coisa.}
+{157}{}{Isso é tudo o que preciso saber por enquanto. Obrigado. Adeus.}
+{158}{}{Está certo. Ela está mal. Costumava ser uma coisa tão perty, também. Eu espero que você tenha cuidado
+ Deste rápido. É ruim para as empresas deixarem esses mineiros pensarem que podem fugir com algo assim.}
+{159}{}{Posso ver a garota?}
+{160}{}{Você sabe quem fez isso?}
+{161}{}{Sabe o que aconteceu?}
+{162}{}{Parece um problema, tudo bem. Permitam-me perguntar-lhe sobre outra coisa, no entanto.}
+{163}{}{Eu a mandei embora. Ela não iria mais ser bem nesse negócio. Não era que alguém tivesse
+ Quer estar com ela depois que esse bastardo terminou com ela. Eu dei-lhe um pouco de dinheiro e deixei-a ir.}
+{164}{}{Você sabe quem fez isso?}
+{165}{}{Sabe o que aconteceu?}
+{166}{}{Deixe-me perguntar-lhe outra coisa.}
+{167}{}{Eu vou resolver isso por você. Você pode contar comigo. Adeus.}
+{168}{}{Eu não sei exatamente o que fez, mas ela teve um Morningstar Mine pay scrip na mão quando nós
+ Encontrou-a, e foi um mineiro que estava com o último.}
+{169}{}{Posso ver a garota?}
+{170}{}{Sabe o que aconteceu?}
+{171}{}{Um Morningstar Mine pay scrip? O que é isso?}
+{172}{}{Deixe-me perguntar-lhe outra coisa.}
+{173}{}{Eu vou resolver isso por você. Você pode contar comigo. Adeus.}
+{174}{}{Bem, houve alguns gritos e continuando e então fui ao quarto. Quando cheguei lá, o
+ Bastardo, o que já havia desaparecido e minha menina estava mal. Então eu liguei para o doc e depois o
+ Xerife. Você sabe o resto.}
+{175}{}{Você sabe quem fez isso?}
+{176}{}{Posso ver a garota?}
+{177}{}{Deixe-me perguntar-lhe outra coisa.}
+{178}{}{Eu vou resolver isso por você. Você pode contar comigo. Adeus.}
+{179}{}{Na parte norte da cidade, Dan McGrew corre a mina da Morningstar. Normalmente, os mineiros recebem o pagamento
+ Conta ou com chutes de cada mina ... você sabe, scrip. Bem, minha garota foi encontrada com uma dessas
+ Pedaços de guiador na mão. Aqui está. Procure por si mesmo. (Ela lhe entrega o guião)}
+{180}{}{Oh, I see. Posso ver a garota?}
+{181}{}{Oh, I see. Sabe o que aconteceu?}
+{182}{}{Deixe-me perguntar-lhe outra coisa.}
+{183}{}{Eu vou resolver isso por você. Você pode contar comigo. Adeus.}
+{184}{}{Bem, tenho certeza de que alguém está trabalhando nisso. Este tipo de coisa é apenas ruim todo o caminho
+ por aí. Certamente, espero que você faça o bastardo pagar pelo que ele fez com minha garota. Certifique-se de que ele nunca fará
+ Isso para ninguém mais uma vez.}
+{185}{}{Bem, vou fazer o que posso. Permitam-me perguntar-lhe outra coisa, no entanto.}
+{186}{}{Verei o que posso fazer. Adeus.}
+{187}{}{O que posso fazer para você? Você quer uma cama vazia, uma cheia? Talvez algumas bebidas alcoólicas ou outros bens?}
+{188}{}{Gostaria de um quarto com uma cama vazia, Lou.}
+{189}{}{Uma cama cheia? Isso soa bem. Conte-me mais sobre isso.}
+{190}{}{Bebidas e outros produtos. Sim, esse é o bilhete. Vamos trocar.}
+{191}{}{Hmm, deixe-me perguntar-lhe sobre outra coisa.}
+{192}{}{Isso faz isso por você, ou havia algo mais que você queria comprar?}
+{193}{}{Parece que você está tendo um pequeno problema em sua mente. Isso, ou você quer olhar de novo?}
+{194}{}{Não. Tenho tudo o que preciso agora. Obrigado. Diga-me sobre outra coisa, no entanto.}
+{195}{}{Hmm, deixe-me dar uma olhada no seu estoque.}
+{196}{}{Obrigado, Lou. É por enquanto. Adeus.}
+{197}{}{Você quer dormir um pouco, hein? Bem, isso vai custar-lhe US $ 40. Inclui frescos, principalmente limpos
+ Folhas também. Você ainda está interessado?}
+{198}{}{Vou levá-lo, Lou.}
+{199}{}{Hmm, acho que não estou tão cansado. Deixe-me perguntar-lhe sobre outra coisa.}
+{200}{}{Não tenho dinheiro suficiente para isso agora. Permitam-me perguntar-lhe sobre algo, no entanto.}
+{201}{}{Você é um dos regulares de Fannie, não é? Por que você não fala com ela? Ela está de volta a algum lugar.}
+{202}{}{Ouço. Você é um jinx aqui. Depois do que aconteceu com Fannie Mae, nenhuma das minhas outras meninas tem muito
+ Interesse em estar com você ... e eu não digo como culpo-los.}
+{203}{}{Procurando alguém para ajudá-lo a aquecer aquela grande cama solitária, hein? Deixe-me ver quem eu tenho
+ acessível. Hmm, por que você não tenta Fannie Mae? Ela deveria estar aqui por perto. Você pode fazer o
+ Arranjos com ela você mesmo.}
+{204}{}{Parece uma boa ideia. Eu vou fazer isso. Adeus.}
+{205}{}{Mas eu não ... ok. Adeus.}
+{206}{}{Você e a Fannie já resolveram as coisas. Por que você não vai vê-la. Ela está bem na parte de trás
+ Em algum lugar.}
+{207}{}{Ouço. Você é um jinx aqui. Depois do que aconteceu com Fannie Mae, nenhuma das minhas outras meninas tem muito
+ Interesse em estar com você ... e eu não digo como culpo-los.}
+{208}{}{Nós temos apenas gals trabalhando aqui, sim. Se você está bem, um dólar é um dólar. Você pode tentar
+ Conversando com Fannie Mae. Ela está de volta a algum lugar aqui. Você pode fazer os arranjos com ela.}
+{209}{}{Parece uma boa ideia. Eu vou fazer isso. Adeus.}
+{210}{}{Mas eu não ... ok. Adeus.}
+{211}{}{Eu não acredito que você fosse burro o suficiente para dar a Fannie dinheiro suficiente de uma só vez para uma sobredosagem
+ ela mesma. Você é apenas um idjit, não é?}
+{212}{}{Eu não sabia. Honesto. Vamos, Lou ... Preciso lhe perguntar sobre algo.}
+{213}{}{O que ela fez com a vida dela era o seu próprio negócio. Adeus.}
+{214}{}{Eu dei-lhe o único lançamento desta existência de merda que ela poderia tomar. Você não é um santo
+ Você mesmo, Lou. Adeus.}
+{215}{}{Então você é o otário dando a minha Fannie todo esse dinheiro. Eu não faria isso se eu fosse você. Você é
+ Não a ajudando como você pensa que é.}
+{216}{}{O que você quer dizer?}
+{217}{}{Eu estou ajudando ela a começar uma nova vida.}
+{218}{}{Tanto faz. Vamos falar sobre outra coisa.}
+{219}{}{O que quero dizer é que a Fannie tem um problema e o dinheiro não é a resposta para isso. Eu odeio quebrar
+ Seu coração, mas Fannie está apenas te jogando por um otário. Ela só quer dinheiro para que ela possa comprar Jet.
+ Demasiado demais Jet.}
+{220}{}{Eu acho que você está preocupado com o fato de você perder um dos melhores ganhadores. Você só quer
+ Para manter suas meninas baixas.}
+{221}{}{Sim claro. Já ouvi o suficiente. Adeus.}
+{222}{}{Ajudá-la para a vida após a morte é o que seu dinheiro extra está fazendo. Ela está apenas usando esse dinheiro
+ Para comprar muito Jet. Ela irá O.D. Um desses dias, se você continuar dando seu dinheiro.}
+{223}{}{Hmm, eu vou ter que pensar sobre isso.}
+{224}{}{Eu pensarei sobre isso. Adeus.}
+{225}{}{Você pode pensar o que quiser. Eu só pensei que tentaria dizer-lhe o que a colher
+ Realmente é. Sua escolha se quer ouvir ou não.}
+{226}{}{Já ouvi tudo isso antes. Vamos para outros negócios.}
+{227}{}{Obrigada, pensarei sobre o que você me disse. Permitam-me perguntar-lhe sobre outra coisa, no entanto.}
+{228}{}{Eu vou ter que pensar sobre isso. Adeus.}

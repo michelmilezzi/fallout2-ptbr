@@ -1,0 +1,6 @@
+{100}{}{Não existe um mecanismo de bloqueio aparente na porta.}
+{101}{}{Não parece que os explosivos convencionais se abram
+ Estas portas.}
+{102}{}{Você vê portas de explosão robustas. Parecem se fundir no chão e
+ teto.}
+{103}{}{Você não vê nenhuma maneira de abrir a porta.}

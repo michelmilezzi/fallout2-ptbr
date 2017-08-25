@@ -1,0 +1,56 @@
+{100}{}{Você vê um cidadão com um macacão azul brilhante. Parece o terno do Habitante do Vault, mas lá
+ Não há número na parte de trás.}
+{101}{}{Você vê o submarino Officer Darrow.}
+{102}{}{Você vê um cidadão com um macacão azul brilhante. Parece o terno do Habitante do Vault, mas lá
+ Não há número na parte de trás.}
+{103}{}{:: aplausos ::}
+{104}{}{É o herói! Veja!}
+{105}{}{Minha palavra! É o herói, aqui, em Vault City!}
+{106}{}{Bom dia, capitão.}
+{107}{}{Vault City prevalece, capitão.}
+{108}{}{Bom dia, cidadão.}
+{109}{}{Vault City prevalece, Citizen.}
+{110}{}{Um mutante! Guardas! Guardas!}
+{111}{}{Um ghoul! Guardas! Guardas!}
+{112}{}{Precisa ver sobre encomendar mais algumas ferramentas da Redding.}
+{113}{}{Um pouco lento hoje.}
+{114}{}{Eu me pergunto se Randal já terminou essa lista de envio ainda.}
+{115}{}{Parece que acabei de dar uma lista de ações a Randal ontem.}
+{116}{}{Pelo menos, este trabalho supera o funcionamento do List Office.}
+{117}{}{Os servos continuam a usar a maioria das ferramentas. Eu queria que eles tomassem melhor cuidado com eles ...}
+{118}{}{Claro que poderia usar férias.}
+{119}{}{O Sub-Amenities Office está fechado para a noite ... volte pela manhã.}
+{120}{}{Agora estou fazendo um balanço. Volte quando abrimos de manhã.}
+{121}{}{Estamos fechados. Você pode tentar a loja geral lá fora, se você realmente precisa de alguma coisa.}
+{122}{}{Qualquer coisa com que eu possa ajudá-lo, capitão?}
+{123}{}{Qualquer coisa com o que eu possa ajudar, Citizen?}
+{124}{}{Me desculpe, posso ajudá-lo com algo?}
+{125}{}{Sumfin? Doodle doodle doooooo}
+{126}{}{Shamble off}
+{127}{}{O que é este lugar?}
+{128}{}{Posso ver o que você tem no estoque?}
+{129}{}{Nada hoje, obrigado.}
+{130}{}{Espere aqui por um momento, está bem? Vou trazer alguém para te mostrar.}
+{131}{}{NO ME NO GO}
+{132}{}{Okeee-dokeeee}
+{133}{}{Diga, apenas para que você saiba, há uma loja geral no pátio lá fora. Você pode querer tentar
+ Comprando lá ... Eu ouço sua seleção é quase tão boa quanto a nossa.}
+{134}{}{Uh, obrigado.}
+{135}{}{Vou comprar onde eu quero, entendeu?}
+{136}{}{Thanks for stopping by. Vault City prevalece, Citizen.}
+{137}{}{Thanks for stopping by. Vault City prevalece, capitão.}
+{138}{}{Vault City prevalece, Citizen.}
+{139}{}{Bom dia, cidadão.}
+{140}{}{Escritório de Sub-Amenidades A. Sou responsável pelas necessidades gerais de fornecimento, como ferramentas e equipamentos de reparo.
+ O nome é Darrow ... Sub-Amenities Officer Darrow. Veja o que você precisa?}
+{141}{}{Este é o Sub-Amenities Office A ... manipulamos ferramentas e equipamentos de reparação para a cidade. Tem certeza que
+ Este era o lugar que procurava?}
+{142}{}{Posso ver o que você tem no estoque?}
+{143}{}{Yes, this is the place. Posso ver o que você tem no estoque?}
+{144}{}{Nada hoje, obrigado.}
+{145}{}{Acho que não. Adeus.}
+{146}{}{Ei! Fique longe de lá!}
+{147}{}{É isso aí! Você está fora daqui!}
+
+{148}{}{Obrigado.}
+{149}{}{[continuar]}

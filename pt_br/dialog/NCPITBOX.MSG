@@ -1,0 +1,226 @@
+# 0. QUICK LOOK (WTG)
+{100}{}{Você vê o chefe do poço do cassino.}
+
+# 0. LOOK (WTG)
+{150}{}{Você vê um homem bem vestido. Ele está pesquisando o cassino.}
+{000}{}{Você vê um chefe de poço. Ele está pesquisando o cassino.}
+{000}{}{Ele está pesquisando o cassino.}
+
+# 1. FLOAT DIALOGUE: POWER ARMOR (WTG)
+{200}{}{Uh ... você precisará remover essa armadura.}
+{000}{}{Uh, senhor ... ou senhora ... você precisará remover essa armadura.}
+{000}{}{Senhor ... senhora ... você não pode usar isso no cassino.}
+
+# 2. FLOAT DIALOGUE: MALE, MADE MAN, SAME CASINO, SNEAK (WTG)
+{210}{}{Uh, por que você está se esgueirando, senhor?}
+{000}{}{Uh, você está disfarçado, senhor?}
+
+# 3. FLOAT DIALOGUE: FEMALE, MADE MAN, SAME CASINO, SNEAK (WTG)
+{220}{}{Uh, por que você está se esgueirando, senhora?}
+{000}{}{Uh, você está embutido, senhora?}
+
+# 4. FLOAT DIALOGUE: MALE, MADE MAN, SAME CASINO, NIGHT (WTG)
+{230}{}{Boa noite, [MM], senhor.}
+{000}{}{Noite, [MM], senhor.}
+
+# 5. FLOAT DIALOGUE: FEMALE, MADE MAN, SAME CASINO, NIGHT (WTG)
+{240}{}{Boa noite, [MM], senhora.}
+{000}{}{Noite, [MM], senhora.}
+
+# 6. FLOAT DIALOGUE: MALE, MADE MAN, SAME CASINO (WTG)
+{250}{}{Bom dia, [MM], senhor.}
+
+# 7. FLOAT DIALOGUE: FEMALE, MADE MAN, SAME CASINO (WTG)
+{260}{}{Bom dia, [MM], senhora.}
+
+# 8. FLOAT DIALOGUE: MALE, MADE MAN, NOT SAME CASINO (WTG)
+{270}{}{Amigo, você está entrando no casino errado.}
+{000}{}{É melhor você sair. Agora.}
+{000}{}{Este não é o lugar para jogar com sua vida. É melhor você sair.}
+{000}{}{Cadela, você está entrando no cassino errado.}
+
+# 10. FLOAT DIALOGUE: MALE, PRIZEFIGHTER/PORN STAR (ARMED) (WTG)
+{280}{}{Senhor, desculpe, você terá que proteger essa arma.}
+
+# 11. FLOAT DIALOGUE: FEMALE, PRIZEFIGHTER (ARMED) (WTG)
+{290}{}{Senhor, desculpe, você terá que proteger essa arma.}
+
+# 12. FLOAT DIALOGUE: PORN STAR, FEMALE (ARMED) (WTG)
+{300}{}{Querida, desculpe, não pode levar armas ao cassino. [Sorrisos.] Você é bastante mortal como está.}
+
+# 13. FLOAT DIALOGUE: PORN STAR, FEMALE (SNEAK) (WTG)
+{310}{}{Querida, com um corpo como esse, você não poderá se esgueirar em qualquer lugar.}
+
+# 14. FLOAT DIALOGUE: MALE, NO REP (ARMED) (WTG)
+{320}{}{Tribal, é melhor proteger essa arma bem * agora. *}
+
+# 15. FLOAT DIALOGUE: MALE, NO REP (SNEAK) (WTG)
+{330}{}{Tribal, é melhor você parar de se esgueirar por cima da merda * agora. *}
+
+# 16. MYRON, MORDINO (WTG)
+{340}{}{[Para Myron] Ei, ei ... Myron! Não foi visto fora do laboratório há muito tempo.}
+{000}{}{[Para Myron] Você está aqui para provar algumas das novas mercadorias, Myron?}
+{000}{}{[Para Myron] Ei! Entre, Myron.}
+
+# 17. MARCUS (WTG)
+{350}{}{[Nods at Marcus.] Não há mutantes. Ele espera lá fora.}
+{000}{}{[Nods at Marcus.] Eu não me importo se seu amigo um dos Ex-Men, os mutantes esperam lá fora.}
+{000}{}{[Glares at Marcus.] Essa aberração mutante não é permitida aqui.}
+
+# 18. ROBOBRAIN (WTG)
+{360}{}{Sem droides.}
+{000}{}{Nós não servimos droids.}
+{000}{}{Sem droides. They wait outside.}
+
+# 19. FLOAT DIALOGUE: FLAG: ENCLAVE DESTROYED IS TRUE  (WTG)
+{370}{}{Eu não estou interessado em conversar enquanto estava de plantão, mas estou feliz que você tenha chutado o traseiro do Enclave.}
+{000}{}{Ei, [X]. Descanse de salvar o mundo e se divertir.}
+
+# 20. FLOAT DIALOGUE: DAY (WTG)
+{380}{}{Precisa de mais fichas na tabela três ...}
+{000}{}{Boa multidão hoje ...}
+
+# 21. FLOAT DIALOGUE: NIGHT (WTG)
+{390}{}{Precisa de mais fichas na tabela três ...}
+{000}{}{Boa noite esta noite ...}
+
+# 22. INTRO (WTG)
+{400}{}{Ei, [X]! Ouviu aquele que chutou o Enclave de volta à era da pedra! [Torna-se formal.] Eu fui instruído a dar-lhe algumas fichas, cortesia do cassino. Divirta-se, senhor.}
+{000}{}{Ei, [X]! Ouviu aquele que chutou o Enclave de volta à era da pedra! [Torna-se formal.] Eu fui instruído a dar-lhe algumas fichas, cortesia do cassino. Divirta-se, senhora. [Winks.]}
+{000}{}{Ei, [X]. [Sorrisos.] O que há, chefe? Algo que eu posso fazer por você? Pegue uma bebida, leve uma garçonete?}
+{000}{}{Ei, [X]. [Smiles.] A menina mais bonita do cassino. Algo que posso fazer por você, senhora? Obter uma bebida? Uma mesa privada?}
+{000}{}{[O chefe do poço não tira os olhos do chão do cassino.] O que posso fazer por você, amigo?}
+{000}{}{[O chefe do poço não tira os olhos do chão do cassino.] O que posso fazer por você?}
+{000}{}{Fooooooo foo foo fooooo}
+{000}{}{Vagueie [deixe.]}
+{000}{}{Quem é Você?}
+{000}{}{Qual casino é esse?}
+{000}{}{Você pode me contar um pouco sobre o cassino?}
+{000}{}{Você conhece alguém chamado Pretty Boy Lloyd?}
+{000}{}{Quem é aquele velho na slot machine?}
+{000}{}{Esse quadrinho que você conseguiu no palco é fraco. Atenção, se eu tentar?}
+{000}{}{Obrigado. Você precisa de um dançarino durante a noite? Estou aberto para um compromisso limitado.}
+{000}{}{Obrigado, eu vou. [Sair.]}
+{000}{}{Nada, obrigado. Desculpe incomodá-lo. [Sair.]}
+{000}{}{Apenas verificando as coisas. Continue. [Sair.]}
+
+# 23. PORN STAR (WTG)
+{420}{}{Ei, olha quem está aqui! Ei, [PS]. [Sorrisos.] Bem-vindo ao [CN]. Ame seus filmes.}
+{000}{}{Fooooooo foo foo fooooo}
+{000}{}{Vagueie [deixe.]}
+{000}{}{Quem é Você?}
+{000}{}{Qual casino é esse?}
+{000}{}{Você pode me contar um pouco sobre o cassino?}
+{000}{}{Você conhece alguém chamado Pretty Boy Lloyd?}
+{000}{}{Quem é aquele velho na slot machine?}
+{000}{}{Obrigado. Você precisa de um dançarino durante a noite? Estou aberto para um compromisso limitado.}
+{000}{}{Obrigada, estou lisonjeada. Acabei de sair para dizer olá. [Sair.]}
+
+# 24. I HAD SOME QUESTIONS (31, 32, 33, 34, 35, 36, 37, 38)
+{440}{}{Atire. O que você quer saber?}
+{000}{}{Fooooooo foo foo fooooo}
+{000}{}{Vagueie [deixe.]}
+{000}{}{Quem é Você?}
+{000}{}{Qual casino é esse?}
+{000}{}{Você pode me contar um pouco sobre o cassino?}
+{000}{}{Você conhece alguém chamado Pretty Boy Lloyd?}
+{000}{}{Quem é aquele velho na slot machine?}
+{000}{}{Esse quadrinho que você conseguiu no palco é fraco. Atenção, se eu tentar?}
+{000}{}{Obrigado. Você precisa de um dançarino durante a noite? Estou aberto para um compromisso limitado.}
+{000}{}{Nada, obrigado. Desculpe incomodá-lo. [Sair.]}
+{000}{}{Apenas verificando as coisas. Continue. [Sair.]}
+
+# 25.  RETARD (22, 23, 24)
+{460}{}{Uh, é melhor você correr agora, senhor.}
+{000}{}{Uh, é melhor você correr agora, senhora.}
+{000}{}{[Sneers.] Saia daqui, retardue.}
+{000}{}{Mamãe diz que eu era speshal}
+{000}{}{Vagueie [deixe.]}
+
+# 26.  MOM SAYS I WAS SPESHAL (25)
+{470}{}{Sim, sua mãe disse que eu também era especial. Agora faça uma caminhada ... talvez ela esteja pela rua Virgin em algum lugar.}
+{000}{}{Oh, bom! Tchau [Deixar.]}
+{000}{}{Vagueie [deixe.]}
+
+# 27.  WHO ARE YOU? (22, 23, 24, 29, 30, 31)
+{480}{}{Eu sou o chefe do poço. [Parece um pouco irritado.] Agora, o que posso fazer por você?}
+{000}{}{Corro o chão do cassino aqui. Você precisa de algo, apenas pergunte.}
+{000}{}{Qual casino é esse?}
+{000}{}{Você pode me contar um pouco sobre o cassino?}
+{000}{}{Nada, obrigado. Desculpe incomodá-lo.}
+
+# 28.  WHAT CASINO IS THIS? (22, 23, 24, 27)
+{490}{}{Isto é [CN]. Precisa de algo, basta perguntar.}
+{000}{}{Isto é [CN]. Pelo menos, a última vez que chequei o sinal da porta. [Frowns.] Agora, o que posso fazer por você?}
+{000}{}{Quem é Você?}
+{000}{}{Você pode me contar um pouco sobre o cassino?}
+{000}{}{Nada, obrigado. Desculpe incomodá-lo.}
+
+# 29.  WHAT CAN YOU TELL ME ABOUT THIS CASINO? (22, 23, 24, 27, 28, 30)
+{500}{}{Melhor maldito cassino da cidade ... mas estou um pouco tendencioso. [Risos.] Mais alguma coisa que você queira saber?}
+{000}{}{Melhor maldito cassino da cidade, melhores malditas mesas ... agora, por que você não corre agora, confira-os? Tudo certo?}
+{000}{}{Quem é Você?}
+{000}{}{Quem é dono deste cassino?}
+{000}{}{Ok, obrigado. Desculpe incomodá-lo. [Sair.]}
+
+# 30.  WHO OWNS THIS CASINO? (29)
+{510}{}{A família [CA]. Eles atraíram muita vida para este lugar, tornaram-no um verdadeiro lugar noturno, uma jóia brilhante em New Reno.}
+{000}{}{A Família [CA]. [Olha para você.] Que um problema? Porque se você não está aqui para apostar, então este não é o lugar para você. Compreendo?}
+{000}{}{Quem é Você?}
+{000}{}{Você pode me contar um pouco sobre o cassino?}
+{000}{}{Entendo. Obrigado pelo seu tempo. [Sair.]}
+
+# 31.  McGEE (22, 23, 24)
+{520}{}{Aquele cara? Old Man McGee? Crazy sumabitch ... ele tem jogado aquela máquina lá nos últimos anos, esperando o grande jackpot. Sua fortuna de vida deve estar sentada nessa coisa, mas não lhe dará um único chip.}
+{000}{}{Aquele cara? Old Man McGee? Crazy sumabitch, com certeza. Heh. Claro que estava chateado com você ganhando sua fortuna. Eu teria cuidado com ele.}
+{000}{}{A maquinaria é manipulada?}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Obrigado pela informação. [Sair.]}
+
+# 32.  IS THE MACHINE RIGGED? (31)
+{530}{}{[Agita a cabeça.] Não, é apenas teimoso ... apenas como ele. [Shrugs.] Provavelmente poderia usar um pequeno trabalho de reparo, mas não temos mecanismos de fenda que possam consertar essa maldita coisa.}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Interesting. Obrigado pela informação. [Sair.]}
+
+# 33.  PRETTY BOY LLOYD? (22, 23, 24)
+{540}{}{Sim, aquele filho da puta veio aqui há cerca de uma semana, arrancou uma mesa de cerca de mil fichas e depois se salvou. Não sei onde ele está agora, mas ele costumava ter um quarto no Desperado.}
+{000}{}{Sim, algum cara desse nome estava alinhando um dos quartos no andar de cima ... 204. Ele foi pago, mas resgatou alguns dias atrás e ninguém o viu sair.}
+{000}{}{O Sr. Salvatore mencionou que havia um revendedor específico que Lloyd ganhou o dinheiro. Quem era aquele?}
+{000}{}{Tive algumas outras questões ...}
+{000}{}{Obrigado pela informação. [Sair.]}
+
+# 34.  NIKKI? (33)
+{550}{}{Nikki? [Escaneia o chão.] Sim, ela está lá, na mesa do meio. Existe algum tipo de problema?}
+{000}{}{No problem. Just wanted to meet her. Tive algumas outras questões ...}
+{000}{}{Obrigado pela informação. [Sair.]}
+
+# 35.  NIKKI DEAD (33)
+{560}{}{Seu nome * era * Nikki. Ela costumava trabalhar aqui, mas ela conseguiu ... não há muito tempo atrás.}
+{000}{}{Hmmm. Você se importa se eu fizer algumas outras perguntas ...?}
+{000}{}{Interesting. Obrigado pela informação. [Sair.]}
+
+# 36.  NIKKI RAN (33)
+{570}{}{O nome dela era Nikki. Ela costumava trabalhar aqui, mas ela não demorou muito tempo atrás. Apenas empacotou sua merda e resgatou.}
+{000}{}{Você se importa se eu fizer algumas outras perguntas ...}
+{000}{}{Interesting. Obrigado pela informação. [Sair.]}
+
+# 37.  NEED A DANCER (22, 23, 24)
+{580}{}{Claro, seja bom para os negócios. Sala de vestir nas costas ...}
+{000}{}{[Executar.]}
+{000}{}{Not right now. Tive algumas outras questões ...}
+{000}{}{Não agora, mas voltarei. [Sair.]}
+
+# 38.  NEED A DANCER (22, 23, 24)
+{590}{}{[Agita a cabeça.] Não, ainda estamos nos recuperando do seu último show. Você pode querer verificar alguns dos outros casinos.}
+{000}{}{All right, thanks. Say, Tive algumas outras questões ...}
+{000}{}{Ok ... embora eu * volte. [Sair.]}
+
+# 39.  PERFORM (37)
+{600}{}{Você conta o recorde da noite. [C] = chips. Não é um mau lance.}
+{000}{}{O couro era um toque agradável.}
+{000}{}{A bola que você teve com você também não doeu.}
+{000}{}{[Feito.]}
+
+# 40.  PERFORM (22, 24)
+{610}{}{Sim, ele fica pior do que a merda brahmin. Ainda você…? [Olha para cima e para baixo com cético.] Ah, por que diabos não. Um pouco de improvisação não vai doer, mas é uma multidão áspera ... é melhor esperar que você esteja bem.}
+{000}{}{Oh, eu estou bem ... apenas me observe.}

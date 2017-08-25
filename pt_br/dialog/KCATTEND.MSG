@@ -1,0 +1,65 @@
+{100}{}{Você vê uma jovem atraente.}
+{101}{}{Você vê um assistente de banho.}
+{102}{}{Você vê uma das garotas de Big Nose Sally.}
+{103}{}{Você vê uma mulher boreada.}
+{104}{}{Você vê uma mulher te verificar.}
+{105}{}{Você está sendo mentalmente despido por essa mulher.}
+{106}{}{Você vê uma jovem mulher.}
+
+{110}{}{Aquilo foi rápido.}
+{111}{}{Já faz muito tempo, querido?}
+{112}{}{Talvez dure mais a próxima vez.}
+{113}{}{Não é uma corrida, você sabe.}
+{114}{}{Os seus amigos o chamam de "Speedy"?}
+{115}{}{Se todos os meus clientes fossem tão rápidos, eu poderia ir para casa cedo.}
+{116}{}{É mais divertido se você esperar até que eu ajude você.}
+{117}{}{Se você esperou até me despir, eu aposto que você gostaria mais.}
+
+{120}{}{Isso foi muito legal. Você é um homem de verdade, tudo bem.}
+{121}{}{Isso foi especial. Você é maravilhoso. Próximo!}
+{122}{}{Oh, sim, querida, nunca teve isso assim antes. (bocejar)}
+{123}{}{Você é o melhor. Volte logo.}
+{124}{}{Tenho certeza de que você vai fazer uma galera tribal muito feliz.}
+{125}{}{Não, querida, o tamanho não importa. Aquilo foi legal.}
+{126}{}{Você não é apenas um pedaço de amor?}
+{127}{}{Que fãzinho fofo você chegou lá.}
+
+{130}{}{Tamanho importa! Doce mistério da vida ...}
+{131}{}{Estou colocando para horas extras na próxima vez que você virar.}
+{132}{}{Você certamente ganha o seu dinheiro.}
+{133}{}{Estou levando o resto do dia de folga.}
+{134}{}{Uau! A terra também se moveu para você?}
+{135}{}{Agora eu sei o que Catherine o Grande sentiu.}
+
+{140}{}{Bem, um dólar é um dólar, acho.}
+{141}{}{Isso foi, uh diferente, acho.}
+{142}{}{Isso foi muito especial. Próximo!}
+{143}{}{Não, você não pode usar meu perfume.}
+{144}{}{Bem, pelo menos seu bigode é menor do que a maioria dos meus clientes.}
+{145}{}{Você tem certeza que você é galão?}
+
+{150}{}{Isso foi meio legal.}
+{151}{}{Isso era diferente, mas não um mal diferente.}
+{152}{}{Acho que gostaria de tentar isso novamente em algum momento.}
+{153}{}{Devemos fazer isso fora do horário em algum momento.}
+{154}{}{Isso foi doce, açúcar.}
+{155}{}{Uau! Minha vida vai ser muito diferente daqui em diante.}
+{156}{}{Eu não sabia que poderia ser assim.}
+
+{160}{}{Você deve falar com Big Nose Sally.}
+{161}{}{Você não é um namorado?}
+{162}{}{Te amo muito tempo!}
+{163}{}{Venha me ver algum dia.}
+{164}{}{Você sabe assobiar, doncha?}
+{165}{}{Eu costumava ser puro como a neve, mas então eu me afundei.}
+{166}{}{(Wolf whistles)}
+{167}{}{Olá, tigre.}
+{168}{}{Ei, baaaaaby ...}
+{169}{}{Vá falar com Sally se quiser alguma ação.}
+{170}{}{Scrub a-dub-dub ...}
+{171}{}{Parece que você poderia usar uma lavagem.}
+{172}{}{Oh, um tribal; Eu simplesmente amo as exóticas.}
+{173}{}{Eu normalmente não faço tribais.}
+{174}{}{Como o que você vê, querida?}
+{175}{}{Você me quer?}
+{176}{}{Tenho que pagar para jogar, açúcar.}

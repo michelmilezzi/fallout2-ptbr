@@ -1,0 +1,8 @@
+{100}{}{Você vê uma mulher cansada.}
+{101}{}{Você vê a Sra. Smith.}
+{102}{}{Você vai querer conversar com meu marido.}
+{103}{}{Eu e meu marido agradecemos.}
+{104}{}{Obrigado ... meu marido tem algo para você, para seus problemas.}
+{105}{}{Nós vamos precisar de esse arado em breve ...}
+{106}{}{Afaste-se daqui antes de chamar os guardas!}
+{107}{}{Você parece um tipo bastante bom. Você poderia nos ajudar com um problema?}

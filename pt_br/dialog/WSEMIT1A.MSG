@@ -1,0 +1,14 @@
+{100}{}{Você não pode ver nenhuma maneira de usar o emissor.}
+{101}{}{Você não pode ver nenhuma maneira de usar o campo de força.}
+{102}{}{Você está chocado com o campo de força enfraquecido.}
+{103}{}{ fica chocado com o campo de força enfraquecido.}
+{107}{}{Você está chocado com o campo de força.}
+{108}{}{ fica chocado com o campo de força.}
+{109}{}{Você não consegue abaixar o campo de força.}
+{110}{}{ não consegue baixar o campo de força.}
+{111}{}{Você ouve sobre o alto-falante: Atenção! Intruder Alert! Ativar sistemas de segurança.}
+{112}{}{Você desabilita o campo de força.}
+{113}{}{ desativa o campo de força.}
+{114}{}{Você habilita o campo de força.}
+{115}{}{ habilita o campo de força.}
+{116}{}{Você destrui o emissor de campo de força.}

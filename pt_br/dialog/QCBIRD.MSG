@@ -1,0 +1,97 @@
+{100}{}{Você vê um pequeno homem com aparência nervosa.}
+{101}{}{Você vê o vice-presidente Bird.}
+{102}{}{Você vê um pequeno homem com aparência nervosa, vestindo um terno manchado de comida.}
+{103}{}{Aqui estão alguns dos nossos galantes soldados. O que você está fazendo no escritório do vice-presidente?}
+{104}{}{Olá, soldado. O que você está fazendo no escritório do vice-presidente?}
+{105}{}{Você parece familiar. Já falei com você antes? Bem, não importa. O que você está fazendo no escritório do vice-presidente?}
+{106}{}{O quê?}
+{107}{}{Uh, estou apenas numa patrulha de rotina, senhor, senhor.}
+{108}{}{Estou procurando por intrusos.}
+{109}{}{Só estou aqui para verificar os nossos planos secretos.}
+{110}{}{Estou aqui para te matar.}
+{111}{}{Continue então, soldado. Continue. Vocês estão fazendo um ótimo serviço. Estamos prontos para qualquer evento imprevisto que possa ou não ocorrer.}
+{112}{}{Hã?}
+{113}{}{Uh, sim. Bem, é melhor eu completar minha patrulha. Adeus.}
+{114}{}{Hmm, me diga, como você soletra a batata? Com um 'E' ou sem?}
+{115}{}{Hmm, me diga, como você soletra sutil? Com um 'B' ou sem?}
+{116}{}{Hmm, diga-me, como você soletra Califórnia? Com um 'K' ou sem?}
+{117}{}{Hmm, me diga, como você soletra tomate? Com um 'E' ou sem?}
+{118}{}{Hmm, me diga, como você soletra psicópata? Com um 'P' 'ou sem?}
+{119}{}{Uh, com.}
+{120}{}{Sem, é claro.}
+{121}{}{Claro que sim, claro. Qualquer cidadão leal desses grandes Estados Unidos faria o mesmo.}
+{122}{}{Por que é que?}
+{123}{}{Tenho trabalho a fazer. Adeus.}
+{124}{}{Continue, soldado. O futuro será melhor amanhã.}
+{125}{}{O que você quer dizer com isso?}
+{126}{}{Não é para você, não. Estou exterminando todas as limas pomposas no Enclave e você é o próximo.}
+{127}{}{Uh, sim. Tanto faz. Adeus.}
+{128}{}{Temos que trabalhar juntos, porque se não tivermos sucesso, corremos o risco de falhar.}
+{129}{}{Talvez o seu fracasso não seja tão ruim assim.}
+{130}{}{Bem, é melhor eu ir agora.}
+{131}{}{Você não vai sair com isso.}
+{132}{}{Vamos ver sobre isso.}
+{133}{}{Por que não?}
+{134}{}{Uma palavra resume provavelmente a responsabilidade de qualquer vice-presidente, e essa palavra é "estar preparado".}
+{135}{}{Apenas o que você está preparado?}
+{136}{}{Não são essas três palavras? "Preparação" é uma palavra. Não é isso que você quis dizer?}
+{137}{}{Talvez seja o melhor. Mantenha-o breve. Afinal, a verbosidade leva a coisas pouco claras e inarticuladas.}
+{138}{}{Imagine isso.}
+{139}{}{Preciso sair agora. Adeus.}
+{140}{}{Quero dizer, não queremos voltar para o futuro, queremos avançar.}
+{141}{}{Não é esse o único caminho a seguir?}
+{142}{}{Bem, você não pode ter muito cuidado, afinal, as pessoas que são realmente muito estranhas podem entrar em posições sensíveis e ter um tremendo impacto na história.}
+{143}{}{Sim eu posso ver isso.}
+{144}{}{Qual o impacto que você planeja ter no histórico?}
+{145}{}{Sim, eu gosto dessa direção. Eu fiz bons julgamentos no passado. Eu fiz bons julgamentos no futuro. Então, por todos os meios, vamos naquela direção.}
+{146}{}{Uh, sim.}
+{147}{}{Eu acredito que estamos em uma tendência irreversível em direção a mais liberdade e democracia - mas isso pode mudar.}
+{148}{}{O ambiente poluído dos Resíduos poderia usar uma pequena liberdade para uma mudança.}
+{149}{}{Não posso aguentar mais. Você acabou de ser morto.}
+{150}{}{Não seja bobo. Não é a poluição que prejudica o meio ambiente. São as impurezas em nosso ar e água que estão fazendo isso.}
+{151}{}{Eu realmente tenho que ir.}
+{152}{}{Você não seria tão desprezível sobre isso se estivesse no continente.}
+{153}{}{Bem, isso é exatamente o que é. O Enclave é uma ilha artificial, cercada de água.}
+{154}{}{Você acha que está imune ao que acontece aqui. Você está preso no mesmo planeta com o resto de nós.}
+{155}{}{Você esqueceu de adicionar algo a essa afirmação? Como um ponto.}
+{156}{}{Eu sou o vice-presidente Daniel Bird. Muito prazer em conhecê-lo.}
+{157}{}{Você é apenas mais uma parte de todo o problema aqui.}
+{158}{}{Você é um maluco.}
+{159}{}{Não sou parte do problema. Eu sou republicano.}
+{160}{}{Como eu disse, parte do problema.}
+{161}{}{Ah, eu vejo. Bem, como você pode saber, pensei que era hora de a raça humana entrar no sistema solar.}
+{162}{}{Não estamos todos prontos no ...? Uh, para ir * onde *?}
+{163}{}{Como nós faríamos aquilo?}
+{164}{}{Eu acho que talvez Marte seja bom porque Marte está essencialmente na mesma órbita ... Marte é um pouco a mesma distância do Sol, o que é muito importante. Nós vimos imagens onde há canais, nós acreditamos, e água. Se houver água, isso significa que há oxigênio. Se o oxigênio, isso significa que podemos respirar.}
+{165}{}{Eu não esperava tal, uh, * complete * resposta.}
+{166}{}{Você perdeu a cabeça.}
+{167}{}{Que desperdício é perder a mente. Ou não ter uma mente está sendo muito desperdício. Quão verdade é isso.}
+{168}{}{Eu diria que é * geralmente * um desperdício. Mas, no seu caso, estou disposto a fazer uma exceção.}
+{169}{}{O que diabos você acabou de dizer?}
+{170}{}{É isso aí. Experimentei bastante tempo. Adeus.}
+{171}{}{Para a NASA, o espaço ainda é uma alta prioridade.}
+{172}{}{Eu vejo, e onde nós iremos então?}
+{173}{}{Isso não é verdade, os republicanos entendem a importância da escravidão entre mãe e filho. Essa é a chave para a solução de todos os nossos problemas - precisamos de um retorno aos valores familiares.}
+{174}{}{O que você e o Enclave estão fazendo não tem nada a ver com valores familiares.}
+{175}{}{Estou de acordo com todas as distorções que eu fiz.}
+{176}{}{Você não entende, você criará outro holocausto se você continuar.}
+{177}{}{Você é bastante louco. Você percebe que você não?}
+{178}{}{O Holocausto foi um período obsceno na história da nossa nação. Quero dizer, na história deste século. Mas todos nós vivemos neste século. Não vivi neste século.}
+{179}{}{Você é um mentiroso.}
+{180}{}{Alguém tem que te expulsar da minha miséria. Diga suas orações, Bird.}
+{181}{}{Tenho que sair daqui.}
+{182}{}{BATATA-E}
+{183}{}{BATATA}
+{184}{}{TOMATE-E}
+{185}{}{TOMATE}
+{186}{}{Onde foram os meus dois galões de sorvete de morango?}
+{187}{}{O Caine é o meu navio. Meu, você está aqui?}
+{188}{}{Você está todo contra mim, não é? Você não é?}
+{189}{}{Rápido o mais rápido pode ser, eles não vão me pegar.}
+{190}{}{Bonito, bonito.}
+{191}{}{Brilhante.}
+{192}{}{Não, mamãe, não fiz isso. Não me acerte novamente!}
+{193}{}{Mãe! Onde você está mãe?}
+{194}{}{Eu não quero ser o paciente desta vez.}
+{195}{}{Não, não as agulhas, tudo menos as agulhas.}
+{196}{}{Não, não, uh-uh, não. Nao!}

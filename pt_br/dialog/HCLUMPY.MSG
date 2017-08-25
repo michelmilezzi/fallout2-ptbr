@@ -1,0 +1,47 @@
+{100}{}{Você vê um ghoul. Ele está atualmente deitado debaixo do seu pára-choque dianteiro.}
+{101}{}{Você vê Lumpy. Você espera que ele esteja bem.}
+{102}{}{Você vê um ghoul que parece estar com uma dor considerável. Talvez se suas habilidades de condução fossem
+ melhor você poderia ter evitado isso.}
+{103}{}{Oooooh! As picadas!}
+{104}{}{Ouch! Meu sacroilíaco!}
+{105}{}{Alguém já viu minha vesícula?}
+{106}{}{Minha espinha! Minha espinha!}
+{107}{}{Eu vou encontrar-te com Elizabeth!}
+{108}{}{Médico...}
+{109}{}{Alguém poderia me ajudar? Não consigo ler o número da placa.}
+{110}{}{Ei amigo!}
+{111}{}{Ei moça!}
+{112}{}{O nome é Lumpy. Você poderia me ajudar aqui por um segundo?}
+{113}{}{Ouchie. Está bem, Lumpy?}
+{114}{}{Meu Deus! Você está bem, Lumpy?}
+{115}{}{Oops ...}
+{116}{}{Oh, apenas peachy. Além de várias fraturas compostas e um ornamento de capim hospedado vários pés acima da minha bunda, eu estou bem como a chuva.}
+{117}{}{Ohhh. Preciso de ajuda?}
+{118}{}{Goodie. Tchau tchau.}
+{119}{}{Tudo bem, apenas relaxe. Você precisa de mim para ajudá-lo?}
+{120}{}{Graças a Deus. Eu pensei que você poderia estar com problemas. Bem, vejo você mais tarde.}
+{121}{}{[Lumpy silenciosamente olha você nos olhos. Ele pisca. Ele pisca de novo.]}
+{122}{}{Uhhh ... dumm quesjin. Sim?}
+{123}{}{Vou tomar isso como um sim.}
+{124}{}{Você está bem, sim! Eu mal posso mover-me! Agora, lembre-se, eu não estou chorando. Eu tive pior raspagem.
+ Por que isso não é nada comparado a esse mistério há anos atrás, com o caminhão da Cola no sul, de maneiras. Yaa deveria
+ visto, criança! Caps em todos os lugares!}
+{125}{}{Aaahhh. Funnee!}
+{126}{}{Uau! Imagine alguém atravessando isso no deserto! Eles teriam sido ricos!}
+{127}{}{Pode apostar. Arrgh! Oww! Eu odeio colocar um amortecedor nesta conversa cintilante, mas se você pudesse me ajudar de
+ sob este amortecedor, eu apreciaria isso.}
+{128}{}{Você tem certeza?}
+{129}{}{Você tem certeza? Você provavelmente não deveria se mudar.}
+{130}{}{Ahh, não se preocupe com isso. Tudo vai aparecer novamente no lugar.}
+{131}{}{ESTÁ BEM. Get Reddee!}
+{132}{}{Tudo certo. Prepare-se!}
+{133}{}{Sim, uops! Onde diabos você aprendeu a dirigir?}
+{134}{}{Eu mesmo.}
+{135}{}{Bem, eu sou autodidata na verdade.}
+{136}{}{Isto mostra. Acredite em mim.}
+{137}{}{Oh. U OK?}
+{138}{}{Oh ... bem, eu ... hmmmm. São ... você está bem?}
+{139}{}{Eu disse a eles. "Precisamos de sinais de trânsito", falei. Mas eles ouviram? Noooo ... não vamos ouvir o Ol 'Lumpy!}
+
+# Player float
+{200}{}{Oh droga!}

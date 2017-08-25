@@ -1,0 +1,41 @@
+#
+#   Messages from trait.c
+#
+#
+#   TRAIT NAMES
+#
+{100}{}{Metabolismo acelerado}
+{101}{}{Bruiser}
+{102}{}{Pequeno quadro}
+{103}{}{One Hander}
+{104}{}{Finesse}
+{105}{}{Kamikaze}
+{106}{}{Heavy Handed}
+{107}{}{Tiro rápido}
+{108}{}{Confusão sangrenta}
+{109}{}{Jinxed}
+{110}{}{Boa Natureza}
+{111}{}{Chem Reliant}
+{112}{}{Chem Resistant}
+{113}{}{Recurso de sexo}  # was: Night Person
+{114}{}{Especializado}
+{115}{}{Dotado}
+#
+#   TRAIT DESCRIPTIONS
+#
+{200}{}{Sua taxa metabólica é duas vezes normal. Isso significa que você é muito menos resistente à radiação e ao veneno, mas seu corpo cura mais rápido.}
+{201}{}{Um pouco mais lento, mas um pouco maior. Você pode não bater com tanta frequência, mas eles vão sentir isso quando você fizer isso! Seus pontos de ação totais são baixados, mas sua Força é aumentada.}
+{202}{}{Você não é tão grande quanto os outros aldeões, mas isso nunca diminuiu sua velocidade. Você não pode carregar tanto, mas você é mais ágil.}
+{203}{}{Uma das suas mãos é muito dominante. Você se destaca com armas de mão única, mas as armas de duas mãos causam um problema.}
+{204}{}{Seus ataques mostram muita delicadeza. Você não faz tanto dano, mas você causa mais golpes críticos.}
+{205}{}{Ao não prestar atenção a qualquer ameaça, você pode agir muito mais rápido em uma volta. Isso diminui sua classe de armadura exatamente para o que você está vestindo, mas você seqüestra muito mais rápido em uma volta de combate.}
+{206}{}{Você se esforça mais, não é melhor. Seus ataques são muito brutais, mas não têm delicadeza. Você raramente causa uma boa crítica, mas você sempre faz mais dano corpo a corpo.}
+{207}{}{Você não tem tempo para apontar para um ataque direcionado, porque você ataca mais rápido do que as pessoas normais. Custa-lhe um ponto de ação menos para armas e armas jogadas.}
+{208}{}{Por um estranho toque de destino, as pessoas ao seu redor morrem violentamente. Você sempre vê a pior maneira pela qual uma pessoa pode morrer.}
+{209}{}{O bom é que todos a sua volta têm mais falhas críticas em combate, o que é ruim é o mesmo!}
+{210}{}{Você estudou habilidades menos combativas enquanto crescia. Suas habilidades de combate começam em um nível mais baixo, mas Primeiros Socorros, Doutores, Discursos e Trocas são substancialmente melhorados.}
+{211}{}{Você é mais facilmente influenciado por chems. Sua chance de depender do uso químico é duas vezes normal, mas você se recupera mais rápido de seus efeitos nocivos.}
+{212}{}{Chems só afetam você metade do tempo normal, mas sua chance de ser dependente também é apenas 50% do normal.}
+{213}{}{Você tem as coisas "corretas". Os membros do sexo oposto são atraídos para você, mas aqueles do mesmo sexo tendem a se tornar bastante ciumentos.}
+{214}{}{Como você passou mais tempo melhorando suas habilidades do que uma pessoa normal, você ganha 5 pontos de habilidade adicionais por nível de experiência. A compensação é que você não ganha tantas habilidades extras. Você ganha uma vantagem cada quatro níveis.}
+{215}{}{Você tem mais habilidades inativas do que a maioria, então você não passou tanto tempo aprimorando suas habilidades. Suas estatísticas primárias são cada +1, mas você perde -10% em todas as habilidades para começar e recebe 5 pontos de habilidade por nível.}

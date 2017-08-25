@@ -1,0 +1,113 @@
+{100}{}{Você vê um homem alto e magro olhando para você avaliando.}
+{101}{}{Você vê Josh Laurance, dono do Last Gasp Saloon.}
+{102}{}{Você vê um homem olhando para você, como se ele estivesse tomando suas medidas.}
+{103}{}{Saia daqui.}
+{104}{}{O que diabos você está fazendo aqui, idjit?}
+{105}{}{Este lugar não é para você.}
+{106}{}{Continue agora. Git, ya dang idjit!}
+{107}{}{Saia antes de mexer no chão.}
+{108}{}{Olá, amigo. Nome Josh Laurance. Eu possuo este lugar.}
+{109}{}{O que posso fazer para você?}
+{110}{}{Qual é este lugar, exatamente?}
+{111}{}{Gostaria de comprar uma bebida.}
+{112}{}{Gostaria de comprar uma rodada para todos aqui.}
+{113}{}{Gostaria de comprar uma rodada de bebidas para meus amigos próximos aqui.}
+{114}{}{O que está acontecendo na cidade ultimamente?}
+{115}{}{Nada, agora mesmo. Eu estava apenas de passagem. Adeus.}
+{116}{}{Eu não estou servindo isso.}
+{117}{}{Pegue seu * amigo * para fora.}
+{118}{}{Este não é um belo show de freak. Retire isso daqui.}
+{119}{}{Isso não está vindo em meu lugar.}
+{120}{}{Nós não servimos esse tipo aqui. Saia.}
+{121}{}{Este é o Last Gasp Saloon e Funeral Parlour. Um estabelecimento de serviço completo. Garrafa para Sepultura
+ é o nosso lema.}
+{122}{}{Isso parece uma combinação estranha, Josh.}
+{123}{}{Você faria Lucretia Borgia orgulhosa, Josh.}
+{124}{}{O que eu tenho que fazer para comprar um caixão?}
+{125}{}{Como faço para organizar serviços funerários?}
+{126}{}{Certifiquei-me de ficar longe do seu gin banheira.}
+{127}{}{Certamente. Isso será $ 5.}
+{128}{}{Aqui está o seu dinheiro.}
+{129}{}{Acho que não quero uma cerveja agora mesmo. Permitam-me perguntar-lhe sobre alguma coisa.}
+{130}{}{Isso é generoso para você. Isso será $ 50 para uma rodada de cerveja para todos aqui. Ei, sou poeta
+ e não sabia disso.}
+{131}{}{Ouch. Puns kill, Josh. Just a friendly warning. Aqui está o seu dinheiro.}
+{132}{}{Hmm, esse trocadilho parece ter tirado toda a diversão da idéia. Deixe-me perguntar-lhe algo em vez disso.}
+{133}{}{Você não é o tipo de amigo que um vendedor precisa. Isso será}
+{134}{}{Vale a pena. Aqui está.}
+{135}{}{Pensando melhor, é melhor eu manter todos com problemas. Deixe-me perguntar-lhe algo em vez disso.}
+{136}{}{As coisas estão procurando por mim com você percorrendo negócios. Mantenha o bom trabalho. Me dê
+ outra coisa para fazer, de qualquer forma.}
+{137}{}{Bem, não muito, eu também presto atenção. Principalmente meu negócio é meio silencioso. Ainda como o
+ grave, você pode dizer. Embora, ultimamente, isso não significa tanto.}
+{138}{}{Hã? O que você quer dizer?}
+{139}{}{É isso. Mas não consegui chegar ao fim apenas enterrando pessoas - você poderia dizer que o negócio estava morto.
+ Oh, era uma questão grave. Então eu realizei o trabalho de arrumar meu lugar para vender bebidas, também.}
+{140}{}{Uh-huh. Estou quase com medo de lhe perguntar mais alguma coisa agora. Mas acho que vou de qualquer jeito.}
+{141}{}{Uh, não joga as pessoas fora de sua alimentação para ver todos os rígidos aqui?}
+{142}{}{Eu não acho que posso suportar outro trocadilho. Estou indo embora. Adeus.}
+{143}{}{Bem, seria, se eles fossem todos reais. Mas eles não são. Nem todos eles, de qualquer maneira. 'Lados, o
+ Os mineiros gostam desse tipo. Faz com que eles se sintam sortudos por estarem vivos.}
+{144}{}{Eu acho assustador. Você é um indivíduo muito perturbado.}
+{145}{}{Entendo. Bem, deixe-me perguntar-lhe outra coisa.}
+{146}{}{Eu acho que algumas pessoas podem se sentir desse jeito. Mas eu não sou um deles. Isso só me faz sentir meio
+ queasy. Adeus.}
+{147}{}{Você me chama de * assustador? Por que, eu ouvi dizer que os tribos comem seus mortos.}
+{148}{}{De que outra forma podemos abordar sua essência?}
+{149}{}{Ei, volte. Nós os cozinhamos primeiro. Nós não somos selvagens, você sabe.}
+{150}{}{Isso é ridículo. Onde você ouviu isso?}
+{151}{}{Não sei "com exatidão. Mas é um fato seguro como fiddlin '. Por que mais você apresentaria seus dentes
+ pontos? Hã? Me responda isso!}
+{152}{}{Eu não mato meus dentes ... Oh, não importa. Deixe-me perguntar-lhe sobre outra coisa.}
+{153}{}{Agradeça gentilmente. Mais alguma coisa para você?}
+{154}{}{Na verdade, havia outra coisa.}
+{155}{}{Não, isso vai fazer isso por enquanto. Obrigado, Josh.}
+{156}{}{O que você quer dizer com isso?}
+{157}{}{Eu apenas quis dizer que parece uma combinação bastante, hmm, * incomum *.}
+{158}{}{Nada, nada. Deixe-me perguntar-lhe outra coisa, Josh.}
+{159}{}{Eu só quero dizer que eu vou beber algum lugar um pouco menos rígido. Uh, quero dizer, mais informal, de
+ curso. Adeus.}
+{160}{}{Tenho passado tempo rebentando pessoas no cemitério ao lado. Alguém - ou algo assim - mantém
+ destrói-os. Não sei porquê. Quero dizer, não é como se tivessem algo valioso neles.}
+{161}{}{Os túmulos estão sendo escavados?}
+{162}{}{Como você sabe que eles não têm nada de valioso neles?}
+{163}{}{Provavelmente apenas ratos. Deixe-me perguntar-lhe sobre outra coisa.}
+{164}{}{Bem, eu não sei certo como ... Uh, um. Eu estava apenas imaginando. Sim, é isso. Ei, tenha um
+ cerveja grátis.}
+{165}{}{Eu não sei o que você está insinuando, mas não gosto disso.}
+{166}{}{Obrigado pela cerveja. O que você quer dizer que algo está esvaziando?}
+{167}{}{Bem, me diga o que você quer dizer quando diz que algo está esvaziando-os.}
+{168}{}{Bem, eu nunca mais vi nada, mas toda semana ou mais, um ou outro dos túmulos é tudo
+ pateado e meio desenterrado como. Não sabe corretamente o que faria.}
+{169}{}{Isso é estranho.}
+{170}{}{Disturbin é o que é. Agora, os mineiros estão me dizendo que eles prefeririam descansar os últimos dias
+ aqui dentro, ao invés de ser plantado apenas para ser puxado para trás como um nabo sobrecarregado. Inferno, eu não
+ Mente salvar os fofos dentro, mas não todos. Não sei o que fazer a respeito.}
+{171}{}{Que imagem agradável é isso. Tenho certeza de que vou acordar com um suor frio pensando nisso
+ 1. Deixe-me perguntar-lhe outra coisa.}
+{172}{}{É um mistério, tudo bem. Bem, vou te ver, Josh. Adeus.}
+{173}{}{Bem, acho que enquanto você cozinhar ... Mantenha um minuto com dificuldade. Isso ainda é canibalismo! Você é
+ uma pequena unidade doente, mesmo para uma tribal.}
+{174}{}{Relaxe, Josh. Eu estava apenas brincando. Heh heh. Heck, nós apenas cozinhamos partes deles.}
+{175}{}{Peças, hein? Qual parte?}
+{176}{}{Quem se importa? (Você encolhe os ombros) As peças são partes.}
+{177}{}{Eu estava puxando sua perna, Josh. Deixe-me perguntar-lhe sobre outra coisa.}
+{178}{}{Sim, acho que isso faz uma espécie de sentido.}
+{179}{}{Claro que sim. Ei, deixe-me perguntar-lhe sobre outra coisa.}
+{180}{}{Falando nisso, estou ficando com fome. Até mais tarde, Josh. Adeus.}
+{181}{}{Malditos marcianos. E eu confundi você por uma tribo maldita. Bem, não me sinto estúpido. Bem,
+ Os canibais são canibais no meu livro.}
+{182}{}{Ei, nós os cozinhamos primeiro. Nós não somos selvagens, você sabe.}
+{183}{}{Solte minha perna, canibal! Eu preciso disso por muito tempo para ficar quieto. Você se encontra
+ outro lanche.}
+{184}{}{Relaxe, você parece um pouco duro e duro de qualquer maneira. Heh heh. Apenas brincando ... principalmente. Deixe-me te perguntar
+ outra coisa, Josh.}
+{185}{}{Bem, eu vou olhar ao redor. Mas se não encontrarmos nada melhor, voltarei. Até logo.}
+{186}{}{Precisa comprar a fazenda primeiro. Planejando comprar algum imóvel em breve?}
+{187}{}{Uh, nenhuma fazenda de qualquer forma. Deixe-me perguntar-lhe outra coisa.}
+{188}{}{Poderia ajudar alguém, ou dois, a comprar uma fazenda por aqui. Até mais tarde, Josh.}
+{189}{}{Bem, acho que você começaria por atrapalhar alguém. Mas eu aconselharia contra isso. Sheriff Marion não é
+ Muito interessado nesse tipo de comportamento.}
+{190}{}{Vou tentar me comportar. Deixe-me perguntar-lhe outra coisa, Josh.}
+{191}{}{Eu vejo ... bem, pelo menos eu sei com quem conversar se houver algum acidente * infeliz *. Adeus,
+ Josh.}

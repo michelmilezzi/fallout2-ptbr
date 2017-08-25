@@ -1,0 +1,57 @@
+{100}{}{Você vê um cidadão com um macacão azul brilhante. Parece o terno do Habitante do Vault, mas lá
+ Não há número na parte de trás.}
+{101}{}{Você vê os sub-serviços Officer Holden.}
+{102}{}{Você vê um cidadão com um macacão azul brilhante. Parece o terno do Habitante do Vault, mas lá
+ Não há número na parte de trás.}
+{103}{}{:: aplausos ::}
+{104}{}{É o herói! Veja!}
+{105}{}{Minha palavra! É o herói, aqui, em Vault City!}
+{106}{}{Bom dia, capitão.}
+{107}{}{Vault City prevalece, capitão.}
+{108}{}{Bom dia, cidadão.}
+{109}{}{Vault City prevalece, Citizen.}
+{110}{}{Um mutante! Guardas! Guardas!}
+{111}{}{Um ghoul! Guardas! Guardas!}
+{112}{}{Vamos ver ... três estimpacks, uma caixa de Rad-X ...}
+{113}{}{Ainda precisa fazer essa lista de inventário para Officer Randal.}
+{114}{}{Vamos ver: precisa verificar o estoque, listar o inventário, verificar a lista e, em seguida, inserir a lista
+ No sistema ...}
+{115}{}{Precisa ver sobre garantir mais kits de primeiros socorros ...}
+{119}{}{Me desculpe, o serviço de Sub-Amenities está fechado para a noite.}
+{120}{}{Por favor, volte pela manhã. Obrigado.}
+{121}{}{Agora estou fazendo um inventário. Vamos abrir pela manhã.}
+{122}{}{Posso ajudá-lo, capitão?}
+{123}{}{Posso ajudá-lo, cidadão?}
+{124}{}{Sim o que é isso?}
+{125}{}{Ken I Helf uuuuuuuu}
+{126}{}{Shamble off}
+{127}{}{O que é este lugar?}
+{128}{}{Posso ver o que você tem no estoque?}
+{129}{}{Nada hoje, obrigado.}
+{130}{}{Ótimo, outro Outsider ... guardas! Temos um Outsider que precisa ser acompanhado até o portão!
+ Guardas!}
+{131}{}{NÃO COMO GRDS. UDD}
+{132}{}{* Suspiro * ME GO com GRDS}
+{133}{}{Na próxima vez, você deve experimentar a loja no pátio fora da cidade. Eles deveriam levar
+ Tudo que você precisa ... Os estrangeiros precisam.}
+{134}{}{Uh, obrigado.}
+{135}{}{Vou comprar onde eu quero, entendeu?}
+{136}{}{Thank you. Vault City prevalece, Citizen.}
+{137}{}{Thank you. Vault City prevalece, capitão.}
+{138}{}{Vault City prevalece, Citizen.}
+{139}{}{Bom dia, cidadão.}
+{140}{}{Este? Por que isso é Sub-Amenities Office B, responsável pelo armazenamento e distribuição farmacêutica
+ Em Vault City. Eu sou Sub-Serviços Officer Holden. Como posso ajudá-lo hoje, cidadão?}
+{141}{}{Este é o Sub-Amenities Office B ... lidamos com a distribuição de suprimentos farmacêuticos em
+ Vault City. Talvez você estivesse procurando algum outro lugar?}
+{142}{}{Posso ver o que você tem no estoque?}
+{143}{}{No, this is the place I was looking for. Posso ver o que você tem no estoque?}
+{144}{}{Nada hoje, obrigado.}
+{145}{}{Talvez assim. Adeus.}
+{150}{}{Este? Por que isso é Sub-Amenities Office B, responsável pelo armazenamento e distribuição farmacêutica
+ Em Vault City. Eu sou Sub-Serviços Officer Holden. Como posso ajudá-lo hoje, capitão?}
+{151}{}{Ei! Fique longe de lá!}
+{152}{}{É isso aí! Você está fora daqui!}
+
+{153}{}{Obrigado.}
+{154}{}{[continuar]}

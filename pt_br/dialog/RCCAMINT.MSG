@@ -1,0 +1,90 @@
+{100}{}{Você vê um mineiro curto, corpulento, com cabelos pretos encaracolados.}
+{101}{}{Você vê Caminetto, um mineiro lutador para a Mina Kokoweef.}
+{102}{}{Você vê um homem grosso com o ar de um lutador confiante.}
+{103}{}{Caminetto, seus mineiros Kokoweef são todos shows e não vão.}
+{104}{}{Vou mostrar para onde ir, Blasphemous Bette.}
+{105}{}{Você não poderia me mostrar onde ir com um roteiro.}
+{106}{}{Só porque eu não gostaria de chegar tão perto de você.}
+{107}{}{Não se lisonjeie, você é pequeno.}
+{108}{}{Você teria sorte para obter um runt em vez daquela máquina de perfuração que você normalmente usa.}
+{109}{}{Bem, pelo menos, minha broca dura mais de trinta segundos.}
+{110}{}{Não é de admirar que a maquinaria da Morningstar esteja sempre quebrando.}
+{111}{}{Vou mostrar-te quebrado, com os meus punhos!}
+{112}{}{Seus punhos? Sua respiração é ruim o suficiente.}
+{113}{}{Eu não sei como você pode sentir o cheiro de seu próprio fedor de 3 semanas.}
+{114}{}{Fedor? O inferno, olhando para você me causa dor suficiente.}
+{115}{}{Você não conhece a dor, mas eu vou te ensinar algo.}
+{116}{}{Você me ensina?}
+{117}{}{Sim, está certo. Porque sua mãe certamente não.}
+{118}{}{Você está falando sobre minha mãe agora? Isso não é criativo.}
+{119}{}{Eu farei um melhor trabalho de criar um novo rosto para você. Aquele antigo com certeza não é muito para olhar.}
+{120}{}{Você e o que exército?}
+{121}{}{Apenas eu, é tudo o que vai levar. Mas eu aposto-nos Morningstars pode levar você Kokoweefs Wimpy a qualquer momento.}
+{122}{}{Acho que não. Kokoweef governa o poleiro aqui. Eu vou ter que aprender você isso.}
+{123}{}{Vai ser difícil para você fazer isso quando eu vencê-lo inconsciente.}
+{124}{}{Acha que você pode ter sorte então, hein?}
+{125}{}{Eu não preciso de sorte para bater em você.}
+{126}{}{Você vai me bater com sua gordura? Uh, agora eu estou com medo.}
+{127}{}{Coloque ou cala a boca, pequeno camarão.}
+{128}{}{Venha pegar um pouco, você adivinha.}
+{129}{}{Agora, quem espera ter sorte?}
+{130}{}{É isso mesmo, eu vou levá-lo para aquele.}
+{131}{}{Quem diabos está nos observando?}
+{132}{}{Alguém novo. Ei, isso é uma questão privada! Vamos vê-los!}
+{133}{}{Fer uma vez que eu concorde com você. Pegue-os!}
+{134}{}{Você fez um trabalho lá. Coloque todo o maldito mineiro em Redding atrás das grades.}
+{135}{}{Você teve algum nervo, colocando-nos fora.}
+{136}{}{Nós estávamos apenas divertindo-nos um pouco. Deixe-nos sair.}
+{137}{}{O que estávamos fazendo não era da sua conta.}
+{138}{}{Saia já daqui.}
+{139}{}{Tire-me daqui.}
+{140}{}{Ei, deixe-me sair.}
+{141}{}{Eu sou inocente.}
+{142}{}{Eu não fiz nada}
+{143}{}{Xerife? Eu tenho que fugir.}
+{144}{}{O que diabos você quer?}
+{145}{}{Eu não vou deixar você lutar entre si.}
+{146}{}{Eu só queria saber o que está acontecendo aqui.}
+{147}{}{Eu e os meus meninos vão ensinar essas lulas de Morningstar. Começando com blasfêmia
+ Bette lá.}
+{148}{}{Por quê? O que começou?}
+{149}{}{Entendo. Bem, não posso deixar você fazer isso. Você tem que dividi-lo agora.}
+{150}{}{Nós acabamos nos cansando de seus eins de orwellie cheirando nosso bar.}
+{151}{}{Isso não é bom o suficiente. Não posso deixar você lutar.}
+{152}{}{Bem, isso parece um problema, tudo bem. Eu não o culpo. Boa sorte.}
+{153}{}{Oh sim? Como você vai nos parar?}
+{154}{}{Vou matar a primeira pessoa a dar um soco.}
+{155}{}{Eu só vou te perguntar muito bem. Então vou carregar minhas armas e aguardo alguns
+ alvo prática.}
+{156}{}{O xerife pediu-me para ajudá-lo enquanto ele estava preso com uma perna bum. Tenho que manter minha palavra
+ para ele.}
+{157}{}{Bem, ok ... pelo amor do xerife, eu aceito que possamos segurar um pouco.}
+{158}{}{Obrigado. Eu estava esperando que você visse as coisas desse jeito. Adeus.}
+{159}{}{Bem, você não é um bom-dois-sapatos. Eu não acho que gosto do seu tom, amigo.}
+{160}{}{Você não precisa gostar disso. Você vai caminhar comigo para a prisão ou eu vou arrastar o seu
+ cadáver lá. Sua escolha.}
+{161}{}{Oh, me desculpe. Eu certamente não queria ser rude. Eu vou sair agora. Adeus.}
+{162}{}{Tudo bem, tudo bem. Eu irei se você também fizer uma prisão com Bette. Isso parece um acordo justo.}
+{163}{}{Você não está em condições de fazer negócios.}
+{164}{}{Essa não é uma má idéia. Colocar algumas barras entre os dois deve arrepender as coisas um pouco.
+ Venha, vocês dois.}
+{165}{}{Você não é difícil? Eu não acho que você pode nos levar sem que as pessoas sejam mortas. Você acha que a
+ O xerife vai gostar disso?}
+{166}{}{Não, acho que ele não faria.}
+{167}{}{Não é importante para mim. Não será * o meu * sangue derramado.}
+{168}{}{Eu acho que você me encontrou lá. Tudo bem, eu vou em silêncio. (para os outros) Volte para a mina, rapazes.
+ Vejo voçe amanha.}
+{169}{}{Boa escolha.}
+{170}{}{Não se preocupe, vou trazer Bette para manter sua companhia. Certo, Bette?}
+{171}{}{Eu não acho que está indo assim. Acho que você se colocou no meio e agora
+ Nós vamos nos separar.}
+{172}{}{Então eu vou ter que prender tanto você quanto Bette.}
+{173}{}{Então eu vou ter que matar tanto você quanto Bette.}
+{174}{}{Hmm, acho que sou necessário em outra parte de Redding. Imediatamente. Adeus.}
+{175}{}{Você acha que ele não faria. Por que você não volta e diz-lhe que não havia nada que você pudesse fazer?}
+{176}{}{É isso aí. Já tive o suficiente da sua boca. Uma última chance: vá em silêncio ou eu vou separar você.}
+{177}{}{Talvez eu faça isso. Eu não quero machucar ninguém. Adeus.}
+{178}{}{Tudo bem, acho que podemos ver a escrita na parede - à direita, Bette? (Ela balança a cabeça) Você nos pegou.
+ Nos leve, xerife.}
+{179}{}{Isso é mais parecido com isso.}
+{180}{}{Não, muito tarde agora. Eu vou ter que abrir uma lata de grito sobre vocês dois.}

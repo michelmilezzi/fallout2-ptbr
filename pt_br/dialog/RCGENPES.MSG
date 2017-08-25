@@ -1,0 +1,130 @@
+{100}{}{Você vê um Redding Townsperson.}
+{101}{}{Esse homem parece ter morado aqui.}
+{102}{}{Você vê um mineiro.}
+{103}{}{Você vê um fazendeiro da Redding.}
+{104}{}{Você vê um homem local.}
+{105}{}{Você vê uma mulher de Redding.}
+{106}{}{Esta mulher parece ter vivido aqui.}
+{107}{}{Você vê uma mulher local.}
+{108}{}{Você vê uma mulher que provavelmente trabalha nas minas.}
+{109}{}{Você vê uma fazenda-mulher.}
+{110}{}{O que você está olhando?}
+{111}{}{Bem-vindo à grande cidade.}
+{112}{}{Olá.}
+{113}{}{Já esteve em Redding?}
+{114}{}{Primeira vez em Redding, hein?}
+{115}{}{Nós não queremos nenhum problema aqui.}
+{116}{}{Eu também estava olhando para você.}
+{117}{}{Howdy, estranho.}
+{118}{}{Estás bem?}
+{119}{}{Como vai você?}
+{120}{}{Bom dia para você.}
+{121}{}{Sim.}
+{122}{}{Heya.}
+{123}{}{Você vê um homem com uma bebida fresca na mão.}
+{124}{}{Você vê um homem encomendar uma cerveja.}
+{125}{}{Esse cara já teve muito para beber.}
+{126}{}{Você vê um tippler.}
+{127}{}{Esse cavalheiro parece muito feliz.}
+{128}{}{Você vê uma mulher com uma bebida fresca na mão.}
+{129}{}{Você vê uma mulher pedindo uma cerveja.}
+{130}{}{Este galão já tinha muito para beber.}
+{131}{}{Você vê um tippler.}
+{132}{}{Esta mulher parece intoxicada.}
+{133}{}{Olá estranho.}
+{134}{}{Olá.}
+{135}{}{Hmmm.}
+{136}{}{Urp.}
+{137}{}{Glug-glug-glug.}
+{138}{}{Obrigado, estranho.}
+{139}{}{Não é ruim para uma tribal, eu digo.}
+{140}{}{Eu precisava disso.}
+{141}{}{Mmm-hmmm.}
+{142}{}{Obrigado.}
+{143}{}{Você é meu melhor amigo.}
+{144}{}{Que amigo.}
+{145}{}{Você é o melhor.}
+{146}{}{Tribais também são pessoas.}
+{147}{}{Nada como amigos, existe?}
+{148}{}{Eu acho que gostaria de cantar ...}
+{149}{}{Pego a maior parte do que eu disse sobre você mais cedo.}
+{150}{}{Que amigo.}
+{151}{}{Os tribais são nosso tipo de pessoas.}
+{152}{}{Hip, quadril, huzzah para o tribal.}
+{153}{}{./~ Quão seco eu sou ... ./~}
+{154}{}{./~ 99 garrafas de cerveja na parede, 99 garrafas de cerveja ... ./~}
+{155}{}{Este homem olha para casa.}
+{156}{}{Você vê um homem comendo uma refeição.}
+{157}{}{Você vê um homem reparando uma peça de vestuário.}
+{158}{}{Este homem está descansando.}
+{159}{}{Este homem está relaxando em sua casa.}
+{160}{}{Esta mulher olha para casa.}
+{161}{}{Você vê uma mulher comendo uma refeição.}
+{162}{}{Você vê uma mulher reparando uma peça de vestuário.}
+{163}{}{Esta mulher está descansando.}
+{164}{}{Esta mulher está relaxando em sua casa.}
+{165}{}{Olá.}
+{166}{}{O que você está fazendo aqui?}
+{167}{}{Eu não convidei você.}
+{168}{}{Vá embora. Não há nenhum folheto tribal aqui.}
+{169}{}{Cai fora! Scram!}
+{170}{}{Por que você está em minha casa?}
+{171}{}{Você vê um mineiro Redding.}
+{172}{}{Você vê um mineiro.}
+{173}{}{Você vê um mineiro cansado.}
+{174}{}{Você vê um mineiro de ouro.}
+{175}{}{Você vê alguém coberto de terra.}
+{176}{}{Essa pessoa deve ser um mineiro.}
+{177}{}{./~ Um outro dia mais antigo e mais profundo na dívida ./~}
+{178}{}{Eu tenho terra em todos os lugares.}
+{179}{}{Com certeza, está escuro lá embaixo.}
+{180}{}{Devemos cavar.}
+{181}{}{Nós os cavamos e então nós morremos neles.}
+{182}{}{Por que o ouro nunca foi encontrado na superfície?}
+{183}{}{Você vê uma pessoa excitada.}
+{184}{}{Esta pessoa está muito nervosa.}
+{185}{}{Você vê uma pessoa assistindo o anel.}
+{186}{}{Essa pessoa parece estar conectada.}
+{187}{}{Você vê alguém que deve ter dinheiro andando nas lutas.}
+{188}{}{Essa pessoa parece animada.}
+{189}{}{Get 'im!}
+{190}{}{Vai um salário de uma semana ... novamente.}
+{191}{}{sim!}
+{192}{}{Matar, matar, matar!}
+{193}{}{Vá para a garganta!}
+{194}{}{Maim, o bastardo!}
+{195}{}{Levante-se 'eu!}
+{196}{}{Vá ao redor! Não, o contrário!}
+{197}{}{Cuidado!}
+{198}{}{Esse é o bilhete!}
+{199}{}{Faça-me rico!}
+{200}{}{Dê esses sapatos novos, baby!}
+{201}{}{Me dê um pouco desse açúcar!}
+{202}{}{Footpack estúpido! Footwork!}
+{203}{}{Acabe com ele!}
+{204}{}{Luta!}
+{205}{}{Você vê um menino novo.}
+{206}{}{Este garotinho chegou ao mercado.}
+{207}{}{Você vê um jovem.}
+{208}{}{Você vê um jovem coberto de poeira.}
+{209}{}{Esta criança está coberta de lama.}
+{210}{}{Você vê um jovem pegando seu nariz.}
+{211}{}{Você vê uma criança olhando para você.}
+{212}{}{Você vê um pequeno tike.}
+{213}{}{Você vê uma jovem menina.}
+{214}{}{Você vê uma garotinha fofa.}
+{215}{}{Olá senhor.}
+{216}{}{O que é fazer senhor?}
+{217}{}{Você é um canibal?}
+{218}{}{Corra, foge!}
+{219}{}{Eu toquei um gecko morto uma vez.}
+{220}{}{Você come pessoas?}
+{221}{}{Achei que você deveria ter chifres em sua cabeça.}
+{222}{}{De onde você é?}
+{223}{}{Você é de longe?}
+{224}{}{Não consigo pegar-me!}
+{225}{}{Nyah, nyah, nyah, nyah, nyah!}
+{226}{}{Você é engraçado.}
+{227}{}{Cheiras mal.}
+{228}{}{Ei, senhora.}
+{229}{}{O que está fazendo, senhora?}

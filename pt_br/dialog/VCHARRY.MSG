@@ -1,0 +1,21 @@
+{100}{}{Você vê um homem curto e jovial.}
+{101}{}{Você vê o feliz Harry, o dono da loja.}
+{102}{}{Bem, olá, ai ... o que posso fazer por você?}
+{103}{}{Estou olhando para o comércio. Posso ver o que você tem no estoque?}
+{104}{}{Você ainda vende esse arado lá fora?}
+{105}{}{Me Buy}
+{106}{}{Nada hoje, obrigado.}
+{107}{}{Desculpa. Não pode ajudá-lo, vizinho.}
+{108}{}{Por que sim, eu sou. Vou deixá-lo ir ... dizer, oitocentos.}
+{109}{}{Eu lhe darei seiscentos por isso.}
+{110}{}{É um acordo. Eu vou levar.}
+{111}{}{Eh, oitocentos? Eu voltarei ... com o dinheiro.}
+{112}{}{Esqueça. Os Smith podem morrer de fome.}
+{113}{}{É seu. [Paga o dinheiro.] Você apenas vai levá-lo, ou você precisa disso?
+ Entregue em algum lugar?}
+{114}{}{Solte com os Smiths.}
+{115}{}{Desculpa amigo. Vai custar-lhe oitocentos.}
+{119}{}{Você precisa do dinheiro para me pagar, amigo.}
+{120}{}{Eu voltarei com o dinheiro.}
+{121}{}{Não é um problema. Vou deixá-lo cair agora.}
+{122}{}{Pensei que só se ajudasse, hein? Maldito ladrão ... guardas! Guardas!}

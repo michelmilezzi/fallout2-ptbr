@@ -1,0 +1,83 @@
+{100}{}{Este terminal está exibindo uma série de barras verdes brilhantes que se elevam e caem irregularmente.}
+{101}{}{Você vê um terminal médico da Vault City.}
+{102}{}{Este terminal está exibindo uma série de barras verdes brilhantes que se elevam e caem irregularmente.}
+{103}{}{Você poderia obter mais informações deste terminal com uma abordagem mais científica.}
+{104}{}{Você não consegue descobrir como funciona este terminal.}
+{105}{}{Malditos computadores.}
+{106}{}{Você não consegue descobrir como funciona este terminal.}
+{107}{}{Dumm cum-poo-terz}
+{108}{}{Você fez logon no banco de dados médico da cidade de Vault. Embora a interface seja difícil de
+ Entenda, o próprio banco de dados parece ser dividido em uma série de arquivos.}
+{109}{}{Procure os arquivos para a localização de Vaults.}
+{110}{}{Procure arquivos para qualquer menção do Kit de Criação do Jardim do Éden.}
+{111}{}{Procure na base de dados médica por qualquer interesse.}
+{112}{}{Feche o terminal.}
+{113}{}{Você não encontra nenhuma menção de Vaults no banco de dados. É principalmente informações médicas relacionadas
+ A anatomia, doenças conhecidas, tratamentos, chems e implantes.}
+{114}{}{Procure nos arquivos para qualquer menção do Kit de Criação do Jardim do Éden.}
+{115}{}{Procure na base de dados médica por qualquer interesse.}
+{116}{}{Feche o terminal.}
+{117}{}{Você não encontra nenhuma menção do GECK no banco de dados. É principalmente arquivos médicos relacionados a
+ Anatomia, doenças conhecidas, tratamentos, chems e implantes.}
+{118}{}{Pesquise nos arquivos para qualquer menção dos Vaults.}
+{119}{}{Procure na base de dados médica por qualquer interesse.}
+{120}{}{Feche o terminal.}
+{121}{}{Você pesquisa o banco de dados, mas a terminologia médica é muito críptica para entender. Se você soubesse
+ Mais sobre a profissão médica, pode não ser um problema.}
+{122}{}{Continue pesquisando os arquivos do computador.}
+{123}{}{Feche o terminal.}
+{124}{}{Você pesquisa o banco de dados e fica impressionado com a informação contida nos arquivos. O atual
+ A pesquisa que está sendo realizada em Vault City é fascinante, e sua tecnologia médica está além de tudo o que você
+ Já viu.}
+{125}{}{Você pesquisa o banco de dados novamente, mas não descubra nada novo. Os esquemas dos implantes foram os mais
+ Informações úteis nos arquivos. É possível que você perdeu alguma coisa, mas você acha que isso é improvável.}
+{126}{}{Você pesquisa o banco de dados ... novamente ... mas não descubra nada novo. Talvez se você pesquisou vinte
+ Mais vezes, você pode encontrar algo novo.}
+{127}{}{Nós estávamos apenas brincando. Não há nada mais aqui. Talvez se você esvaziou os arquivos
+ Trinta vezes mais, você pode encontrar algo enterrado profundamente em um dos arquivos. Ha-ha.}
+{128}{}{Uh ... olhe. Vá jogar o resto do jogo. Você não pode ficar encerrado aqui para sempre.}
+{129}{}{Bem. Continue olhando. Veja se eu me importo.}
+{130}{}{Você está apenas perdendo seu tempo.}
+{131}{}{Sua inteligência é 4, certo?}
+{132}{}{Pare com isso.}
+{133}{}{Por que você não vai brincar com a enfermeira?}
+{134}{}{Não há nada aqui!}
+{135}{}{Você procura os arquivos e não encontra nada.}
+{136}{}{Você procurou neste terminal 53 vezes. Você não encontrou mais nada de interesse.}
+{137}{}{Só precisava fazê-lo mais uma vez, não é? Sheesh.}
+{138}{}{Ok, olhe. Aqui está o grande segredo. Certifique-se de visitar o computador principal no nível três depois
+ Você termina o jogo. Agora, desconecte o terminal e vá jogar fora.}
+{139}{}{Você procura os arquivos e não encontra nada.}
+{140}{}{Continue pesquisando nos arquivos.}
+{141}{}{Procure no banco de dados novamente para ter certeza de que não perdeu nada.}
+{142}{}{Continue pesquisando nos arquivos.}
+{143}{}{Feche o terminal.}
+{144}{}{Você passa quase uma hora estudando os arquivos. À medida que aprofunda o banco de dados, você vem
+ Através de uma série de arquivos mais antigos que contêm esquemas para algum tipo de "implantes de combate".}
+{145}{}{Estude a informação do implante.}
+{146}{}{Os esquemas detalham uma operação para enxertar placas de impacto e membranas de dissipação térmica
+ Para um esqueleto humano, concedendo a resistência do sujeito ao trauma físico e ao calor. Parece um
+ Procedimento complicado.}
+{147}{}{Anote isso e, em seguida, pesquise o banco de dados para obter mais informações.}
+{148}{}{Registre as informações, então faça logoff no terminal.}
+{149}{}{Você retornou ao menu principal. Uma série de arquivos e programas de pesquisa estão listados no
+ Tela do terminal.}
+{150}{}{Procure qualquer menção do Vault 13 nos arquivos.}
+{151}{}{Procure qualquer referência ao Kit de Criação do Jardim do Éden.}
+{152}{}{Procure na base de dados médica por qualquer interesse.}
+{153}{}{Feche o terminal.}
+{200}{}{Você terminou de estudar o banco de dados médico da Vault City.}
+{201}{}{Seu amigo tenta interessá-lo na caixa de janela colorida que vai BEEP BEEP, mas você não consegue descobrir como abri-lo, então você finalmente se entediar e deixá-lo sozinho.}
+{202}{}{Afastar-se.}
+{203}{}{*Bip*}
+{204}{}{* Beeee-oop *}
+{205}{}{* Dweeee-oop *}
+{206}{}{* Bee-Oop *}
+{207}{}{*Bip*}
+{208}{}{PING!}
+{209}{}{Me desculpe, Dave. Não posso fazer isso.}
+{210}{}{Perigo! Will Robinson!}
+{211}{}{Trinta segundos para alcançar a distância mínima de segurança.}
+{212}{}{PING! Eu digo!}
+{213}{}{Remova seu cartão para receber dinheiro.}
+{214}{}{Jogo estranho. A única jogada vencedora não é para jogar.}

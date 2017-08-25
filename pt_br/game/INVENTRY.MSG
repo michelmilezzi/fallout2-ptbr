@@ -1,0 +1,38 @@
+#
+# Inventory messages from inventry.c
+#
+{0}{}{ST}
+{1}{}{PE}
+{2}{}{EN}
+{3}{}{CH}
+{4}{}{DENTRO}
+{5}{}{AG}
+{6}{}{LK}
+{7}{}{Pontos de vida}
+{8}{}{Classe de armadura}
+{9}{}{  Normal}
+{10}{}{  Laser}
+{11}{}{  Fogo}
+{12}{}{  Plasma}
+{13}{}{  Explodir}
+{14}{}{Nenhum item}
+{15}{}{Dmg:}
+{16}{}{Rng:}
+{17}{}{Munição:}
+{18}{}{(Não usado)}
+{19}{}{Você não tem pontos de ação suficientes para usar o inventário.}
+{20}{}{Total Wt:}
+{21}{}{MOVE ITEMS}
+{22}{}{TODOS}
+{23}{}{SET TIMER}
+{24}{}{Dmg desarmado:}
+{25}{}{Você não pode escolher isso. Você está na sua capacidade máxima de peso.}
+{26}{}{Não há espaço para esse item.}
+{27}{}{OK, esse é um bom comércio.}
+{28}{}{Não, sua oferta não é boa o suficiente.}
+{29}{}{Você ganha% d pontos de experiência para usar com sucesso sua habilidade de roubar.}
+{30}{}{Wt.}
+{31}{}{Desculpe, você não pode carregar isso.}
+{32}{}{Desculpe, é demais para transportar.}
+
+{50}{}{Você não pode encontrar nada para tirar disso.}

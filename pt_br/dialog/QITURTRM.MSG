@@ -1,0 +1,162 @@
+{100}{}{Você vê um terminal.}
+{101}{}{Você vê um terminal. It appears to be operational.}
+{102}{}{Você vê um DataMlex 2000 SmarTerminal, com um total de 64k de RAM, é o mais recente em tecnologia de computador - muito ruim que não está funcionando agora.}
+{103}{}{Você vê um DataMlex 2000 SmarTerminal, com um total de 64k de RAM, é o mais recente em tecnologia de computador.}
+{104}{}{Bem-vindo ao PoseidoNet. Digite a seleção do menu:}
+{105}{}{Faça logon.}
+{106}{}{Socorro.}
+{107}{}{Fim da sessão.}
+{108}{}{Este terminal está jogando um filme indiano, mas é realmente chato.}
+{109}{}{Este terminal está a reproduzir um programa sobre a captura de alvo. Tudo o que você pode ver é um olho de touro.}
+{110}{}{Este terminal está mostrando algum tipo de arte moderna - alguns trabalham com muitas cores diferentes de listras.}
+{111}{}{Você vê um terminal. It shows little green bombs moving diagonally across the screen.}
+{112}{}{Este terminal possui uma mensagem, "Agora é seguro desligar o computador". Você quer saber o que isso significa.}
+{113}{}{Você vê uma imagem de vermelho, verde e azul, pontos de luz combinados para fazer uma imagem de algo ...}
+{114}{}{Há um rosto horrível olhando para você. Ah, espere, este terminal está desligado.}
+{115}{}{Esta janela espelha uma dimensão sombria além do espaço e do tempo.}
+{116}{}{Este terminal tem uma mensagem sobre ele; "Carregando Fenestra '98". O terminal é coberto com uma espessa camada de poeira.}
+{117}{}{Este terminal parece ser um terminal de marca de damasco. Está executando algo chamado Fallout 2. Wow, parece que é multiplayer e 3D.}
+{118}{}{Digite o ID do usuário:}
+{119}{}{(Deixe-me tentar isso) Listar usuários.}
+{120}{}{(Eu me pergunto se isso vai funcionar?) Smith, J.}
+{121}{}{Costas.}
+{123}{}{Acho melhor fazer isso em outro lugar.}
+{124}{}{Listagem (o terminal exibe uma lista de cerca de 500 nomes)}
+{125}{}{Listagem (o computador exibe uma lista de nomes)}
+{126}{}{Selecione ID do usuário ou Feche a sessão:}
+{127}{}{(Este tem acesso aceitável.) Smith, J.}
+{128}{}{(Este parece um tipo de especial.) Subsídio presidencial - Substituição de segurança}
+{129}{}{(Isto tem acesso melhor que a média). Murray, T.}
+{130}{}{ (Este tem um bom acesso.) Curling, Dr. C.}
+{131}{}{(Este parece ter realmente um bom acesso.) Bird, D.}
+{132}{}{(Talvez eu tente isso mais tarde). Feche a sessão.}
+{133}{}{Selecione:}
+{134}{}{                A. E. C .: Operações de energia elétrica atômica,}
+{135}{}{                Status de segurança?}
+{136}{}{Download A. E. C .: Operações de energia elétrica atômica}
+{137}{}{Status da segurança}
+{138}{}{Retornar para ID de usuário:}
+{139}{}{Selecione:}
+{140}{}{                Nível de segurança: Status atual}
+{141}{}{                Chemical Corps: Relatório de Status do Projeto}
+{142}{}{                A. E. C .: Operações de energia elétrica atômica}
+{143}{}{                Status de segurança?}
+{144}{}{Segurança / Nível: Status atual}
+{145}{}{Download Chemical Corps: relatório de status do projeto}
+{146}{}{Download A. E. C .: Operações de energia elétrica atômica}
+{147}{}{Status da segurança}
+{148}{}{Retornar para ID de usuário:}
+{149}{}{Selecione:}
+{150}{}{                Estado da Nação: Status atual,}
+{151}{}{                (LISTA DE PALAVRAS),}
+{152}{}{                Nível de segurança: Status atual,}
+{153}{}{                Chemical Corps: Relatório de Status do Projeto,}
+{154}{}{                A. E. C .: Operações de energia elétrica atômica,}
+{155}{}{                Status de segurança?}
+{156}{}{Estado da Nação: Estado atual}
+{157}{}{Download da Lista de palavras}
+{158}{}{Segurança / Nível: Status atual}
+{159}{}{Download Chemical Corps: relatório de status do projeto}
+{160}{}{Download A. E. C .: Operações de energia elétrica atômica}
+{161}{}{Status da segurança}
+{162}{}{Retornar para ID de usuário:}
+{163}{}{Selecione:Status da segurança?}
+{164}{}{Status da segurança}
+{165}{}{Acesso final}
+{166}{}{Download completo.}
+{167}{}{Estado da Nação: Estado atual}
+{168}{}{Download da Lista de palavras}
+{169}{}{Segurança / Nível: Status atual}
+{170}{}{Download Chemical Corps: relatório de status do projeto}
+{171}{}{Download A. E. C .: Operações de energia elétrica atômica}
+{172}{}{Retornar para ID de usuário:}
+{173}{}{Download completo.}
+{174}{}{Download da Lista de palavras}
+{175}{}{Segurança / Nível: Status atual}
+{176}{}{Download Chemical Corps: relatório de status do projeto}
+{177}{}{Download A. E. C .: Operações de energia elétrica atômica}
+{178}{}{Status da segurança}
+{179}{}{Retornar para ID de usuário:}
+{180}{}{Download completo.}
+{181}{}{Estado da Nação: Estado atual}
+{182}{}{Segurança / Nível: Status atual}
+{183}{}{Download Chemical Corps: relatório de status do projeto}
+{184}{}{Download A. E. C .: Operações de energia elétrica atômica}
+{185}{}{Status da segurança}
+{186}{}{Retornar para ID de usuário:}
+{187}{}{Quartel de guarda Nível: Torres de segurança atualmente no status de alerta armado.}
+{188}{}{Quartel de guarda Nível: Torres de segurança atualmente em status normal.}
+{189}{}{Barra Barra Barra: Torres de segurança atualmente no estado de manutenção desativado.}
+{190}{}{Teste Assunto Nível de espera: torres de segurança atualmente no status de alerta armado.}
+{191}{}{Nível de espera do teste: torres de segurança atualmente no status normal.}
+{192}{}{Nível de espera do assunto de teste: torres de segurança atualmente no estado de manutenção desativado.}
+{193}{}{Área de projeto de pesquisa e desenvolvimento: torres de segurança atualmente no status de alerta armado.}
+{194}{}{Área do projeto de pesquisa e desenvolvimento: torres de segurança atualmente no estado normal.}
+{195}{}{Área de Projeto de Pesquisa e Desenvolvimento: Torres de segurança atualmente no estado de manutenção desativado.}
+{196}{}{Área de escritório executivo: torres de segurança atualmente no status de alerta armado.}
+{197}{}{Área do escritório executivo: torres de segurança atualmente no status normal.}
+{198}{}{Área do escritório executivo: torres de segurança atualmente no status de manutenção desativada.}
+{199}{}{Informações e nível de energia: torres de segurança atualmente no status de alerta armado.}
+{200}{}{Informações e nível de energia: torres de segurança atualmente em status normal.}
+{201}{}{Informações e nível de energia: Torres de segurança atualmente no estado de manutenção desativado.}
+{202}{}{Ajustar o nível de segurança}
+{203}{}{Estado da Nação: estado atual}
+{204}{}{Download da Lista de palavras.}
+{205}{}{Download Chemical Corps: relatório de status do projeto}
+{206}{}{Download A. E. C .: Operações de energia elétrica atômica}
+{207}{}{Status da segurança}
+{208}{}{Retornar para ID de usuário:}
+{209}{}{Download completo.}
+{210}{}{Download Estado da Nação: estado atual}
+{211}{}{Download da Lista de palavras}
+{212}{}{Segurança / Nível: Status atual}
+{213}{}{Download A. E. C .: Operações de energia elétrica atômica}
+{215}{}{Status da segurança}
+{216}{}{Retornar para ID de usuário:}
+{217}{}{Download completo.}
+{218}{}{Download Estado da Nação: estado atual}
+{219}{}{Download da Lista de palavras}
+{220}{}{Segurança / Nível: estado atual}
+{221}{}{Download Chemical Corps: relatório de status do projeto}
+{222}{}{Status da segurança}
+{223}{}{Retornar para ID de usuário:}
+{224}{}{Este terminal está executando um diagnóstico profundo. Por favor tente outro terminal. Obrigado.}
+{225}{}{Bem-vindo ao sistema de ajuda do PoseidoNet. Lamentamos que seus arquivos de Ajuda estejam desatualizados e não estejam disponíveis. Procure a atualização do arquivo de ajuda? (Y / N)}
+{226}{}{sim}
+{227}{}{Não, de volta}
+{228}{}{A atualização do arquivo de ajuda do usuário não está disponível com o software PoseidoNet de teste. Compre uma versão completa para acesso total a todas as atualizações adicionais. Seu período de avaliação para acesso PoseidoNet é 59, 439 dias em atraso.}
+{229}{}{Back to Faça logon.}
+{230}{}{Fim da sessão}
+{231}{}{A substituição de segurança requer uma senha exclusiva para o presidente. Opções permitidas: Contra-insurgência, Desligamento de sistemas defensivos de emergência.}
+{232}{}{(Eu vou dar uma olhada neste.) Counter Insurgency.}
+{233}{}{(Vou dar uma olhada neste.) Desligamento de sistemas defensivos de emergência.}
+{234}{}{(Talvez eu deva tentar algo menos conspícuo) Retorne para o ID do usuário.}
+{235}{}{(Eu não acho que eu quero mexer com isso agora.) Feche-se}
+{236}{}{Contra insurreição. No caso de uma rebelião armada, o Keyboard de segurança presidencial permite que os sistemas defensivos sejam ativados em todas as unidades, anteriormente leais, mas agora ameaçadoras dentro de uma área. Os sistemas defensivos são programados para atacar o inimigo mais perigoso primeiro. Atenção! Nível operacional atual - Apenas níveis de entrada!}
+{237}{}{(Isso parece útil.) Ativar o Protocolo de insurgência de contador.}
+{238}{}{(Talvez eu dê uma chance a outra vez). Voltar}
+{239}{}{(Eu não quero mais jogar com o computador agora). Feche a sessão.}
+{240}{}{Senha de segurança presidencial reconhecida, bom dia, senhor presidente ... Protocolo de insurgência do contador de emergência iniciado ... Objetivo adquirido}
+{241}{}{(Eu acho que vou ficar de volta e ver o que acontece.)}
+{242}{}{Senha de segurança presidencial reconhecida, bom dia, senhor presidente ... Emergency Counter Insurgency Protocol iniciado ... ** Mau funcionamento ** ... O link de segurança está off-line neste nível. Por favor envie o formulário FG-I-106-32-0635 para autorizar serviços de reparo. Obrigado por usar outro bom produto Vault-Tek. Dia bom.}
+{243}{}{(Talvez funcione nos níveis de entrada. Hmm, isso deve significar a área imediatamente antes da doca. Eu vou ter que tentar isso.) Retorne para a ID do usuário.}
+{244}{}{(Eu me pergunto o que mais eu posso tentar?) Voltar}
+{245}{}{Chave de segurança presidencial necessária para acessar esta função. Não foi encontrado o cartão-chave.}
+{246}{}{(Eu me pergunto o que mais eu posso tentar?) Voltar}
+{247}{}{O Desligamento de sistemas defensivos de emergência desliga temporariamente os sistemas de segurança ativos em nível por nível. O desligamento inicia o procedimento de diagnóstico profundo antes de iniciar a reinicialização automática dos sistemas de segurança.}
+{248}{}{(Isso parece algo bom para tentar.) Ative o Desligamento de Sistemas de Defensas de Emergência.}
+{249}{}{(Hmm, maybe I'll try this some other time.) Costas.}
+{250}{}{(Eu não quero mais jogar com o computador agora). Feche a sessão.}
+{251}{}{Senha de segurança presidencial reconhecida, bom dia, senhor presidente ... Desligamento de sistemas defensivos de emergência iniciados ... Realizando diagnósticos profundos. Alpha ... .Bravo ... .Charlie ....}
+{252}{}{(For some strange reason, I don't think I want to do this right now.) Costas.}
+{253}{}{(É melhor me mover, enquanto esta coisa ainda está executando esse diagnóstico). Sair.}
+{254}{}{Senha de segurança presidencial não reconhecida. Acesso negado.}
+{255}{}{(Hmm, eu me pergunto se eu posso enganar o scanner para pensar que eu tenho a chave ao invadir o arquivo de acesso. Eu acho que vou tentar.)}
+{256}{}{(Oh well, it was worth a shot.) Costas.}
+{257}{}{Falha no falha no escaneamento da senha de segurança ... Reinicialização do scanner ....}
+{258}{}{(Essa é a minha chance, agora, se eu puder apenas entender que reconhece a senha presidencial ...).}
+{259}{}{(Damn, well nothing ventured…..) Costas.}
+{260}{}{O scanner foi reinicializado. Rescanning ....}
+{261}{}{(Aqui é o grande momento.) - Você escreve febrilmente.}
+{262}{}{Procedimento ilegal detectado. É negado o acesso a este terminal ... Aviso de manutenção enviado.}
+{263}{}{Droga. Isso não é o que eu queria.}

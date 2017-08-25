@@ -1,0 +1,78 @@
+{100}{}{Você vê um mestre de caravanas.}
+{101}{}{Agradeça ao Criador que você conseguiu quando você fez. Parece que está ficando cada vez mais difícil de obter
+ De um lugar para o outro sem ser atacado por alguém ou algo assim.}
+{102}{}{O que posso fazer por você agora?}
+{103}{}{Onde você está indo?}
+{104}{}{Qual é a sua carga?}
+{105}{}{Tchau.}
+{106}{}{Ug.}
+{107}{}{Acabei de pegar uma remessa de}
+{108}{}{ E agora vou para}
+{109}{}{.}
+
+# Town Names
+{198}{}{Novo Reno}
+{199}{}{The Den}
+{200}{}{Arroyo}
+{201}{}{Redding}
+{202}{}{Vault City}
+{203}{}{NCR}
+{204}{}{Broken Hills}
+{205}{}{Gecko}
+{206}{}{São Francisco}
+{207}{}{Modoc}
+{208}{}{Klamath}
+{209}{}{Vault 15}
+
+{110}{}{Qual é a sua carga?}
+{111}{}{Tchau.}
+{112}{}{Estamos carregando}
+
+# Cargo for the Caravan
+{150}{}{remédio.}
+{151}{}{minério de ouro.}
+{152}{}{Minério de urânio.}
+{153}{}{Produtos agrícolas.}
+{154}{}{Chems.}
+{155}{}{Escravos.}
+{156}{}{coisa.}
+
+{113}{}{Você acha que eu posso negociar com você?}
+{114}{}{Onde você está indo?}
+{115}{}{Tchau.}
+{116}{}{Bem, não vejo por que não, considerando que você nos ajudou em uma pitada e tudo. Claro, por que não.
+ Aqui está o que eu recebi.}
+{117}{}{[Trocar]}
+{118}{}{Eu mudei de ideia.}
+{119}{}{Eu sei que vi você em algum lugar. Merda! Você é o único em todos aqueles cartazes queridos! Olha nós
+ Não quero nenhum problema. Você vai no seu caminho e iremos no nosso caminho. Eu nem vou contar a ninguém que vimos você.
+ Agora vá!}
+{120}{}{Ei! Você é o único em todos esses cartazes queridos. Não se preocupe, não o irei; como eu lembro,
+ Eu sou querido em alguns lugares eu mesmo. Agora, você queria negociar ...}
+{121}{}{[Trocar]}
+{122}{}{Bom o suficiente, então. Temos que começar. Não se preocupe, não vou dizer a lei que eu vi.}
+{123}{}{Espere um minuto! Já ouvi falar de você. Você é o mais bemvado que está correndo por salvar e ajudar
+ pessoas. Nós não gostamos do seu tipo, então, zumbido!}
+{124}{}{Eu ouvi coisas boas sobre uma pessoa que corresponde à sua descrição. Eu acho que tudo bem
+ Para trocar alguma da nossa carga para você. Aqui está o que eu recebi.}
+{125}{}{[Trocar]}
+{126}{}{Tchau.}
+{127}{}{Já ouvi falar de você. Você é aquele mau burro que está por aí levando um estrondo todo o lugar. Eu tenho
+ Estava com vontade de conhecê-lo para que eu possa agitar sua mão. Pensando em todos os rumores grosseiros e grosseiros sobre você
+ Apenas traz uma lágrima aos meus olhos. Seria minha honra trocar com você.}
+{128}{}{[Trocar]}
+{129}{}{Tchau}
+{130}{}{O Word é você ou alguém que parece ter causado problemas ultimamente. Eu não faço negócios
+ Com seu tipo. Desculpa.}
+{131}{}{Eu não sei o que você queria e eu não me importo com razão. Nós não fazemos negócios com o seu
+ tipo.}
+{132}{}{Por que você não ... "faça o bem" em outro lugar.}
+{133}{}{Tenho certeza de que uma pessoa de sua reputação pode encontrar suprimentos em outro lugar.}
+{134}{}{Indique seu negócio.}
+{135}{}{Onde você está indo?}
+{136}{}{Qual é a sua carga?}
+{137}{}{Tchau.}
+{138}{}{Ug.}
+{139}{}{Isso é bom. Você tem um bom dia agora.}
+
+{300}{}{Obrigado pelo seu negócio.}

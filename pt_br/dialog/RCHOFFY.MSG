@@ -1,0 +1,99 @@
+{100}{}{Você vê um homem corpulento e grosso com cabelos curtos e espessos.}
+{101}{}{Você vê James Hoffy, o mestre da caravana.}
+{102}{}{Você vê um homem com uma cicatriz e um olhar duro com um olhar de cálculo.}
+{103}{}{Vamos, saia daqui.}
+{104}{}{Esta não é uma ala de caridade. Agora saia.}
+{105}{}{Quem deixa você sair da casa, afinal?}
+{106}{}{Alguém em casa?}
+{107}{}{Você não é bastante inteligente o suficiente para grunhar, está?}
+{108}{}{Vamos, já. Apenas mova-o para fora daqui.}
+{109}{}{Eu não tenho tempo para não stupids.}
+{110}{}{Ouvi dizer que você teve algum problema com algumas de suas caravanas. Todo mundo tem problemas às vezes -
+ simplesmente não faça um hábito disso.}
+{111}{}{Ouvi dizer que você já fez algum trabalho de caravana. Isso é bom. Sempre há espaço para bons guardas de caravanas.}
+{112}{}{Quem é Você?}
+{113}{}{Existem caravanas prontas para sair agora?}
+{114}{}{Onde as caravanas de Redding costumam ir?}
+{115}{}{Ouça notícias em torno da cidade ultimamente?}
+{116}{}{Você já ouviu falar sobre algo chamado um Kit de Criação do Jardim do Éden?}
+{117}{}{Obrigado por me informar. Adeus.}
+{118}{}{Olá, eu sou James Hoffy. Mas geralmente as pessoas me chamam de Jimmy. Eu organizo as caravanas
+ por aqui.}
+{119}{}{O que você quer, Pally?}
+{120}{}{Existem caravanas prontas para sair agora?}
+{121}{}{Onde as caravanas de Redding costumam ir?}
+{122}{}{Ouça notícias em torno da cidade ultimamente?}
+{123}{}{Você já ouviu falar sobre algo chamado um Kit de Criação do Jardim do Éden?}
+{124}{}{Eu estava apenas olhando ao redor, Jimmy. Obrigado. Adeus.}
+{125}{}{Que eu não sei. Você precisaria perguntar aos motoristas da caravana. Você geralmente pode encontrar uma caravana aqui
+ no dia 1º, 11º e 21º de cada mês. Realmente limpo e arrumado dessa maneira. Você vê aqui, este é o caminho
+ funciona: quando uma caravana está na cidade e procurando ajuda, o mestre da caravana tem sua barraca instalada
+ aqui ao sul do meu castelo. Realmente limpo e arrumado dessa maneira.}
+{126}{}{Seu castelo? O que você quer dizer?}
+{127}{}{Entendo. Acho que vou falar com eles, então. Obrigado. Adeus.}
+{128}{}{Nós executamos caravanas por todo o lado da fricção. Deixe-me dizer-lhe: temos minério de ouro para sair
+ Vault City, temos alguns indo para New Reno (ooo-la-la, se você sabe o que eu quero dizer), e nós temos mesmo
+ tenho alguns indo para aqueles bastardos prissy na NCR.}
+{129}{}{O que você pode me falar sobre o Vault City?}
+{130}{}{O que você pode me falar sobre o New Reno?}
+{131}{}{O que você pode me falar sobre a NCR?}
+{132}{}{Deixe-me perguntar-lhe sobre outra coisa.}
+{133}{}{Isso é tudo o que preciso saber por enquanto. Obrigado Adeus.}
+{134}{}{O que mais é a casa de um homem? Sheesh, você foi criado numa tenda ou algo assim?}
+{135}{}{Na verdade ... eu estava.}
+{136}{}{Já ouvi o suficiente de você, maldito fanático. Adeus.}
+{137}{}{Oh sim. Bem, acho que isso explica as coisas, então. Muitas coisas. Heh heh.}
+{138}{}{Agora que corrigimos isso, deixe-me perguntar-lhe outra coisa.}
+{139}{}{Sim, eu aposto que tem. Adeus.}
+{140}{}{Vault City (Jimmy cuspi-se com desdém). Sim, vou falar sobre esses filhos de cadela. Fodendo
+ Os bastardos são muito bons para o resto de nós. Eles apenas nos comercializam porque precisam do nosso ouro.
+ Caso contrário, eles simplesmente nos deixariam apodrecer. Eu não passaria muito tempo lá, criança. Mas se você quiser ver
+ Ben Wade sai daqui no dia 1 de cada mês.}
+{141}{}{O que você pode me falar sobre o New Reno?}
+{142}{}{O que você pode me falar sobre a NCR?}
+{143}{}{Thanks. Deixe-me perguntar-lhe sobre outra coisa.}
+{144}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+{145}{}{Agora é uma cidade. Apenas certifique-se de manter sua inteligência sobre você e sua arma à mão. Muitas
+ lutando indo lá. Se essas famílias já trabalharam juntas em alguma coisa, então o novo Reno'd realmente será
+ um poder a ser contado com. Do jeito que é ... Pffft. Você quer chegar lá, junte-se a Savinelli -
+ Ele sai aqui no dia 21 de cada mês.}
+{146}{}{O que você pode me falar sobre o Vault City?}
+{147}{}{O que você pode me falar sobre a NCR?}
+{148}{}{Thanks. Deixe-me perguntar-lhe sobre outra coisa.}
+{149}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+{150}{}{A Nova República da Califórnia está cheia de filhos de puta auto-justos. Eles possuem
+ tudo em seu caminho, tudo se endireitou tudo bem. Um pouco heterossexual. Eles são como eu
+ bem como um monte de como você poderia encontrar. Stanwell corre uma caravana daqui até a NCR no dia 11
+ cada mês.}
+{151}{}{O que você pode me falar sobre o Vault City?}
+{152}{}{O que você pode me falar sobre o New Reno?}
+{153}{}{Thanks. Deixe-me perguntar-lhe sobre outra coisa.}
+{154}{}{Isso é tudo o que preciso saber por enquanto. Adeus.}
+{155}{}{Um Kit de Criação do Jardim do Éden? Eu não sei com certeza, 'cept eu sei que não temos um deles
+ Aqui. Hmm. Você pode tentar um cofre. Eles devem ter todos os tipos de coisas teck-não-lógicas, não é
+ eles?}
+{156}{}{Suponho que vou ter que tentar isso. Deixe-me perguntar-lhe outra coisa.}
+{157}{}{Obrigado pela dica. Adeus.}
+{158}{}{Sim, eu ouvi dizer que eles receberam um novato para ir buscar a mina de Wanamingo por um velho
+ parte.}
+{159}{}{Ouvi dizer que o xerife fez com que alguém fizesse algum trabalho sujo para ele.}
+{160}{}{Ainda não aconteceu ultimamente, acho. Apenas a escavação habitual, e caravanas e outras coisas.}
+{161}{}{Sim, bem, esse novato é eu. Tem um problema com isso?}
+{162}{}{Alguém tem que manter ordem neste poço de pulga de uma cidade.}
+{163}{}{Deixe me perguntar algo.}
+{164}{}{Eu apenas pensei em verificar. Obrigado e tchau por agora.}
+{165}{}{Não, nenhum problema. Você sabe que você está mexendo com a política com isso, não é?}
+{166}{}{O que você quer dizer?}
+{167}{}{Sim claro. Adeus.}
+{168}{}{Bem, qualquer que seja o dono da mina, você vai fazer muito bem com isso. Bem o suficiente para
+ Coloque o outro fora do negócio.}
+{169}{}{E…?}
+{170}{}{A isso se chama capitalismo, meu amigo. Adeus.}
+{171}{}{Bem, se a mina que você dá para o chip é a Mina Kokoweef, então vamos ver
+ muito mais Jet na cidade. Se você entregar o chip para Dan McGrew no Morningstar, vamos conseguir um
+ Muita daqueles NCR vomitam ao redor, em vez disso. De qualquer forma, alguém ganha um "alguém perde.}
+{172}{}{Se não o fizesse, outra pessoa faria. Conte-me sobre outra coisa.}
+{173}{}{Esse é o caminho do mundo, não é? Adeus.}
+{174}{}{Enquanto não sou eu, pally. Desde que não sou eu.}
+{175}{}{Deixe me perguntar algo.}
+{176}{}{Apenas checando. Até logo.}

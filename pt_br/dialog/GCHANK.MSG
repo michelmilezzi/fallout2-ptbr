@@ -1,0 +1,76 @@
+{100}{}{Você vê um ghoul brilhante com um olhar preocupado em seu rosto.}
+{101}{}{Você vê Hank o ghoul brilhante, um trabalhador aqui no powerplant.}
+{102}{}{Você vê um ghoul incandescente monitorando alguns medidores de usina.}
+
+{110}{}{Olá, sou Hank. Eu cuido do interior do núcleo do reator. Não precisa ser tão importante
+ feito lá.}
+{111}{}{Olá, bom de você me visitar de novo. Sinta-se agradável e gostoso, perto do núcleo. A maioria
+ Os smoothies não se importam com isso.}
+{112}{}{Oi, Hank. Eu preciso entrar no Core.}
+{113}{}{Hank, eu tenho um relatório de refrigerante de Harold que você precisa ver. Aqui está.}
+{114}{}{Oi, Hank. Estou apenas a fazer o passeio. Adeus.}
+
+{120}{}{Heh heh. Eu não aconselharia isso, sem problemas. Você frite em um crisp. Eu, eu gosto do calor, mas eu
+ não o recomendaria para você. Muito calor e radiação lá. É por isso que os batidos
+ que construiu este lugar incluiu um bot de manutenção.}
+{121}{}{Bot de manutenção?}
+{122}{}{Obrigado. Adeus.}
+
+{130}{}{Deixe-me olhar isso. De acordo com isso, nosso nível de refrigerante é muito alto. Eu pensaria
+ que desligar o refrigerante levaria à fusão imediata, mas acho que não. É melhor eu me desligar
+ o refrigerante agora.}
+{131}{}{Esse relatório diz que nosso nível de refrigerante era muito alto. Devo desligar o refrigerante agora, não é?
+ pensar?}
+{132}{}{Bom pensamento, Hank. É melhor eu ir. Adeus.}
+{133}{}{Pensando bem, talvez você deva esperar um momento sobre isso. Deixe-me verificar com Harold antes de você
+ Desligue o refrigerante. Adeus.}
+
+{140}{}{Sim, os batidos que construíram esse lugar também não quiseram fritar, então eles incluíram um robô.
+ Ele foi projetado para executar tarefas de manutenção por controle remoto de um terminal em uma sala para o oeste.}
+{141}{}{Perfeito. Eu posso usar isso.}
+{142}{}{Eu vou ter que verificar isso. Adeus.}
+
+{150}{}{Boa parte, você chegou lá. Apenas o que precisamos.}
+{151}{}{Estou feliz por ter gostado. Quer instalá-lo?}
+{152}{}{Obrigado, eu também gosto muito disso. Adeus.}
+
+{160}{}{Eu gostaria de ajudá-lo, mas eu não saberia como instalar algo assim. Eu principalmente apenas
+ Veja os indicadores aqui. Tente Festus. Ele é o genio das partes residentes - apenas pergunte a ele.}
+{161}{}{Onde está Festus?}
+{162}{}{Existe alguma outra maneira?}
+{163}{}{OK. Adeus.}
+
+{170}{}{Você fala com Festus sobre a instalação dessa parte ainda?}
+{171}{}{Onde ele está?}
+{172}{}{Existe alguma outra maneira?}
+{173}{}{Ainda não. Talvez eu vá fazer isso agora. Adeus.}
+
+{180}{}{Festus está fora do jeito que você entrou. Ele está na sala de controle. Não pode sentir falta dele ... ele é odoroso,
+ Choramingando um pouco sobre esse enorme ego. Ele deve poder ajudá-lo.}
+{181}{}{Obrigado. Adeus.}
+
+{190}{}{Bem, se você pudesse controlar o robô de manutenção, ele poderá instalá-lo. Ou, você poderia
+ apenas entre lá e instale-o sozinho.}
+{191}{}{Robô de manutenção?}
+{192}{}{Instalá-lo eu mesmo?}
+
+{200}{}{Bem, não funcionou muito bem ultimamente. Mantivesse o superaquecimento. Nós não precisamos usá-lo de qualquer maneira, então
+ Nós não nos incomodamos de consertar o calor protegido. Se você consegue descobrir os códigos de controle e não executar
+ por muito tempo, você pode conseguir que ele faça o que quiser.}
+{201}{}{Obrigado. Adeus.}
+
+{210}{}{Obrigado por consertar o reator.}
+{211}{}{É mais legal aqui ultimamente?}
+{212}{}{Obrigado por nos ajudar.}
+
+{220}{}{Nunca ouvi seu zumbido assim.}
+{221}{}{Purring como uma gatinha.}
+{222}{}{Funciona melhor do que nunca.}
+
+{230}{}{Apenas fique fora do caminho e não toque nada.}
+{231}{}{Como você entrou aqui?}
+{232}{}{Por que você não passa um pouco por essas portas? Poço incandescente, bonito. Heh heh,
+ heh.}
+
+{300}{}{Você enganou Hank para começar uma fusão.}
+{900}{}{Você não vê que estou ocupada?}

@@ -1,0 +1,192 @@
+{100}{}{Antes de você ficar, Hakunin, o chaman da vila. Ele o avalia com seus olhos loucos de algum lugar do mundo, só ele habita ...}
+{101}{}{Você vê Hakunin deitado no chão. Ele está gravemente ferido.}
+{102}{}{Você vê Hakunin. Ele está muito perto da morte.}
+{103}{}{Hakunin está gravemente queimado. Ele cheira a galinha assada, parece um bolo de carne queimado, e você não sabe como ele conseguiu permanecer vivo por muito tempo.}
+{104}{hak001}{Saudações, Escolhidas. Por que a Terra antes de mim é aquecida ao toque de sua passagem?}
+{105}{}{Uh?}
+{106}{}{Eu vim dizer adeus. Estou saindo na minha santa missão.}
+{107}{}{Estou saindo. Eu estava esperando apenas isso uma vez que você falava como uma pessoa real.}
+{108}{}{Você está fazendo exatamente muitos chems. Estou fora daqui.}
+{109}{}{Estou ferido. Você pode me curar?}
+{110}{}{Havia algumas plantas bastante desagradáveis   infestando seu jardim - eu cuidei de eles por você.}
+{111}{hak001a}{Por favor, revele a olhos nublados o propósito de sua passagem.}
+{112}{}{Uh?}
+{113}{}{Eu vim dizer adeus. Estou saindo na minha santa missão.}
+{114}{}{Estou saindo. Eu estava esperando apenas isso uma vez que você falava como uma pessoa real.}
+{115}{}{Você está fazendo exatamente muitos chems. Estou fora daqui.}
+{116}{}{Havia algumas plantas bastante desagradáveis   infestando seu jardim - eu cuidei de eles por você.}
+{117}{hak002}{A Terra canta com a notícia de um campeão sobre a terra ... Talvez, antes de você, você daria uma gentileza?}
+{118}{}{Certo. O que você precisa?}
+{119}{}{Depende ... o que você me dará?}
+{120}{hak002a}{As opiniões do mundo são muitas - uma lição que você aprenderá em breve ... Talvez, antes de colher as experiências da vida, você daria uma gentileza?}
+{121}{}{Você me pediu para fazer um favor? Em caso afirmativo, claro, por que não?}
+{122}{}{Eu farei algo por você, mas desde que eu tenho que trabalhar tão duro só para te entender, essa tarefa custará.}
+{123}{hak003}{Uma benção para você, pois você é verdadeiramente um filho da natureza. Você poderia usar seus talentos especiais e livrar meu jardim das plantas da alma escura?}
+{124}{}{Uh-huh.}
+{125}{}{Nuh-uh. Youuu. Giv. Hed doeu.}
+{126}{hak004}{Que sua aura aproveite minha presença quando você estiver ... Oh, venha à minha porta quando terminar e eu lhe darei algo de bom.}
+{127}{}{Urgh.}
+{128}{hak005}{As plantas da alma escura infestaram meu jardim novamente. Muitas estações tocaram meus ossos e eu sou muito frágil para essa luta que é eterna na natureza. Peço que você seja meu campeão.}
+{129}{}{Acho que não. Preciso iniciar minha busca imediatamente.}
+{130}{}{Eu sei que você não é um cara ruim, mas já tenho dor de cabeça, então acho que vou ter que passar.}
+{131}{}{Esqueça. Eu sou o futuro líder desta tribo e seria indigno para mim fazer sua jardinagem para você.}
+{132}{}{Eu ficaria honrado, santo.}
+{133}{}{Você me pediu que removasse seu jardim? Se for esse o caso, está bem.}
+{134}{}{Por um preço.}
+{135}{hak006}{Pedir o pagamento de um presente irá trazer você menos do que o presente presente. Eu vou dar-lhe tal e adicionar a lição de sua auto-decepção no recebimento.}
+{136}{}{Bom o bastante. Onde está o jardim?}
+{137}{}{Você sabe, um bom presente seria falar com o inglês!}
+{138}{}{E se eu tiver uma lição de desapontamento e sair agora? Tchau.}
+{139}{}{Bem, se essa é a sua atitude, não acho interessado. Adeus.}
+{140}{hak006a}{Se falamos as mesmas palavras, queremos dizer o mesmo? As palavras sempre carregam o mesmo toque de uma alma?}
+{141}{}{Oh sim. Muito melhor. E a lição que aprendi é calar a boca e perguntar onde está o jardim.}
+{142}{}{Vamos tentar a palavra "adeus". Isso significa que eu vou embora.}
+{143}{hak007}{Certamente você lembra que é para o nordeste, tolo.}
+{144}{}{Obrigado pela ajuda.}
+{145}{}{Obrigado. Na verdade, entendi isso.}
+{146}{}{Você está me chamando de idiota? Eu não acho que eu quero ajudá-lo, afinal.}
+{147}{}{Volto para o meu pagamento em breve.}
+{148}{hak008}{O peso que você carrega agora vai crescer cada vez mais pesado.}
+{149}{hak009}{Que os deuses abençoem seus esforços, Escolhidos. Que sua aura aproveite minha presença quando a terra respirar novamente.}
+{150}{}{Eu aceito que você quer me ver novamente quando terminar ... Você poderia ter dito isso, você sabe.}
+{151}{}{Adeus.}
+{152}{hak010}{Ha! O espírito do fundador vive em você. Concentre-se em fortalecer o eu para expandir a grandeza para permitir que tal toque o mundo. É claro que as recompensas serão mais do que as do espírito.}
+{153}{}{Parece bom. Volto quando terminar.}
+{154}{}{Então, estou recebendo uma coisa real em pagamento. Bom o bastante. Te vejo mais tarde.}
+{155}{}{Eu acho que você já jogou muito com essas plantas. Para evitar o seu destino, eu estou ficando longe do jardim.}
+{156}{hak011}{O tempo não pode ser desperdiçado ou salvo - sempre deve ser agora. As ações criam o tecido de sua vida.}
+{157}{}{Uh, right. Like I said, I've got to go. Adeus. }
+{158}{}{Você sabe, falar com você me faz pensar que não pode ser uma idéia desperdiçada. Estou fora daqui.}
+{159}{}{Se eu tivesse sua sabedoria, sabia. Perdoe-me, claro, eu vou cuidar disso.}
+{160}{hak012}{Você pode suportar o manto do Escolhido, mas sua alma escura chora de dentro.}
+{161}{}{Eu imploro seu perdão, um santo. Como posso limpar minha alma?}
+{162}{}{Isso é certo, Hakunin, e você seria um verdadeiro homem sábio para não esquecê-lo.}
+{163}{}{Minha cabeça chega de dentro, ouvindo você. Estou fora.}
+{164}{}{Booka!}
+{165}{hak013}{Limpe sua alma como você baniaria demônios do meu jardim.}
+{166}{}{Deve ser feito, sábio. Eu vou buscar o seu perdão depois de ter purificado seu jardim.}
+{167}{}{Você está tentando dizer que a remoção do seu jardim será boa para mim, certo? Bem, ok, vou tentar.}
+{168}{}{Eu meio que gosto da minha alma do jeito que é. Tchau.}
+{169}{}{Eu não sou digno. Agora vou embora agora.}
+{170}{hak014}{Escolhido, mais uma vez, a totalidade do seu ser é como uma terra abençoada.}
+{171}{}{Obrigado.}
+{172}{}{Você quer dizer que estou melhor, certo?}
+{173}{hak015}{Para fazer um todo instilar uma sensação de plenitude que você seria bom para entender, Escolhido.}
+{174}{}{Espere, não me diga. Estou melhor e você se sentiu bem, certo? Obrigado.}
+{175}{}{Você é sábio e gentil, Santo.}
+{176}{hak017}{De que forma posso tocar a alma escolhida, Seed of the Dweller?}
+{177}{}{Uh, onde exatamente é o seu jardim?}
+{178}{}{Estou ferido. Você pode me curar?}
+{179}{}{Oh, nothing. Adeus.}
+{180}{hak018}{Ahh. Você retorna o espírito do morador para o mundo e traz um sorriso para a alma de um velho de passagem. Por isso, dou-lhe pó de cura. Lembre-se, eles encobrem a mente enquanto limpam o corpo.}
+{181}{}{Obrigado.}
+{182}{hak018a}{E também, vou misturar a flor broc com a raiz xander sempre que você me traga. Que seus caminhos sejam verdadeiros e seu coração siga o exemplo.}
+{183}{}{Onde posso encontrar essas coisas?}
+{184}{}{Obrigado.}
+{185}{}{Eu quase desculpe ir. Eu posso apenas entender você agora. Tchau.}
+{186}{hak019}{Ah, Escolhido, meu jardim está bem ... como é seu?}
+{187}{}{Estou bem.}
+{188}{}{Preciso de cura.}
+{189}{}{Onde você disse que as plantas estavam?}
+{190}{}{Eu não tenho um jardim - de que diabos você está falando sobre esse tempo?}
+{191}{}{Eu gostaria que você fizesse um pouco de cura para mim.}
+{192}{}{Oh, não importa. Eu tenho que ir.}
+{193}{}{Ow?}
+{194}{}{Ooog! Bak!}
+{195}{hak020}{The pleasure of these words fills me. Alas, the gods whisper for my ear. Adeus.}
+{196}{}{Tchau.}
+{197}{}{Ainda está misturando as ervas, hein? Até logo.}
+{198}{hak021}{Todos temos jardins. Que suas jornadas atuem como tendências. Fique bem. Devo procurar audiência com os deuses agora.}
+{199}{}{Até mais.}
+{200}{}{Estou a apostar que você carrega seu público com você onde quer que você vá. Fique bem.}
+{201}{hak022}{Olhe para o norte, Escolhido, e o caminho estará aberto.}
+{202}{}{OK. Obrigado.}
+{203}{hak023}{Tenho a honra de servir o Escolhido.}
+{204}{hak024}{Como a vida. Dois cria um terceiro. Você precisará da raiz xander e da flor broc para o pó de cura.}
+{205}{}{Oh. obrigado}
+{206}{}{Cocô.}
+{207}{hak025}{Isso não pode ser útil.}
+{208}{}{OK. Obrigado.}
+{209}{}{Uh!}
+{210}{hak026}{Você está bem.}
+{211}{}{Obrigado.}
+{212}{}{Sem aulas? Não há discursos incompreensíveis? Você tem certeza de que está bem?}
+{213}{hak027}{Bem-vindo, Escolhido. Abençoe-nos com palavras que o GECK será encontrado em breve. Nossa aldeia é nossa, nossa necessidade é excelente, nosso tempo, curto.}
+{214}{}{Nuh.}
+{215}{}{E sua capacidade de falar normalmente, inexistente. Eu ainda estou tentando.}
+{216}{}{Estou com isso.}
+{217}{}{Sai das minhas costas, velho. Estou fazendo o melhor que posso.}
+{218}{}{Ainda estou olhando, santo. Espero ter o GECK em breve.}
+{219}{hak028a}{Que a Terra amorteça os passos que você deve tomar.}
+{220}{hak028b}{Que as Águas aliviem sua jornada.}
+{221}{hak028c}{Que o vento o guie para o seu objetivo.}
+{222}{hak028d}{Que o fogo brinde o seu fundo até você terminar.}
+{223}{}{Obrigado.}
+{224}{}{Dizer oque?!}
+{225}{}{Uh.}
+{226}{}{Hã?!}
+{227}{hak029}{Bem-vindo de volta, Escolhido. Eu vejo ao seu lado que a salvação do GECK ainda não é nossa. Seja incansável como a formiga antes de nossas reservas acabarem. Você é a nossa última esperança.}
+{228}{}{Uh-huh.}
+{229}{}{Estou tentando. Gostaria de ver a formiga cobrindo as milhas que eu estou.}
+{230}{}{Estou fazendo o meu melhor.}
+{231}{}{Dobro meus esforços, um santo. Eu não vou te decepcionar.}
+{232}{}{Sim sim. Já ouvi tudo isso antes.}
+{233}{hak030}{Escolhido - a aldeia chora em desespero. As crianças são fracas com fome. Por favor, não podemos aguentar muito mais.}
+{234}{}{Uh-huh.}
+{235}{}{Estou tentando. Estou tentando! Me dá um tempo!}
+{236}{}{Encontro o GECK, um santo. Você tem minha palavra.}
+{237}{}{Eu vou fazer o meu melhor para encontrar o GECK.}
+{238}{hak031}{Escolhidas, as areias do tempo são apenas alguns grãos. Por favor. Traga o GECK em breve e faça o futuro da aldeia como a praia do oceano. Rapidamente, antes do último grão cai.}
+{239}{}{Uh-huh.}
+{240}{}{Tudo certo. Eu vou para encontrá-lo.}
+{241}{}{A vida é uma praia, hein?}
+{242}{}{Encontro o GECK, um santo. Eu não deixarei nosso povo para baixo.}
+{243}{hak032}{Escolhidos, os espíritos de nossos ancestrais me guiam para um mundo de sonhos que eu possa tocar pensamentos. Nossa vila sofre sem o sagrado GECK. Suas mãos sustentam nossas vidas enquanto um pai segura seus filhos.}
+{244}{hak033}{Mais uma vez meu espírito o toca do vazio, Escolhido. Nossos cultivos falham, nossas reservas são escassas. Retorne-nos com o GECK. O seu fracasso é a nossa última luz.}
+{245}{hak034}{Escolhido. A aldeia enfraquece. É mais difícil tocar seus sonhos. Você deve se apressar ou todos nós ...}
+{246}{hak035}{Escolhido? Escolhido? Você me ouve? A aldeia morre. Todos os nossos futuros morrem também. Temos pouca distância no tempo e na essência ... Pressa. Pressa...}
+{247}{hak101}{Escolhida - a sombra da escuridão chegou antes de você.}
+{248}{}{Owwww!}
+{249}{}{O que aconteceu?}
+{250}{}{Você parece ruim. Deixa-me ajudar.}
+{251}{hak102}{Criança da Natureza, como podemos colocar uma carga tão pesada sobre seus ombros? (Suspiro) Seu povo foi levado.}
+{252}{}{Uhh?}
+{253}{hak103}{Sim. Foi. Muitas almas escuras chegaram, montando as aves de metal como um bando de bichos com chifres famintos, escondendo o mal em peles brilhantes.}
+{254}{}{Ooo! Shiny Purty!}
+{255}{hak104}{Não! Não brilhante linda! Eles seqüestraram nosso povo e os levaram para o sudoeste.}
+{256}{}{Ow.}
+{257}{hak105}{Sim. Grande tristeza e dor. Eu estou entre os mundos para lhe dizer, Escolhido. Salve suas pessoas.}
+{258}{}{Uh?}
+{259}{hak106}{Escolhido, deixe minhas palavras tocá-lo. Vá para o sudoeste. Sul e oeste. Salve nossa gente. Salve nossa gente.}
+{260}{}{Uh-huh ..}
+{261}{hak107}{Agradeça aos antepassados. Agora, minha alma, minha união com a música eterna. Viagem segura, escolhida.}
+{262}{}{Ir?}
+{263}{hak108}{Ir!...}
+{264}{}{Tchau tchau.}
+{265}{hak109}{Almas das trevas chegaram. Eles levaram todos.}
+{266}{}{Almas escuras? O que você quer dizer?}
+{267}{hak110}{Chegou uma onda de vento. Nela estavam ótimas libélulas que cuspiravam chama. Os homens maus se arrastaram das barrigas dos animais e trouxeram a morte aos nossos guerreiros.}
+{268}{}{Nossos guerreiros não conseguiram detê-los?}
+{269}{hak112}{O espírito estava disposto, mas as pontas de lança eram fracas. Os malvados queimaram nossos guerreiros com as luzes do inferno.}
+{270}{}{Eles mataram todos?}
+{271}{hak113}{Todos estavam mortos ou tomados. Meu espírito voltou a carne apenas para revelar a verdade aos Escolhidos.}
+{272}{}{O que aconteceu com os tomados?}
+{273}{hak114}{As bestas engoliram tudo, depois levaram os ventos.}
+{274}{}{Uh, de onde foram os ventos que seguiram?}
+{275}{hak115}{Você nunca ouviu quando ensinei a dança anual dos espíritos do vento? Sul, é claro.}
+{276}{}{Suas descrições foram tão vívidas e poderosas, grande Hakunin, que muitas vezes fui atingido sem sentido durante a duração das suas lições.}
+{277}{}{Ah, esses ventos. Claro.}
+{278}{hak116}{Sim, eles viajaram pelo vento para o sul. Eu ouvi as almas das trevas falarem. Eles planejaram descansar seus animais em um lugar chamado Navarro antes de atravessar a grande bacia das nossas lágrimas de terra-mãe.}
+{279}{}{O que devo fazer?}
+{280}{}{Bacia de lágrimas?}
+{281}{hak117}{Para mim, nada. Escolhido, você deve buscar a dobra das sombras e resgatar nosso povo.}
+{282}{}{Eu vou tentar.}
+{283}{hak118}{Você é o Escolhido. Você deveria fazer.}
+{284}{}{Hakunin?}
+{285}{}{Primeira vez eu entendi o que você quis dizer.}
+{286}{hak120}{Um oceano de lágrimas, chorou por uma mãe para seus filhos.}
+{287}{}{Oh, o oceano. Mas o que devo fazer?}
+{288}{hak121}{Uma estranha névoa roubou suas mentes e as enviou para a terra do sono. Os malignos caminharam entre os sonhadores, mas não sonharam.}
+{289}{}{E depois?}
+{290}{hak122}{Muitas temporadas e muitas feridas, Escolhidas. Em vez disso, você deve ouvir.}
+{291}{}{Tudo certo.}

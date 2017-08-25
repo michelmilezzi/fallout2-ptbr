@@ -1,0 +1,164 @@
+{100}{}{Você vê um homem de aparência muito cansado com um casaco branco.}
+{101}{}{Você vê o Dr. Curling, chefe do Chemical Corps dos Estados Unidos.}
+{102}{}{Você vê um homem em um casaco de laboratório manchado de substâncias químicas.}
+{103}{}{O que você está fazendo?}
+{104}{}{Acho melhor fazer você voltar na sua cela.}
+{105}{}{Guardas! Temos outro solto.}
+{106}{}{Espere aqui, ligarei para alguém para cuidar de você.}
+{107}{}{Interessante. Não percebi que a toxina os tornava mais burros.}
+{108}{}{Olá? Olá. Tem alguém aí?}
+{109}{}{Como você chegou aqui, mesmo assim?}
+{110}{}{Saia do meu laboratório, soldado.}
+{111}{}{Isso não faz parte da sua rota de patrulha.}
+{112}{}{Saia daqui, ou ligarei para o seu sargento.}
+{113}{}{Mantenha-se em movimento, trooper.}
+{114}{}{Eu não relatei nenhum problema aqui.}
+{115}{}{Bem-vindo à seção Chemical Corps, trooper. Sou o tenente coronel Dr. Charles Curling. Agora que fomos apresentados - saia do meu laboratório.}
+{116}{}{Eu não sou quem você pensa que eu sou. Eu estou}
+{117}{}{ de Arroyo e temos algo sobre o que falar.}
+{118}{}{Desculpe senhor. Meu erro. Adeus.}
+{119}{}{Estações de alarme de todos.}
+{120}{}{Saia do meu caminho!}
+{121}{}{Limpar para a ação!}
+{122}{}{Saia daqui, estou muito ocupado para lidar com você.}
+{123}{}{Você não ouviu o alarme?}
+{124}{}{Corra para cobrir! O alarme soou!}
+{125}{}{Espero que haja botes salva-vidas suficientes.}
+{126}{}{Todo mundo fora!}
+{127}{}{Bem,}
+{128}{}{, Não sei como você escapou da sua cela, mas não acho que possamos falar sobre isso.}
+{129}{}{É aí que você está enganado. Algumas vezes.}
+{130}{}{Você está certo. Estou aqui para matar você.}
+{131}{}{Tu podes estar certo. Adeus.}
+{132}{}{Eu sou o tenente coronel Dr. Charles Curling, Chemical Corps dos Estados Unidos. E quem é o inferno sagrado?}
+{133}{}{Eu sou o seu pior pesadelo - um mutante com uma arma e uma atitude.}
+{134}{}{Eu estou}
+{135}{}{ de Arroyo, e temos algo sobre o que falar.}
+{136}{}{Eu estousomeone that needs to talk to you.}
+{137}{}{Você precisa falar comigo? Quem é você e por que devo passar o tempo falando com você?}
+{138}{}{Eu estoufrom Arroyo and I need to talk to you about saving thousands of lives.}
+{139}{}{Eu estou}
+{140}{}{ and you better talk to me because Eu estouholding all the aces here.}
+{141}{}{Você está certo. Não há nada para o que falar. Você mesmo é um homem morto.}
+{142}{}{Continue, médico. Eu vou deixar você agora. Adeus.}
+{143}{}{O recurso final de todas as primitivas minúsculas. É tão fácil ver o que o separa de humanos reais como nós.}
+{144}{}{Você está tão segura de você mesmo, não é?}
+{145}{}{Você foda-se. Você precisa ser guardado, agora mesmo.}
+{146}{}{Não vejo que seja necessário falar com um mutante. Logo, quando os humanos reais retomarem o planeta por conta deles, você será apenas outro lembrete infeliz da guerra.}
+{147}{}{Real humans? What are you talking about? Eu estouas human as you are.}
+{148}{}{Tenho um lembrete infeliz para você, aqui mesmo no meu coldre.}
+{149}{}{Guardas! Socorro! Guardas!}
+{150}{}{Guardas! Heeeelllllp!}
+{151}{}{Ajuda necessária na seção Química! Urgente!}
+{152}{}{Guardas! Alarme! Guardas!}
+{153}{}{Eu não deveria estar? Nossa pesquisa sobre os aldeões mostra claramente mudanças em seu DNA. É um resultado natural de toda a radiação de fundo.}
+{154}{}{Então, e se o nosso DNA for um pouco diferente?}
+{155}{}{Eu não sei o que isso significa exatamente, mas então, e se um pouco diferente?}
+{156}{}{Não, na verdade não. Você é bastante diferente, pelo menos seu DNA é. Um efeito bastante infeliz de gerações de radiação de fundo, eu suponho.}
+{157}{}{Então, e se o nosso DNA for um pouco diferente?}
+{158}{}{Não sei o que isso significa, mas, e se fiquemos um pouco diferentes?}
+{159}{}{Oh, seu DNA, é mais do que apenas um * pouco * diferente. É bem diferente. Se eu não estivesse tão pressionado por tempo pelo Projeto, eu estaria interessado em executar testes adicionais em seu povo, além do F.E.V. estudo toxicológico, é claro. Fascinante trabalho realmente.}
+{160}{}{Sobre o que você queria saber?}
+{161}{}{Como o nosso DNA é diferente?}
+{162}{}{Você está executando testes na minha tribo?}
+{163}{}{O que diabos é "o projeto?"}
+{164}{}{Já ouvi o suficiente. Você precisa ser derrubado como um gecko rabioso. Adeus, idiota.}
+{165}{}{Há uma série de, principalmente, mudanças muito sutis. Ainda não tive tempo de examinar as ramificações das mudanças. Além disso, eu teria que retroceder para isolar seu estoque de genes inicial antes que eu possa arriscar quaisquer idéias sobre a direção que as mudanças estão tomando. Apesar de tudo, a informação é suficientemente clara.}
+{166}{}{O que é claro o suficiente? Que informação?}
+{167}{}{Sim talvez. Deixe-me perguntar-lhe outra coisa, médico.}
+{168}{}{Why the information that you and your tribe are no longer human, of course. Since your tribe has only been out of a vault (let's see Vault 13 wasn't it?) for some eighty-odd years, anyone out longer is certain to have been even more compromised. Yes, Eu estouafraid that the conclusion is unavoidable.}
+{169}{}{Conclusão? Que conclusão?}
+{170}{}{Por que, pensei que eu me tornei perfeitamente claro. A conclusão de que você e todos os seus tipos não são mais humanos. Para retomar a terra e manter a integridade da raça humana, todos os seus mutantes terão que ser destruídos.}
+{171}{}{Destruído? O que você quer dizer?}
+{172}{}{O Projeto que o Enclave se dedicou a estas últimas décadas foi o restabelecimento da raça humana sobre os Estados Unidos continentais. Deus abençoe a America.}
+{173}{}{Isso não parece que levaria décadas para alcançar.}
+{174}{}{Já ouvi o suficiente disso. Deixe-me perguntar-lhe outra coisa.}
+{175}{}{Oh, apenas estabelecer um posto avançado não demoraria muito. Estamos todos preparados para isso no Navarro. Mas demorou muito para elaborar o método adequado para o procedimento de erradicação.}
+{176}{}{Procedimento de erradicação?}
+{177}{}{Por que sim, não podemos voltar para o continente apenas para arriscar a contaminação de todos os humanos próximos mutantes lá. A fim de tornar os Estados Unidos seguros para a humanidade, todos os mutantes devem primeiro ser exterminados.}
+{178}{}{O que!?! Você está louco? Isso é monstruoso?}
+{179}{}{Exterminado? Como você irá fazer aquilo?}
+{180}{}{Acho que não. Eu prefiro vê-lo como o darwinismo social no seu melhor. A sobrevivência dos melhores capazes de assegurar sua própria reprodução. O sucesso das gerações futuras, de toda a raça humana, depende de nós.}
+{181}{}{A mudança é provavelmente a única constante universal. Só porque somos diferentes não nos deixa mal. Seja como for, somos uma prova viva da resiliência da humanidade. Como tal, merecemos sobreviver até * mais * do que suas pessoas.}
+{182}{}{Você parou para considerar que, apesar de sermos diferentes, somos tão humanos quanto você?}
+{183}{}{Você não terá gerações futuras, doc. Porque você vai morrer.}
+{184}{}{Eu nunca tinha parado de pensar nisso assim ... Por favor, me dê um minuto, enquanto eu penso isso com muito cuidado.}
+{185}{}{Isso está ok. Tome seu tempo, médico. É um grande conceito para engolir.}
+{186}{}{Você não tem um minuto. Seu tempo acabou por algum tempo pronto. Adeus, idiota.}
+{187}{}{Isso é absurdo. Você não é mais como eu do que uma vaca mutada, de duas cabeças, é como uma novilha normal.}
+{188}{}{Se houvesse vacas mono-dirigidas ao mesmo tempo, elas já desapareceram. Mas a vaca, como espécie, sobreviveu e cresceu mais forte. A mudança é parte integrante da ordem natural.}
+{189}{}{Matar todos no continente é simplesmente errado.}
+{190}{}{Eu estoutired of all your bull. Time to meet your maker, Dr. Death.}
+{191}{}{You're kind clearly isn't capable of understanding what Eu estoutrying to tell you. It's hopeless. You should leave now.}
+{192}{}{Bem,I tried. Time to die, bigot.}
+{193}{}{All right, Eu estougoing. One of us is hopeless and I don't think it's me. Goodbye.}
+{194}{}{Estudos toxicológicos sobre a eficácia do F.E.V. toxina, sim.}
+{195}{}{O F.E.V. toxina? O que é isso?}
+{196}{}{Deixe-me perguntar-lhe sobre outra coisa.}
+{197}{}{O F.E.V. toxina. É a solução perfeita para este difícil problema.}
+{198}{}{Qual é o F.E.V. toxina?}
+{199}{}{Espere um minuto. Deixe-me perguntar-lhe outra coisa.}
+{200}{}{Uma das nossas patrulhas encontrou os dados da pesquisa, e várias amostras, sobre o F.E.V. vírus em uma antiga base de pesquisa militar que tinha sido quase completamente destruída.}
+{201}{}{Ok, agora eu sei onde você encontrou, mas o que ele faz?}
+{202}{}{O F.E.V. foi inicialmente concebido como um vírus que deveria transformar seres humanos em super-soldados. Esse experimento parece ter sido um fracasso total, embora tentei com algum sucesso uma modificação do vírus em um dos nossos agentes do Serviço Secreto.}
+{203}{}{Ótimo para você, mas como isso tem algo a ver com a erradicação de todos?}
+{204}{}{Oh, sim, bem, eu estava chegando a isso ... .O F.E.V. O vínculo do vírus é específico da espécie, ele só irá se unir com as proteínas glicômicas humanas. Levou apenas alguns anos para ajustar o F.E.V. vírus para torná-lo mais letal do que tudo pronto. O resultado foi exatamente o que o médico ordenou, perfeito em todos os sentidos.}
+{205}{}{Perfeito? Como assim?}
+{206}{}{Não é óbvio, meu amigo mutado? O F.E.V. é, graças a mim, uma toxina letal, e graças a um genio misterioso chamado, de forma bastante dramática, o Mestre, só funciona em seres humanos, mutação ou não.}
+{207}{}{Assim?}
+{208}{}{Isso significa que temos o dispositivo de eliminação perfeito para todos os mutantes quase humanos que infectam o globo.}
+{209}{}{Ainda não entendo como isso é * perfeito. *}
+{210}{}{Tenho que te perguntar sobre algumas de suas outras idéias loucas.}
+{211}{}{O F.E.V. A toxina só irá atacar os seres humanos, deixando tudo o mais vivo, melhor ainda, dentro de um mês, todos os mutantes estarão mortos e o F.E.V. A toxina vai morrer assim que ficar sem os anfitriões.}
+{212}{}{Não pode haver suficientes verti-birds aqui para espalhar a toxina em todo o mundo.}
+{213}{}{Eu estougoing to make you a host to some high-energy projectiles. Say your prayers.}
+{214}{}{Você está certo, não há. Mas não precisamos deles. Temos um sistema de lançamento que irá pulverizar o F.E.V. toxina diretamente das cubas para a atmosfera externa. O jetstream cuidará do resto. Saturação global dentro de duas semanas.}
+{215}{}{Duas semanas?}
+{216}{}{Sim, duas semanas para que o vírus se espalhe, mais um mês para que ele siga o curso e depois os Estados Unidos estarão prontos para a recolonização por seres humanos reais. Nossa espécie será salva.}
+{217}{}{Você realmente acha que está fazendo o certo, não é?}
+{218}{}{Você não é o grande humanitário? Tenho que sair daqui antes de matar você. Adeus.}
+{219}{}{Suas espécies podem fazê-lo, mas você está certo de não ir.}
+{220}{}{Sim eu quero. Não há preço muito alto para pagar a sobrevivência de sua espécie.}
+{221}{}{Eu concordaria com você nisso. Ocorreu-lhe que os * mutantes * como você os chama são apenas outro tipo de humano?}
+{222}{}{Eu teria que concordar com você, doc. Eu acho que vou dar um golpe para nós, mutantes. Começando com você!}
+{223}{}{Eu disse que precisava de um momento para pensar sobre isso.}
+{224}{}{Eu realmente preciso de algum tempo para pensar.}
+{225}{}{Esta não é uma decisão instantânea.}
+{226}{}{Eu tenho que pensar sobre isso.}
+{227}{}{Me dê um momento, você não vai?}
+{228}{}{Odeio admitir isso, mas você pode estar certo. O que planejamos ao longo de tudo, não está certo. Fiquei tão cego tentando superar os obstáculos que não pensei na moral da minha missão.}
+{229}{}{Bem,now that you've thought about it. You should destroy the toxin.}
+{230}{}{Isso pode ... Não, isso não funcionaria.}
+{231}{}{Por que não?}
+{232}{}{Porque eles acabariam de começar de novo. Mesmo comigo morto, há dados suficientes entre aqui e Navarro para garantir que eles possam replicar meu trabalho. Somente algo mais drástico será suficiente.}
+{233}{}{Mais drástico? O que você quer dizer?}
+{234}{}{O Enclave deve ser destruído. Completamente destruído. Se não estivermos, então vamos pegar as peças e começar de novo em outro lugar.}
+{235}{}{Eu estousorry to hear that. Uh, Doctor, how do you suggest that the Enclave be destroyed?}
+{236}{}{Eu acho que a melhor maneira é apenas liberar o F.E.V. toxina no sistema de filtração de ar. Como o Enclave é um sistema selado que deve cuidar de todos.}
+{237}{}{E o meu povo? Ou eu? Ou você, para esse assunto?}
+{238}{}{I can release the antidote into the air-system for all the cells. The detention level is served by a separate air system from the rest of the Enclave. Everyone will think that Eu estoujust running another test. You, I can inoculate directly, here and now. (he reaches for you with a syringe)}
+{239}{}{Ouch, obrigado, Doc. O que acontece quando o F.E.V. a toxina é liberada?}
+{240}{}{Ei, espere um minuto, você não está me pegando com essa coisa!}
+{241}{}{Não é bonito. Você deve sair o mais rápido possível. Mas eu preferia ter o peso de mil em minha consciência do que várias centenas de mil. Nosso tempo é por aqui. Tivemos a nossa chance.}
+{242}{}{Como posso libertar meu povo da área de detenção?}
+{243}{}{Você provavelmente deve desligar o poder. Eu sei que o reator é controlado por um computador grande perto do compartimento do reator, mas não sei exatamente o que você precisaria fazer para fechar o reator.}
+{244}{}{Obrigado pela informação que você me deu. Seu sacrifício será lembrado por todos os povos da terra.}
+{245}{}{Sobre o tempo para você chegar aos seus sentidos, você é velho. Agora, mude.}
+{246}{}{Quando as estrelas derrubaram suas lanças,}
+{247}{}{E o céu de água com suas lágrimas,}
+{248}{}{Ele sorriu seu trabalho para ver?}
+{249}{}{Ele quem fez o Cordeiro te fazer?}
+{250}{}{Hã?}
+{251}{}{Oh, apenas algo de que me lembrei de um longo poeta morto. Eu queria saber se ainda há um lugar para aqueles que trabalharam em direção a um fim tão escuro por tanto tempo. O nosso tempo acabou, o seu acaba de começar. Continue!}
+{252}{}{Oh, ok, obrigado por toda sua ajuda, médico. Você é um homem corajoso.}
+{253}{}{Você é um loony - mas um útil loony. Adeus.}
+{254}{}{Continue!}
+{255}{}{Saia daqui.}
+{256}{}{Mova isso!}
+{257}{}{Você não tem tempo para isso!}
+{258}{}{Vá, enquanto você ainda pode!}
+{259}{}{Você não entende? Sem isso você estará morto em questão de horas.}
+{260}{}{Oh, bem, se for esse o caso. Fique longe, doc. O que acontece quando o F.E.V. a toxina é liberada?}
+{261}{}{Sem agulhas, de jeito nenhum, não como. Eu irei me arriscar.}
+{262}{}{Você nunca conseguirá liberar suas pessoas, a menos que você esteja inoculado. Qual é o problema? Com medo de uma pequena picada?}
+{263}{}{Não, acho que não. Enquanto eu não assistir você fizer isso. Youch! Então, o que acontece quando você libera o F.E.V. toxina?}

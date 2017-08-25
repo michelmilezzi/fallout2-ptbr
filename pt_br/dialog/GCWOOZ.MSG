@@ -1,0 +1,282 @@
+{100}{}{Você vê um ghoul alto com cabelos longos.}
+{101}{}{Você vê Wooz.}
+{102}{}{Você vê um ghoul extremamente alto e lanky com cabelos longos.}
+
+{110}{}{Eu sou Wooz. O que você quer?}
+{111}{}{O que você quer agora? Você é burro?}
+{112}{}{Olá. O que você quer?}
+{113}{}{Booze, Wooz.}
+{114}{}{O que você faz aqui?}
+{115}{}{Conte-me sobre este lugar.}
+{116}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
+{117}{}{Eu não quero nada de você. Adeus.}
+
+{120}{}{Acabei de lhe dizer que cada Vault possui um. Isso parece um Vault para você? Você é burro? Por quê
+ Você está procurando um GECK aqui? Experimente um Vault.}
+{121}{}{Onde está o Vault mais próximo?}
+{122}{}{Eu vou te mostrar um idiota. Falar comigo assim é burro. Eu sou o Escolhido, você sabe.}
+{123}{}{Bem, eu estava indo ... e eu pensei que você poderia ... oh, não importa. Adeus.}
+
+{130}{}{Um Kit de Criação do Jardim do Éden? Você quer dizer o dispositivo incluído com cada cofre que é suposto
+ Para ser usado quando as pessoas saem do cofre para restabelecer a civilização?}
+{131}{}{Sim! É isso aí! Onde posso encontrar um?}
+{132}{}{Uh, não, eu quis dizer algum outro Kit de Criação do Jardim do Éden.}
+
+{140}{}{Eu corro esse lugar. Você é burro? Eu vendo bebidas, troco por coisas, conta histórias e jogo Tragic.}
+{141}{}{O que você quer agora?}
+{142}{}{Eu quero uma bebida.}
+{143}{}{Eu quero trocar.}
+{144}{}{Conte histórias?}
+{145}{}{Jogar Tragic?}
+{146}{}{Acho que não preciso de nada agora. Adeus.}
+
+{150}{}{Comércio? Estou sempre pronto para trocar cartões trágicos. Eu tenho um par de velhos Vox Mubies, um preto
+ Dahlia, e algumas Terras Raras.}
+{151}{}{Suponho que você só quer trocar coisas, hein?}
+{152}{}{Que diabos você está falando?}
+{153}{}{Uh, eu não sei o que você está, mas espero que você tenha algum inventário para negociar.}
+{154}{}{Sim, gostaria de negociar.}
+{155}{}{Hmm ... deixe-me perguntar-lhe sobre outra coisa, primeiro.}
+{156}{}{Não preciso negociar agora. Adeus.}
+
+{160}{}{Não há muito a dizer, na verdade. Apenas um monte de ghouls aderindo tenazmente ao fim da vida.}
+{161}{}{Não, queria dizer-me sobre este bar.}
+{162}{}{Bem, isso descreve muitas pessoas. Nada de novo nisso.}
+
+{170}{}{Você quer uma bebida, hein? Bem, temos nossa própria Gamma Gulp Beer a US $ 5 / bottle e, para
+ Ocasiões especiais, o nosso Roentgen Rum em US $ 12 / garrafa.}
+{171}{}{O que será?}
+{172}{}{Gole?}
+{173}{}{Gostaria de uma Gamma Gulp Beer. É suposto brilhar assim?}
+{174}{}{Esta é uma ocasião especial, de um tipo. Eu gostaria de uma garrafa de seu Roentgen Rum.}
+{175}{}{Eu quero comprar uma rodada de sua fabulosa Gama Gamma Gulp para todos aqui.}
+{176}{}{Uh uh, adeus.}
+
+{180}{}{Você não tem dinheiro suficiente. Você é burro?}
+{181}{}{Umb?}
+{182}{}{Oops. Desculpa. Deixe-me comprar outra coisa.}
+{183}{}{Ok, deixe-me fazer uma pergunta, então.}
+{184}{}{Acho que sou burro. Desculpa. Deixe-me perguntar-lhe outra coisa.}
+{185}{}{Burro? Falar assim comigo é muito estúpido, amigo. Você pode se machucar assim.
+ Adeus.}
+{186}{}{Desculpa. Adeus.}
+
+{190}{}{Você quer comprar uma rodada de bebidas para todos aqui? Você deve realmente ser difícil para amigos.
+ Isso custará US $ 35.}
+{191}{}{O custo não é objeto, meu bom homem. Eu gostaria de uma rodada de bebidas para todos aqui, Wooz.}
+{192}{}{Wooz, velho amigo, eu quero comprar uma bebida para todos os meus amigos aqui. Esses caras são os melhores.}
+{193}{}{Wooz, com'ere ... eles são os melhores amigos que uma pessoa poderia ter. Dê outra rodada
+ para todos os meus amigos.}
+{194}{}{Wooz! Dê outra rodada para todos os meus amigos. Eles são os melhores. EU AMO VOCÊS, CARAS! Grupo
+ abraço!}
+{195}{}{Pensando bem, devo ter um buraco na minha cabeça por querer comprar bebidas para um monte de
+ Zumbis apodrecendo.}
+{196}{}{Acho que preferiria comprar uma bebida para mim.}
+
+{200}{}{Eu tenho essa ótima história. É muito engraçado. Você vê que tem essa cabeça, certo?}
+{201}{}{Uma cabeça?}
+{202}{}{Uh, acho que já ouvi essa já. Não tenho tempo para ouvir isso agora. Adeus.}
+
+{210}{}{Você é burro? Tragic the Garnering é a coisa mais formadora de hábitos desde Jet.}
+{211}{}{É como eu estava dizendo. Tragic the Garnering é o jogo a ser jogado.}
+{212}{}{Conte-me mais sobre este Tragic the Garnering.}
+{213}{}{O que é Jet?}
+{214}{}{Acho que vou levar sua palavra para isso. Adeus.}
+
+{220}{}{Hmm, desculpe. Esse é o único que eu conheço. Por sinal, você já viu uma maçã ultimamente?}
+{221}{}{Uma maçã?}
+{222}{}{Estou muito desapontado em falar agora. Adeus.}
+
+{230}{}{Eu adoro maçãs, mas não há muitos deixados em qualquer lugar. Eu quase nunca os vejo.}
+{231}{}{Eu não sabia que você era um fetichista de frutas. Diga-me outra coisa.}
+{232}{}{Ouvi dizer que você pode realmente saborear uma maçã porque eles estavam tão lentos para comer.}
+
+{240}{}{Lento?!? Você é idiota. Foda-se! As maçãs são tão rápidas para comer como qualquer outra fruta. Maçãs
+ regra. Se não fosse por uma conspiração por parte dos fabricantes de frutas, todos nós teríamos maçãs.}
+{241}{}{Você está enlouquecido, não é? Eu acho que você está provando muito da sua própria cerveja aqui. Conte-me
+ Sobre outra coisa.}
+{242}{}{Ah, sim ... as maçãs são realmente maravilhosas. (Você volta devagar) Sim, está certo. Bom Wooz, fácil
+ há. Adeus.}
+
+{250}{}{Eu acho que fomos capazes de entender. Precisa de mais alguma coisa?}
+{251}{}{Na verdade, acho que há algo mais que eu poderia usar.}
+{252}{}{Essa é toda a negociação que quero fazer agora. No entanto, tenho algumas perguntas.}
+{253}{}{Eu não preciso de mais nada agora. Adeus.}
+
+{260}{}{Ah, o Escolhido. Oh meu, eu não percebi. Eu apenas tentarei parar de tremer o suficiente para contar
+ Você é algo então. (Wooz sorri) Venha mais perto e eu vou sussurrar para você.}
+{261}{}{Bem, isso é mais parecido com isso. Eu mereço um pouco mais de respeito por aqui.}
+{262}{}{Eu não estou mais perto de você, você é um freak. Cai fora. Adeus.}
+
+{270}{}{Vault mais próximo? Gee, eu não sei. Talvez você poderia pedir às pessoas na Cidade do Vault onde um Vault
+ pode ser. Vault City é apenas a sul daqui. Você é burro, não é?}
+{271}{}{Eu sabia. Eu estava apenas testando você. Gee, Wooz, você é tão inteligente. Diga-me outra coisa.}
+{272}{}{Eu não estou! Você é o único que é burro. Estou indo embora. Adeus.}
+
+{280}{}{(Wooz atrai você mais perto) Deixe-me sussurrar em seu ouvido ...}
+{281}{}{OK.}
+{282}{}{Acho que não; Você está apenas tentando comer meus cérebros, não é? Estou indo embora. Adeus.}
+
+{290}{}{FODA VOCÊ !!! Agora saia do meu bar. O escolhido. Sheesh, que perdedor.}
+{291}{}{Eu não quero ficar em seu bar estúpido, mesmo assim. Você não teve que gritar assim. Adeus.}
+{292}{}{É isso, seu leproso. Tempo para lhe dar uma pequena inoculação de chumbo.}
+
+{300}{}{Foda-se! Você é idiota. Que diabos você quer aqui?}
+{301}{}{Uh, sinto muito, eu o chateei, Sr. Wooz. Eu só queria te perguntar uma coisa.}
+{302}{}{Foda-me? Foda-se! Sua barra é uma porcaria. Estou fora daqui.}
+{303}{}{Uh, nada. Desculpe, Wooz.}
+{304}{}{Uh, eu contei o quanto eu realmente adoro maçãs?}
+
+{310}{}{Mesmo? Eu não sabia disso. Bem, se você ama maçãs, acho que você não pode ser tudo ruim. Agora, o que
+ Inferno queres?}
+{311}{}{Eu fiz algumas perguntas para você, Wooz.}
+
+{320}{}{Zombies? Foda-se! Nós somos ghouls. Os zumbis são um tipo de mortos-vivos sem livre arbítrio. Embora nós
+ Compartilhar certas características físicas - principalmente, a carne apodrecida e a morbidade característica -
+ Somos criaturas de livre arbítrio. Permita-me demonstrar.}
+{321}{}{Hã?}
+
+{330}{}{Estou demonstrando o meu livre arbítrio, dizendo-lhe que saia! Maldito fanático da pele lisa. Volte para
+ Vault City, onde você pertence.}
+{331}{}{Ghouls, zumbis, quem se importa? Vocês são todos loucos.}
+
+{340}{}{Bem, Tragic the Garnering não é apenas um jogo - é uma obsessão. Também não é uma colônia. Alguns
+ Penso que a forma como muda a vida de uma pessoa é trágica, mas eles simplesmente não entendem.}
+{341}{}{Uh hein.}
+
+{350}{}{Jet é um químico que vem de New Reno. Você nasceu ontem, ou você é apenas burro?}
+{351}{}{Oh, that Jet. Well, sure I knew about that. Conte-me mais sobre este Tragic the Garnering.}
+
+{360}{}{Não mesmo. É maravilhoso. Você deve jogar. Só uma vez. A primeira caixa de cartões é gratuita. Um pouco
+ Algo de mim para você.}
+{361}{}{Obrigado. Ei, estes ficam ótimos. (Você rasga o embrulho) Mmm, eu adoro esse cheiro.}
+{362}{}{Apenas digo "Não" ao Tragic. Adeus.}
+
+{370}{}{Olá. Parece que você é outro jogador trágico. Tem tempo para um jogo? Ou você está bem?
+ Eu estou te chamando.}
+{371}{}{Eu realmente não tenho tempo para ... Bem, quanto tempo um pequeno jogo pode levar ...}
+{372}{}{Claro, apenas deixe-me ... Não! Deve parar. (Sua mão alcança sua plataforma, aparentemente própria
+ Voltagem) Noooooo!}
+
+{375}{}{Eu jogaria Tragic com você, mas parece que eu estou fora das plataformas.}
+{376}{}{Aguarde até a próxima semana, eu vou montar um baralho que não pode ser batido.}
+{377}{}{Você tirou alguns dos meus melhores cartões. Eu odeio esse jogo!}
+
+{380}{}{Essa é apenas a primeira parte. Agora que você é um de nós, quer jogar um jogo?}
+{381}{}{Claro, mas você vai ter que me mostrar como.}
+{382}{}{Eu não acho que realmente tenho tempo para isso agora. Deixe-me perguntar-lhe uma coisa, no entanto.}
+{383}{}{Eu adoraria ficar e trocar cartões trágicos com você, mas eu tenho coisas para fazer. Você sabe, de verdade
+ vida? Adeus.}
+
+{390}{}{Bem, é simples, realmente. Até mesmo alguém burro pode entender. Primeiro, você constrói uma plataforma de jogo
+ Dos cartões que você tem, e então você ...}
+{391}{}{Uh, hein. Você diz que você lida com o terceiro jogador, a menos que seja quinta-feira? Ok, acho que já entendi.
+ Vamos jogar.}
+{392}{}{Talvez eu jogue mais tarde. Obrigado por me dizer como, no entanto. Adeus.}
+
+{400}{}{Você ganhou? Foda-se! Preciso de uma decisão sobre isso. Você acabou de ter sorte, desta vez. Este mastro meu
+ Simplesmente não funcionou. Eu tenho que construir um melhor.}
+{401}{}{Obrigado pelas cartas, Wooz. E eu pensei que você sabia como jogar esse jogo? Eu acho que você é burro.}
+{402}{}{Bem, eles são as pausas, Wooz. Adeus.}
+
+{410}{}{Eu venci! Foda-se! Você é idiota. Eu o apliquei. Agora eu posso construir um deck ainda melhor com o seu
+ Cartões.}
+{411}{}{Uh, sim. Você ganhou. Adeus.}
+{412}{}{Que surpresa. Bem, pelo menos não tive que ouvir uma das suas histórias. Adeus.}
+
+{420}{}{Sem tempo. Vamos. Eu tenho um novo deck que eu quero tentar.}
+{421}{}{OK. Have at you, then.}
+{422}{}{Não, devo resistir à chamada da sirene. Leve-o para trás, Trágico! Deve perguntar outra coisa.}
+
+{430}{}{Eu sei o que você quer dizer. Posso parar sempre que quiser. Apenas não hoje.}
+{431}{}{Você não está brincando. Na verdade, eu queria perguntar-lhe sobre outra coisa.}
+{432}{}{Arrrgh! Deve sair enquanto eu puder. Adeus.}
+
+{440}{}{Bem, a Harpa recebeu o nome de um local favorito que eu costumava ter antes da guerra. Eu acho que é
+ Apenas uma lembrança de tempos passados. Uma espécie de piada da única maneira que nós vamos conseguir um acordo melhor, também.}
+{441}{}{Antes da guerra? Mas isso foi há muito tempo atrás.}
+{442}{}{Melhor negócio? O que você quer dizer?}
+
+{450}{}{Pode ser assim, mas nem todos têm uma cidade cheia de lunáticos sedentos de sangue.}
+{451}{}{O que você quer dizer?}
+
+{460}{}{Com certeza foi há muito tempo. Como você acha que os ghouls são feitos? Você acha que alguns de nós acabaram de se levantar
+ Um bom dia e disse a nós mesmos: "Gee, eu me pergunto o que seria ter minha carne apodrecendo minha
+ Corpo fodido? "}
+{461}{}{Bem, não, eu não fiz. Diga, como você faz um ghoul?}
+{462}{}{Você sabe, eu não dou uma foda, o que fez você tão feio. Adeus.}
+
+{470}{}{Esses idiotas em Vault City. Se alguém nos capitar, são eles. Eles estão fodidamente enlutados.
+ Qualquer um não é tão fodido na cabeça como eles são e eles querem matá-los. Eu me observaria
+ Em torno deles, se eu fosse você.}
+{471}{}{Parece um bom conselho. Eu vou tomar cuidado. Deixe-me perguntar-lhe uma coisa, no entanto.}
+{472}{}{Eu acho que eles têm a idéia certa. Apenas um pouco de limpeza genética. Espero que eles comecem com você.
+ Adeus.}
+
+{480}{}{"Bout, a única maneira que os ghouls vão fazer uma pausa é quando estamos tocando uma harpa de nossa
+ próprio.}
+{481}{}{Eu não sabia que os ghouls eram especialmente musicais.}
+{482}{}{Oh, eu vejo. Heh heh. Deixe me perguntar algo.}
+
+{490}{}{Com sinos de prata e cascas de galo e ... Menino, você é burro, não é? Radiação grave. Isso é
+ como. Como você pensa? Você sabe, muitas bombas vão boom, flash de luz e calor, a carne queima, mas você
+ Não há radiação grave de tipo morto?}
+{491}{}{Bem, quero dizer ...}
+
+{500}{}{Bem, não pensei. Foda-se muito por trazer todos esses intensamente dolorosos
+ recordações. Idiota. Nós somos uma cidade de fucking sobras - sobras ligeiramente cozidas demais.}
+{501}{}{Eu prefiro o eu meio-raro. Ei, deixe-me perguntar-lhe outra coisa.}
+{502}{}{Bem, eu sei, hum. Desculpa. Eu apenas vou deixar voçar na auto-piedade, então. Adeus.}
+
+{510}{}{Bem, geralmente eu apenas libro as cabeças vazias de meus clientes - tipo de bongos. Como
+ Diabos eles alguma vez deixaram você sair de sua aldeia? Você é um perigo para você e para os outros.}
+{511}{}{Bongos?}
+
+{520}{}{Você caiu da estupida árvore e bateu em todas as malditas sucursais do caminho, não é?}
+{521}{}{Árvore? Acho que não sou apenas um quadril para sua linguagem ... cara. Uh, deixe-me perguntar-lhe uma coisa.}
+
+{530}{}{Sim, é uma cabeça. Mas não está preso a um corpo. Você vê, foi cortado.}
+{531}{}{Uma cabeça cortada. Entendo. E isso se torna divertido quando?}
+
+{540}{}{Apenas segure um minuto. Esta cabeça cortada, você vê, está no inferno. (Hah, hah) E voa ao redor
+ Lá, você sabe, no inferno. E é executado em todos os tipos de pessoas famosas lá ... (ho, ho, ho)}
+{541}{}{Aguarde, uma cabeça cortada está no Inferno, e voa ... fazendo o quê?}
+
+{550}{}{Bem, está fazendo coisas. (Hee, hee) Você sabe. Tem, coisas que quer fazer, ou talvez
+ Coisas obrigadas a fazer. A questão é que está fazendo coisas, você sabe, lá no inferno. Oh Deus, (hah, hah,
+ Hah) Eu simplesmente não consigo suportar isso!}
+{551}{}{Você está obcecado com isso, não é? Hmm. Você e sua mãe estavam perto? Você já teve
+ Problemas com a molhação da cama?}
+
+{560}{}{Não, você simplesmente não entende. É tudo sobre uma cabeça cortada. Pegue? Heh, heh, heh, é engraçado!
+ Como você pode pensar em uma cabeça cortada, no inferno de todos os lugares, e não rir?}
+{561}{}{Wooz, não te conheço muito bem, e tenho certeza de que não quero. No entanto, acho que posso
+ Digamos, sem medo de exagero, que você precisa de ajuda. Ajuda imediata e competente.}
+{562}{}{Oh. Entendo. Porque sim. Claro; Isso é muito engraçado. Heh heh. Eu simplesmente não posso conter minha diversão ...
+ Mas diversão suficiente - oh, meus lados divididos - eu preciso te perguntar uma coisa.}
+
+{570}{}{Foda-se! Você é como todo o resto deles. Eu digo, você é hilariantemente engraçado. Não é meu
+ Culpa de que você não tenha senso de humor.}
+{571}{}{Você está certo, Wooz. Acho que não sou tão inteligente quanto você. Você é verdadeiramente uma pérola entre
+ Suínos. Agora me diga algo mais.}
+{572}{}{Eu tenho bastante senso de humor para reconhecer a ausência de um em outros. Adeus.}
+
+{600}{}{Você é burro? Já te falei sobre Tragic. Você deve ter uma memória muito pequena.}
+
+{601}{}{Vejo? Eu disse que era engraçado. Existe alguma outra coisa que você precisa?}
+
+{700}{}{Você é burro?}
+{701}{}{Me dê uma cola gigante!}
+{702}{}{Eu preciso de uma decisão sobre isso!}
+{703}{}{Chute-me no jimmy.}
+{704}{}{Oi, shills.}
+{705}{}{Foda-se.}
+{706}{}{Eu não o mato com esse.}
+{707}{}{Vamos jogar Tragic.}
+{708}{}{Eu sou o pior jogador trágico do mundo.}
+{709}{}{FORTE!}
+{710}{}{Eu sugiro em todos os jogos.}
+{711}{}{Eu sou a pessoa mais estúpida que já conheci.}
+{712}{}{ÓDIO!!!}
+{713}{}{Onde está a horde uma mulher curta?}
+{714}{}{Já vi um homem adulto NAKED ?!}

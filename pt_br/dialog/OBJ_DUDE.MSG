@@ -1,0 +1,28 @@
+#############################################################
+#  Message File: obj_dude.msg                               #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: April 14, 1998                                  #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+{100}{}{}
+{101}{}{}
+
+#############################################################
+
+{110}{}{Seus pés realmente comichão.}
+{120}{}{Você está desenvolvendo um jumento desagradável em cada pé.}
+{130}{}{Seus sapatos se sentem muito apertados; Esses joaninhas estão realmente ficando inflamados.}
+{140}{}{Esse joaninha desagradável em cada pé parece ter se transformado em um dedo extra. Mas pelo menos isso
+ Persistente, a coceira queimada desapareceu.}
+{141}{}{Oh meu Deus, é Bess!}
+
+{150}{}{Você ganha}
+{151}{}{Xp para obter o GECK.}

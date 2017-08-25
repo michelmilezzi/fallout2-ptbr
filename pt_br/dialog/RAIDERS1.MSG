@@ -1,0 +1,3 @@
+{100}{}{Você chegou a uma caverna aberta no lado de uma das montanhas.}
+{101}{}{Você encontrou um círculo de barracas destruídas. No meio é um poço antigo com uma escada que desce.}
+{102}{}{Você quebrou a força dos incursores. Eles não serão mais capazes de atacar a região.}

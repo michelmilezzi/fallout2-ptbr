@@ -1,0 +1,68 @@
+{100}{}{Você vê um homem dentado com uma camisa suja e azul. Ele cheira forte de brâmane.}
+{101}{}{Você vê Ed, o negociante brahmin.}
+{102}{}{Damn brahmin. Mooing aqui, mexendo lá.}
+{103}{}{Juro que ouvi um deles brahmin falar. "Moo, eu digo", ou algo assim.}
+{104}{}{Foi uma temporada lenta para vender brahmin.}
+{105}{}{Nenhuma idéia de onde toda essa merda brahmin continua a surgir. Só parece aparecer.}
+{106}{}{Bem, olá, estranho. Eu sou Ed, o revendedor de brahmin local. Ajudá-lo com alguma coisa?}
+{107}{}{Bom te ver de novo. Para que posso fazer você?}
+{108}{}{Você conhece um comerciante chamado Vic? Ele disse que comprou esse balão de água do Vault de você.}
+{109}{}{Você conhece um comerciante chamado Vic?}
+{110}{}{Meu amigo Vic aqui diz que ele comprou um balão de água de você.}
+{111}{}{Alguma sorte lembrando de onde você pegou o frasco de água?}
+{112}{}{Estou procurando o Vault.}
+{113}{}{Você pode me falar sobre Vault City?}
+{114}{}{O que você faz por aqui?}
+{115}{}{Adeus.}
+{116}{}{Vic?}
+{117}{}{Ele vendeu uma garrafa de água para você? Um com "13" nele?}
+{118}{}{Deixa pra lá. Eu tenho que ir.}
+{119}{}{Você entendeu? Talvez isso possa despertar minha memória.}
+{120}{}{Deixa pra lá então. Eu tive algumas outras perguntas para você ...}
+{121}{}{Eu vou ver se eu posso desenterrar isso. Eu voltarei.}
+{122}{}{Oh, sim, sim ... lembro-me. Já faz muito tempo, Vic. Um balão de água, hein? E quanto a isso?}
+{123}{}{Oh, sim, sim ... cara gordo, certo? Colete de couro? Balding? Eu lembro dele. E ele?}
+{124}{}{Você pode me dizer de onde veio o balão?}
+{125}{}{Ele disse que ele vendeu uma garrafa de água para você?}
+{126}{}{Apenas verificando se você o conheceu. Obrigado.}
+{127}{}{Você sabe, eu não consigo lembrar ... Eu tive um monte deles por um longo tempo. Eu acho que os peguei durante uma das minhas unidades brahmin. Não precisava muito deles quando resolvi.}
+{128}{}{Brahmin drives?}
+{129}{}{Oh. Bem, obrigado mesmo assim, então.}
+{130}{}{Quando eu era muito mais jovem, eu costumava dirigir brahmin através do "Big Circle" ... Broken Hills, New Reno, Redding, Den, Modoc, depois de volta. Acabou de ser muito perigoso depois de um tempo, então eu me estabeleci aqui.}
+{131}{}{Onde estão esses lugares?}
+{132}{}{Entendo. Bem, obrigado pela informação.}
+{133}{}{Deixe-me marcá-lo em seu mapa. Veja, Broken Hills está ao sul ... siga o oeste na trilha a partir daí, e você atingirá Reno.
+ Noroeste o 'Reno é Redding, então é norte para o Den, a leste até Modoc, depois para o leste até aqui, Vault City.}
+{134}{}{Alguma idéia de quais desses lugares você pegou o frasco?}
+{135}{}{Obrigado pela informação.}
+{136}{}{Desculpe, não consigo lembrar exatamente. Foi há muito tempo. Por que você quer saber?}
+{137}{}{Estou procurando o Vault do balão que veio.}
+{138}{}{Obrigado pela informação.}
+{139}{}{Bem, inferno, se for um Vault que você procura, então há um dentro das paredes da Cidade do Vault.}
+{140}{}{Vault 13 está dentro da cidade?}
+{141}{}{Obrigado pela informação.}
+{142}{}{Bem, agora, não sei se é "13" exatamente, mas há um Vault. Se esse não for o que você procura, o computador central do vault pode saber onde os outros estão. Eles quase começaram a listar tudo nele.}
+{143}{}{Tive algumas outras questões ...}
+{144}{}{Obrigado pela informação.}
+{145}{}{Atire. O que você queria saber?}
+{146}{}{Você conhece um comerciante chamado Vic? Ele disse que comprou esse balão de água do Vault de você.}
+{147}{}{Você conhece um comerciante chamado Vic?}
+{148}{}{Meu amigo Vic aqui diz que ele comprou um balão de água de você.}
+{149}{}{Alguma sorte lembrando de onde você pegou o frasco de água?}
+{150}{}{Estou procurando o Vault.}
+{151}{}{Você pode me falar sobre Vault City?}
+{152}{}{O que você faz por aqui?}
+{153}{}{Adeus.}
+{154}{}{Bem ... há aquele Vault dentro da parte principal da cidade. Você verificou isso ainda? Pode ser aquele que você está procurando.}
+{155}{}{Bem ... há um Vault dentro da parte principal da cidade. Aquilo que você está procurando?}
+{156}{}{Perhaps. Tive algumas outras questões ...}
+{157}{}{Could be. Obrigado pela informação.}
+{158}{}{Ok, lugar ... se você puder lidar com os Cidadãos. Eu não concordo com alguns dos seus pontos de vista, mas oi, eu faço uma boa vida aqui.}
+{159}{}{Tive algumas outras questões ...}
+{160}{}{I see. Obrigado pela informação. Adeus.}
+{161}{}{Eu vendo brahmin para pessoas que precisam deles. Me ajuda a pagar o aluguel neste local.}
+{162}{}{Tive algumas outras questões ...}
+{163}{}{I see. Obrigado pela informação. Adeus.}
+{164}{}{Eu tenho brahmin mais inteligente do que você. Mova-se.}
+{165}{}{Isso parece o lugar de Ed. Ele é o que eu comprei desse balão de água.}
+{166}{}{Você descobriu a origem do balão de água.}

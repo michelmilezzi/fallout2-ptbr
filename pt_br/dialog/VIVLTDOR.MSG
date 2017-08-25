@@ -1,0 +1,16 @@
+{100}{}{Você vê uma porta do Vault típica.}
+{101}{}{Esta é uma porta do Vault típica. Parece que seus acoplamentos de força estão presos.}
+{102}{}{Porta sem movimento}
+{103}{}{Esta porta está presa. Seria preciso uma pessoa muito forte para abri-lo.}
+{104}{}{* Hrnnnnnnn * ... * hfff * ... * hfff *}
+{105}{}{Mesmo com o pé de cabra, você ainda não é forte o suficiente para forçar a porta.}
+{106}{}{* Hrnnnnnn *}
+{107}{}{Com a ajuda do pé-de-cabra, você abre a porta.}
+{108}{}{* Hrnnnnn *}
+{109}{}{Usando sua força física bruta, você força a abertura da porta.}
+{110}{}{Uau. Isso nem sequer coçou.}
+{111}{}{BOOM nenhuma porta ferida}
+{112}{}{A porta está presa, não trancada.}
+{113}{}{Porta stuckie não lockie}
+{114}{}{A porta não vai fechar. Está preso.}
+{115}{}{Porta sem movimento.}

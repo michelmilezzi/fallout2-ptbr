@@ -1,0 +1,85 @@
+{100}{}{Você vê um homem de aspecto abatido com um terno azul.}
+{101}{}{Você vê Martin Frobisher, porta-voz dos prisioneiros da Vault 13.}
+{102}{}{Você vê um homem abatido com um terno de abóbada azul como o seu.}
+{103}{}{Retire-nos daqui!}
+{104}{}{Desligue o poder para as portas.}
+{105}{}{Desligue, vamos grátis!}
+{106}{}{Retire-nos daqui!}
+{107}{}{Desligar! Porta aberta!}
+{108}{}{Estamos tão ferrados.}
+{109}{}{Retire-nos antes de executar mais testes.}
+{110}{}{Quem são essas pessoas?}
+{111}{}{Por que eu? Por que nós?}
+{112}{}{Temos que sair deste lugar.}
+{113}{}{Ei, você, aqui!}
+{114}{}{Você está procurando por mim?}
+{115}{}{Quer saber o que aconteceu?}
+{116}{}{Socorro!}
+{117}{}{Eu sou Martin, aqui.}
+{118}{}{Ei, você, eu sou Frobisher. Aqui!}
+{119}{}{Sobre heeeere!}
+{120}{}{Helloooooo!}
+{121}{}{Venha aqui!}
+{122}{}{Posso lhe dizer o que você quer saber.}
+{123}{}{Meu nome é Martin.}
+{124}{}{Posso dizer o que aconteceu.}
+{125}{}{Olá, eu sou Martin Frobisher. Eu falo por essas pessoas. Graças a Deus, você está aqui.}
+{126}{}{O que você gostaria de saber?}
+{127}{}{Bonitas roupas, assim como as minhas. Quem são vocês?}
+{128}{}{O que vocês estão fazendo aqui?}
+{129}{}{Você é o Supervisor?}
+{130}{}{Como vocês chegaram aqui?}
+{131}{}{Gostaria de conhecê-lo Martin, mas eu tenho pessoas para libertar. Adeus.}
+{132}{}{Sim, esperava que fosse por isso que você estava aqui. Você precisa nos libertar.}
+{133}{}{Você está livre? Eu estava indo libertar minha tribo.}
+{134}{}{Claro, eu não deixaria ninguém ficar preso neste lugar.}
+{135}{}{O que você está fazendo aqui de qualquer maneira?}
+{136}{}{Eles estão nos usando para testar algum tipo de antídoto para um vírus fatal.}
+{137}{}{Que tipo de vírus?}
+{138}{}{Isso não soa bem. Deixe-me perguntar-lhe outra coisa.}
+{139}{}{Sortudo. Talvez agora você conheça a dor que meu antepassado, o morador do Vault, sentiu. Espero que todos sejam queimados. Adeus.}
+{140}{}{Eles o chamam de F.E.V. toxina. Isso faz coisas horríveis para as pessoas, antes que elas as mate. A única coisa * boa * sobre isso é que mata tão rapidamente. Claro, parece doloroso.}
+{141}{}{Isso parece desagradável. Por que eles estão usando suas pessoas para um teste?}
+{142}{}{Eles nos levaram todos de nosso cofre porque queriam assuntos de teste para o antídoto. Eles precisavam de pessoas do lado de fora do Enclave, e que ainda eram humanos de tensão pura. Então eles nos levaram.}
+{143}{}{Eles o levaram? Como, de onde?}
+{144}{}{Eles chegaram à porta da frente do cofre. De alguma forma, eles já conheciam o código de segurança. Eles apenas abriram a porta e seus soldados blindados nos conduziram para vertibirds e nos voaram aqui. Então os experimentos começaram. (Ele estremece.)}
+{145}{}{Isso parece ruim. Deixe-me perguntar-lhe outra coisa.}
+{146}{}{O cofre? De que abóbada você é?}
+{147}{}{Por que, Vault 13, é claro.}
+{148}{}{Eu fui lá procurando um GECK.}
+{149}{}{Eu fui lá para pedir seu GECK para salvar meu povo. Mas você já tinha ido embora. Somente o GECK permaneceu.}
+{150}{}{Eu estava procurando por isso. Ei, você é o Supervisor?}
+{151}{}{UM GECK? Devemos ter alguns deles. Você é bem-vindo a um. Eu acho que vi alguns soldados carregando um dos nossos GECKs em um vertibird.}
+{152}{}{Você viu carregado um GECK? Você sabe onde eles colocaram?}
+{153}{}{Tudo bem. Já me ajudei a um GECK do nosso cofre. Deixe-me perguntar-lhe outra coisa.}
+{154}{}{Eu não sei exatamente onde eles colocaram, mas eu ouvi dizer que eles iriam deixá-lo no nível da barreira, logo abaixo desse nível, eu acho.}
+{155}{}{Isso é ótimo. Obrigado. É melhor eu ir.}
+{156}{}{Ah, eu vejo. Deixe-me perguntar-lhe outra coisa.}
+{157}{}{Esperar! Você deve nos tirar desse lugar.}
+{158}{}{Eu planeio. Vou descer as escadas para o powerplant para desligar e libertar você. Quando os campos estão para baixo, corre para o navio que eu tenho lá.}
+{159}{}{Como eu posso fazer isso?}
+{160}{}{Você deveria ter pensado nisso * antes * você expulsou meu antepassado do cofre. Espero que todos corram aqui. Adeus.}
+{161}{}{Obrigado. Godspeed e boa sorte para você, amigo.}
+{162}{}{Adeus e boa sorte para você.}
+{163}{}{Obrigado, mas deixe-me perguntar-lhe outra coisa primeiro.}
+{164}{}{Tenho a sensação de que vou precisar disso. Adeus.}
+{165}{}{Para desligar esses campos de força, acho que você terá que desligar a fonte de alimentação principal.}
+{166}{}{Como diabos eu vou lidar com isso?}
+{167}{}{Estive ouvindo e acho que o reator de energia é controlado por um computador grande, três níveis abaixo de nós. Se você conseguir explodir isso, ele deve desligar o poder e podemos ir livre.}
+{168}{}{Boa ideia. Posso usar meus explosivos para explodir o computador. Então você pode correr para o meu navio. Estarei logo atrás de você.}
+{169}{}{Boa ideia, mas não sei como posso explodir o reator. Não tenho explosivos.}
+{170}{}{Tenho certeza de que, sempre que os guardas tenham seus quartéis, eles devem ter um arsenal. Eles terão explosivos lá, tenho certeza disso.}
+{171}{}{Boa ideia. Posso obter os explosivos e usá-los para explodir o computador. Então você pode correr para o meu navio. Estarei logo atrás de você.}
+{172}{}{Nós não usamos esse termo mais. Costumava haver um superintendente, muitos anos atrás, mas ele fez uma coisa ruim e muitas pessoas deixaram o cofre - apenas para morrer nos resíduos, tenho certeza. Ele foi julgado e condenado à morte por seu crime. Nós não usamos o título desde então.}
+{173}{}{Eu não o culpo. Eu entendo que um superintendente chutou meu antepassado, o Morador do Abrigo, para fora nos resíduos.}
+{174}{}{O morador da abóbada? Há quanto tempo foi isso? Digamos, cerca de oitenta anos, talvez?}
+{175}{}{Sim, foram oitenta anos atrás. Como você sabia disso?}
+{176}{}{Oitenta anos atrás, um herói salvou nosso cofre e então o Supervisor o exilou. Outros o seguiram para o exílio e nunca foram ouvidos de novo. Recordamos o evento com vergonha.}
+{177}{}{Ei! Você está falando sobre * meu * antepassado e as pessoas que fundaram minha aldeia. Todos vieram do Cofre do Santo 13.}
+{178}{}{Além disso, você deveria. Deixe-me perguntar-lhe sobre outra coisa.}
+{179}{}{Eu não acho que você sofreu bastante por isso ainda. Adeus.}
+{180}{}{Incrível, esse é o nosso cofre! Mais uma vez, as pessoas do cofre devem confiar - uh, desta vez - o bisneto, do Vault Dweller para nos salvar.}
+{181}{}{Incrível, esse é o nosso cofre! Mais uma vez, as pessoas da Vault devem confiar - uh, desta vez - a bisnetada, do Vault Dweller para nos salvar.}
+{182}{}{Eu queria saber como salvar você.}
+{183}{}{Vou pensar sobre isso.}
+{184}{}{Que coincidência bizarra! Deixe-me perguntar-lhe sobre outra coisa.}

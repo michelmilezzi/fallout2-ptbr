@@ -10,7 +10,7 @@ Para aplicar a tradução basta editar o arquivo fallout2.cfg (contido na raíz 
 ```sh
 language=pt_br
 ```
-Em seguida, baixe a tradução e a descompacte em /caminho/para/a/instalacao/do/Fallout2/data/text. Ex.:
+Em seguida, [baixe a tradução](https://github.com/michelmilezzi/fallout2-ptbr/releases) e a descompacte em /caminho/para/a/instalacao/do/Fallout2/data/text. Ex.:
 ```sh
 C:\Program Files (x86)\Steam\steamapps\common\Fallout 2\data\text\pt_br
 ```

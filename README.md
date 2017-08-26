@@ -1,5 +1,6 @@
 # fallout2-ptbr
 Tradução do Fallout 2 em português do Brasil
+Esta iniciativa foi idealizada em conjunto com o artista [Jean Milezzi](http://www.jeanmilezzi.com.br/).
 
 Gerada automaticamente pela API do Google Translate, revisões são bem-vindas.
 Utilizado [batch-translator](https://github.com/michelmilezzi/batch-translator) para criar a tradução inicial.

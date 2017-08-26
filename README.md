@@ -1,10 +1,10 @@
 # fallout2-ptbr
-Tradução do Fallout 2 em português do Brasil
+Tradução do Fallout 2 em português do Brasil.
 
 Esta iniciativa foi idealizada em conjunto com o artista [Jean Milezzi](http://www.jeanmilezzi.com.br/).
 
-Gerada automaticamente pela API do Google Translate, revisões são bem-vindas.
-Utilizado [batch-translator](https://github.com/michelmilezzi/batch-translator) para criar a tradução inicial.
+A versão inicial foi gerada automaticamente pela API do Google Translate, revisões são bem-vindas.
+Utilizado o [batch-translator](https://github.com/michelmilezzi/batch-translator) para realizar o parse dos arquivos, extrair as frases e em seguida envia-las para a API de tradução.
 
 Para aplicar a tradução basta editar o arquivo fallout2.cfg (contido na raíz da instalação do Fallout), alterando o valor da entrada language para pt_br:
 ```sh

@@ -25,5 +25,5 @@ Você pode encontrar o jogo nas seguintes lojas digitais:
 
 Todos os direitos sobre o Fallout 2 são propriedade da Interplay Entertainment (Bethesda Softworks).
 
-Sinta-se à vontade para revisar, compartilhar e utilizar esta tradução, desde que mantenha o crédito aos seus autores (/pt_br/CREDITS.TXT).
+Sinta-se à vontade para revisar, compartilhar e utilizar esta tradução, desde que mantenha o crédito aos seus autores (pt_br/CREDITS.TXT).
 

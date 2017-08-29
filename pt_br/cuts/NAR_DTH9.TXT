@@ -1,2 +1,2 @@
-1:You fought valiantly, but to no avail.
-2:The Enclave triumphs, and soon the entire world dies.
+1:Você lutou valentemente, mas sem sucesso.
+2:O Enclave triunfa, e logo o mundo inteiro morre.

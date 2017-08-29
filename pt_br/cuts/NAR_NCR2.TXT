@@ -1,3 +1,3 @@
-1:The failure of diplomacy at Vault 15 slows the New California Republic's growth into the north.
-2:Embarrassed by the failure, President Tandi is replaced by Roger Westin.
-3:When the new government finally returns to Vault 15, they find nothing but a ghost town.
+1:O fracasso da diplomacia no Vault 15 diminui o crescimento da nova República da Califórnia para o norte.
+2:Irritado pelo fracasso, o presidente Tandi é substituído por Roger Westin.
+3:Quando o novo governo finalmente retorna ao Vault 15, eles não acham nada além de uma cidade fantasma.

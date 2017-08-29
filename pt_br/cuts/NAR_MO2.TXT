@@ -1,3 +1,3 @@
-1:Armed with flares and clubs, the people of Modoc invade the Slags' underground city.
-2:The Slags are quickly defeated, and the Modoc residents slaughter every man, woman, and child they find.
-3:Rumor of this vicious attack spreads far and wide, and fear motivates Modoc's neighbors to attack and destroy the town.
+1:Armados com flares e clubes, as pessoas de Modoc invadem a cidade subterrânea das escórias.
+2:As Slags são rapidamente derrotadas, e os moradores de Modoc matam todos os homens, mulheres e crianças que acham.
+3:O rumor desse ataque vicioso se espalha por toda parte, e o medo motiva os vizinhos de Modoc a atacar e destruir a cidade.

@@ -1,10 +1,10 @@
 Ahh, você está aqui.
-Boa.
+Bem.
 Temos um problema.
 Um grande.
-O chip controlador para o nosso sistema de purificação de água desistiu do fantasma.
-Não é possível fazer outro e o processo é muito complicado para um trabalho em torno do sistema.
-Simplificando, estamos ficando sem água potável.
+O chip controlador para o nosso sistema de purificação de água quebrou.
+Não é possível fazer outro e o processo é muito complicado para uma gambiarra.
+Basicamente, estamos ficando sem água potável.
 Sem água, sem Vault.
 Isso é crucial para a nossa sobrevivência.
 E, francamente, eu ... acho que você é a única esperança que temos.
@@ -13,5 +13,5 @@ Nós estimamos que temos quatro a cinco meses antes que o Vault fique sem água.
 Precisamos desse chip.
 Marcamos seu mapa com a localização de outro Vault.
 Não é um lugar ruim para começar, eu acho.
-Olha, seja seguro, ok?
+Olha, fique seguro, ok?
 

@@ -1,1 +1,1 @@
-1:Esperava que você salvou seu jogo, porque você está morto.
+1:Espero que você tenha salvo seu jogo, porque você está morto.

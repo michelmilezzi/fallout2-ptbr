@@ -3,6 +3,7 @@
 @Translation (pt-br)
 Michel Luiz Milezzi
 Jean Milezzi
+Artur Barichello
 
 @Lead Programmer
 Jesse Reynolds

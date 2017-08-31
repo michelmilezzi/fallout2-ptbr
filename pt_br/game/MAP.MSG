@@ -211,9 +211,9 @@
 {288}{}{}
 {289}{}{}
 # 30: Vault City Vault, .MAP
-{290}{}{Abrigo: Nível 1}
-{291}{}{Abrigo: Nível 2}
-{292}{}{Abrigo: Nível 3}
+{290}{}{Vault: Nível 1}
+{291}{}{Vault: Nível 2}
+{292}{}{Vault: Nível 3}
 # 31: Gecko Settlement
 {293}{}{Assentamento}
 {294}{}{Assentamento}
@@ -223,477 +223,477 @@
 {297}{}{Usina Elétrica}
 {298}{}{}
 # 33: Gecko Junkyard, .MAP
-{299}{}{Junkyard}
-{300}{}{Junkyard}
-{301}{}{Junkyard}
+{299}{}{Ferro Velho}
+{300}{}{Ferro Velho}
+{301}{}{Ferro Velho}
 # 34: Gecko Access Tunnels, .MAP
-{302}{}{Access Tunnels}
-{303}{}{Access Tunnels}
-{304}{}{Access Tunnels}
+{302}{}{Túneis de Acesso}
+{303}{}{Túneis de Acesso}
+{304}{}{Túneis de Acesso}
 # 35: Arroyo Wilderness, .MAP
-{305}{}{Wilderness}
+{305}{}{Região Selvagem}
 {306}{}{}
 {307}{}{}
 # 36: Vault 15, .MAP
-{308}{}{Vault 15: Level 1}
-{309}{}{Vault 15: Level 2}
-{310}{}{Vault 15: Level 3}
+{308}{}{Vault 15: Nível 1}
+{309}{}{Vault 15: Nível 2}
+{310}{}{Vault 15: Nível 3}
 # 37: Vault 15, .MAP
-{311}{}{Squatters}
+{311}{}{Invasores}
 {312}{}{}
 {313}{}{}
 # 38: Vault 15, .MAP
-{314}{}{Squatters}
+{314}{}{Invasores}
 {315}{}{}
 {316}{}{}
 # 39: Vault 15, .MAP
-{317}{}{East Entrance}
+{317}{}{Entrada Leste}
 {318}{}{}
 {319}{}{}
 # 40: Vault 13, .MAP
-{320}{}{Level 1}
-{321}{}{Level 2}
-{322}{}{Level 3}
+{320}{}{Nível 1}
+{321}{}{Nível 2}
+{322}{}{Nível 3}
 # 41: Vault 13, .MAP
-{323}{}{Cavern}
+{323}{}{Caverna}
 {324}{}{}
 {325}{}{}
 # 42: NCR, .MAP
-{326}{}{Downtown}
+{326}{}{Centro da Cidade}
 {327}{}{}
 {328}{}{}
 # 43: NCR, .MAP
-{329}{}{Council Hall}
+{329}{}{Salão do Conselho}
 {330}{}{}
 {331}{}{}
 # 44: NCR, .MAP
-{332}{}{Westin Ranch}
+{332}{}{Rancho Westin}
 {333}{}{}
 {334}{}{}
 # 45: NCR, .MAP
-{335}{}{Grazing Lands}
+{335}{}{Pasto}
 {336}{}{}
 {337}{}{}
 # 46: NCR, .MAP
-{338}{}{Bazaar}
+{338}{}{Bazar}
 {339}{}{}
 {340}{}{}
 # 47: NCR, .MAP
-{341}{}{Council Hall}
+{341}{}{Salão do Conselho}
 {342}{}{}
 {343}{}{}
 # 48: Klamath, klacanyn.MAP
-{344}{}{Canyon}
-{345}{}{Canyon}
-{346}{}{Canyon}
+{344}{}{Desfiladeiro}
+{345}{}{Desfiladeiro}
+{346}{}{Desfiladeiro}
 # 49: Military Base, mbase12.MAP
-{347}{}{Level 1}
-{348}{}{Level 2}
+{347}{}{Nível 1}
+{348}{}{Nível 2}
 {349}{}{}
 # 50: Military Base, mbase34.MAP
-{350}{}{Level 3}
-{351}{}{Level 4}
+{350}{}{Nível 3}
+{351}{}{Nível 4}
 {352}{}{}
 # 51: Military Base, mbclose.MAP
-{353}{}{Entrance}
+{353}{}{Entrada}
 {354}{}{}
 {355}{}{}
 # 52: Den Slave Run dnslvrun.MAP
-{356}{}{Desert}
-{357}{}{Village}
-{358}{}{Camp Site}
+{356}{}{Deserto}
+{357}{}{Vila}
+{358}{}{Acampamento}
 # 53: Car Desert out-of-gas, CarDesrt.MAP
-{359}{}{Desert}
+{359}{}{Deserto}
 {360}{}{}
 {361}{}{}
 # 54: New Reno 1 newr1.MAP
-{362}{}{Virgin Street}
-{363}{}{Desperado Basement}
-{364}{}{Desperado 2nd Floor}
+{362}{}{Rua Inexplorada}
+{363}{}{Porão de Desperado}
+{364}{}{Desperado 2º Andar}
 # 55: New Reno 2 newr2.MAP
-{365}{}{2nd Street}
-{366}{}{2nd Floor}
+{365}{}{Rua 2º}
+{366}{}{2º Andar}
 {367}{}{Shark Club 3rd Floor}
 # 56: New Reno 3 newr3.MAP
-{368}{}{Commercial Row}
-{369}{}{New Reno Arms Basement}
+{368}{}{Fila Comercial}
+{369}{}{Porão de Armamentos de New Reno}
 {370}{}{}
 # 57: New Reno 4 newr4.MAP
-{371}{}{East Side}
-{372}{}{Train Station}
+{371}{}{Zona Leste}
+{372}{}{Estação de Trem}
 {373}{}{}
 # 58: New Reno Chop Shop newrcs.MAP
-{374}{}{Chop Shop}
+{374}{}{Loja do Corte}
 {375}{}{}
 {376}{}{}
 # 59: New Reno GO newrgo.MAP
-{377}{}{Graveyard}
-{378}{}{Fallout Shelter}
+{377}{}{Cemitério}
+{378}{}{Abrigo de Radiação}
 {379}{}{}
 # 60: New Reno ST newrst.MAP
 {380}{}{}
-{381}{}{Lab}
+{381}{}{Laboratório}
 {382}{}{}
 # 61: New Reno Boxing Arena newrba.MAP
-{383}{}{Boxing Arena}
-{384}{}{Boxing Arena}
-{385}{}{Boxing Arena}
+{383}{}{Arena de Boxe}
+{384}{}{Arena de Boxe}
+{385}{}{Arena de Boxe}
 # 62: Redding Wanamingo Mine Entrance  RedWame.Map
-{386}{}{Mine Entrance}
-{387}{}{Mine Entrance}
-{388}{}{Mine Entrance}
+{386}{}{Entrada da Mina}
+{387}{}{Entrada da Mina}
+{388}{}{Entrada da Mina}
 # 63: Great Wanamingo Mine, Level 1 and 2  RedWan1.MAP
-{389}{}{Mine Level 1}
-{390}{}{Mine Level 2}
+{389}{}{Mina Nível 1}
+{390}{}{Mina Nível 2}
 {391}{}{}
 # 64: Redding Downtown  RedDown.MAP
-{392}{}{Downtown}
-{393}{}{Downtown}
-{394}{}{Downtown}
+{392}{}{Centro da Cidade}
+{393}{}{Centro da Cidade}
+{394}{}{Centro da Cidade}
 # 65: Redding Mine Entrance   RedMEnt.MAP
-{395}{}{Mine Entrance}
-{396}{}{Mine Entrance}
-{397}{}{Mine Entrance}
+{395}{}{Entrada da Mina}
+{396}{}{Entrada da Mina}
+{397}{}{Entrada da Mina}
 # 66: Redding Downtown Tunnels  RedDTun.MAP
-{398}{}{Tunnels}
-{399}{}{Tunnels}
-{400}{}{Tunnels}
+{398}{}{Túneis}
+{399}{}{Túneis}
+{400}{}{Túneis}
 # 67: Redding Mine Entrance Tunnels
-{401}{}{Tunnels}
-{402}{}{Tunnels}
-{403}{}{Tunnels}
+{401}{}{Túneis}
+{402}{}{Túneis}
+{403}{}{Túneis}
 # 68: Random Encounter City 1
-{404}{}{City}
-{405}{}{City}
-{406}{}{City}
+{404}{}{Cidade}
+{405}{}{Cidade}
+{406}{}{Cidade}
 # 69: Random Encounter Cavern 0
-{407}{}{Mountain}
-{408}{}{Mountain}
-{409}{}{Mountain}
+{407}{}{Montanha}
+{408}{}{Montanha}
+{409}{}{Montanha}
 # 70: Random Encounter Cavern 1
-{410}{}{Caverns}
-{411}{}{Cavern}
-{412}{}{Cavern}
+{410}{}{Cavernas}
+{411}{}{Caverna}
+{412}{}{Caverna}
 # 71: Random Encounter Cavern 2
-{413}{}{Cavern}
-{414}{}{Cavern}
-{415}{}{Cavern}
+{413}{}{Caverna}
+{414}{}{Caverna}
+{415}{}{Caverna}
 # 72: Random Encounter Cavern 3
-{416}{}{Cavern}
-{417}{}{Cavern}
-{418}{}{Cavern}
+{416}{}{Caverna}
+{417}{}{Caverna}
+{418}{}{Caverna}
 # 73: Random Encounter Cavern 4
-{419}{}{Cavern}
-{420}{}{Cavern}
-{421}{}{Cavern}
+{419}{}{Caverna}
+{420}{}{Caverna}
+{421}{}{Caverna}
 # 74: Random Encounter Mountain 1
-{422}{}{Mountain}
-{423}{}{Mountain}
-{424}{}{Mountain}
+{422}{}{Montanha}
+{423}{}{Montanha}
+{424}{}{Montanha}
 # 75: Random Encounter Mountain 2
-{425}{}{Mountain}
-{426}{}{Mountain}
-{427}{}{Mountain}
+{425}{}{Montanha}
+{426}{}{Montanha}
+{427}{}{Montanha}
 # 76: Random Encounter Coast 1
-{428}{}{Coast}
-{429}{}{Coast}
-{430}{}{Coast}
+{428}{}{Costa}
+{429}{}{Costa}
+{430}{}{Costa}
 # 77: Random Encounter Coast 2
-{431}{}{Coast}
-{432}{}{Coast}
-{433}{}{Coast}
+{431}{}{Costa}
+{432}{}{Costa}
+{433}{}{Costa}
 # 78: Broken Hills 1  broken1.map
-{434}{}{Downtown}
-{435}{}{Basement}
-{436}{}{Unused}
+{434}{}{Centro da Cidade}
+{435}{}{Porão}
+{436}{}{Não Usado}
 # 79: Broken Hills 2 broken2.map
-{437}{}{Residential}
-{438}{}{Undeground}
-{439}{}{Mine}
+{437}{}{Residencial}
+{438}{}{Subterrâneo}
+{439}{}{Mina}
 # 80: Random Encounter Cavern 5
-{440}{}{Cavern}
-{441}{}{Cavern}
-{442}{}{Cavern}
+{440}{}{Caverna}
+{441}{}{Caverna}
+{442}{}{Caverna}
 # 81: Random Encounter Desert 4
-{443}{}{Desert}
-{444}{}{Desert}
-{445}{}{Desert}
+{443}{}{Deserto}
+{444}{}{Deserto}
+{445}{}{Deserto}
 # 82. Random Encounter Desert 5
-{446}{}{Desert}
-{447}{}{Desert}
-{448}{}{Desert}
+{446}{}{Deserto}
+{447}{}{Deserto}
+{448}{}{Deserto}
 # 83. Random Encounter Desert 6
-{449}{}{Desert}
-{450}{}{Desert}
-{451}{}{Desert}
+{449}{}{Deserto}
+{450}{}{Deserto}
+{451}{}{Deserto}
 # 84. Random Encounter Desert 7
-{452}{}{Desert}
-{453}{}{Desert}
-{454}{}{Desert}
+{452}{}{Deserto}
+{453}{}{Deserto}
+{454}{}{Deserto}
 # 85. Random Encounter Coast 3
-{455}{}{Coast}
-{456}{}{Coast}
-{457}{}{Coast}
+{455}{}{Costa}
+{456}{}{Costa}
+{457}{}{Costa}
 # 86. Random Encounter Coast 4
-{458}{}{Coast}
-{459}{}{Coast}
-{460}{}{Coast}
+{458}{}{Costa}
+{459}{}{Costa}
+{460}{}{Costa}
 # 87. Random Encounter Coast 5
-{461}{}{Coast}
-{462}{}{Coast}
-{463}{}{Coast}
+{461}{}{Costa}
+{462}{}{Costa}
+{463}{}{Costa}
 # 88. Random Encounter Coast 6
-{464}{}{Coast}
-{465}{}{Coast}
-{466}{}{Coast}
+{464}{}{Costa}
+{465}{}{Costa}
+{466}{}{Costa}
 # 89. Random Encounter Coast 7
-{467}{}{Coast}
-{468}{}{Coast}
-{469}{}{Coast}
+{467}{}{Costa}
+{468}{}{Costa}
+{469}{}{Costa}
 # 90. Random Encounter Coast 8
-{470}{}{Coast}
-{471}{}{Coast}
-{472}{}{Coast}
+{470}{}{Costa}
+{471}{}{Costa}
+{472}{}{Costa}
 # 91. Random Encounter Coast 9
-{473}{}{Coast}
-{474}{}{Coast}
-{475}{}{Coast}
+{473}{}{Costa}
+{474}{}{Costa}
+{475}{}{Costa}
 # 92. Raiders Camp 1
-{476}{}{Raider Camp}
-{477}{}{Raider Camp}
-{478}{}{Raider Camp}
+{476}{}{Acampamento de Saqueadores}
+{477}{}{Acampamento de Saqueadores}
+{478}{}{Acampamento de Saqueadores}
 # 93. Raider Camp 2
-{479}{}{Cave Entrance}
-{480}{}{Scorpion Nest}
-{481}{}{Barracks}
+{479}{}{Entrada da Caverna}
+{480}{}{Ninho do Escorpião}
+{481}{}{Quartel}
 # 94. Broken Hills Random Encounter Desert
-{482}{}{Desert}
-{483}{}{Desert}
-{484}{}{Desert}
+{482}{}{Deserto}
+{483}{}{Deserto}
+{484}{}{Deserto}
 # 95. Broken Hills Random Encounter Mountain
-{485}{}{Mountain}
-{486}{}{Mountain}
-{487}{}{Mountain}
+{485}{}{Montanha}
+{486}{}{Montanha}
+{487}{}{Montanha}
 # 96. Special Encounter: Whale
-{488}{}{Desert}
-{489}{}{Desert}
-{490}{}{Desert}
+{488}{}{Deserto}
+{489}{}{Deserto}
+{490}{}{Deserto}
 # 97. Special Encounter: Tin Woodsman
-{491}{}{Desert}
-{492}{}{Desert}
-{493}{}{Desert}
+{491}{}{Deserto}
+{492}{}{Deserto}
+{493}{}{Deserto}
 # 98. Special Encounter: Talking Head
-{494}{}{Desert}
-{495}{}{Desert}
-{496}{}{Desert}
+{494}{}{Deserto}
+{495}{}{Deserto}
+{496}{}{Deserto}
 # 99. Special Encounter: Federation Shuttle
-{497}{}{Desert}
-{498}{}{Desert}
-{499}{}{Desert}
+{497}{}{Deserto}
+{498}{}{Deserto}
+{499}{}{Deserto}
 # 100. Special Encounter: Unwashed Villagers
-{500}{}{Desert}
-{501}{}{Desert}
-{502}{}{Desert}
+{500}{}{Deserto}
+{501}{}{Deserto}
+{502}{}{Deserto}
 # 101. Special Encounter: Bridge
-{503}{}{Bridge of Death}
-{504}{}{Bridge of Death}
-{505}{}{Bridge of Death}
+{503}{}{Ponte da Morte}
+{504}{}{Ponte da Morte}
+{505}{}{Ponte da Morte}
 # 102. Special Encounter: Cafe of Broken Dreams
-{506}{}{Cafe of Broken Dreams}
-{507}{}{Cafe of Broken Dreams}
-{508}{}{Cafe of Broken Dreams}
+{506}{}{Café dos Sonhos Perdidos}
+{507}{}{Café dos Sonhos Perdidos}
+{508}{}{Café dos Sonhos Perdidos}
 # 103. Special Encounter: Holy Hand Grenade 1
-{509}{}{Desert}
-{510}{}{Desert}
-{511}{}{Desert}
+{509}{}{Deserto}
+{510}{}{Deserto}
+{511}{}{Deserto}
 # 104. Special Encounter: Holy Hand Grenade 2
-{512}{}{Mountain}
-{513}{}{Cavern}
-{514}{}{Cavern}
+{512}{}{Montanha}
+{513}{}{Caverna}
+{514}{}{Caverna}
 # 105. Special Encounter: Guardian of Forever
-{515}{}{Guardian}
+{515}{}{Guardião}
 {516}{}{Vault 13}
 {517}{}{Vault 13}
 # 106. Special Encounter: Toxic Waste Dump
-{518}{}{Toxic Waste Dump}
-{519}{}{Toxic Waste Dump}
-{520}{}{Toxic Waste Dump}
+{518}{}{Descarga de Resíduos Tóxicos}
+{519}{}{Descarga de Resíduos Tóxicos}
+{520}{}{Descarga de Resíduos Tóxicos}
 # 107. Special Encounter: Pahiahs
-{521}{}{Desert}
-{522}{}{Deset}
-{523}{}{Desert}
+{521}{}{Deserto}
+{522}{}{Deserto}
+{523}{}{Deserto}
 # 108. Special Encounter: Mad Brahmin
-{524}{}{Desert}
-{525}{}{Desert}
-{526}{}{Desert}
+{524}{}{Deserto}
+{525}{}{Deserto}
+{526}{}{Deserto}
 # 109. Navarro Entrance
-{527}{}{Gas Station}
-{528}{}{Underground}
-{529}{}{Vertibird Base}
+{527}{}{Posto de Gasolina}
+{528}{}{Subterrâneo}
+{529}{}{Base Vertibird}
 # 110. Coast Encounter 10
-{530}{}{Coastline}
-{531}{}{Coastline}
-{532}{}{Coastline}
+{530}{}{Litoral}
+{531}{}{Litoral}
+{532}{}{Litoral}
 # 111. Coast Encounter 11
-{533}{}{Coastline}
-{534}{}{Coastline}
-{535}{}{Coastline}
+{533}{}{Litoral}
+{534}{}{Litoral}
+{535}{}{Litoral}
 # 112. Coast Encounter 12
-{536}{}{Coastline}
-{537}{}{Coastline}
-{538}{}{Coastline}
+{536}{}{Litoral}
+{537}{}{Litoral}
+{538}{}{Litoral}
 # 113. Desert Encounter 8
-{539}{}{Desert}
-{540}{}{Desert}
-{541}{}{Desert}
+{539}{}{Deserto}
+{540}{}{Deserto}
+{541}{}{Deserto}
 # 114. Desert Encounter 9
-{542}{}{Desert}
-{543}{}{Desert}
-{544}{}{Desert}
+{542}{}{Deserto}
+{543}{}{Deserto}
+{544}{}{Deserto}
 # 115. Desert Encounter 10
-{545}{}{Desert}
-{546}{}{Desert}
-{547}{}{Desert}
+{545}{}{Deserto}
+{546}{}{Deserto}
+{547}{}{Deserto}
 # 116. Desert Encounter 11
-{548}{}{Desert}
-{549}{}{Desert}
-{550}{}{Desert}
+{548}{}{Deserto}
+{549}{}{Deserto}
+{550}{}{Deserto}
 # 117. Desert Encounter 12
-{551}{}{Desert}
-{552}{}{Desert}
-{553}{}{Desert}
+{551}{}{Deserto}
+{552}{}{Deserto}
+{553}{}{Deserto}
 # 118. Cavern Encounter 5
-{554}{}{Cavern}
-{555}{}{Cavern}
-{556}{}{Cavern}
+{554}{}{Caverna}
+{555}{}{Caverna}
+{556}{}{Caverna}
 # 119. Cavern Encounter 6
-{557}{}{Cavern}
-{558}{}{Cavern}
-{559}{}{Cavern}
+{557}{}{Caverna}
+{558}{}{Caverna}
+{559}{}{Caverna}
 # 120. Cavern Encounter 7
-{560}{}{Cavern}
-{561}{}{Cavern}
-{562}{}{Cavern}
+{560}{}{Caverna}
+{561}{}{Caverna}
+{562}{}{Caverna}
 # 121. Mountain Encounter 3
-{563}{}{Mountain}
-{564}{}{Mountain}
-{565}{}{Mountain}
+{563}{}{Montanha}
+{564}{}{Montanha}
+{565}{}{Montanha}
 # 122. Mountain Encounter 4
-{566}{}{Mountain}
-{567}{}{Mountain}
-{568}{}{Mountain}
+{566}{}{Montanha}
+{567}{}{Montanha}
+{568}{}{Montanha}
 # 123. Mountain Encounter 5
-{569}{}{Mountain}
-{570}{}{Mountain}
-{571}{}{Mountain}
+{569}{}{Montanha}
+{570}{}{Montanha}
+{571}{}{Montanha}
 # 124. Mountain Encounter 6
-{572}{}{Mountain}
-{573}{}{Mountain}
-{574}{}{Mountain}
+{572}{}{Montanha}
+{573}{}{Montanha}
+{574}{}{Montanha}
 # 125. City Encounter
-{575}{}{Abandoned City}
-{576}{}{Ruined City}
-{577}{}{Ruined City}
+{575}{}{Cidade Abandona}
+{576}{}{Cidade em Ruínas}
+{577}{}{Cidade em Ruínas}
 # 126. Arroyo Temple
-{578}{}{Temple Entrance}
-{579}{}{Temple Entrance}
-{580}{}{Temple Entrance}
+{578}{}{Entrada do Templo}
+{579}{}{Entrada do Templo}
+{580}{}{Entrada do Templo}
 # 127. Destroyed Arroyo
-{581}{}{Destroyed Bridge}
-{582}{}{Destroyed Bridge}
-{583}{}{Destroyed Bridge}
+{581}{}{Ponte Destruída}
+{582}{}{Ponte Destruída}
+{583}{}{Ponte Destruída}
 # [Map 128] lookup_name=Enclave Detention
-{584}{}{Detention Cells}
-{585}{}{Detention Cells}
-{586}{}{Detention Cells}
+{584}{}{Celas de Detenção}
+{585}{}{Celas de Detenção}
+{586}{}{Celas de Detenção}
 # [Map 129] lookup_name=Enclave Dock
-{587}{}{Dock}
-{588}{}{Dock}
-{589}{}{Dock}
+{587}{}{Doca}
+{588}{}{Doca}
+{589}{}{Doca}
 # [Map 130] lookup_name=Enclave End Fight
 {590}{}{Enclave}
 {591}{}{Enclave}
 {592}{}{Enclave}
 # [Map 131] lookup_name=Enclave Guard Barracks
-{593}{}{Guard Barracks}
-{594}{}{Guard Barracks}
-{595}{}{Guard Barracks}
+{593}{}{Quartel da Guarda}
+{594}{}{Quartel da Guarda}
+{595}{}{Quartel da Guarda}
 # [Map 132] lookup_name=Enclave Presidential
-{596}{}{Presidential Area}
-{597}{}{Presidential Area}
-{598}{}{Presidential Area}
+{596}{}{Área Presidencial}
+{597}{}{Área Presidencial}
+{598}{}{Área Presidencial}
 # [Map 133] lookup_name=Enclave Reactor
-{599}{}{Reactor}
-{600}{}{Reactor}
-{601}{}{Reactor}
+{599}{}{Reator}
+{600}{}{Reator}
+{601}{}{Reator}
 # [Map 134] lookup_name=Enclave Trap Room
-{602}{}{Access Corridor}
-{603}{}{Access Corridor}
-{604}{}{Access Corridor}
+{602}{}{Corredor de Acesso}
+{603}{}{Corredor de Acesso}
+{604}{}{Corredor de Acesso}
 # [Map 135] lookup_name=San Fran Tanker
-{605}{}{Oil Tanker}
-{606}{}{Oil Tanker}
-{607}{}{Oil Tanker}
+{605}{}{Tanque de Óleo}
+{606}{}{Tanque de Óleo}
+{607}{}{Tanque de Óleo}
 # [Map 136] lookup_name=San Fran Dock
-{608}{}{Dock}
-{609}{}{Dock}
-{610}{}{Dock}
+{608}{}{Doca}
+{609}{}{Doca}
+{610}{}{Doca}
 # [Map 137] lookup_name=San Fran China
 {611}{}{Chinatown}
 {612}{}{Chinatown}
 {613}{}{Chinatown}
 # 138. Shuttle Exterior
-{614}{}{Shuttle Dock}
-{615}{}{Shuttle Dock}
-{616}{}{Shuttle Dock}
+{614}{}{Doca de Transporte}
+{615}{}{Doca de Transporte}
+{616}{}{Doca de Transporte}
 # 139. Shuttle Interior
-{617}{}{Shuttle Interior}
-{618}{}{Shuttle Interior}
-{619}{}{Shuttle Interior}
+{617}{}{Interior do Transporte}
+{618}{}{Interior do Transporte}
+{619}{}{Interior do Transporte}
 # 140. Hubologist Base
-{620}{}{Hubologist Base}
-{621}{}{Hubologist Base}
-{622}{}{Hubologist Base}
+{620}{}{Base dos Hubologistas}
+{621}{}{Base dos Hubologistas}
+{622}{}{Base dos Hubologistas}
 # 141. City Encounter 3
-{623}{}{Destroyed City}
-{624}{}{Destroyed City}
-{625}{}{Destroyed City}
+{623}{}{Cidade Destruída}
+{624}{}{Cidade Destruída}
+{625}{}{Cidade Destruída}
 # 142. City Encounter 4
-{626}{}{Destroyed City}
-{627}{}{Destroyed City}
-{628}{}{Destroyed City}
+{626}{}{Cidade Destruída}
+{627}{}{Cidade Destruída}
+{628}{}{Cidade Destruída}
 # 143. City Encounter 5
-{629}{}{Destroyed City}
-{630}{}{Destroyed City}
-{631}{}{Destroyed City}
+{629}{}{Cidade Destruída}
+{630}{}{Cidade Destruída}
+{631}{}{Cidade Destruída}
 # 144. City Encounter 6
-{632}{}{Destroyed City}
-{633}{}{Destroyed City}
-{634}{}{Destroyed City}
+{632}{}{Cidade Destruída}
+{633}{}{Cidade Destruída}
+{634}{}{Cidade Destruída}
 # 145. City Encounter 7
-{635}{}{Destroyed City}
-{636}{}{Destroyed City}
-{637}{}{Destroyed City}
+{635}{}{Cidade Destruída}
+{636}{}{Cidade Destruída}
+{637}{}{Cidade Destruída}
 # 146. City Encounter 8
-{638}{}{Destroyed City}
-{639}{}{Destroyed City}
-{640}{}{Destroyed City}
+{638}{}{Cidade Destruída}
+{639}{}{Cidade Destruída}
+{640}{}{Cidade Destruída}
 # 147. New Reno VB  newrvb.MAP
-{641}{}{Vertibird Area}
-{642}{}{Vertibird Area}
-{643}{}{Vertibird Area}
+{641}{}{Área dos Vertibirds}
+{642}{}{Área dos Vertibirds}
+{643}{}{Área dos Vertibirds}
 # 148. Shi Temple
-{644}{}{Shi Temple}
-{645}{}{Shi Temple}
-{646}{}{Shi Temple}
+{644}{}{Templo de Shi}
+{645}{}{Templo de Shi}
+{646}{}{Templo de Shi}
 # 149. In Game Movie
-{647}{}{Desert}
-{648}{}{Desert}
-{649}{}{Desert}
+{647}{}{Deserto}
+{648}{}{Deserto}
+{649}{}{Deserto}
 # 150. RndBess
-{650}{}{Desert}
-{651}{}{Desert}
-{652}{}{Desert}
+{650}{}{Deserto}
+{651}{}{Deserto}
+{652}{}{Deserto}
 
 
 #
@@ -707,44 +707,44 @@
 {1505}{}{Gecko}
 {1506}{}{Broken Hills}
 {1507}{}{New Reno}
-{1508}{}{Sierra Army Depot}
+{1508}{}{Depósito de Armas de Sierra}
 {1509}{}{Vault 15}
 {1510}{}{New California Republic}
 {1511}{}{Vault 13}
-{1512}{}{Military Base}
+{1512}{}{Base Militar}
 {1513}{}{Redding}
 {1514}{}{San Francisco}
 {1515}{}{Navarro}
-{1516}{}{The Enclave}
-{1517}{}{Desert}           # Abbey
-{1518}{}{Desert}           # Primitive Tribe
-{1519}{}{Desert}           # EPA
-{1520}{}{Ghost Farm}
-{1521}{}{Car Outta Power}
+{1516}{}{O Enclave}
+{1517}{}{Deserto}           # Abbey
+{1518}{}{Deserto}           # Primitive Tribe
+{1519}{}{Deserto}           # EPA
+{1520}{}{Fazenda Fantasma}
+{1521}{}{Carro em Pane-seca}
 {1522}{}{Arroyo}
-{1523}{}{Toxic Caves}
-{1524}{}{Den Slave Run}
-{1525}{}{Raiders}
-{1526}{}{Desert}
-{1527}{}{Mountain}
-{1528}{}{Ruined City}
-{1529}{}{Coast}
+{1523}{}{Cavernas Tóxicas}
+{1524}{}{Escravos de Den}
+{1525}{}{Saqueadores}
+{1526}{}{Deserto}
+{1527}{}{Montanha}
+{1528}{}{Cidade Arruínada}
+{1529}{}{Costa}
 {1530}{}{Golgotha}
-{1531}{}{Crashed Whale}
-{1532}{}{Tin Woodsman}
-{1533}{}{Talking Head}
-{1534}{}{Federation Shuttle}
-{1535}{}{Unwashed Villagers}
-{1536}{}{Bridge}
-{1537}{}{Cafe of Broken Dreams}
-{1538}{}{Paladins}
-{1539}{}{Vorpal Rat Cave}
-{1540}{}{Guardian of Forever}
-{1541}{}{Toxic Waste Dump}
-{1542}{}{Pariahs}
-{1543}{}{Mad Brahmin}
-{1544}{}{Caravan}
+{1531}{}{Baleia Acidentada}
+{1532}{}{Lenhador Tin}
+{1533}{}{Cabeça Falante}
+{1534}{}{Federação de Transportes}
+{1535}{}{Aldeões Imundos}
+{1536}{}{Ponte}
+{1537}{}{Café dos Sonhos Perdidos}
+{1538}{}{Paladinos}
+{1539}{}{Caverna de Ratos Vorpal}
+{1540}{}{Guardião da Eternidade}
+{1541}{}{Descarga de Resíduos Tóxicos}
+{1542}{}{Párias}
+{1543}{}{Brahmin Demente}
+{1544}{}{Caravana}
 {1545}{}{Vault 13}
-{1546}{}{Fake Vault 13}
-{1547}{}{Random Encounter}
-{1548}{}{Stables}
+{1546}{}{Falso Vault 13}
+{1547}{}{Encontro Aleatório}
+{1548}{}{Estábulos}

@@ -1,6 +1,6 @@
-#PROGRAMMING
+#PROGRAMAÇÃO
 
-@Translation (pt-br)
+@Tradução (pt-br)
 Michel Luiz Milezzi
 Jean Milezzi
 Artur Barichello
@@ -16,7 +16,7 @@ Thomas French
 Chris Holland
 Dan Spitzley
 
-@Additional Programming By
+@Adicional Programming By
 Tim Cain
 John Price
 Michael Bernstein
@@ -24,11 +24,11 @@ Michael Bernstein
 @Movie Technology
 Paul Edelstein
 
-@Installer/Autoplay
+@ Instalador / Reprodução automática
 Darren Monahan
 
 
-#ART
+#ARTE
 
 @Lead Artists
 Gary Platner
@@ -93,7 +93,7 @@ Robert Hertenstein 2
 Nick Kesting
 Fred Hatch
 
-@Design/Dialogue
+@ Design / Diálogo
 Mark O'Green
 
 @Original Game Design By
@@ -110,12 +110,12 @@ Jess Heinig
 Feargus Urquhart
 
 
-#PRODUCTION
+#PRODUÇÃO
 
 @Division Director
 Feargus Urquhart
 
-@Producers
+@Produtores
 Eric Demilt
 Feargus Urquhart
 
@@ -123,10 +123,10 @@ Feargus Urquhart
 Fred Hatch
 Douglas Avery
 
-@Asst. Division Director
+@Asst. Diretor de Divisão
 Jeremy Barnes
 
-@Lip Synch Coordinators
+Coordenadores @Lip Synch
 Jason G. Suinn
 Dave Hendee
 
@@ -140,26 +140,26 @@ Colin McComb
 
 
 
-#QUALITY ASSURANCE
+#GARANTIA DA QUALIDADE
 
-@Director of Quality Assurance
+@Director de garantia de qualidade
 Chad Allison
 
 @QA Managers
 Steve Victory
 Colin Totman
 
-@PC Version Project Supervisors
+@PC Versão Project Supervisors
 Greg "Moose" Baumeister
 Steve McLafferty
 Darrell Jones
 
-@PC Version Senior Testers
+Probadores senior de versão @PC
 Dennis Presnell
 Chad Nicholas
 Dave Simon
 
-@PC Version Testers
+Testadores de versão @PC
 Ed Hyland
 Dany Martinez
 WR Saunders
@@ -177,13 +177,13 @@ Jeremy Seely
 Henry Lee
 Scott Humphreys
 
-@I.S. Compatibility Manager
+@É. Gerente de Compatibilidade
 Frank Pimentel
 
-@Senior I.S. Technician
+@Senior I.S. Técnico
 Bill Delk
 
-@I.S. Technician
+@É. Técnico
 Tom Quast
 
 @QA Database Administrator
@@ -208,10 +208,10 @@ Craig Duman
 @Voiceover Director
 Jamie Thomason
 
-@Voiceover Coordinator
+Coordenador @Voiceover
 Julie Morgavi
 
-@Voiceover Supervisor
+Supervisor @Voiceover
 Chris Borders
 
 @Voiceover Editors
@@ -219,7 +219,7 @@ Frank Szick
 Kevin Frayser
 Ron Valdez
 
-@Voiceover Recorded at Marc Graue Studio
+@Voiceover Gravado no Marc Graue Studio
 
 @Sound Design
 Paul Menichini
@@ -231,7 +231,7 @@ David Farmer
 @Cinematics Re-Recording Mixing
 Charles Deenen
 
-@Mixed in Dolby [TM] Surround at Interplay Audio
+@Mixado no Dolby [TM] Surround no Interplay Audio
 
 @Audio Administrator
 Gloria Soto
@@ -248,24 +248,24 @@ Wes Smith
 Julian Cook
 of Marc Graue Studios
 
-@Music By
+@Música por
 Mark Morgan
-@for
+@para
 Four Bars Intertainment
-@and by
+@e por
 Rick Jackson
 
 @Voice Producer
 Fred Hatch
 
 
-@FEATURING THE VOICES OF
+@VOZES
 
 Charlie Adler
 @Harold
 
 Ron Perlman
-@Narrator
+@Narrador
 
 Dwight Schultz
 @Hakunin
@@ -274,7 +274,7 @@ Jason Marsden
 @Myron
 
 Cree Summer
-@Lynette
+@Lineette
 
 Kevin Michael Richardson
 @Com Officer
@@ -286,7 +286,7 @@ Peter Jason
 @Gate Guard
 
 Flo DiRe
-@Elder
+@Mais velho
 
 Tress MacNeille
 @Tandi
@@ -301,30 +301,30 @@ Michael Dorn
 @Frank Horrigan
 
 Jeffrey Jones
-@The President
+@O presidente
 
 
 
 "A KISS TO BUILD A DREAM ON"
-@Performed by Louie Armstrong
-@Courtesy of GRP Records
-@Under license from UNIVERSAL MUSIC SPECIAL MARKETS
+@Performado por Louie Armstrong
+@Custo de GRP Records
+@Under licença de MERCADOS ESPECIAIS DE MÚSICA UNIVERSAL
 
 "A KISS TO BUILD A DREAM ON"
-@Written by Bert Kalmer, Harry Ruby and Oscar Hammerstein II
-@(C) 1935, 1951 renewed 1963, 1979 METRO GOLDWYN MAYER, INC.
-@Rights assigned to EMI CATALOGUE PARTNERSHIP
-@All Rights Controlled and Administered by EMI MILLER CATALOG INC.
-@All Rights Reserved.  International Copyright Secured.
-@Used by Permission.
+@Escrito por Bert Kalmer, Harry Ruby e Oscar Hammerstein II
+@ (C) 1935, 1951 renovado 1963, 1979 METRO GOLDWYN MAYER, INC.
+@Rights atribuídos a EMI CATALOG PARTNERSHIP
+@Todos direitos controlados e administrados pela EMI MILLER CATALOG INC.
+@Todos os direitos reservados. Direitos autorais internacionais garantidos.
+@Usado por permissão.
 
-@WARNING: It is a violation of Federal Copyright Law
-@to copy, duplicate or reproduce this Program or any
-@portions of this Program without the express written
-@permission of the copyright owner.
+@ ADVERTÊNCIA: é uma violação da Lei Federal de Direitos Autorais
+@para copiar, duplicar ou reproduzir este programa ou qualquer
+Porções deste programa sem o expresso escrito
+@permission do proprietário dos direitos autorais.
 
 
-#VIDEO
+#VÍDEO
 
 @Video Services Provided by
 Dave Cravens
@@ -335,7 +335,7 @@ Dan Williams
 
 #MARKETING
 
-@Director of Marketing
+@Diretor de Marketing
 Paul Sackman
 
 @Marketing Managers
@@ -355,25 +355,25 @@ Paul Naftalis
 
 
 
-@Thanks to
-@(Dave H.) The Unwashed Villagers, the Dyer Family,
-@Jamba Juice, The Tick, Southpark;  (Chris A.) my "pal,"
-@Thuy Dang, Eileen Suh and Ma and Pa Avellone;  (t.ray)
-@my mother, my father, my son and my brother and to all
-@of my adoring fans for buying this game;  (Rob H.)
-@Becky Warner and Billie Ryder;  (Matt N.) Meine
-@DieMonika und der kater;  (Jesse R.) "To Dad,
-@you were an inspiration all my life.  I miss you
-@always."
+@Agradecimentos
+@ (Dave H.) The Unwashed Villagers, a família Dyer,
+@Jamba Juice, The Tick, Southpark; (Chris A.) meu "amigo"
+@Thuy Dang, Eileen Suh e Ma e Pa Avellone; (bandeja)
+Minha mãe, meu pai, meu filho e meu irmão e para todos
+@ De meus fãs adoradores por comprar este jogo; (Rob H.)
+@Becky Warner e Billie Ryder; (Matt N.) Meine
+@DieMonika und der kater; (Jesse R.) "Para papai,
+Você foi uma inspiração toda a minha vida. Eu sinto sua falta
+@sempre."
 
-@Special Thanks to:
-@The Members of the Fallout and Fallout 2 message boards.
-@Thanks for your comments, suggestions and other esoteria!
-@The Interplay Video Room, for processing above and beyond
-@the call of duty!
+@Agradecimentos especiais para:
+@ Os membros dos quadros de mensagens Fallout e Fallout 2.
+@ Obrigado por seus comentários, sugestões e outros esoteria!
+@ The Interplay Video Room, para processar acima e além
+@ O chamado do dever!
 
-@Fallout 2 was brought to you by Interplay Productions,
-@Team Fallout 2, the letter Q and numbers 42 and 20.
+@Fallout 2 foi trazido a você pela Interplay Productions,
+@Team Fallout 2, a letra Q e os números 42 e 20.
 
 
 
@@ -391,7 +391,7 @@ Paul Naftalis
 
 
 
-@Okay, fine, if you really must...
+@ Ok, bem, se você realmente deve ...
 
 
 
@@ -408,7 +408,7 @@ Paul Naftalis
 
 
 
-@Did you find the extra-special encounters?
+@ Você encontrou os encontros extra-especiais?
 
 
 
@@ -425,7 +425,7 @@ Paul Naftalis
 
 
 
-@Keep looking...
+@Continue olhando...
 
 
 
@@ -445,7 +445,7 @@ Paul Naftalis
 
 
 
-@Maybe you'll find the Maltese Falcon?
+@ Talvez você encontre o falcão maltês?
 
 
 
@@ -464,4 +464,4 @@ Paul Naftalis
 
 
 
-@Hah!  Enjoy...
+@Hah! Apreciar...
